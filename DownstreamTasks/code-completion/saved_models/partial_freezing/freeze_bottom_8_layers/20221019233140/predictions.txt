@@ -1,0 +1,1500 @@
+check ( <NUM_LIT:13> , s , "<STR_LIT>" ) ;
+null )
+, callback ) ;
+declared alreadyDocumented . contains ( declaredExceptionTypes [ i ] . asClassDoc ( ) . name ( ) ) )
+test ( String [ ] args )
+) ;
+Method i = 0 ;
+. metaGlobal ( ) ;
+( )
+null ;
+,
+if
++ "<STR_LIT>" ;
+< String > ( ) ;
+,
+extends Reference
+. null )
+expiryDate ) ;
+public String getCommentURL ( )
+new JavaCompiler ( ) ;
+while ( true )
+import static org . junit . Assert . * ;
+o ) ) ;
+)
+"" ) ;
+)
+. addContent ( writer . getMarkerAnchor ( "<STR_LIT>" ) ) ;
+SuffixConstants ;
+( i )
+Exception
+throws
+)
+. commons . lang3 . StringUtils ;
+. model . * ;
+GrantedAuthority implements GrantedAuthority
+static
+ToolProvider . getSystemJavaCompiler ( ) ;
+)
+T6302214
+String getIpAddress ( )
+nestedPolicyElement != null )
+null , s , f ) ;
+( )
+extends ConfigValue > getValueList ( String path ) ;
+public
+lexer ;
+T > >
+httpclientandroidlib . Auth ;
+_
+getParentFile ( ) ) )
+IRCUser user ) ;
+, container ) ) ;
+) ) ;
+implements
+static final long serialVersionUID = 1L ;
+f )
+P p )
+)
+final List < Cookie > cookies )
+Assert . assertTrue ;
+getKeyManagers ( ) ) ;
+throws
+StringCDiagnostic d )
+@ Override public String toString ( )
+. inject . Inject ;
+) ;
+void close ( ) throws IOException
+E extends Exception > void test2 ( )
+. exists ( ) ) )
+name , value ) ;
+V , E >
+return super . process ( annotations , roundEnv ) ;
+) ;
+private Foo ( T t )
+null )
+) ;
+coord )
+@
+Bean = new LocalContainerEntityManagerFactoryBean ( ) ;
+sub
+( IOException e )
+6182630d > }
+import org . apache . ws . security . dom . handler . ResponseData ;
+, delegate ) ;
+. Activity ;
+(
+super ( syntax , arguments , node ) ;
+data . repository . QueryNode ;
+version ) ;
+( null , "<STR_LIT>" , docletClassName , methodName ) ;
+void checkHolders ( ClassDoc [ ] classes )
+Base
+new ;
+AnyMatcher extends Matcher
+( commands . get ( commandType ) ) ;
+new_list_cache ) ;
+= 0 ;
+private
+B >
+write ( byte b [ ] , int off , int len )
+, record ) ;
+suppress_use , ek_decl , ek_use ) ;
+( ) ;
+iterator ( ) ;
+@
+( String [ ] args )
+) )
+ws . security . TrustManager ;
+= new Point2D . Float ( coords [ <NUM_LIT:0> ] , coords [ <NUM_LIT:1> ] ) ;
+in ) . available ( ) ;
+getRawContent ( ) ) ) ;
+catch
+DAY = 1 ;
+. channelUrl = jClient . jpakeServer + channel ;
+public
+) }
+data ) throws IOException
+)
+encryptedPartSecurityEvent = new EncryptedPartSecurityEvent ( null , true , protectionOrder ) ;
+writer
+else
+final HttpContext httpContext )
+KnutilsBundleActivator . getDefaultPreferences ( ) ;
+void generateView ( )
+int i = 0 ;
+namespace . QName ;
+( )
+long serialVersionUID = 1L ;
+V , E > forest )
+Exception ( "" ) ;
+i ++ )
+) ;
+this . notBefore = that . notBefore ;
+RepositoryEvent > type = event . getType ( ) ;
+= "=" ;
+new IOException ( "<STR_LIT>" ) ;
+ParseSkypeKitVersion . versionStr . length ( ) > <NUM_LIT:0> ) return ( Integer . parseInt ( ParseSkypeKitVersion . versionNums [ <NUM_LIT:0> ] ) ) ;
+) ;
+)
+) . putAll ( globalPrefs ) ;
+is = false ;
+,
+) ;
+makeBadCall ( new Runnable ( )
+void filter ( )
+println ( "" + count ) ;
+) boolean equals3 ( )
+super ( message ) ;
+& ACCESS_BITS ) >> ACCESS_BITS ) ;
+throws DataAccessException
+new Ref < B > ( ) ;
+= repository . getMovie ( "<STR_LIT:1>" ) ;
+. getAttribute ( HTTP . TARGET_HOST ) ;
+public boolean hasMoreElements ( )
+import org . slf4j . Logger ;
+values ) ;
+@
+)
+i < length - 1 )
+Context context , final Intent intent )
+(Singleton . class ) ;
+WikiLogger extends WikiLogger
+i ++ )
+getModifiers ( ) . contains ( Modifier . PUBLIC ) )
+PrivilegedAction
+) ) ;
+public
+int i = 0 ;
+Typeement > assignement = null ;
+. getConfiguration ( ) . getIntegerProperty ( ReCaptcha . RECAPTCHA_LEVEL , minCaptchaLevel ) == RECAPTCHA ) ;
+PrintWriter ( sw ) ;
+visitor )
+( ) ) ) ;
+( issuer ) ;
+void testPrinting ( ) throws InterruptedException
+( t ) ;
+throw new RuntimeException ( e ) ;
+) transformer ) . transform ( s , flatness ) ;
+get ] getAnnotations ( ) ;
+( )
+defaultAction ( e , false ) ;
+throws
+virtualWiki ) ;
+CLASS ) ;
+references )
+aunit . Assert ;
+public EnumTyp ( )
+return
+) throws DecoderException
+static final long serialVersionUID = 1L ;
+)
+public
+i < num_annotations ;
+. HttpClient ;
+) ;
+getTypes ( )
+Character . isISOControl ( c ) ) sb . append ( "<STR_LIT>" ) ;
+=
+= new HashMap ( ) ;
+] encryptedEphemeralKeyBytes = null ;
+@
+cell )
+( message ) ;
+@ Override public void removeChangeListener ( ChangeListener l )
+args )
+. util . ArrayList ;
+,
+java . util . ArrayList ;
+i < NUM_LIT ;
+) ;
+static
+)
+throws
+BufferedReader reader ;
+. getName ( ) ) ;
+visitTopLevel ( tree ) ;
+try
+dia . getBounds ( ) ;
+"" ) ;
+public
+write ( destdir , "<STR_LIT>" , "<STR_LIT>" ) ;
+new WGS84Point ( <NUM_LIT> , <NUM_LIT> ) ;
+. List ;
+arraycopy ( ones . longValue ( ) , 0 , ( ( long ) ones >>> 32 ) , 32 ) ;
+. ready ( ) )
+. StAXConstants ;
+double eval ( double x , double y )
+""EGATED_TEST }
+) ;
+Context securityContext = new InboundWSSecContext ( securityProperties ) ;
+. entityMetadata = entityMetadata ;
+for ( int i = 0 ;
+for ( int i = 0 ;
+o ) ;
+public JCCompilationUnit getCompilationUnit ( )
+setTransform ( AffineTransform transform ) ;
+( virtualWiki ) ;
+. Retention ;
+username )
+( SyncConfiguration . PREF_SYNC_ID ) ) ;
+this == INTERFACE ;
+. myKeyBundle = null ;
+throws
+< Integer > f2 = new Pos03 < U > . Foo < > ( <NUM_LIT:1> ) ;
+public
+== null ) return null ;
+< String > list = new ArrayList < String > ( ) ;
+( ) ;
+( visitNumber ) ;
+, path , "<STR_LIT>" + v . valueType ( ) . name ( ) ) ;
+] s1 , char [ ] s2 )
+boolean checkForHp ( )
+)
+java . lang . annotation . Retention ;
+@ Override public void execute ( )
+String name ) ;
+@ TypeMirror [ ] typeArguments ( )
+IllegalArgumentException ( "" ) ;
+public
+>
+. sync . Session ;
+defaultValue )
+return
+supportedOptions ;
+, out ) ;
+( )
+public Timestamp getLastLoginDate ( )
+putAll ( Map < ? extends String , ? extends List < String > > t )
+if ( evenHasNextTurn )
+(ager ( log ) ;
+static final String FIND_BY_ANM_ID = "" ;
+public java . util . Set ;
+( ) != null )
+= plugin . getConfig ( ) . getBoolean ( "<STR_LIT>" ) ;
+, pos , key , args ) ) ;
+) ;
+import java . util . List ;
+1 )
+final String TEST_14_PASSES = "<STR_LIT>" ;
+Widget widget )
+return path ;
+SerializationAXException ;
+) . testComparatorNoArgCon ( ) ;
+ServletContextListener
+"<STR_LIT>" , null , toolbox , "<STR_LIT>" ) ;
+( "<STR_LIT>" + player ) == null )
+public class BlockCommand extends AbstractCommand
+Map < I , O > map )
+void getName ( )
+T5090006 t = new T5090006 ( ) ;
+( ) ;
+method5 ( )
+. runtime . CoreException ;
+( <NUM_LIT:9> ) String toString ( )
+= null ;
+public String getNamespaceURI ( )
+) ;
+getColumnIndex ( TAG ) ) ;
+boye . httpclientandroidlib . Client ;
+import org . apache . xml . security . stax . securityEvent . SecurityContext ;
+static player ;
+. class ) . value ( ) , <NUM_LIT:1> ) ;
+System . arraycopy ( args , 0 , ns , 0 , args . length ) ;
+)
+)
+extends
+. log ;
+(
+V , SourceData > entry = sd . distances . entry ( ) ;
+char i ;
+throw new IllegalStateException ( "<STR_LIT>" ) ;
+</s><mask0>public void addAll ( Object [ ] elements )
+public Main ( )
+annotation . ElementType ;
+throw
+failReason = failReason ;
+client . * ;
+" }
+, cv ) ;
+expect ) )
+formals = t . tsym . type . allparams ( ) ;
+)
+a ) ;
+staticSDK5 ( )
+InvalidCredentialsException ( String message )
+)
+if
+name ) ;
+( ) ;
+) + "</STR_LIT>" ) ) ;
+OPV ) ;
+extends Interlocker > > lockFree ( Map < Long , Class < ? extends Interlocker > > results )
+private DiffServlet ( )
+,
+BufferedReader br = new BufferedReader ( new InputStreamReader ( System . in ) ) )
+if ( this . len == 0 )
+predicate )
+TAG_PATTERN_EMPTY_BODY ) ;
+. VARIABLE )
+testClasses ) ;
+new File ( srcdir , "" ) ;
+B >
+local = new InetSocketAddress ( host , port ) ;
+( ) )
+ghostStyleName ) ;
+any Runnable ( )
+) ) ;
+( this . maxWidth ) : - <NUM_LIT:1> ;
+super . createSession ( delegate , context ) ;
+c3 ) ;
+. BACKOFF , stage ) ;
+ch . boye . httpclientandroidlib . Response ;
+return
+,
+assertNull ( e . getMessage ( ) ) ;
+)
+import ch . boye . httpclientandroidlib . HttpGet ;
+if ( pwCb . getPassword ( ) == null )
+this . debugEnabled = enable ;
+. security . dom . Node ;
+RepoUtils . getStringFromCursor ( cur , ClientsDatabase . COL_CLIENT_NAME ) ;
+. junit . Test ;
+T6657499 extends T
+( ) ) ;
+Callback )
+(
+. getLong ( MySQLiteHelper . FREQUENT_ACTIVITY_USER_ID_INDEX ) ) ;
+setUsernameTokenPassword ( "" ) ;
+io . ObjectOutputStream ;
+true ;
+. = new QualifiedOuterThis ( ) ;
+= new Pagination ( <NUM_LIT:0> , <NUM_LIT:0> ) . getEnd ( ) ;
+protected
+if ( i == <NUM_LIT:3 ) continue ;
+e )
+. readUnsignedShort ( ) ;
+java . util . ArrayList ;
+import com . sun . tools . doclets . internal . toolkit . util . * ;
+toString ( )
+return new D < S > ( ) ;
+import android . content . Context ;
+< T > extends CF < T >
+TEST }
+@
+properties . load ( "" ) ;
+i < NUM_LIT ;
+)
+ratio ;
+. Assert . assertEquals ;
+load ( ) ;
+tag ) ;
+CT
+)
+. Repository ;
+res . headers ( ) . size ( ) , <NUM_LIT:4> ) ;
+int [ ]
+WSS
+Integer . MIN_VALUE ;
+. getMethod ( ) ;
+. junit . Assert ;
+( this , ItemEvent . STATE_CHANGED ) ) ;
+service , port , binding , bindingOperation , operation ) ;
+) ;
+,
+( int thisX = <NUM_LIT:1> ;
+true ) ;
+socketBufferSize )
+. UTF_8 ;
+cineasts . api . contract . Contract ;
+File
+wiping )
+( ) != null )
+fo . close ( ) ;
+final
+<NUM_LIT:1> ) ;
+)
+Annotation ;
+load ( ) ;
+= nestedPolicy . getProtectionToken ( ) ;
+if ( o == null ) return 0 ;
+DCache ;
+. toString ( ) , t ) ;
+wifeName ;
+"<STR_LIT>" ) ;
++ fieldInObject + "<STR_LIT>" ) ;
+Settings . getAreaSizeY ( ) ) ;
+( ) ;
+( element , spVersion . getSPConstants ( ) . getPolicy ( ) ) ;
+CookieSpecPNames pNames )
+visitor )
+println ( EnumSet . of ( B , C , D , E ) ) ;
+null )
+. upto = upto ;
+( ASObject ) obj ;
+new ;
+0 ;
+)
+static name ;
+( paramText ) ;
+) ;
+Position . LineMap lineMap )
+. widget . TextView ;
+) ;
+. entrySet ( ) )
+<NUM_LIT:1> ) ;
+SPName name )
+LOG_TAG , "<STR_LIT>" ) ;
+issuer = issuer ;
+throws
+view . View ;
+apply ( )
+java . util . List ;
+@
+( args . length > 0 )
+clusterer = new WeakComponentClusterer < V , E > ( ) ;
+@ WikiMailAuthenticator ( )
+( e ) ;
+private
+private final JCEAlgorithmMapper algorithmMapper ;
+fo . getWriter ( ) ;
+Error ( ) ;
+) ;
+( ) ;
+g , Collection < V > sources , Collection < V > sinks )
+( )
+name = "<STR_LIT>" ) private String type ;
+equals ( b ) ;
+<
+) ;
+. Map ;
+view = Sets . newHashSet ( <NUM_LIT:1> , <NUM_LIT:2> , <NUM_LIT:3> , <NUM_LIT:4> ) ;
+boolean
+country ;
+reporting . domain . Annis ;
+TextView ) findViewById ( R . id . aa_size_text ) ;
+event ) throws XMLStreamException
+delegate
+android . content . Context ;
+( name = "" , propOrder =
+android . view . ViewGroup ;
+VISIBLE ) ;
+)
+name ) )
+> prefixNamespaceMap )
+( SubjectBean subject )
+( ) )
+throws
+defaultScript , hasOutput , useTemplateRepository ) ;
+policy . SP12Constants ;
+> >
+Mockito . mock ;
+( WST_NS , "<STR_LIT>" ) ;
+import com . sun . mirror . type . * ;
+)
+public void cacheWiki ( ) throws Exception
+context . getContentResolver ( ) . delete ( uri , where ) ;
+Elements allElements = new AllElements ( ) ;
+if
+javax . annotation . processing . GenerationContext ;
+return route ;
+return
+SQLiteDatabase . open ( databaseFile ) ;
+)
+. httpclientandroidlib . auth . data . AuthData ;
+count ++ ;
+ev_writer ) ;
+i ++ )
+. append ( c ) ;
+ArrayList < SpanSpec > ( ) ;
+. Activity ;
+public class Declaration
+( ) ;
+add ( "<STR_LIT>" ) ;
+super ( ) ;
+lookup . get ( name ) ;
+get ( )
+( String name )
+length ) ;
+r ;
+= CryptoInfo . encrypt ( "<STR_LIT>" . getBytes ( "<STR_LIT:UTF-8>" ) , kb ) ;
+response ) ;
+String V2_PREF_CLUSTER_URL_IS_STALE = V1_PREF_CLUSTER_URL_IS_STALE ;
+renderGraphics ( Graphics g ) ;
+)
+public
+String > values = next . getValue ( ) ;
+throws
+< V , Double > averageDistances ( Hypergraph < V , E > graph , Distance < V , E > d )
+(
+. vertexNames . add ( currentVertex . toString ( ) ) ;
+value . length ( ) == 0 )
+BC
+staticbernateUtil ( )
+( ) ;
+abstract class Enum
+) ;
+, HashMap < String , String > > ( ) ;
+out . println ( ys ) ;
+T >
+)
+( boolean useSystemEnvironment )
+e , P p )
+new String ( pString . getBytes ( charset ) ) ;
+author_mail_span , author_mail_begin , author_mail_begin + author_mail_length , Spanned . SPAN_INCLUSIVE_EXCLUSIVE ) ;
+public static final String SOURCE_OUTPUT_FILE_NAME = "<STR_LIT>" ;
+( src , parsePos , index = <NUM_LIT:8> , '<CHAR_LIT:->' , "<STR_LIT>" ) ;
+( e , pd ) ;
+import org . springframework . data . neo4j . persistence . Persistent ;
+)
+isShutdown ( ) )
+String name ;
+@
+!= 0 )
+. MATLAB_HOST , "<STR_INT>" , parent ) ) ;
+s ) ;
+( String docType )
+SuppressWarnings (
+import java . io . File ;
+public HttpRequestParser ( final SessionInputBuffer buffer , final LineParser parser , final HttpRequestFactory requestFactory , final HttpParams params )
+catch ( EncoderException e )
+for
+pI obj3 ;
+xmlMLElement ;
+ThreadID ;
+)
+private RecipientSignatureToken ( )
+( ) ;
+. BAD_REQUEST ) ;
+, view ) ;
+scheme = new ConcurrentHashMap < String , Scheme > ( ) ;
+. SecureRandom ;
+int value )
+break
+= new WSSConfig ( ) ;
+= name . lastIndexOf ( '/' ) ;
+lineMap . getColumnNumber ( position ) ;
+) ;
+> foo ( )
+print
+. InvalidCookie ;
+= errorType ;
+[ ]
+throws
+. Client ;
+createChild ( XHTML . ELEMENT . b ) . setAttribute ( XHTML . ATTR . class , "<STR_LIT>" ) ;
+St ;
+new InternetAddress ( ) ;
+this
+DEFAULT_CIPHER_SUITE }
+isSynthetic ( ) ) ;
+replacement == null )
+Object
+)
+a
+do ) ;
+import org . springframework . data . repository . Document ;
+public CastTest ( )
+) , is ( <NUM_LIT:2> ) ) ;
+public
+voidDelegate ( )
+Parameter ;
+) ;
+ChannelManager roomManager ;
+private SubversionChangeLogParserTest ( )
+public
+xml . security . binding . xmldsig . X509SubjectSerialType ;
+V p4 ) throws Exception
+[ j ] = temp1 ;
+public
+implements
+) ;
+( session ) ;
+. BigInteger ;
+) public class WebmvcTest
+String
+text ;
+null , "<STR_LIT>" , "<STR_LIT>" ) ;
+args . parseBoolean ( args [ 0 ] ) ) != null ) )
+br = new BufferedReader ( new InputStreamReader ( p . getErrorStream ( ) ) ) ;
+) public String getString ( )
+>
+IOException e )
+new
+new
+( host == null )
+GenerationContext ;
+IllegalArgumentException ( "" ) ;
+sourceLevel ) ;
+( pString == null )
+1 implements Serializable
+) ;
+contains ( "<STR_LIT>" ) ) foundBlankSourceLine = true ;
+) ;
+success = true ;
+s == null )
+class HttpClient
+) }
+.
+. mozilla . gecko . sync . repositories . Bookmarks ;
+add ( createAmfXmlEditor ( ) , BorderLayout . CENTER ) ;
+throws
+RepositoryConstraintViolationException ( )
+)
+class Token
+. longValue ( ) , topRight . significantBits ( ) ) ;
+. handleBasicHeaders ( request , response , code , contentType ) ;
+= allChildren ;
+context . convertRealWorldToProjective ( screenPoint2 , pworldPoint1 ) ;
+return
+String id )
+quux ( )
+catch
+protected void setTagType ( String tagType )
+static final String SEND_SIGV = "<STR_LIT>" ;
+public
+static
+else if ( event instanceof AfterLinkDeleteEvent )
+T check ( String msg )
+( ) ;
+try
+. Response )
+if ( surrogatesSupported )
+foo ( String [ ] args )
+finally
+else if ( SENT_BYTES_COUNT . equals ( metricName ) )
+) ;
+java . io . File ;
+)
+( )
+static Inner i2 = new Inner ( '<CHAR_LIT:b>' ) ;
+result = stringEncoder . compare ( o1 , o2 ) ;
+util . Map ;
+== 0 ) ;
+public
+setCenter ( screenCoords1 , screenCoords2 ) ;
+impl ;
+Exception ( "" ) ;
+. annotation . ElementType ;
+newChildrenArray ( list . size ( ) ) ) ;
+( cursor . getColumnIndex ( KEY . TOKEN ) ) ;
+( new Find2chResultData ( thread_url , thread_name , online_count , board_name ) ) ;
+( )
+"<STR_LIT>" ) }
+false ;
+delete ( ) ;
+public TestTaglets ( )
+throws
+start ( ) ;
+int CRT_SWITCH = <NUM_LIT> ;
+that . subjectConfirmationData ) )
+import org . apache . log4j . Logger ;
+getDeclaredType ( ( Type . WildcardType ) t ) ;
+compile ( "<STR_LIT>" , classesDir . getPath ( ) , d_java . getPath ( ) ) ;
+junit . Test ;
++
+( ) & Modifier . FINAL ) == 0 )
+) ;
++
+) ;
+public HoptoadAppender ( final String env )
+( "" ) ;
+dpo1 . getValue ( ) - dpo2 . getValue ( ) ;
+( ) ;
+Person > bf = new BloomFilter < Person > ( )
+break ;
+response . getHeaders ( ) ;
+( args . length != expectedTags . length )
+assertion . getName ( ) ;
+( ) ;
+] data )
+text . Document ;
+import java . util . ArrayList ;
+) ;
+)
+( )
+static final long serialVersionUID = 1L ;
+uri ) ;
+newBeforeOuterConstructed3 = new NewBeforeOuterConstructed3 ( ) ;
++
+Person
+Matrix
+null )
+EXCEPTIONS )
+cookie . CookieValueHandler ;
+return text ;
+else
+j . resources . IResource ;
+) : sourcefile . toString ( ) ;
+E ;
+if
+IavadocConstants
+ListAuthenticationException e = new NodeAuthenticationException ( ) ;
+( root , shadowedMap ) ;
+( Namespace . TEMPLATE . getId ( ) , Namespace . TEMPLATE ) ;
+BundleContext context ) throws Exception
+m ;
+[ ] lines = lines . toArray ( new String [ lines . size ( ) ] ) ;
+. getCursor ( guid ) ;
+, IOException ;
+new F ( ) ;
+get ( ) ;
+( String [ ] args )
+@
+V , E > ( ) ;
+) ;
+. SixteenBlocks ;
+( compiledClass , new Object [ ]
+timesUsed = <NUM_LIT> ;
+session ) ;
+return sb . toString ( ) ;
+) getDialogInput ( ) ) . getValue ( ) ) ;
+) ;
+import org . apache . ws . security . policy . SP12Constants ;
+dclass ( ) ;
+protected
+= ( Node ) result . get ( "refNode" ) ;
+public boolean isTypeParameter ( )
+. GenerationContext ;
+void closeConnection ( Connection conn , Statement stmt )
+. RetentionPolicy ;
+. auth . CallbackHandler handler )
+. r ;
+( instance == null )
+Config parseReader ( Reader reader , ConfigParseOptions options )
+final long serialVersionUID = 1L ;
+) ;
+public static final int SC_NOT_ACCEPTABLE = <NUM_LIT> ;
+)
+ssp ) ;
+) ;
+) ) ;
+AuthException ;
+. ProcessorDslPackage ;
+[ ] result = new HttpHost [ proxies . length ] ;
+execute ( ) ;
+String name ) throws Exception ;
+null )
+. setUserId ( userBlock . getUserId ( ) ) ;
+super ( message ) ;
+. append ( value ) ;
+Type
+<
+i ] ;
+,
+Tool ( ) ;
+= Locale . getDefault ( ) ;
+? "" : username ) ;
+getAlternatives ( ) ;
+[ ] args )
+( ) ;
+return
+DB < T >
+void onPlayerCommand ( PlayerCommandPreprocessEvent event )
+)
+getIV ( ) ) ;
++
+google . common . collect . Collector ;
+void2 ( T val1 , E val2 )
+, docComment ) ;
+. getLength ( ) , <NUM_LIT:0> ) ;
+SPConstants . ERR_INVALID_POLICY ) ;
+printStackTrace ( ) ;
+</s><mask0> public String toString ( )
+public
+command . * ;
+'<CHAR_LIT>' ) ;
+: break ;
+private String startAttribute ;
+) throws NTLMEngineException ;
+TAG_ENCRYPTED_TOKEN = "<STR_LIT>" ;
+0 )
+] result = new byte [ bytes . length ] ;
+A < G , E > , G extends B < G , E > , Y extends A < G , E >
+void success ( )
+. get ( "<STR_LIT>" ) ;
+) ;
+isCredentialsNonLocked ( )
+visit ( TypeKindVisitor6 value )
+public void start ( )
+length ( ) < maxLineLen )
+> analyze ( ) throws IOException ;
+getNewInstance ( ) ;
+c ) ;
+. myConsole . printf ( "<STR_LIT>" , i ++ ) ;
+ch . boye . httpclientandroidlib . cookie . CookieHandler ;
+static
+[ 0 ] ;
+new UseEnum ( ) ;
+MethodDeclaration d )
+sym . isAnnotationType ( ) ;
+<NUM_LIT:1> ;
+] messages = ( IRCMessage [ ] ) msg ;
+( waitHelper ) ;
+. util . Util . run ( new String [ ]
+. assertTrue ;
+StringbaseASADataHandler ( )
+( )
+throws
+) b ) ) ;
+public
+< Integer > y = new ArrayList < Integer > ( ) ;
+final main ( String [ ] args )
+if ( connectionFailed )
+public void close ( )
+, TryBlockWriter > ( ) ;
+"<STR_LIT>" }
+o )
+( targetStatus == Sms . TargetStatus . TARGET_ACCEPTABLE ) || ( targetStatus == Sms . TargetStatus . TARGET_NOT_ROUTABLE ) )
+start ( )
+void append ( String val )
+element ;
+JavacTree > trees = ct . getTrees ( ) ;
+DeferredLintHandler getInstance ( )
+String toString ( )
+extends SourceVersion > versions )
+Callback callback : callbacks )
+segments . size ( ) > 1 )
+public
+< Timestamp ) null ) ;
+pi )
+reset ( ) ;
+throws
+) ;
+) ;
+, this ) ;
+. toString ( ) , "<STR_LIT>" ) ;
+. register ( child ) ;
+) ;
+, VertexType > vertexTypes ;
+. getThreadData ( ) ;
+. boye . httpclientandroidlib . Client ;
+String ( disallowInclusion )
+( )
+it . next ( ) ;
+( ClassSymbol ) sym ;
+public
+) ;
+,
++
+) - 1 ;
+byte [ ] b , int off , int len ) throws IOException ;
+( ) [ index ] ;
+p ;
+. EqualsBuilder ;
+out . println ( "" ) ;
+logger = new WikiLogger ( ) ;
+)
+, ;
+url ) throws IOException
+. decl . * ;
+public
+. append ( '<CHAR_LIT>' ) ;
+) ;
+= new ScriptTemplate ( ) ;
+. ;
+java . util . List ;
+public static boolean isIPv6Address ( final String input )
+public T6551367 ( )
+BufferedInputStream ( new FileInputStream ( f ) ) ) ;
+case A : System . out . println ( "" ) ;
+. lang . annotation . RetentionPolicy ;
+throws
+) ;
+new B2 ( ) ;
+return vv . getLensTransformer ( ) ;
+i < l ;
+for ( int i = 0 ;
+. equals ( bOne ) ) ;
+"<STR_LIT>" }
+if
+=
+errorCode == SVNErrorCode . WC_NOT_DIRECTORY )
+=
+)
+String > annotations )
+n )
+) ;
+]
+@ Autowired private LocationCacheableRepository locationCacheableRepository ;
+"" ) ;
+throws
+return name ;
+Taglet
+throws
+( "<STR_LIT>" ) ;
+( MethodDoc md : cd . methods ( ) )
+,
+return isAnswered ;
+return
+( ) ;
+void createPackageFile ( )
+element , TypeElement enclosingElement )
+this . activity = name ;
+new IllegalArgumentException ( "" ) ;
+)
+b ) ;
+bind . annotation . XmlAccessType ;
+angBox > extends Transformer
+private
+httpclientandroidlib . cookie . Cookie ;
+= vsf ;
+ch . boye . httpclientandroidlib . util . Util ;
+Match ( Message msg )
+String
+null ;
+Factory . getTool ( testSrc ) ;
+username = username ;
+null )
+( ) , WSSConstants . TAG_dsig_Signature . getLocalPart ( ) ) ;
+. ArrayList ;
+throws
+) ;
+throws
+( "" ) ;
+== repoClass )
+null ) ;
+return new BasicHttpProcessor ( )
+prev ) ;
+String
+static void main ( String [ ] args )
+import com . sun . mirror . type . * ;
+)
+. getIconHeight ( ) ;
+cause )
+paramText = linkText ;
+public
+( LOG_TAG , "<STR_LIT>" + record . parentID + "<STR_LIT>" ) ;
+public C1 ( )
+( maxx , maxy ) ;
+throws
+return true ;
+. getConnection ( ) ;
+getSession ( ) . getAttribute ( JAMWikiAuthenticationConstants . JAMWIKI_UNAUTHORIZED_ERROR_KEY ) != null )
+<NUM_LIT:0> ) )
+import static java . lang . annotation . RetentionPolicy ;
+public C2 ( )
+( "<STR_LIT>" , "" ) ;
+] . getName ( ) ;
+add
+. httpclientandroidlib . protocol . Header ;
+IOException ;
+try
+Port
+. lang . annotation . RetentionPolicy ;
+@ Override public String getMessage ( )
+= new InnerC ( )
+extends B > f ( ) ;
+replaceAll ( "<STR_LIT>" , "<STR_LIT>" ) ;
+)
+= <NUM_LIT> ;
+null )
+) )
+<NUM_LIT:1> ] [ <NUM_LIT:2> ] = "<STR_LIT>" + FS + "<STR_LIT>" ;
+( ispellIn ) ;
+. handler . encoder . StringEncoder ;
+getValue ( value ) )
+( ) ;
+= new LinkedList < QName > ( ) ;
+</s>
+File test_dest = new File ( System . getProperty ( "<STR_LIT>" , "<STR_LIT:.>" ) ) ;
+public java . util . Map ;
+) == Lexer . Mode . EOF )
+boolean
+List < QName > > ( ) ;
+( roundEnvironment == null )
+System
+[ ]
+. support . RequestMethod ;
+> v11 = getValue ( ) ;
+>
+private
+. configuration = configuration ;
+db = new SQLiteDatabase ( context ) ;
+)
+result ;
+. addContent ( divTree ) ;
+null ;
+, messageSignatureTokens ) ;
+( policyFile ) ;
+class Client
+( )
+throws
+> getRevisions ( )
+javac . util . Util ;
+) ) . getValue ( ) ;
+TextUtils . sendError ( event . getPlayer ( ) , "<STR_LIT>" ) ;
+public
+value == null )
+. add ( "" ) ;
+. jdt . core . compiler . CharOperation ;
+. equals ( assertionNamespace ) )
+getActualTypeArguments ( ) ;
+value = null ;
+IdGenerator ;
+. out . println ( s ) ;
+( ) . containsHeader ( "<STR_LIT>" ) ) ;
+native
+throws
+throw
+test ( )
+m2 ( )
+) ;
+singleton ( name ) ) ;
+throws
+< ? extends JavaFileObject > > diags = javap ( Arrays . asList ( "<STR_LIT>" , classPath ) , Arrays . asList ( className ) ) ;
+t ) ;
+else
+. Core . Player ;
+( ) ;
+public
+j . value ;
+( ) ;
+. getTransformer ( ) ;
+true ;
+init = new JCLiteral ( TypeTags . INT , <NUM_LIT> )
+. ArrayList ;
+throws
+ExpectSuccessRepositorySessionFinishDelegate ( )
+bytes . length )
+) , player . getLocation ( ) . getBlockZ ( ) ) ;
+public static void main ( String [ ] args )
+addComponent ( this ) ;
+getBooleanParameter ( CoreConnectionPNames . TCP_NO_DELAY , false ) ;
+handle ( )
+""STR_LIT>" , "" ) ;
+, ;
+parts . add ( encP ) ;
+public
+) ? packageDoc . exceptions ( ) : configuration . classDocCatalog . exceptions ( Util . getPackageName ( packageDoc ) ) ;
+,
+( UNSIGNED_SHIFT_ASSIGNMENT ) public int test_UNSIGNED_SHIFT_ASSIGNMENT ( int i , int j )
+< Integer > > test ( )
+narazaki . android . util . Log ;
+. size ( ) ;
+> > > ( ) ;
+) ;
+inSpecs ;
+new
+output : output ) ) ;
+= null ;
+enumConstantsTree ) ;
+String ( int i = 0 ;
+( eq ( "<STR_LIT>" ) , any ( ) , any ( ) , firstAction ) ;
+( confirmationMethodStr != null )
+import org . apache . xml . security . x509 . X509Certificate ;
+handleRequest ( HttpRequest request )
+Set true ;
+Deprecated public void iDep_aDep_cDep ( )
+) }
+( ) ;
+if ( evenHasNextTurn )
+System
+r = radii . get ( child ) ;
+public SecurityContextTokenSecurityEvent ( )
+) ) ;
+writer
+( size ) ;
+) ;
+"" ;
+) ;
+Type > types )
+null )
+( ) ;
+. setSelected ( model . getSamplerTypeName ( ) ) ;
+public
+@
+getApplicationContext ( ) ) )
+close ( ) ;
+. gecko . sync . api . SynchronizationException ;
+void m17 ( )
+name )
+x )
+>
+. gecko . sync . Session ;
+break
+( ) ;
+( data , 0 , length ) ;
+= <NUM_LIT:1L> ;
+class iSAUC
+page ;
+close ( ) ;
+, registry ) ;
+,
+void m ( J x ) ;
+r ) ;
+sb . append ( "<STR_LIT>" ) ;
+class LayoutUtil
+int virtualWikiId , int topicId , Connection conn ) throws SQLException ;
+) ) ;
+) ;
+sourceType , param ) ;
+. get ( 0 ) ;
+)
+new RuntimeException ( "<STR_LIT>" + d + "<STR_LIT>" ) ;
+)
+= new HashSet < Process > ( ) ;
+"<STR_LIT>" ) ;
+fieldUseTableSummary , contentTree ) ;
+ArrayList < BodyPart > ( ) ;
+( irritable ) ) ;
++ "<STR_LIT>" + FS + "<STR_LIT>" , "<STR_LIT>" }
+. add ( previewPanel , BorderLayout . CENTER ) ;
+I1
+import java . util . Map ;
+name ) ;
+== - 1 )
+DirectedGraph > extends DirectedGraph
+T obj ) ;
+default
+. typeMaker . getType ( bound ) ;
+WSHandlerGetPasswordTest ( ) ;
+import java . lang . annotation . RetentionPolicy . * ;
+public ValidationErrors ( String name )
+public
+content . Context ;
+TagTaglet ( )
+= tokenUsages . get ( i ) ;
+link = null ;
+) ;
+error ) ;
+throws
+public String getCaseId ( )
+( found ) ) success = false ;
+public void endElement ( String uri , String localName , String qName , Attributes attributes ) throws SAXException
+this . bcgHasBeenProvided = bcgHasBeenProvided ;
+true ;
+. Response ;
+1 )
+>
+DialogFactory < FixColumnsNamesNodeModel > factory )
+( "<STR_LIT>" ) ;
+. junit . Test ;
+Test > l2 = null ;
+pathFromPropertyKey ( key ) ;
+String > getLexicon ( )
+) ;
+. remove ( 0 ) ;
+( ) ;
+extends AbstractAction
+void init ( )
+class ) )
+user . getNick ( ) . equals ( this . user ) == false )
+( ) ;
+String message )
+value
+)
+( ) != null )
+( default_buf_size_ == 0 )
+WEventConstants ;
+public static final String CONSTANT2 = "<STR_LIT>" ;
+) @ Retention ( RetentionPolicy . RUNTIME ) public @ interface Target
+mat [ <NUM_LIT:9> ] ) ;
+) ) ;
+> a )
+public void setCredentials ( String credentials )
+instream , length ) ;
+( ) ;
+throws
+continue
+PREFS_NAME ) ;
+) ;
+String [ ] args ) throws Exception ;
+throws
+filterHeader ( int from )
+equals ( String [ ] args )
+List [ ] bytes = decoded . getBytes ( "UTF-8" ) ;
+== 0 )
+X ( ) ;
+) ;
+getSecurityEventTypes ( )
+,
+extends
+= new Neg01 < ? > ( "<STR_LIT>" ) ;
+( "" ) ;
+, pw ) ;
+errors ;
+( data ) ;
+ns = XMLUtils . getNamespace ( str , e ) ;
+] [ <NUM_LIT:0> ] = "" ;
+class T2
+get ( row ) ;
+res
+. message . Token ;
+AssertionError ( "" ) ;
+break ;
+internalSignatureOutputProcessor = new InternalSignatureOutputProcessor ( ) ;
+) throws E2
+(
+ConfigException . BugOrBroken ( "<STR_LIT>" + this ) ;
+throw
+String
+int bits = <NUM_LIT:0> ;
+public
+IOException e )
+Logger logger = Logger . getLogger ( SyncStorageCollectionRequest . class . getName ( ) ) ;
+public static final String AUTH_METHOD_X509_SUBJECT_NAME = "<STR_LIT>" ;
+. boye . httpclientandroidlib . annotation . Size ;
+public
+fileName = wikiFile . getFileName ( ) ;
+. PASSWORD_TYPE_NONE ) ;
+i < NUM_LIT ;
+util . List < WSSecurityEngineResult > results = new java . util . ArrayList < WSSecurityEngineResult > ( ) ;
+null ;
+( ) ;
+unnamedPkg . isPackage ( ) )
+getFirstNode ( )
+WSSE_NS , WSConstants . USERNAME_TOKEN_LN ) ;
+= new ArrayList < String > ( ) ;
++ FS + "<STR_LIT>" }
+) ;
+uci .ics . jung . visualization . renderers . Graph ;
+Foo < Integer > ( ) ;
+( false )
+methodDocTree ) ;
+Enum < E > > Casting2 < E , Casting2 < E , Casting2 < E , Casting2 < E , Casting2 < E , Casting2 < E , Casting2 < E , Casting2 < E , Casting2 < E , Casting2 < E
+args = args ;
+Annotation ast )
+super ( cr , name_index , length ) ;
+( <NUM_LIT:5> , this . getRefinedSoundex ( ) . difference ( "<STR_LIT>" , "<STR_LIT>" ) ) ;
+import java . util . ArrayList ;
+String settingName )
+Inner ( ) ;
+private
+initialize ( )
+searchField ) ) ;
+> graph )
+Content contentTree )
+( created )
+Override public void run ( )
+< String , String > formEncodings , String pageEncoding ) throws HTMLParseException
+!= Inner . class )
+( ) ) ;
+String s = ( String ) pObject ;
+. boye . httpclientandroidlib . message . Message ;
+. Annotation ;
+( testArray [ i ] ) ;
+params . ClientParams ;
+) ;
+==
+) ;
+ea == null )
+= thaayiCardNumber ;
+i > 0 )
+= 0 ;
+T [ ] b )
+null )
+spi = <NUM_LIT:2> ;
+"<NUM_LIT> ) public String name ;
+"" ) ;
+</s><mask0> }
+private Completions ( String value , String message )
+] getSchemaSources ( )
+public
+getValueAnnotation ( SourceVersion . class ) ) ;
+. length == 0 ) return false ;
+) ;
+== null )
+slf4j . Logger ;
+( ) ;
+throw new Exception ( "" ) ;
+throws
+) ;
+throw
+, String target ) throws IOException
+private static final long serialVersionUID = 1L ;
+( topic , pagination , false ) ;
+return
+s
+( ex instanceof InvalidSessionTransitionException ) )
+vip = new Properties ( ) ;
+new ArrayList < IRCLogEvent > ( ) ;
+String length = args . length ;
+public Date lmp ( )
+ok &= test ( "<STR_LIT>" , good_java , bad_class ) ;
+operationSecurityEvent = new OperationSecurityEvent ( ) ;
+. secret = secret ;
+( "<STR_LIT>" , fm , testClassName , "<STR_LIT>" ) ;
+m_searchFieldExcl . addActionListener ( actionListenerAllExcl ) ;
+extends
+MySQLiteHelper . STUDENT_STUDENT_PHONE_INDEX ) ) ;
+to , f . getName ( ) ) ;
+P
+( )
+Assert . assertEquals ( ( ( WSSecurityException ) e . getCause ( ) ) . getFaultCode ( ) , WSSecurityException . MESSAGE_EXPIRED ) ;
+SP13Constants sp13Constants = SP13Constants . getSP13Constants ( element . getNamespaceURI ( ) ) ;
+add ( diagnostic ) ;
++
+i ++ )
+Idincipal ;
+public String getLogoImageUrl ( )
+secHeader . insertSecurityHeader ( doc ) ;
+client . HTTPClient ;
+newGroup = new ThreadGroup ( tg ) ;
+tr = new HtmlTree ( ul ) ;
+) ;
+) ;
+run ( ) ;
+) ) ;
+) ;
+private
+<NUM_LIT:1> , true ) ) ;
+Response response )
+= new ArrayList < B > ( ) ;
+import java . util . Map ;
+. modifyTestElement ( element ) ;
+secHeader . setTimestamp ( ts ) ;
+= ( Field ) l ;
+getPlayers ( ) )
+Diagnostic diagnostic ) ;
+throws
+public
+extends
+( ) ;
+null )
+Double > t = new Transformer < V , Double > ( ) ;
+public
+st = new StreamTokenizer ( r ) ;
+)
+if in = new FileInputStream ( file ) ;
+d
+import java . util . ArrayList ;
+catch ( Exception e )
+class AreaManager extends AreaManager
+private static final Logger logger = Logger . getLogger ( SyncAccountDeletedService . class ) ;
+)
+securityTokenProvider ) ;
+. getKey ( ) ;
+nameName = accountManager . getName ( ) ;
+public Rule ( String name )
+JInputStream extends Serializable
+class Resource
+import javax . xml . namespace . QName ;
+public
+( ) ;
+util . List ;
+percent ;
+) @ interface type
+- 1 ) )
+) ;
+. getNodeType ( ) ) ;
+new HashSet < String > ( ) ) ;
+throws
+T >
+) ;
+( ) )
+)
+( "" , line ) ) ;
+= new BD ( ) ;
+) ;
+( ) ) ;
+( X x )
+. javac . core . JavaModelException ;
+throws IOException ;
+class Cookie
+public BadPath ( String path , String message , Throwable cause )
+. uci . commons . lang . Coordinate ;
+catch ( IOException e )
+e )
+if
+JavahTask ( ) ;
+throws
+@
+link , where , label ) ;
+( ) throws IOException
+( <NUM_LIT:1> , "<STR_LIT>" ) ;
+implements
+( host , cns , subjectAlts , null ) ;
+args . add ( "" ) ;
+public
+else
+static
+null ;
+mod ) )
+bp ) ;
+set
+cryptoType ) ;
+txt = txt . replaceAll ( "<STR_LIT>" , "<STR_LIT>" ) ;
+toString ( ) ;
+[ ] args )
+PathVariable String movieId )
+. ;
+content ;
+= e . getValue ( ) ;
+expect . add ( tree ) ;
+public
+true ;
+: list )
+"<STR_LIT>" + "<STR_LIT>" ;
+= 0 ;
+Box < T > box ( T t ) ;
+. Util ;
+connectTimeoutMillis ) ;
+throws
+StringInterface dialog )
+public
+doc ) ;
+bottom - <NUM_LIT:5> , right - <NUM_LIT:4> , bottom - <NUM_LIT:3> ) ;
+PRIVATE ;
+String
+catch ( IOException e )
+Request < R , V > , V > map ;
+_
+if ( sane )
+( o instanceof ClientRecord ) )
+callback != null ) callback . onFileWrote ( result ) ;
+throws
+private
+) ( <NUM_LIT:2> + d ) ;
+if ( url != null ) player . sendMessage ( url ) ;
+super . preUpdate ( module , local ) ;
+public
+throws
+throws
+( BookmarkRecord ) repoA . wbos . get ( guidC ) ;
+< X >
+public
+Reference ( args . length > 0 )
+import ch . boye . httpclientandroidlib . annotation . Retention ;
+throws
+public
+junit . Assert ;
+U > , U > List < U > m3 ( )
+=
+Inner ;
+assertEquals ( "<STR_LIT:result>" , Namespace . namespace ( Namespace . COMMENTS_ID ) , result ) ;
+= new Properties ( ) ;
+project ;
+private
+( int i = 0 ;
+args , console ) ;
+org . springframework . test . context . Test ;
+)
+public C1 ( String title , boolean test )
+session
+Map
+, record ) ;
+. ws . security . Assert ;
+( String ) object : object . toString ( ) ;
+( )
+syntax == null )
+doEncode )
+String , Boolean > ( ) ;
+. apt . command . CommandLine ;
+HTTPFailureException ( )
+applyFilter ( callback ) ;
+iUndep_bDep ( )
+size ( ) ) ;
+== null )
+0 ;
+public
+stream ) ;
+@
+false ;
+)
+[ ] data )
+= 0 ;
+String )
+( ) ;
+)
+"<STR_LIT>" }

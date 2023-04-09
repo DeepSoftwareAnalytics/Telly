@@ -1,0 +1,419 @@
+10/09/2022 07:02:32 - INFO - __main__ -   device: cuda, n_gpu: 1
+10/09/2022 07:02:33 - DEBUG - filelock -   Attempting to acquire lock 140065662185632 on /home/aiscuser/.cache/huggingface/transformers/6537f24197db9749ad60f891d7a50ec2de3992bee193d25b24bb244ee5ca91f9.6243fbb3cc75148b68777473341e2d0860fde2b135f39c1d7d274d8ba1763e13.lock
+10/09/2022 07:02:33 - DEBUG - filelock -   Lock 140065662185632 acquired on /home/aiscuser/.cache/huggingface/transformers/6537f24197db9749ad60f891d7a50ec2de3992bee193d25b24bb244ee5ca91f9.6243fbb3cc75148b68777473341e2d0860fde2b135f39c1d7d274d8ba1763e13.lock
+Downloading:   0%|          | 0.00/916k [00:00<?, ?B/s]Downloading:   4%|▍         | 36.0k/916k [00:00<00:02, 367kB/s]Downloading:  19%|█▉        | 177k/916k [00:00<00:00, 980kB/s] Downloading:  86%|████████▌ | 785k/916k [00:00<00:00, 3.30MB/s]Downloading: 100%|██████████| 916k/916k [00:00<00:00, 3.02MB/s]
+10/09/2022 07:02:34 - DEBUG - filelock -   Attempting to release lock 140065662185632 on /home/aiscuser/.cache/huggingface/transformers/6537f24197db9749ad60f891d7a50ec2de3992bee193d25b24bb244ee5ca91f9.6243fbb3cc75148b68777473341e2d0860fde2b135f39c1d7d274d8ba1763e13.lock
+10/09/2022 07:02:34 - DEBUG - filelock -   Lock 140065662185632 released on /home/aiscuser/.cache/huggingface/transformers/6537f24197db9749ad60f891d7a50ec2de3992bee193d25b24bb244ee5ca91f9.6243fbb3cc75148b68777473341e2d0860fde2b135f39c1d7d274d8ba1763e13.lock
+10/09/2022 07:02:34 - DEBUG - filelock -   Attempting to acquire lock 140065660992816 on /home/aiscuser/.cache/huggingface/transformers/e9a41c80e105c7ebfab8467fd5fa110db792fa435a42cf53fc84cd4dbce63203.fcaa28dbb04dd654a7ac023857de409e4815667a26706e2aa9a1bbc3ed49037a.lock
+10/09/2022 07:02:34 - DEBUG - filelock -   Lock 140065660992816 acquired on /home/aiscuser/.cache/huggingface/transformers/e9a41c80e105c7ebfab8467fd5fa110db792fa435a42cf53fc84cd4dbce63203.fcaa28dbb04dd654a7ac023857de409e4815667a26706e2aa9a1bbc3ed49037a.lock
+Downloading:   0%|          | 0.00/434k [00:00<?, ?B/s]Downloading:   9%|▉         | 41.0k/434k [00:00<00:01, 378kB/s]Downloading:  38%|███▊      | 165k/434k [00:00<00:00, 825kB/s] Downloading: 100%|██████████| 434k/434k [00:00<00:00, 1.58MB/s]
+10/09/2022 07:02:35 - DEBUG - filelock -   Attempting to release lock 140065660992816 on /home/aiscuser/.cache/huggingface/transformers/e9a41c80e105c7ebfab8467fd5fa110db792fa435a42cf53fc84cd4dbce63203.fcaa28dbb04dd654a7ac023857de409e4815667a26706e2aa9a1bbc3ed49037a.lock
+10/09/2022 07:02:35 - DEBUG - filelock -   Lock 140065660992816 released on /home/aiscuser/.cache/huggingface/transformers/e9a41c80e105c7ebfab8467fd5fa110db792fa435a42cf53fc84cd4dbce63203.fcaa28dbb04dd654a7ac023857de409e4815667a26706e2aa9a1bbc3ed49037a.lock
+10/09/2022 07:02:35 - DEBUG - filelock -   Attempting to acquire lock 140065662670976 on /home/aiscuser/.cache/huggingface/transformers/192a4a8bfa30aa3013d375ea31db6b14b0f753bf61bd99b778cb8ebaa0d6a338.cb2244924ab24d706b02fd7fcedaea4531566537687a539ebb94db511fd122a0.lock
+10/09/2022 07:02:35 - DEBUG - filelock -   Lock 140065662670976 acquired on /home/aiscuser/.cache/huggingface/transformers/192a4a8bfa30aa3013d375ea31db6b14b0f753bf61bd99b778cb8ebaa0d6a338.cb2244924ab24d706b02fd7fcedaea4531566537687a539ebb94db511fd122a0.lock
+Downloading:   0%|          | 0.00/772 [00:00<?, ?B/s]Downloading: 100%|██████████| 772/772 [00:00<00:00, 575kB/s]
+10/09/2022 07:02:35 - DEBUG - filelock -   Attempting to release lock 140065662670976 on /home/aiscuser/.cache/huggingface/transformers/192a4a8bfa30aa3013d375ea31db6b14b0f753bf61bd99b778cb8ebaa0d6a338.cb2244924ab24d706b02fd7fcedaea4531566537687a539ebb94db511fd122a0.lock
+10/09/2022 07:02:35 - DEBUG - filelock -   Lock 140065662670976 released on /home/aiscuser/.cache/huggingface/transformers/192a4a8bfa30aa3013d375ea31db6b14b0f753bf61bd99b778cb8ebaa0d6a338.cb2244924ab24d706b02fd7fcedaea4531566537687a539ebb94db511fd122a0.lock
+10/09/2022 07:02:36 - DEBUG - filelock -   Attempting to acquire lock 140065662669968 on /home/aiscuser/.cache/huggingface/transformers/74b423f29ba4f21ecd941f8d4fdc1e5a1568328f2d478850463813dc4e81c58a.ad8c4e4e357cd74df740cd60a08548a831bd19834e8802cfa73d289e1818a8c4.lock
+10/09/2022 07:02:36 - DEBUG - filelock -   Lock 140065662669968 acquired on /home/aiscuser/.cache/huggingface/transformers/74b423f29ba4f21ecd941f8d4fdc1e5a1568328f2d478850463813dc4e81c58a.ad8c4e4e357cd74df740cd60a08548a831bd19834e8802cfa73d289e1818a8c4.lock
+Downloading:   0%|          | 0.00/1.09k [00:00<?, ?B/s]Downloading: 100%|██████████| 1.09k/1.09k [00:00<00:00, 1.08MB/s]
+10/09/2022 07:02:36 - DEBUG - filelock -   Attempting to release lock 140065662669968 on /home/aiscuser/.cache/huggingface/transformers/74b423f29ba4f21ecd941f8d4fdc1e5a1568328f2d478850463813dc4e81c58a.ad8c4e4e357cd74df740cd60a08548a831bd19834e8802cfa73d289e1818a8c4.lock
+10/09/2022 07:02:36 - DEBUG - filelock -   Lock 140065662669968 released on /home/aiscuser/.cache/huggingface/transformers/74b423f29ba4f21ecd941f8d4fdc1e5a1568328f2d478850463813dc4e81c58a.ad8c4e4e357cd74df740cd60a08548a831bd19834e8802cfa73d289e1818a8c4.lock
+10/09/2022 07:02:37 - DEBUG - filelock -   Attempting to acquire lock 140065660992720 on /home/aiscuser/.cache/huggingface/transformers/f47f36c6d415b8e978f9685f6dbf2651cc9c951dea26b74fcf8bf62e44900449.b53aa458f35a3b932d45090e5916927053a2bf0e803f4eb410b7d1f922b60a05.lock
+10/09/2022 07:02:37 - DEBUG - filelock -   Lock 140065660992720 acquired on /home/aiscuser/.cache/huggingface/transformers/f47f36c6d415b8e978f9685f6dbf2651cc9c951dea26b74fcf8bf62e44900449.b53aa458f35a3b932d45090e5916927053a2bf0e803f4eb410b7d1f922b60a05.lock
+Downloading:   0%|          | 0.00/691 [00:00<?, ?B/s]Downloading: 100%|██████████| 691/691 [00:00<00:00, 514kB/s]
+10/09/2022 07:02:37 - DEBUG - filelock -   Attempting to release lock 140065660992720 on /home/aiscuser/.cache/huggingface/transformers/f47f36c6d415b8e978f9685f6dbf2651cc9c951dea26b74fcf8bf62e44900449.b53aa458f35a3b932d45090e5916927053a2bf0e803f4eb410b7d1f922b60a05.lock
+10/09/2022 07:02:37 - DEBUG - filelock -   Lock 140065660992720 released on /home/aiscuser/.cache/huggingface/transformers/f47f36c6d415b8e978f9685f6dbf2651cc9c951dea26b74fcf8bf62e44900449.b53aa458f35a3b932d45090e5916927053a2bf0e803f4eb410b7d1f922b60a05.lock
+10/09/2022 07:02:38 - DEBUG - filelock -   Attempting to acquire lock 140065660853936 on /home/aiscuser/.cache/huggingface/transformers/e472463826d959ba1a2526157c66c6678d307297de0ac70cb20d4bc20227a3ea.cd2d780fc8b692f148ec889e56ece5a353765aa429eda28d9a89b5a1aeb735db.lock
+10/09/2022 07:02:38 - DEBUG - filelock -   Lock 140065660853936 acquired on /home/aiscuser/.cache/huggingface/transformers/e472463826d959ba1a2526157c66c6678d307297de0ac70cb20d4bc20227a3ea.cd2d780fc8b692f148ec889e56ece5a353765aa429eda28d9a89b5a1aeb735db.lock
+Downloading:   0%|          | 0.00/480M [00:00<?, ?B/s]Downloading:   1%|▏         | 6.99M/480M [00:00<00:06, 73.2MB/s]Downloading:   4%|▎         | 17.6M/480M [00:00<00:05, 95.9MB/s]Downloading:   6%|▌         | 28.3M/480M [00:00<00:04, 103MB/s] Downloading:   8%|▊         | 39.1M/480M [00:00<00:04, 107MB/s]Downloading:  10%|█         | 49.8M/480M [00:00<00:04, 109MB/s]Downloading:  13%|█▎        | 60.4M/480M [00:00<00:04, 110MB/s]Downloading:  15%|█▍        | 71.2M/480M [00:00<00:03, 111MB/s]Downloading:  17%|█▋        | 82.3M/480M [00:00<00:03, 112MB/s]Downloading:  19%|█▉        | 93.0M/480M [00:00<00:03, 112MB/s]Downloading:  22%|██▏       | 104M/480M [00:01<00:03, 112MB/s] Downloading:  24%|██▍       | 114M/480M [00:01<00:03, 112MB/s]Downloading:  26%|██▌       | 125M/480M [00:01<00:03, 112MB/s]Downloading:  28%|██▊       | 136M/480M [00:01<00:03, 112MB/s]Downloading:  31%|███       | 147M/480M [00:01<00:03, 112MB/s]Downloading:  33%|███▎      | 157M/480M [00:01<00:03, 113MB/s]Downloading:  35%|███▌      | 168M/480M [00:01<00:02, 112MB/s]Downloading:  37%|███▋      | 179M/480M [00:01<00:02, 112MB/s]Downloading:  39%|███▉      | 190M/480M [00:01<00:02, 111MB/s]Downloading:  42%|████▏     | 200M/480M [00:01<00:02, 112MB/s]Downloading:  44%|████▍     | 211M/480M [00:02<00:02, 111MB/s]Downloading:  46%|████▌     | 222M/480M [00:02<00:02, 111MB/s]Downloading:  48%|████▊     | 232M/480M [00:02<00:02, 110MB/s]Downloading:  51%|█████     | 243M/480M [00:02<00:02, 110MB/s]Downloading:  53%|█████▎    | 253M/480M [00:02<00:02, 110MB/s]Downloading:  55%|█████▍    | 264M/480M [00:02<00:02, 110MB/s]Downloading:  57%|█████▋    | 274M/480M [00:02<00:01, 109MB/s]Downloading:  59%|█████▉    | 285M/480M [00:02<00:01, 110MB/s]Downloading:  62%|██████▏   | 296M/480M [00:02<00:01, 111MB/s]Downloading:  64%|██████▎   | 306M/480M [00:02<00:01, 110MB/s]Downloading:  66%|██████▌   | 317M/480M [00:03<00:01, 110MB/s]Downloading:  68%|██████▊   | 327M/480M [00:03<00:01, 110MB/s]Downloading:  70%|███████   | 338M/480M [00:03<00:01, 110MB/s]Downloading:  73%|███████▎  | 348M/480M [00:03<00:01, 110MB/s]Downloading:  75%|███████▍  | 359M/480M [00:03<00:01, 110MB/s]Downloading:  77%|███████▋  | 369M/480M [00:03<00:01, 110MB/s]Downloading:  79%|███████▉  | 380M/480M [00:03<00:00, 109MB/s]Downloading:  81%|████████  | 390M/480M [00:03<00:00, 108MB/s]Downloading:  83%|████████▎ | 401M/480M [00:03<00:00, 109MB/s]Downloading:  86%|████████▌ | 411M/480M [00:03<00:00, 109MB/s]Downloading:  88%|████████▊ | 421M/480M [00:04<00:00, 109MB/s]Downloading:  90%|████████▉ | 432M/480M [00:04<00:00, 108MB/s]Downloading:  92%|█████████▏| 442M/480M [00:04<00:00, 108MB/s]Downloading:  94%|█████████▍| 452M/480M [00:04<00:00, 107MB/s]Downloading:  96%|█████████▋| 463M/480M [00:04<00:00, 107MB/s]Downloading:  98%|█████████▊| 473M/480M [00:04<00:00, 107MB/s]Downloading: 100%|██████████| 480M/480M [00:04<00:00, 109MB/s]
+10/09/2022 07:02:42 - DEBUG - filelock -   Attempting to release lock 140065660853936 on /home/aiscuser/.cache/huggingface/transformers/e472463826d959ba1a2526157c66c6678d307297de0ac70cb20d4bc20227a3ea.cd2d780fc8b692f148ec889e56ece5a353765aa429eda28d9a89b5a1aeb735db.lock
+10/09/2022 07:02:42 - DEBUG - filelock -   Lock 140065660853936 released on /home/aiscuser/.cache/huggingface/transformers/e472463826d959ba1a2526157c66c6678d307297de0ac70cb20d4bc20227a3ea.cd2d780fc8b692f148ec889e56ece5a353765aa429eda28d9a89b5a1aeb735db.lock
+10/09/2022 07:02:49 - INFO - __main__ -   Training/evaluation parameters Namespace(code_length=256, codebase_file='dataset/CSN/python/codebase.jsonl', config_name='', debug=False, device=device(type='cuda'), do_F2_norm=False, do_eval=True, do_test=True, do_train=True, do_zero_shot=False, eval_batch_size=128, eval_data_file='dataset/CSN/python/valid.jsonl', freeze_bottom_k_layer_index=9, learning_rate=2e-05, max_grad_norm=1.0, model_name_or_path='microsoft/unixcoder-base', n_debug_samples=100, n_gpu=1, nl_length=128, num_train_epochs=10, output_dir='saved_models/code_search/unixcoder/partial_freezing/python/freeze_bottom_9_layers/20221009070226', seed=123456, test_data_file='dataset/CSN/python/test.jsonl', tokenizer_name='', train_batch_size=128, train_data_file='dataset/CSN/python/train.jsonl', weight_decay=0.01)
+10/09/2022 07:02:49 - INFO - __main__ -   +------------------------------------------------------------+--------------+---------+
+| Layer Name                                                 | Output Shape | Param # |
++------------------------------------------------------------+--------------+---------+
+| encoder.encoder.layer.9.attention.self.query.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.9.attention.self.query.bias          |        [768] |     768 |
+| encoder.encoder.layer.9.attention.self.key.weight          |   [768, 768] |  589824 |
+| encoder.encoder.layer.9.attention.self.key.bias            |        [768] |     768 |
+| encoder.encoder.layer.9.attention.self.value.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.9.attention.self.value.bias          |        [768] |     768 |
+| encoder.encoder.layer.9.attention.output.dense.weight      |   [768, 768] |  589824 |
+| encoder.encoder.layer.9.attention.output.dense.bias        |        [768] |     768 |
+| encoder.encoder.layer.9.attention.output.LayerNorm.weight  |        [768] |     768 |
+| encoder.encoder.layer.9.attention.output.LayerNorm.bias    |        [768] |     768 |
+| encoder.encoder.layer.9.intermediate.dense.weight          |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.9.intermediate.dense.bias            |       [3072] |    3072 |
+| encoder.encoder.layer.9.output.dense.weight                |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.9.output.dense.bias                  |        [768] |     768 |
+| encoder.encoder.layer.9.output.LayerNorm.weight            |        [768] |     768 |
+| encoder.encoder.layer.9.output.LayerNorm.bias              |        [768] |     768 |
+| encoder.encoder.layer.10.attention.self.query.weight       |   [768, 768] |  589824 |
+| encoder.encoder.layer.10.attention.self.query.bias         |        [768] |     768 |
+| encoder.encoder.layer.10.attention.self.key.weight         |   [768, 768] |  589824 |
+| encoder.encoder.layer.10.attention.self.key.bias           |        [768] |     768 |
+| encoder.encoder.layer.10.attention.self.value.weight       |   [768, 768] |  589824 |
+| encoder.encoder.layer.10.attention.self.value.bias         |        [768] |     768 |
+| encoder.encoder.layer.10.attention.output.dense.weight     |   [768, 768] |  589824 |
+| encoder.encoder.layer.10.attention.output.dense.bias       |        [768] |     768 |
+| encoder.encoder.layer.10.attention.output.LayerNorm.weight |        [768] |     768 |
+| encoder.encoder.layer.10.attention.output.LayerNorm.bias   |        [768] |     768 |
+| encoder.encoder.layer.10.intermediate.dense.weight         |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.10.intermediate.dense.bias           |       [3072] |    3072 |
+| encoder.encoder.layer.10.output.dense.weight               |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.10.output.dense.bias                 |        [768] |     768 |
+| encoder.encoder.layer.10.output.LayerNorm.weight           |        [768] |     768 |
+| encoder.encoder.layer.10.output.LayerNorm.bias             |        [768] |     768 |
+| encoder.encoder.layer.11.attention.self.query.weight       |   [768, 768] |  589824 |
+| encoder.encoder.layer.11.attention.self.query.bias         |        [768] |     768 |
+| encoder.encoder.layer.11.attention.self.key.weight         |   [768, 768] |  589824 |
+| encoder.encoder.layer.11.attention.self.key.bias           |        [768] |     768 |
+| encoder.encoder.layer.11.attention.self.value.weight       |   [768, 768] |  589824 |
+| encoder.encoder.layer.11.attention.self.value.bias         |        [768] |     768 |
+| encoder.encoder.layer.11.attention.output.dense.weight     |   [768, 768] |  589824 |
+| encoder.encoder.layer.11.attention.output.dense.bias       |        [768] |     768 |
+| encoder.encoder.layer.11.attention.output.LayerNorm.weight |        [768] |     768 |
+| encoder.encoder.layer.11.attention.output.LayerNorm.bias   |        [768] |     768 |
+| encoder.encoder.layer.11.intermediate.dense.weight         |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.11.intermediate.dense.bias           |       [3072] |    3072 |
+| encoder.encoder.layer.11.output.dense.weight               |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.11.output.dense.bias                 |        [768] |     768 |
+| encoder.encoder.layer.11.output.LayerNorm.weight           |        [768] |     768 |
+| encoder.encoder.layer.11.output.LayerNorm.bias             |        [768] |     768 |
+| encoder.pooler.dense.weight                                |   [768, 768] |  589824 |
+| encoder.pooler.dense.bias                                  |        [768] |     768 |
++------------------------------------------------------------+--------------+---------+
+10/09/2022 07:06:19 - INFO - __main__ -   *** Example ***
+10/09/2022 07:06:19 - INFO - __main__ -   idx: 0
+10/09/2022 07:06:19 - INFO - __main__ -   code_tokens: ['<s>', '<encoder-only>', '</s>', 'def', '_split', '_', 'phy', 'log', 'en', 'y', '_(', '_p', '_,', '_level', '_=', '_"', 's', '"', '_)', '_:', '_level', '_=', '_level', '_+', '_"__', '"', '_result', '_=', '_p', '_.', '_split', '_(', '_level', '_)', '_return', '_result', '_[', '_0', '_]', '_+', '_level', '_+', '_result', '_[', '_1', '_]', '_.', '_split', '_(', '_";"', '_)', '_[', '_0', '_]', '</s>']
+10/09/2022 07:06:19 - INFO - __main__ -   code_ids: 0 6 2 729 5192 181 3258 896 386 207 400 428 2019 3144 385 437 201 120 743 545 3144 385 3144 513 12945 120 1046 385 428 746 5192 400 3144 743 483 1046 626 461 2406 513 3144 513 1046 626 524 2406 746 5192 400 29760 743 626 461 2406 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/09/2022 07:06:19 - INFO - __main__ -   nl_tokens: ['<s>', '<encoder-only>', '</s>', 'Return', '_either', '_the', '_full', '_or', '_truncated', '_version', '_of', '_a', '_Q', 'II', 'ME', '_-', '_formatted', '_taxonomy', '_string', '_.', '</s>']
+10/09/2022 07:06:19 - INFO - __main__ -   nl_ids: 0 6 2 1675 4759 448 3662 872 19307 2229 595 434 1152 4300 1098 581 10440 29021 724 746 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/09/2022 07:06:19 - INFO - __main__ -   *** Example ***
+10/09/2022 07:06:19 - INFO - __main__ -   idx: 1
+10/09/2022 07:06:19 - INFO - __main__ -   code_tokens: ['<s>', '<encoder-only>', '</s>', 'def', '_ensure', '_', 'dir', '_(', '_d', '_)', '_:', '_if', '_not', '_os', '_.', '_path', '_.', '_exists', '_(', '_d', '_)', '_:', '_try', '_:', '_os', '_.', '_m', 'akedirs', '_(', '_d', '_)', '_except', '_OSError', '_as', '_oe', '_:', '_#', '_should', '_not', '_happen', '_with', '_os', '.', 'makedirs', '_#', '_ENOENT', ':', '_No', '_such', '_file', '_or', '_directory', '_if', '_os', '_.', '_errno', '_==', '_errno', '_.', '_ENOENT', '_:', '_msg', '_=', '_tw', 'dd', '_(', '_"""', 'One', '_or', '_more', '_directories', '_in', '_the', '_path', '_({})', '_do', '_not', '_exist', '.', '_If', 'Ċ', '__________________________', '_you', '_are', '_specifying', '_a', '_new', '_directory', '_for', '_output', ',', '_please', '_ensure', 'Ċ', '__________________________', '_all', '_other', '_directories', '_in', '_the', '_path', '_currently', '_exist', '."""', '_)', '_return', '_msg', '_.', '_format', '_(', '_d', '_)', '_else', '_:', '_msg', '_=', '_tw', 'dd', '_(', '_"""', 'An', '_error', '_occurred', '_trying', '_to', '_create', '_the', '_output', '_directory', 'Ċ', '__________________________', '_({})', '_with', '_message', ':', '_{}', '"""', '_)', '_return', '_msg', '_.', '_format', '_(', '_d', '_,', '_oe', '_.', '_strerror', '_)', '</s>']
+10/09/2022 07:06:19 - INFO - __main__ -   code_ids: 0 6 2 729 6229 181 1282 400 480 743 545 462 800 2215 746 1391 746 4534 400 480 743 545 1568 545 2215 746 446 23328 400 480 743 3552 22934 880 44902 545 830 1570 800 7564 918 2215 132 24429 830 41059 144 4038 5632 1012 872 3456 462 2215 746 2341 550 2341 746 41059 545 2345 385 7916 443 400 1638 3533 872 2726 11613 488 448 1391 46072 1000 800 3040 132 1359 317 4584 2713 1147 15323 434 579 3456 563 1721 130 13874 6229 317 4584 1345 1946 11613 488 448 1391 6418 3040 6315 743 483 2345 746 2021 400 480 743 669 545 2345 385 7916 443 400 1638 1088 843 10058 11749 508 1738 448 1721 3456 317 4584 46072 918 1841 144 2334 3947 743 483 2345 746 2021 400 480 2019 44902 746 20115 743 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/09/2022 07:06:19 - INFO - __main__ -   nl_tokens: ['<s>', '<encoder-only>', '</s>', 'Check', '_to', '_make', '_sure', '_the', '_supplied', '_directory', '_path', '_does', '_not', '_exist', '_if', '_so', '_create', '_it', '_.', '_The', '_method', '_catch', 'es', '_OSError', '_exceptions', '_and', '_returns', '_a', '_desc', 'riptive', '_message', '_instead', '_of', '_re', '_-', '_raising', '_the', '_error', '_.', '</s>']
+10/09/2022 07:06:19 - INFO - __main__ -   nl_ids: 0 6 2 1749 508 2002 3984 448 8813 3456 1391 2129 800 3040 462 1769 1738 835 746 1044 1454 2092 482 22934 12300 706 2060 434 2162 44105 1841 4488 595 479 581 47183 448 843 746 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/09/2022 07:06:19 - INFO - __main__ -   *** Example ***
+10/09/2022 07:06:19 - INFO - __main__ -   idx: 2
+10/09/2022 07:06:19 - INFO - __main__ -   code_tokens: ['<s>', '<encoder-only>', '</s>', 'def', '_file', '_', 'handle', '_(', '_fn', 'h', '_,', '_mode', '_=', '_"', 'r', 'U', '"', '_)', '_:', '_handle', '_=', '_None', '_if', '_isinstance', '_(', '_fn', 'h', '_,', '_file', '_)', '_:', '_if', '_fn', 'h', '_.', '_closed', '_:', '_raise', '_ValueError', '_(', '_"', 'Input', '_file', '_is', '_closed', '."', '_)', '_handle', '_=', '_fn', 'h', '_elif', '_isinstance', '_(', '_fn', 'h', '_,', '_str', '_)', '_:', '_handle', '_=', '_open', '_(', '_fn', 'h', '_,', '_mode', '_)', '_return', '_handle', '</s>']
+10/09/2022 07:06:19 - INFO - __main__ -   code_ids: 0 6 2 729 1012 181 2133 400 4065 190 2019 2119 385 437 200 171 120 743 545 2384 385 1938 462 5408 400 4065 190 2019 1012 743 545 462 4065 190 746 8264 545 3085 6052 400 437 1834 1012 555 8264 3508 743 2384 385 4065 190 3625 5408 400 4065 190 2019 1113 743 545 2384 385 2717 400 4065 190 2019 2119 743 483 2384 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/09/2022 07:06:19 - INFO - __main__ -   nl_tokens: ['<s>', '<encoder-only>', '</s>', 'Takes', '_either', '_a', '_file', '_path', '_or', '_an', '_open', '_file', '_handle', '_checks', '_validity', '_and', '_returns', '_an', '_open', '_file', '_handle', '_or', '_raises', '_an', '_appropriate', '_Exception', '_.', '</s>']
+10/09/2022 07:06:19 - INFO - __main__ -   nl_ids: 0 6 2 27408 4759 434 1012 1391 872 817 2717 1012 2384 7825 25911 706 2060 817 2717 1012 2384 872 23154 817 7900 2654 746 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/09/2022 07:06:20 - INFO - __main__ -   ***** Running training *****
+10/09/2022 07:06:20 - INFO - __main__ -     Num examples = 251820
+10/09/2022 07:06:20 - INFO - __main__ -     Num Epochs = 10
+10/09/2022 07:06:20 - INFO - __main__ -     Instantaneous batch size per GPU = 128
+10/09/2022 07:06:20 - INFO - __main__ -     Total train batch size  = 128
+10/09/2022 07:06:20 - INFO - __main__ -     Total optimization steps = 19680
+10/09/2022 07:06:49 - INFO - __main__ -   epoch 0 step 100 loss 0.27335
+10/09/2022 07:07:17 - INFO - __main__ -   epoch 0 step 200 loss 0.18748
+10/09/2022 07:07:44 - INFO - __main__ -   epoch 0 step 300 loss 0.17244
+10/09/2022 07:08:12 - INFO - __main__ -   epoch 0 step 400 loss 0.16256
+10/09/2022 07:08:39 - INFO - __main__ -   epoch 0 step 500 loss 0.16804
+10/09/2022 07:09:07 - INFO - __main__ -   epoch 0 step 600 loss 0.16202
+10/09/2022 07:09:34 - INFO - __main__ -   epoch 0 step 700 loss 0.15304
+10/09/2022 07:10:01 - INFO - __main__ -   epoch 0 step 800 loss 0.14365
+10/09/2022 07:10:29 - INFO - __main__ -   epoch 0 step 900 loss 0.14154
+10/09/2022 07:10:56 - INFO - __main__ -   epoch 0 step 1000 loss 0.13358
+10/09/2022 07:11:24 - INFO - __main__ -   epoch 0 step 1100 loss 0.13022
+10/09/2022 07:11:51 - INFO - __main__ -   epoch 0 step 1200 loss 0.14414
+10/09/2022 07:12:19 - INFO - __main__ -   epoch 0 step 1300 loss 0.12669
+10/09/2022 07:12:46 - INFO - __main__ -   epoch 0 step 1400 loss 0.13667
+10/09/2022 07:13:14 - INFO - __main__ -   epoch 0 step 1500 loss 0.14061
+10/09/2022 07:13:41 - INFO - __main__ -   epoch 0 step 1600 loss 0.12997
+10/09/2022 07:14:08 - INFO - __main__ -   epoch 0 step 1700 loss 0.13163
+10/09/2022 07:14:36 - INFO - __main__ -   epoch 0 step 1800 loss 0.12926
+10/09/2022 07:15:03 - INFO - __main__ -   epoch 0 step 1900 loss 0.1379
+10/09/2022 07:16:01 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 07:16:01 - INFO - __main__ -     Num queries = 13914
+10/09/2022 07:16:01 - INFO - __main__ -     Num codes = 43827
+10/09/2022 07:16:01 - INFO - __main__ -     Batch size = 128
+10/09/2022 07:17:51 - INFO - __main__ -     R@1 = 0.595
+10/09/2022 07:17:51 - INFO - __main__ -     R@5 = 0.812
+10/09/2022 07:17:51 - INFO - __main__ -     R@10 = 0.87
+10/09/2022 07:17:51 - INFO - __main__ -     eval_mrr = 0.693
+10/09/2022 07:17:51 - INFO - __main__ -     ********************
+10/09/2022 07:17:51 - INFO - __main__ -     Best mrr:0.693
+10/09/2022 07:17:51 - INFO - __main__ -     ********************
+10/09/2022 07:17:58 - INFO - __main__ -   Saving model checkpoint to saved_models/code_search/unixcoder/partial_freezing/python/freeze_bottom_9_layers/20221009070226/checkpoint-best-mrr/model.bin
+10/09/2022 07:18:26 - INFO - __main__ -   epoch 1 step 100 loss 0.1195
+10/09/2022 07:18:53 - INFO - __main__ -   epoch 1 step 200 loss 0.11639
+10/09/2022 07:19:21 - INFO - __main__ -   epoch 1 step 300 loss 0.11019
+10/09/2022 07:19:48 - INFO - __main__ -   epoch 1 step 400 loss 0.11308
+10/09/2022 07:20:16 - INFO - __main__ -   epoch 1 step 500 loss 0.11578
+10/09/2022 07:20:44 - INFO - __main__ -   epoch 1 step 600 loss 0.11844
+10/09/2022 07:21:11 - INFO - __main__ -   epoch 1 step 700 loss 0.10793
+10/09/2022 07:21:39 - INFO - __main__ -   epoch 1 step 800 loss 0.1237
+10/09/2022 07:22:06 - INFO - __main__ -   epoch 1 step 900 loss 0.11925
+10/09/2022 07:22:34 - INFO - __main__ -   epoch 1 step 1000 loss 0.11364
+10/09/2022 07:23:01 - INFO - __main__ -   epoch 1 step 1100 loss 0.1199
+10/09/2022 07:23:29 - INFO - __main__ -   epoch 1 step 1200 loss 0.11012
+10/09/2022 07:23:56 - INFO - __main__ -   epoch 1 step 1300 loss 0.11254
+10/09/2022 07:24:24 - INFO - __main__ -   epoch 1 step 1400 loss 0.11073
+10/09/2022 07:24:51 - INFO - __main__ -   epoch 1 step 1500 loss 0.10754
+10/09/2022 07:25:19 - INFO - __main__ -   epoch 1 step 1600 loss 0.10821
+10/09/2022 07:25:46 - INFO - __main__ -   epoch 1 step 1700 loss 0.11127
+10/09/2022 07:26:14 - INFO - __main__ -   epoch 1 step 1800 loss 0.11046
+10/09/2022 07:26:41 - INFO - __main__ -   epoch 1 step 1900 loss 0.10736
+10/09/2022 07:27:33 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 07:27:33 - INFO - __main__ -     Num queries = 13914
+10/09/2022 07:27:33 - INFO - __main__ -     Num codes = 43827
+10/09/2022 07:27:33 - INFO - __main__ -     Batch size = 128
+10/09/2022 07:29:23 - INFO - __main__ -     R@1 = 0.602
+10/09/2022 07:29:23 - INFO - __main__ -     R@5 = 0.82
+10/09/2022 07:29:23 - INFO - __main__ -     R@10 = 0.875
+10/09/2022 07:29:23 - INFO - __main__ -     eval_mrr = 0.7
+10/09/2022 07:29:23 - INFO - __main__ -     ********************
+10/09/2022 07:29:23 - INFO - __main__ -     Best mrr:0.7
+10/09/2022 07:29:23 - INFO - __main__ -     ********************
+10/09/2022 07:29:34 - INFO - __main__ -   Saving model checkpoint to saved_models/code_search/unixcoder/partial_freezing/python/freeze_bottom_9_layers/20221009070226/checkpoint-best-mrr/model.bin
+10/09/2022 07:30:02 - INFO - __main__ -   epoch 2 step 100 loss 0.10207
+10/09/2022 07:30:29 - INFO - __main__ -   epoch 2 step 200 loss 0.09375
+10/09/2022 07:30:57 - INFO - __main__ -   epoch 2 step 300 loss 0.09459
+10/09/2022 07:31:24 - INFO - __main__ -   epoch 2 step 400 loss 0.09449
+10/09/2022 07:31:52 - INFO - __main__ -   epoch 2 step 500 loss 0.09858
+10/09/2022 07:32:19 - INFO - __main__ -   epoch 2 step 600 loss 0.09959
+10/09/2022 07:32:47 - INFO - __main__ -   epoch 2 step 700 loss 0.09677
+10/09/2022 07:33:14 - INFO - __main__ -   epoch 2 step 800 loss 0.09556
+10/09/2022 07:33:42 - INFO - __main__ -   epoch 2 step 900 loss 0.10642
+10/09/2022 07:34:09 - INFO - __main__ -   epoch 2 step 1000 loss 0.09723
+10/09/2022 07:34:36 - INFO - __main__ -   epoch 2 step 1100 loss 0.10256
+10/09/2022 07:35:04 - INFO - __main__ -   epoch 2 step 1200 loss 0.09911
+10/09/2022 07:35:31 - INFO - __main__ -   epoch 2 step 1300 loss 0.10184
+10/09/2022 07:35:59 - INFO - __main__ -   epoch 2 step 1400 loss 0.10194
+10/09/2022 07:36:27 - INFO - __main__ -   epoch 2 step 1500 loss 0.09826
+10/09/2022 07:36:54 - INFO - __main__ -   epoch 2 step 1600 loss 0.10223
+10/09/2022 07:37:22 - INFO - __main__ -   epoch 2 step 1700 loss 0.09645
+10/09/2022 07:37:49 - INFO - __main__ -   epoch 2 step 1800 loss 0.09944
+10/09/2022 07:38:17 - INFO - __main__ -   epoch 2 step 1900 loss 0.10024
+10/09/2022 07:39:09 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 07:39:09 - INFO - __main__ -     Num queries = 13914
+10/09/2022 07:39:09 - INFO - __main__ -     Num codes = 43827
+10/09/2022 07:39:09 - INFO - __main__ -     Batch size = 128
+10/09/2022 07:40:59 - INFO - __main__ -     R@1 = 0.604
+10/09/2022 07:40:59 - INFO - __main__ -     R@5 = 0.825
+10/09/2022 07:40:59 - INFO - __main__ -     R@10 = 0.877
+10/09/2022 07:40:59 - INFO - __main__ -     eval_mrr = 0.703
+10/09/2022 07:40:59 - INFO - __main__ -     ********************
+10/09/2022 07:40:59 - INFO - __main__ -     Best mrr:0.703
+10/09/2022 07:40:59 - INFO - __main__ -     ********************
+10/09/2022 07:41:06 - INFO - __main__ -   Saving model checkpoint to saved_models/code_search/unixcoder/partial_freezing/python/freeze_bottom_9_layers/20221009070226/checkpoint-best-mrr/model.bin
+10/09/2022 07:41:34 - INFO - __main__ -   epoch 3 step 100 loss 0.0919
+10/09/2022 07:42:02 - INFO - __main__ -   epoch 3 step 200 loss 0.08434
+10/09/2022 07:42:29 - INFO - __main__ -   epoch 3 step 300 loss 0.09256
+10/09/2022 07:42:57 - INFO - __main__ -   epoch 3 step 400 loss 0.0875
+10/09/2022 07:43:24 - INFO - __main__ -   epoch 3 step 500 loss 0.0918
+10/09/2022 07:43:52 - INFO - __main__ -   epoch 3 step 600 loss 0.08536
+10/09/2022 07:44:19 - INFO - __main__ -   epoch 3 step 700 loss 0.09143
+10/09/2022 07:44:47 - INFO - __main__ -   epoch 3 step 800 loss 0.08866
+10/09/2022 07:45:14 - INFO - __main__ -   epoch 3 step 900 loss 0.09066
+10/09/2022 07:45:41 - INFO - __main__ -   epoch 3 step 1000 loss 0.09032
+10/09/2022 07:46:09 - INFO - __main__ -   epoch 3 step 1100 loss 0.08433
+10/09/2022 07:46:36 - INFO - __main__ -   epoch 3 step 1200 loss 0.08684
+10/09/2022 07:47:04 - INFO - __main__ -   epoch 3 step 1300 loss 0.08755
+10/09/2022 07:47:31 - INFO - __main__ -   epoch 3 step 1400 loss 0.08805
+10/09/2022 07:47:59 - INFO - __main__ -   epoch 3 step 1500 loss 0.08235
+10/09/2022 07:48:26 - INFO - __main__ -   epoch 3 step 1600 loss 0.09001
+10/09/2022 07:48:53 - INFO - __main__ -   epoch 3 step 1700 loss 0.08584
+10/09/2022 07:49:21 - INFO - __main__ -   epoch 3 step 1800 loss 0.08712
+10/09/2022 07:49:48 - INFO - __main__ -   epoch 3 step 1900 loss 0.0942
+10/09/2022 07:50:40 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 07:50:40 - INFO - __main__ -     Num queries = 13914
+10/09/2022 07:50:40 - INFO - __main__ -     Num codes = 43827
+10/09/2022 07:50:40 - INFO - __main__ -     Batch size = 128
+10/09/2022 07:52:31 - INFO - __main__ -     R@1 = 0.604
+10/09/2022 07:52:31 - INFO - __main__ -     R@5 = 0.826
+10/09/2022 07:52:31 - INFO - __main__ -     R@10 = 0.878
+10/09/2022 07:52:31 - INFO - __main__ -     eval_mrr = 0.703
+10/09/2022 07:52:59 - INFO - __main__ -   epoch 4 step 100 loss 0.07907
+10/09/2022 07:53:26 - INFO - __main__ -   epoch 4 step 200 loss 0.07846
+10/09/2022 07:53:54 - INFO - __main__ -   epoch 4 step 300 loss 0.08229
+10/09/2022 07:54:21 - INFO - __main__ -   epoch 4 step 400 loss 0.08273
+10/09/2022 07:54:49 - INFO - __main__ -   epoch 4 step 500 loss 0.07946
+10/09/2022 07:55:16 - INFO - __main__ -   epoch 4 step 600 loss 0.08577
+10/09/2022 07:55:44 - INFO - __main__ -   epoch 4 step 700 loss 0.08068
+10/09/2022 07:56:11 - INFO - __main__ -   epoch 4 step 800 loss 0.08068
+10/09/2022 07:56:39 - INFO - __main__ -   epoch 4 step 900 loss 0.0794
+10/09/2022 07:57:06 - INFO - __main__ -   epoch 4 step 1000 loss 0.07857
+10/09/2022 07:57:33 - INFO - __main__ -   epoch 4 step 1100 loss 0.07522
+10/09/2022 07:58:01 - INFO - __main__ -   epoch 4 step 1200 loss 0.08176
+10/09/2022 07:58:28 - INFO - __main__ -   epoch 4 step 1300 loss 0.07942
+10/09/2022 07:58:56 - INFO - __main__ -   epoch 4 step 1400 loss 0.07898
+10/09/2022 07:59:23 - INFO - __main__ -   epoch 4 step 1500 loss 0.08288
+10/09/2022 07:59:51 - INFO - __main__ -   epoch 4 step 1600 loss 0.07924
+10/09/2022 08:00:18 - INFO - __main__ -   epoch 4 step 1700 loss 0.07887
+10/09/2022 08:00:45 - INFO - __main__ -   epoch 4 step 1800 loss 0.08479
+10/09/2022 08:01:13 - INFO - __main__ -   epoch 4 step 1900 loss 0.08126
+10/09/2022 08:02:05 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 08:02:05 - INFO - __main__ -     Num queries = 13914
+10/09/2022 08:02:05 - INFO - __main__ -     Num codes = 43827
+10/09/2022 08:02:05 - INFO - __main__ -     Batch size = 128
+10/09/2022 08:03:55 - INFO - __main__ -     R@1 = 0.606
+10/09/2022 08:03:55 - INFO - __main__ -     R@5 = 0.825
+10/09/2022 08:03:55 - INFO - __main__ -     R@10 = 0.877
+10/09/2022 08:03:55 - INFO - __main__ -     eval_mrr = 0.704
+10/09/2022 08:03:55 - INFO - __main__ -     ********************
+10/09/2022 08:03:55 - INFO - __main__ -     Best mrr:0.704
+10/09/2022 08:03:55 - INFO - __main__ -     ********************
+10/09/2022 08:04:05 - INFO - __main__ -   Saving model checkpoint to saved_models/code_search/unixcoder/partial_freezing/python/freeze_bottom_9_layers/20221009070226/checkpoint-best-mrr/model.bin
+10/09/2022 08:04:33 - INFO - __main__ -   epoch 5 step 100 loss 0.07219
+10/09/2022 08:05:00 - INFO - __main__ -   epoch 5 step 200 loss 0.07575
+10/09/2022 08:05:28 - INFO - __main__ -   epoch 5 step 300 loss 0.07479
+10/09/2022 08:05:55 - INFO - __main__ -   epoch 5 step 400 loss 0.07058
+10/09/2022 08:06:23 - INFO - __main__ -   epoch 5 step 500 loss 0.06969
+10/09/2022 08:06:50 - INFO - __main__ -   epoch 5 step 600 loss 0.07444
+10/09/2022 08:07:18 - INFO - __main__ -   epoch 5 step 700 loss 0.07158
+10/09/2022 08:07:45 - INFO - __main__ -   epoch 5 step 800 loss 0.07693
+10/09/2022 08:08:13 - INFO - __main__ -   epoch 5 step 900 loss 0.0742
+10/09/2022 08:08:40 - INFO - __main__ -   epoch 5 step 1000 loss 0.07233
+10/09/2022 08:09:08 - INFO - __main__ -   epoch 5 step 1100 loss 0.07331
+10/09/2022 08:09:35 - INFO - __main__ -   epoch 5 step 1200 loss 0.06769
+10/09/2022 08:10:03 - INFO - __main__ -   epoch 5 step 1300 loss 0.07545
+10/09/2022 08:10:30 - INFO - __main__ -   epoch 5 step 1400 loss 0.07301
+10/09/2022 08:10:58 - INFO - __main__ -   epoch 5 step 1500 loss 0.07537
+10/09/2022 08:11:25 - INFO - __main__ -   epoch 5 step 1600 loss 0.07817
+10/09/2022 08:11:53 - INFO - __main__ -   epoch 5 step 1700 loss 0.07001
+10/09/2022 08:12:20 - INFO - __main__ -   epoch 5 step 1800 loss 0.07824
+10/09/2022 08:12:48 - INFO - __main__ -   epoch 5 step 1900 loss 0.07546
+10/09/2022 08:13:40 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 08:13:40 - INFO - __main__ -     Num queries = 13914
+10/09/2022 08:13:40 - INFO - __main__ -     Num codes = 43827
+10/09/2022 08:13:40 - INFO - __main__ -     Batch size = 128
+10/09/2022 08:15:30 - INFO - __main__ -     R@1 = 0.609
+10/09/2022 08:15:30 - INFO - __main__ -     R@5 = 0.828
+10/09/2022 08:15:30 - INFO - __main__ -     R@10 = 0.879
+10/09/2022 08:15:30 - INFO - __main__ -     eval_mrr = 0.707
+10/09/2022 08:15:30 - INFO - __main__ -     ********************
+10/09/2022 08:15:30 - INFO - __main__ -     Best mrr:0.707
+10/09/2022 08:15:30 - INFO - __main__ -     ********************
+10/09/2022 08:15:44 - INFO - __main__ -   Saving model checkpoint to saved_models/code_search/unixcoder/partial_freezing/python/freeze_bottom_9_layers/20221009070226/checkpoint-best-mrr/model.bin
+10/09/2022 08:16:12 - INFO - __main__ -   epoch 6 step 100 loss 0.07133
+10/09/2022 08:16:40 - INFO - __main__ -   epoch 6 step 200 loss 0.07081
+10/09/2022 08:17:07 - INFO - __main__ -   epoch 6 step 300 loss 0.0659
+10/09/2022 08:17:34 - INFO - __main__ -   epoch 6 step 400 loss 0.06525
+10/09/2022 08:18:02 - INFO - __main__ -   epoch 6 step 500 loss 0.06807
+10/09/2022 08:18:29 - INFO - __main__ -   epoch 6 step 600 loss 0.0707
+10/09/2022 08:18:57 - INFO - __main__ -   epoch 6 step 700 loss 0.06621
+10/09/2022 08:19:24 - INFO - __main__ -   epoch 6 step 800 loss 0.06796
+10/09/2022 08:19:52 - INFO - __main__ -   epoch 6 step 900 loss 0.06966
+10/09/2022 08:20:19 - INFO - __main__ -   epoch 6 step 1000 loss 0.06952
+10/09/2022 08:20:47 - INFO - __main__ -   epoch 6 step 1100 loss 0.06893
+10/09/2022 08:21:14 - INFO - __main__ -   epoch 6 step 1200 loss 0.06779
+10/09/2022 08:21:42 - INFO - __main__ -   epoch 6 step 1300 loss 0.0663
+10/09/2022 08:22:09 - INFO - __main__ -   epoch 6 step 1400 loss 0.0727
+10/09/2022 08:22:37 - INFO - __main__ -   epoch 6 step 1500 loss 0.0701
+10/09/2022 08:23:04 - INFO - __main__ -   epoch 6 step 1600 loss 0.06698
+10/09/2022 08:23:32 - INFO - __main__ -   epoch 6 step 1700 loss 0.06914
+10/09/2022 08:23:59 - INFO - __main__ -   epoch 6 step 1800 loss 0.07184
+10/09/2022 08:24:27 - INFO - __main__ -   epoch 6 step 1900 loss 0.0691
+10/09/2022 08:25:19 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 08:25:19 - INFO - __main__ -     Num queries = 13914
+10/09/2022 08:25:19 - INFO - __main__ -     Num codes = 43827
+10/09/2022 08:25:19 - INFO - __main__ -     Batch size = 128
+10/09/2022 08:27:09 - INFO - __main__ -     R@1 = 0.607
+10/09/2022 08:27:09 - INFO - __main__ -     R@5 = 0.827
+10/09/2022 08:27:09 - INFO - __main__ -     R@10 = 0.88
+10/09/2022 08:27:09 - INFO - __main__ -     eval_mrr = 0.706
+10/09/2022 08:27:37 - INFO - __main__ -   epoch 7 step 100 loss 0.06924
+10/09/2022 08:28:05 - INFO - __main__ -   epoch 7 step 200 loss 0.06683
+10/09/2022 08:28:32 - INFO - __main__ -   epoch 7 step 300 loss 0.06451
+10/09/2022 08:29:00 - INFO - __main__ -   epoch 7 step 400 loss 0.06944
+10/09/2022 08:29:27 - INFO - __main__ -   epoch 7 step 500 loss 0.06226
+10/09/2022 08:29:55 - INFO - __main__ -   epoch 7 step 600 loss 0.06529
+10/09/2022 08:30:22 - INFO - __main__ -   epoch 7 step 700 loss 0.06597
+10/09/2022 08:30:49 - INFO - __main__ -   epoch 7 step 800 loss 0.06266
+10/09/2022 08:31:17 - INFO - __main__ -   epoch 7 step 900 loss 0.06509
+10/09/2022 08:31:44 - INFO - __main__ -   epoch 7 step 1000 loss 0.06296
+10/09/2022 08:32:12 - INFO - __main__ -   epoch 7 step 1100 loss 0.06874
+10/09/2022 08:32:39 - INFO - __main__ -   epoch 7 step 1200 loss 0.0657
+10/09/2022 08:33:07 - INFO - __main__ -   epoch 7 step 1300 loss 0.06525
+10/09/2022 08:33:34 - INFO - __main__ -   epoch 7 step 1400 loss 0.0653
+10/09/2022 08:34:02 - INFO - __main__ -   epoch 7 step 1500 loss 0.05815
+10/09/2022 08:34:29 - INFO - __main__ -   epoch 7 step 1600 loss 0.06371
+10/09/2022 08:34:56 - INFO - __main__ -   epoch 7 step 1700 loss 0.06326
+10/09/2022 08:35:24 - INFO - __main__ -   epoch 7 step 1800 loss 0.06961
+10/09/2022 08:35:51 - INFO - __main__ -   epoch 7 step 1900 loss 0.06532
+10/09/2022 08:36:43 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 08:36:43 - INFO - __main__ -     Num queries = 13914
+10/09/2022 08:36:43 - INFO - __main__ -     Num codes = 43827
+10/09/2022 08:36:43 - INFO - __main__ -     Batch size = 128
+10/09/2022 08:38:34 - INFO - __main__ -     R@1 = 0.606
+10/09/2022 08:38:34 - INFO - __main__ -     R@5 = 0.828
+10/09/2022 08:38:34 - INFO - __main__ -     R@10 = 0.879
+10/09/2022 08:38:34 - INFO - __main__ -     eval_mrr = 0.705
+10/09/2022 08:39:02 - INFO - __main__ -   epoch 8 step 100 loss 0.06005
+10/09/2022 08:39:29 - INFO - __main__ -   epoch 8 step 200 loss 0.05976
+10/09/2022 08:39:57 - INFO - __main__ -   epoch 8 step 300 loss 0.06078
+10/09/2022 08:40:24 - INFO - __main__ -   epoch 8 step 400 loss 0.05991
+10/09/2022 08:40:52 - INFO - __main__ -   epoch 8 step 500 loss 0.06193
+10/09/2022 08:41:19 - INFO - __main__ -   epoch 8 step 600 loss 0.06601
+10/09/2022 08:41:47 - INFO - __main__ -   epoch 8 step 700 loss 0.06031
+10/09/2022 08:42:14 - INFO - __main__ -   epoch 8 step 800 loss 0.06243
+10/09/2022 08:42:41 - INFO - __main__ -   epoch 8 step 900 loss 0.06367
+10/09/2022 08:43:09 - INFO - __main__ -   epoch 8 step 1000 loss 0.06047
+10/09/2022 08:43:36 - INFO - __main__ -   epoch 8 step 1100 loss 0.06597
+10/09/2022 08:44:04 - INFO - __main__ -   epoch 8 step 1200 loss 0.06532
+10/09/2022 08:44:31 - INFO - __main__ -   epoch 8 step 1300 loss 0.06474
+10/09/2022 08:44:59 - INFO - __main__ -   epoch 8 step 1400 loss 0.06432
+10/09/2022 08:45:26 - INFO - __main__ -   epoch 8 step 1500 loss 0.06382
+10/09/2022 08:45:53 - INFO - __main__ -   epoch 8 step 1600 loss 0.05638
+10/09/2022 08:46:21 - INFO - __main__ -   epoch 8 step 1700 loss 0.06387
+10/09/2022 08:46:48 - INFO - __main__ -   epoch 8 step 1800 loss 0.06278
+10/09/2022 08:47:16 - INFO - __main__ -   epoch 8 step 1900 loss 0.06331
+10/09/2022 08:48:05 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 08:48:05 - INFO - __main__ -     Num queries = 13914
+10/09/2022 08:48:05 - INFO - __main__ -     Num codes = 43827
+10/09/2022 08:48:05 - INFO - __main__ -     Batch size = 128
+10/09/2022 08:49:55 - INFO - __main__ -     R@1 = 0.607
+10/09/2022 08:49:55 - INFO - __main__ -     R@5 = 0.828
+10/09/2022 08:49:55 - INFO - __main__ -     R@10 = 0.879
+10/09/2022 08:49:55 - INFO - __main__ -     eval_mrr = 0.706
+10/09/2022 08:50:23 - INFO - __main__ -   epoch 9 step 100 loss 0.06485
+10/09/2022 08:50:51 - INFO - __main__ -   epoch 9 step 200 loss 0.06207
+10/09/2022 08:51:18 - INFO - __main__ -   epoch 9 step 300 loss 0.06395
+10/09/2022 08:51:46 - INFO - __main__ -   epoch 9 step 400 loss 0.05957
+10/09/2022 08:52:13 - INFO - __main__ -   epoch 9 step 500 loss 0.06311
+10/09/2022 08:52:40 - INFO - __main__ -   epoch 9 step 600 loss 0.05771
+10/09/2022 08:53:08 - INFO - __main__ -   epoch 9 step 700 loss 0.06089
+10/09/2022 08:53:36 - INFO - __main__ -   epoch 9 step 800 loss 0.06172
+10/09/2022 08:54:03 - INFO - __main__ -   epoch 9 step 900 loss 0.06106
+10/09/2022 08:54:31 - INFO - __main__ -   epoch 9 step 1000 loss 0.06101
+10/09/2022 08:54:58 - INFO - __main__ -   epoch 9 step 1100 loss 0.05853
+10/09/2022 08:55:25 - INFO - __main__ -   epoch 9 step 1200 loss 0.06056
+10/09/2022 08:55:53 - INFO - __main__ -   epoch 9 step 1300 loss 0.06224
+10/09/2022 08:56:20 - INFO - __main__ -   epoch 9 step 1400 loss 0.06077
+10/09/2022 08:56:48 - INFO - __main__ -   epoch 9 step 1500 loss 0.05865
+10/09/2022 08:57:15 - INFO - __main__ -   epoch 9 step 1600 loss 0.06344
+10/09/2022 08:57:42 - INFO - __main__ -   epoch 9 step 1700 loss 0.05636
+10/09/2022 08:58:10 - INFO - __main__ -   epoch 9 step 1800 loss 0.06051
+10/09/2022 08:58:37 - INFO - __main__ -   epoch 9 step 1900 loss 0.0597
+10/09/2022 08:59:31 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 08:59:31 - INFO - __main__ -     Num queries = 13914
+10/09/2022 08:59:31 - INFO - __main__ -     Num codes = 43827
+10/09/2022 08:59:31 - INFO - __main__ -     Batch size = 128
+10/09/2022 09:01:21 - INFO - __main__ -     R@1 = 0.609
+10/09/2022 09:01:21 - INFO - __main__ -     R@5 = 0.829
+10/09/2022 09:01:21 - INFO - __main__ -     R@10 = 0.879
+10/09/2022 09:01:21 - INFO - __main__ -     eval_mrr = 0.707
+10/09/2022 09:01:54 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 09:01:54 - INFO - __main__ -     Num queries = 13914
+10/09/2022 09:01:54 - INFO - __main__ -     Num codes = 43827
+10/09/2022 09:01:54 - INFO - __main__ -     Batch size = 128
+10/09/2022 09:03:44 - INFO - __main__ -   ***** Eval results *****
+10/09/2022 09:03:44 - INFO - __main__ -     R@1 = 0.609
+10/09/2022 09:03:44 - INFO - __main__ -     R@10 = 0.879
+10/09/2022 09:03:44 - INFO - __main__ -     R@5 = 0.828
+10/09/2022 09:03:44 - INFO - __main__ -     eval_mrr = 0.707
+10/09/2022 09:04:18 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 09:04:18 - INFO - __main__ -     Num queries = 14918
+10/09/2022 09:04:18 - INFO - __main__ -     Num codes = 43827
+10/09/2022 09:04:18 - INFO - __main__ -     Batch size = 128
+10/09/2022 09:06:12 - INFO - __main__ -   ***** Eval results *****
+10/09/2022 09:06:12 - INFO - __main__ -     R@1 = 0.621
+10/09/2022 09:06:12 - INFO - __main__ -     R@10 = 0.888
+10/09/2022 09:06:12 - INFO - __main__ -     R@5 = 0.84
+10/09/2022 09:06:12 - INFO - __main__ -     eval_mrr = 0.719
+10/09/2022 09:06:13 - INFO - utils -   saved dataset in saved_models/code_search/unixcoder/partial_freezing/python/freeze_bottom_9_layers/20221009070226/result.jsonl

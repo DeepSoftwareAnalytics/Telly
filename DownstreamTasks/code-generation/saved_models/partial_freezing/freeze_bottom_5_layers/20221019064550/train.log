@@ -1,0 +1,1429 @@
+10/19/2022 06:46:00 - INFO - __main__ -   device: cuda, n_gpu: 1
+10/19/2022 06:46:01 - DEBUG - filelock -   Attempting to acquire lock 140092609926864 on /home/aiscuser/.cache/huggingface/transformers/6537f24197db9749ad60f891d7a50ec2de3992bee193d25b24bb244ee5ca91f9.6243fbb3cc75148b68777473341e2d0860fde2b135f39c1d7d274d8ba1763e13.lock
+10/19/2022 06:46:01 - DEBUG - filelock -   Lock 140092609926864 acquired on /home/aiscuser/.cache/huggingface/transformers/6537f24197db9749ad60f891d7a50ec2de3992bee193d25b24bb244ee5ca91f9.6243fbb3cc75148b68777473341e2d0860fde2b135f39c1d7d274d8ba1763e13.lock
+Downloading:   0%|          | 0.00/916k [00:00<?, ?B/s]Downloading: 100%|██████████| 916k/916k [00:00<00:00, 61.1MB/s]
+10/19/2022 06:46:01 - DEBUG - filelock -   Attempting to release lock 140092609926864 on /home/aiscuser/.cache/huggingface/transformers/6537f24197db9749ad60f891d7a50ec2de3992bee193d25b24bb244ee5ca91f9.6243fbb3cc75148b68777473341e2d0860fde2b135f39c1d7d274d8ba1763e13.lock
+10/19/2022 06:46:01 - DEBUG - filelock -   Lock 140092609926864 released on /home/aiscuser/.cache/huggingface/transformers/6537f24197db9749ad60f891d7a50ec2de3992bee193d25b24bb244ee5ca91f9.6243fbb3cc75148b68777473341e2d0860fde2b135f39c1d7d274d8ba1763e13.lock
+10/19/2022 06:46:01 - DEBUG - filelock -   Attempting to acquire lock 140092608118688 on /home/aiscuser/.cache/huggingface/transformers/e9a41c80e105c7ebfab8467fd5fa110db792fa435a42cf53fc84cd4dbce63203.fcaa28dbb04dd654a7ac023857de409e4815667a26706e2aa9a1bbc3ed49037a.lock
+10/19/2022 06:46:01 - DEBUG - filelock -   Lock 140092608118688 acquired on /home/aiscuser/.cache/huggingface/transformers/e9a41c80e105c7ebfab8467fd5fa110db792fa435a42cf53fc84cd4dbce63203.fcaa28dbb04dd654a7ac023857de409e4815667a26706e2aa9a1bbc3ed49037a.lock
+Downloading:   0%|          | 0.00/434k [00:00<?, ?B/s]Downloading: 100%|██████████| 434k/434k [00:00<00:00, 49.3MB/s]
+10/19/2022 06:46:01 - DEBUG - filelock -   Attempting to release lock 140092608118688 on /home/aiscuser/.cache/huggingface/transformers/e9a41c80e105c7ebfab8467fd5fa110db792fa435a42cf53fc84cd4dbce63203.fcaa28dbb04dd654a7ac023857de409e4815667a26706e2aa9a1bbc3ed49037a.lock
+10/19/2022 06:46:01 - DEBUG - filelock -   Lock 140092608118688 released on /home/aiscuser/.cache/huggingface/transformers/e9a41c80e105c7ebfab8467fd5fa110db792fa435a42cf53fc84cd4dbce63203.fcaa28dbb04dd654a7ac023857de409e4815667a26706e2aa9a1bbc3ed49037a.lock
+10/19/2022 06:46:01 - DEBUG - filelock -   Attempting to acquire lock 140092608165824 on /home/aiscuser/.cache/huggingface/transformers/192a4a8bfa30aa3013d375ea31db6b14b0f753bf61bd99b778cb8ebaa0d6a338.cb2244924ab24d706b02fd7fcedaea4531566537687a539ebb94db511fd122a0.lock
+10/19/2022 06:46:01 - DEBUG - filelock -   Lock 140092608165824 acquired on /home/aiscuser/.cache/huggingface/transformers/192a4a8bfa30aa3013d375ea31db6b14b0f753bf61bd99b778cb8ebaa0d6a338.cb2244924ab24d706b02fd7fcedaea4531566537687a539ebb94db511fd122a0.lock
+Downloading:   0%|          | 0.00/772 [00:00<?, ?B/s]Downloading: 100%|██████████| 772/772 [00:00<00:00, 1.13MB/s]
+10/19/2022 06:46:01 - DEBUG - filelock -   Attempting to release lock 140092608165824 on /home/aiscuser/.cache/huggingface/transformers/192a4a8bfa30aa3013d375ea31db6b14b0f753bf61bd99b778cb8ebaa0d6a338.cb2244924ab24d706b02fd7fcedaea4531566537687a539ebb94db511fd122a0.lock
+10/19/2022 06:46:01 - DEBUG - filelock -   Lock 140092608165824 released on /home/aiscuser/.cache/huggingface/transformers/192a4a8bfa30aa3013d375ea31db6b14b0f753bf61bd99b778cb8ebaa0d6a338.cb2244924ab24d706b02fd7fcedaea4531566537687a539ebb94db511fd122a0.lock
+10/19/2022 06:46:01 - DEBUG - filelock -   Attempting to acquire lock 140092608118688 on /home/aiscuser/.cache/huggingface/transformers/74b423f29ba4f21ecd941f8d4fdc1e5a1568328f2d478850463813dc4e81c58a.ad8c4e4e357cd74df740cd60a08548a831bd19834e8802cfa73d289e1818a8c4.lock
+10/19/2022 06:46:01 - DEBUG - filelock -   Lock 140092608118688 acquired on /home/aiscuser/.cache/huggingface/transformers/74b423f29ba4f21ecd941f8d4fdc1e5a1568328f2d478850463813dc4e81c58a.ad8c4e4e357cd74df740cd60a08548a831bd19834e8802cfa73d289e1818a8c4.lock
+Downloading:   0%|          | 0.00/1.09k [00:00<?, ?B/s]Downloading: 100%|██████████| 1.09k/1.09k [00:00<00:00, 2.25MB/s]
+10/19/2022 06:46:01 - DEBUG - filelock -   Attempting to release lock 140092608118688 on /home/aiscuser/.cache/huggingface/transformers/74b423f29ba4f21ecd941f8d4fdc1e5a1568328f2d478850463813dc4e81c58a.ad8c4e4e357cd74df740cd60a08548a831bd19834e8802cfa73d289e1818a8c4.lock
+10/19/2022 06:46:01 - DEBUG - filelock -   Lock 140092608118688 released on /home/aiscuser/.cache/huggingface/transformers/74b423f29ba4f21ecd941f8d4fdc1e5a1568328f2d478850463813dc4e81c58a.ad8c4e4e357cd74df740cd60a08548a831bd19834e8802cfa73d289e1818a8c4.lock
+10/19/2022 06:46:02 - DEBUG - filelock -   Attempting to acquire lock 140092608118688 on /home/aiscuser/.cache/huggingface/transformers/f47f36c6d415b8e978f9685f6dbf2651cc9c951dea26b74fcf8bf62e44900449.b53aa458f35a3b932d45090e5916927053a2bf0e803f4eb410b7d1f922b60a05.lock
+10/19/2022 06:46:02 - DEBUG - filelock -   Lock 140092608118688 acquired on /home/aiscuser/.cache/huggingface/transformers/f47f36c6d415b8e978f9685f6dbf2651cc9c951dea26b74fcf8bf62e44900449.b53aa458f35a3b932d45090e5916927053a2bf0e803f4eb410b7d1f922b60a05.lock
+Downloading:   0%|          | 0.00/691 [00:00<?, ?B/s]Downloading: 100%|██████████| 691/691 [00:00<00:00, 553kB/s]
+10/19/2022 06:46:02 - DEBUG - filelock -   Attempting to release lock 140092608118688 on /home/aiscuser/.cache/huggingface/transformers/f47f36c6d415b8e978f9685f6dbf2651cc9c951dea26b74fcf8bf62e44900449.b53aa458f35a3b932d45090e5916927053a2bf0e803f4eb410b7d1f922b60a05.lock
+10/19/2022 06:46:02 - DEBUG - filelock -   Lock 140092608118688 released on /home/aiscuser/.cache/huggingface/transformers/f47f36c6d415b8e978f9685f6dbf2651cc9c951dea26b74fcf8bf62e44900449.b53aa458f35a3b932d45090e5916927053a2bf0e803f4eb410b7d1f922b60a05.lock
+10/19/2022 06:46:02 - DEBUG - filelock -   Attempting to acquire lock 140092506957232 on /home/aiscuser/.cache/huggingface/transformers/e472463826d959ba1a2526157c66c6678d307297de0ac70cb20d4bc20227a3ea.cd2d780fc8b692f148ec889e56ece5a353765aa429eda28d9a89b5a1aeb735db.lock
+10/19/2022 06:46:02 - DEBUG - filelock -   Lock 140092506957232 acquired on /home/aiscuser/.cache/huggingface/transformers/e472463826d959ba1a2526157c66c6678d307297de0ac70cb20d4bc20227a3ea.cd2d780fc8b692f148ec889e56ece5a353765aa429eda28d9a89b5a1aeb735db.lock
+Downloading:   0%|          | 0.00/480M [00:00<?, ?B/s]Downloading:   2%|▏         | 7.58M/480M [00:00<00:06, 79.5MB/s]Downloading:   3%|▎         | 15.2M/480M [00:00<00:06, 79.8MB/s]Downloading:   5%|▍         | 23.5M/480M [00:00<00:05, 82.8MB/s]Downloading:   7%|▋         | 31.4M/480M [00:00<00:05, 82.9MB/s]Downloading:   8%|▊         | 39.3M/480M [00:00<00:06, 71.3MB/s]Downloading:  10%|▉         | 47.4M/480M [00:00<00:05, 75.7MB/s]Downloading:  12%|█▏        | 55.8M/480M [00:00<00:05, 79.4MB/s]Downloading:  13%|█▎        | 64.1M/480M [00:00<00:05, 81.8MB/s]Downloading:  15%|█▌        | 72.8M/480M [00:00<00:05, 84.5MB/s]Downloading:  17%|█▋        | 80.9M/480M [00:01<00:04, 84.2MB/s]Downloading:  19%|█▊        | 89.0M/480M [00:01<00:04, 82.4MB/s]Downloading:  20%|██        | 96.9M/480M [00:01<00:05, 79.9MB/s]Downloading:  22%|██▏       | 105M/480M [00:01<00:04, 79.7MB/s] Downloading:  23%|██▎       | 112M/480M [00:01<00:04, 80.3MB/s]Downloading:  25%|██▍       | 120M/480M [00:01<00:04, 78.5MB/s]Downloading:  27%|██▋       | 128M/480M [00:01<00:04, 79.2MB/s]Downloading:  28%|██▊       | 136M/480M [00:01<00:04, 81.9MB/s]Downloading:  30%|███       | 145M/480M [00:01<00:04, 83.8MB/s]Downloading:  32%|███▏      | 153M/480M [00:01<00:04, 84.7MB/s]Downloading:  34%|███▎      | 161M/480M [00:02<00:04, 83.1MB/s]Downloading:  35%|███▌      | 169M/480M [00:02<00:04, 81.4MB/s]Downloading:  37%|███▋      | 177M/480M [00:02<00:04, 74.4MB/s]Downloading:  38%|███▊      | 184M/480M [00:02<00:04, 75.0MB/s]Downloading:  40%|███▉      | 191M/480M [00:02<00:04, 74.7MB/s]Downloading:  41%|████▏     | 199M/480M [00:02<00:03, 77.3MB/s]Downloading:  43%|████▎     | 208M/480M [00:02<00:03, 80.0MB/s]Downloading:  45%|████▍     | 215M/480M [00:02<00:03, 79.5MB/s]Downloading:  46%|████▋     | 223M/480M [00:02<00:03, 77.1MB/s]Downloading:  48%|████▊     | 230M/480M [00:03<00:03, 73.6MB/s]Downloading:  49%|████▉     | 238M/480M [00:03<00:03, 74.7MB/s]Downloading:  51%|█████     | 245M/480M [00:03<00:03, 76.4MB/s]Downloading:  53%|█████▎    | 253M/480M [00:03<00:03, 77.5MB/s]Downloading:  54%|█████▍    | 260M/480M [00:03<00:03, 73.9MB/s]Downloading:  56%|█████▌    | 268M/480M [00:03<00:02, 75.8MB/s]Downloading:  57%|█████▋    | 275M/480M [00:03<00:02, 76.1MB/s]Downloading:  59%|█████▉    | 283M/480M [00:03<00:02, 72.1MB/s]Downloading:  60%|██████    | 291M/480M [00:03<00:02, 75.4MB/s]Downloading:  62%|██████▏   | 298M/480M [00:03<00:02, 75.7MB/s]Downloading:  64%|██████▎   | 306M/480M [00:04<00:02, 77.2MB/s]Downloading:  65%|██████▌   | 313M/480M [00:04<00:02, 70.9MB/s]Downloading:  67%|██████▋   | 321M/480M [00:04<00:02, 73.4MB/s]Downloading:  68%|██████▊   | 328M/480M [00:04<00:02, 71.8MB/s]Downloading:  70%|██████▉   | 335M/480M [00:04<00:02, 68.8MB/s]Downloading:  71%|███████   | 341M/480M [00:04<00:02, 68.4MB/s]Downloading:  72%|███████▏  | 348M/480M [00:04<00:02, 64.6MB/s]Downloading:  74%|███████▍  | 356M/480M [00:04<00:01, 69.4MB/s]Downloading:  75%|███████▌  | 363M/480M [00:04<00:01, 69.0MB/s]Downloading:  77%|███████▋  | 371M/480M [00:05<00:01, 73.6MB/s]Downloading:  79%|███████▉  | 378M/480M [00:05<00:01, 75.9MB/s]Downloading:  80%|████████  | 386M/480M [00:05<00:01, 69.2MB/s]Downloading:  82%|████████▏ | 392M/480M [00:05<00:01, 69.8MB/s]Downloading:  83%|████████▎ | 401M/480M [00:05<00:01, 74.4MB/s]Downloading:  85%|████████▍ | 408M/480M [00:05<00:01, 75.0MB/s]Downloading:  86%|████████▋ | 415M/480M [00:05<00:00, 74.8MB/s]Downloading:  88%|████████▊ | 422M/480M [00:05<00:00, 67.1MB/s]Downloading:  90%|████████▉ | 431M/480M [00:05<00:00, 72.8MB/s]Downloading:  91%|█████████▏| 439M/480M [00:06<00:00, 75.6MB/s]Downloading:  93%|█████████▎| 447M/480M [00:06<00:00, 78.0MB/s]Downloading:  95%|█████████▍| 454M/480M [00:06<00:00, 74.6MB/s]Downloading:  96%|█████████▌| 461M/480M [00:06<00:00, 74.6MB/s]Downloading:  98%|█████████▊| 469M/480M [00:06<00:00, 76.1MB/s]Downloading:  99%|█████████▉| 477M/480M [00:06<00:00, 76.7MB/s]Downloading: 100%|██████████| 480M/480M [00:06<00:00, 76.0MB/s]
+10/19/2022 06:46:09 - DEBUG - filelock -   Attempting to release lock 140092506957232 on /home/aiscuser/.cache/huggingface/transformers/e472463826d959ba1a2526157c66c6678d307297de0ac70cb20d4bc20227a3ea.cd2d780fc8b692f148ec889e56ece5a353765aa429eda28d9a89b5a1aeb735db.lock
+10/19/2022 06:46:09 - DEBUG - filelock -   Lock 140092506957232 released on /home/aiscuser/.cache/huggingface/transformers/e472463826d959ba1a2526157c66c6678d307297de0ac70cb20d4bc20227a3ea.cd2d780fc8b692f148ec889e56ece5a353765aa429eda28d9a89b5a1aeb735db.lock
+10/19/2022 06:46:11 - INFO - __main__ -   Training/evaluation parameters Namespace(adam_epsilon=1e-08, beam_size=3, debug=False, dev_filename='dataset/new/dev.json', device=device(type='cuda'), do_eval=True, do_test=True, do_train=True, eval_batch_size=32, freeze_bottom_k_layer_index=5, gradient_accumulation_steps=1, learning_rate=5e-05, max_grad_norm=1.0, max_source_length=350, max_target_length=150, model_name_or_path='microsoft/unixcoder-base', n_debug_samples=100, n_gpu=1, no_cuda=False, num_train_epochs=30, output_dir='saved_models/code-gen/unixcoder/partial_freezing/freeze_bottom_5_layers/20221019064550', seed=123456, test_filename='dataset/new/test.json', train_batch_size=32, train_filename='dataset/train.json', weight_decay=0.0)
+10/19/2022 06:46:11 - INFO - __main__ -   +------------------------------------------------------------+--------------+---------+
+| Layer Name                                                 | Output Shape | Param # |
++------------------------------------------------------------+--------------+---------+
+| encoder.encoder.layer.5.attention.self.query.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.5.attention.self.query.bias          |        [768] |     768 |
+| encoder.encoder.layer.5.attention.self.key.weight          |   [768, 768] |  589824 |
+| encoder.encoder.layer.5.attention.self.key.bias            |        [768] |     768 |
+| encoder.encoder.layer.5.attention.self.value.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.5.attention.self.value.bias          |        [768] |     768 |
+| encoder.encoder.layer.5.attention.output.dense.weight      |   [768, 768] |  589824 |
+| encoder.encoder.layer.5.attention.output.dense.bias        |        [768] |     768 |
+| encoder.encoder.layer.5.attention.output.LayerNorm.weight  |        [768] |     768 |
+| encoder.encoder.layer.5.attention.output.LayerNorm.bias    |        [768] |     768 |
+| encoder.encoder.layer.5.intermediate.dense.weight          |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.5.intermediate.dense.bias            |       [3072] |    3072 |
+| encoder.encoder.layer.5.output.dense.weight                |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.5.output.dense.bias                  |        [768] |     768 |
+| encoder.encoder.layer.5.output.LayerNorm.weight            |        [768] |     768 |
+| encoder.encoder.layer.5.output.LayerNorm.bias              |        [768] |     768 |
+| encoder.encoder.layer.6.attention.self.query.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.6.attention.self.query.bias          |        [768] |     768 |
+| encoder.encoder.layer.6.attention.self.key.weight          |   [768, 768] |  589824 |
+| encoder.encoder.layer.6.attention.self.key.bias            |        [768] |     768 |
+| encoder.encoder.layer.6.attention.self.value.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.6.attention.self.value.bias          |        [768] |     768 |
+| encoder.encoder.layer.6.attention.output.dense.weight      |   [768, 768] |  589824 |
+| encoder.encoder.layer.6.attention.output.dense.bias        |        [768] |     768 |
+| encoder.encoder.layer.6.attention.output.LayerNorm.weight  |        [768] |     768 |
+| encoder.encoder.layer.6.attention.output.LayerNorm.bias    |        [768] |     768 |
+| encoder.encoder.layer.6.intermediate.dense.weight          |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.6.intermediate.dense.bias            |       [3072] |    3072 |
+| encoder.encoder.layer.6.output.dense.weight                |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.6.output.dense.bias                  |        [768] |     768 |
+| encoder.encoder.layer.6.output.LayerNorm.weight            |        [768] |     768 |
+| encoder.encoder.layer.6.output.LayerNorm.bias              |        [768] |     768 |
+| encoder.encoder.layer.7.attention.self.query.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.7.attention.self.query.bias          |        [768] |     768 |
+| encoder.encoder.layer.7.attention.self.key.weight          |   [768, 768] |  589824 |
+| encoder.encoder.layer.7.attention.self.key.bias            |        [768] |     768 |
+| encoder.encoder.layer.7.attention.self.value.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.7.attention.self.value.bias          |        [768] |     768 |
+| encoder.encoder.layer.7.attention.output.dense.weight      |   [768, 768] |  589824 |
+| encoder.encoder.layer.7.attention.output.dense.bias        |        [768] |     768 |
+| encoder.encoder.layer.7.attention.output.LayerNorm.weight  |        [768] |     768 |
+| encoder.encoder.layer.7.attention.output.LayerNorm.bias    |        [768] |     768 |
+| encoder.encoder.layer.7.intermediate.dense.weight          |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.7.intermediate.dense.bias            |       [3072] |    3072 |
+| encoder.encoder.layer.7.output.dense.weight                |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.7.output.dense.bias                  |        [768] |     768 |
+| encoder.encoder.layer.7.output.LayerNorm.weight            |        [768] |     768 |
+| encoder.encoder.layer.7.output.LayerNorm.bias              |        [768] |     768 |
+| encoder.encoder.layer.8.attention.self.query.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.8.attention.self.query.bias          |        [768] |     768 |
+| encoder.encoder.layer.8.attention.self.key.weight          |   [768, 768] |  589824 |
+| encoder.encoder.layer.8.attention.self.key.bias            |        [768] |     768 |
+| encoder.encoder.layer.8.attention.self.value.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.8.attention.self.value.bias          |        [768] |     768 |
+| encoder.encoder.layer.8.attention.output.dense.weight      |   [768, 768] |  589824 |
+| encoder.encoder.layer.8.attention.output.dense.bias        |        [768] |     768 |
+| encoder.encoder.layer.8.attention.output.LayerNorm.weight  |        [768] |     768 |
+| encoder.encoder.layer.8.attention.output.LayerNorm.bias    |        [768] |     768 |
+| encoder.encoder.layer.8.intermediate.dense.weight          |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.8.intermediate.dense.bias            |       [3072] |    3072 |
+| encoder.encoder.layer.8.output.dense.weight                |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.8.output.dense.bias                  |        [768] |     768 |
+| encoder.encoder.layer.8.output.LayerNorm.weight            |        [768] |     768 |
+| encoder.encoder.layer.8.output.LayerNorm.bias              |        [768] |     768 |
+| encoder.encoder.layer.9.attention.self.query.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.9.attention.self.query.bias          |        [768] |     768 |
+| encoder.encoder.layer.9.attention.self.key.weight          |   [768, 768] |  589824 |
+| encoder.encoder.layer.9.attention.self.key.bias            |        [768] |     768 |
+| encoder.encoder.layer.9.attention.self.value.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.9.attention.self.value.bias          |        [768] |     768 |
+| encoder.encoder.layer.9.attention.output.dense.weight      |   [768, 768] |  589824 |
+| encoder.encoder.layer.9.attention.output.dense.bias        |        [768] |     768 |
+| encoder.encoder.layer.9.attention.output.LayerNorm.weight  |        [768] |     768 |
+| encoder.encoder.layer.9.attention.output.LayerNorm.bias    |        [768] |     768 |
+| encoder.encoder.layer.9.intermediate.dense.weight          |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.9.intermediate.dense.bias            |       [3072] |    3072 |
+| encoder.encoder.layer.9.output.dense.weight                |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.9.output.dense.bias                  |        [768] |     768 |
+| encoder.encoder.layer.9.output.LayerNorm.weight            |        [768] |     768 |
+| encoder.encoder.layer.9.output.LayerNorm.bias              |        [768] |     768 |
+| encoder.encoder.layer.10.attention.self.query.weight       |   [768, 768] |  589824 |
+| encoder.encoder.layer.10.attention.self.query.bias         |        [768] |     768 |
+| encoder.encoder.layer.10.attention.self.key.weight         |   [768, 768] |  589824 |
+| encoder.encoder.layer.10.attention.self.key.bias           |        [768] |     768 |
+| encoder.encoder.layer.10.attention.self.value.weight       |   [768, 768] |  589824 |
+| encoder.encoder.layer.10.attention.self.value.bias         |        [768] |     768 |
+| encoder.encoder.layer.10.attention.output.dense.weight     |   [768, 768] |  589824 |
+| encoder.encoder.layer.10.attention.output.dense.bias       |        [768] |     768 |
+| encoder.encoder.layer.10.attention.output.LayerNorm.weight |        [768] |     768 |
+| encoder.encoder.layer.10.attention.output.LayerNorm.bias   |        [768] |     768 |
+| encoder.encoder.layer.10.intermediate.dense.weight         |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.10.intermediate.dense.bias           |       [3072] |    3072 |
+| encoder.encoder.layer.10.output.dense.weight               |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.10.output.dense.bias                 |        [768] |     768 |
+| encoder.encoder.layer.10.output.LayerNorm.weight           |        [768] |     768 |
+| encoder.encoder.layer.10.output.LayerNorm.bias             |        [768] |     768 |
+| encoder.encoder.layer.11.attention.self.query.weight       |   [768, 768] |  589824 |
+| encoder.encoder.layer.11.attention.self.query.bias         |        [768] |     768 |
+| encoder.encoder.layer.11.attention.self.key.weight         |   [768, 768] |  589824 |
+| encoder.encoder.layer.11.attention.self.key.bias           |        [768] |     768 |
+| encoder.encoder.layer.11.attention.self.value.weight       |   [768, 768] |  589824 |
+| encoder.encoder.layer.11.attention.self.value.bias         |        [768] |     768 |
+| encoder.encoder.layer.11.attention.output.dense.weight     |   [768, 768] |  589824 |
+| encoder.encoder.layer.11.attention.output.dense.bias       |        [768] |     768 |
+| encoder.encoder.layer.11.attention.output.LayerNorm.weight |        [768] |     768 |
+| encoder.encoder.layer.11.attention.output.LayerNorm.bias   |        [768] |     768 |
+| encoder.encoder.layer.11.intermediate.dense.weight         |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.11.intermediate.dense.bias           |       [3072] |    3072 |
+| encoder.encoder.layer.11.output.dense.weight               |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.11.output.dense.bias                 |        [768] |     768 |
+| encoder.encoder.layer.11.output.LayerNorm.weight           |        [768] |     768 |
+| encoder.encoder.layer.11.output.LayerNorm.bias             |        [768] |     768 |
+| encoder.pooler.dense.weight                                |   [768, 768] |  589824 |
+| encoder.pooler.dense.bias                                  |        [768] |     768 |
+| dense.weight                                               |   [768, 768] |  589824 |
+| dense.bias                                                 |        [768] |     768 |
++------------------------------------------------------------+--------------+---------+
+10/19/2022 06:46:11 - INFO - __main__ -   The model has 50796288 trainable parameters
+10/19/2022 06:46:15 - INFO - __main__ -   *** Example ***
+10/19/2022 06:46:15 - INFO - __main__ -   idx: 0
+10/19/2022 06:46:15 - INFO - __main__ -   source_tokens: ['<s>', '<encoder-decoder>', '</s>', 'check', '_if', '_details', '_are', '_parsed', '_.', '_con', 'code', '_', 'field', '_', 'sep', '_Container', '_parent', '_con', 'code', '_', 'elem', '_', 'sep', '_boolean', '_is', 'Parsed', '_con', 'code', '_', 'elem', '_', 'sep', '_long', '_offset', '_con', 'code', '_', 'elem', '_', 'sep', '_long', '_content', 'StartPosition', '_con', 'code', '_', 'elem', '_', 'sep', '_ByteBuffer', '_dead', 'Bytes', '_con', 'code', '_', 'elem', '_', 'sep', '_boolean', '_is', 'Read', '_con', 'code', '_', 'elem', '_', 'sep', '_long', '_mem', 'Map', 'Size', '_con', 'code', '_', 'elem', '_', 'sep', '_Logger', '_LOG', '_con', 'code', '_', 'elem', '_', 'sep', '_byte', '[]', '_user', 'Type', '_con', 'code', '_', 'elem', '_', 'sep', '_String', '_type', '_con', 'code', '_', 'elem', '_', 'sep', '_ByteBuffer', '_content', '_con', 'code', '_', 'elem', '_', 'sep', '_File', 'Channel', '_file', 'Channel', '_con', 'code', '_', 'field', '_', 'sep', '_Container', '_getParent', '_con', 'code', '_', 'elem', '_', 'sep', '_byte', '[]', '_getUser', 'Type', '_con', 'code', '_', 'elem', '_', 'sep', '_void', '_read', 'Content', '_con', 'code', '_', 'elem', '_', 'sep', '_long', '_get', 'Offset', '_con', 'code', '_', 'elem', '_', 'sep', '_long', '_getContent', 'Size', '_con', 'code', '_', 'elem', '_', 'sep', '_void', '_getContent', '_con', 'code', '_', 'elem', '_', 'sep', '_void', '_set', 'Dead', 'Bytes', '_con', 'code', '_', 'elem', '_', 'sep', '_void', '_parse', '_con', 'code', '_', 'elem', '_', 'sep', '_void', '_get', 'Header', '_con', 'code', '_', 'elem', '_', 'sep', '_long', '_getSize', '_con', 'code', '_', 'elem', '_', 'sep', '_void', '_parse', 'Details', '_con', 'code', '_', 'elem', '_', 'sep', '_String', '_getType', '_con', 'code', '_', 'elem', '_', 'sep', '_void', '__', 'parse', 'Details', '_con', 'code', '_', 'elem', '_', 'sep', '_String', '_getPath', '_con', 'code', '_', 'elem', '_', 'sep', '_boolean', '_verify', '_con', 'code', '_', 'elem', '_', 'sep', '_void', '_set', 'Parent', '_con', 'code', '_', 'elem', '_', 'sep', '_void', '_get', 'Box', '_con', 'code', '_', 'elem', '_', 'sep', '_boolean', '_is', 'Small', 'Box', '<mask0>', '</s>']
+10/19/2022 06:46:15 - INFO - __main__ -   source_ids: 0 5 2 1471 462 6768 1147 5654 746 549 780 181 1372 181 7421 10976 2201 549 780 181 4641 181 7421 2116 555 13885 549 780 181 4641 181 7421 1534 1805 549 780 181 4641 181 7421 1534 2264 31713 549 780 181 4641 181 7421 16980 10168 2240 549 780 181 4641 181 7421 2116 555 1616 549 780 181 4641 181 7421 1534 1835 1281 939 549 780 181 4641 181 7421 10641 5610 549 780 181 4641 181 7421 2134 1039 1695 641 549 780 181 4641 181 7421 1167 889 549 780 181 4641 181 7421 16980 2264 549 780 181 4641 181 7421 2536 3267 1012 3267 549 780 181 1372 181 7421 10976 19354 549 780 181 4641 181 7421 2134 1039 25533 641 549 780 181 4641 181 7421 723 1557 1646 549 780 181 4641 181 7421 1534 744 1884 549 780 181 4641 181 7421 1534 31482 939 549 780 181 4641 181 7421 723 31482 549 780 181 4641 181 7421 723 827 10099 2240 549 780 181 4641 181 7421 723 2467 549 780 181 4641 181 7421 723 744 1764 549 780 181 4641 181 7421 1534 34727 549 780 181 4641 181 7421 723 2467 5173 549 780 181 4641 181 7421 1167 15866 549 780 181 4641 181 7421 723 623 1783 5173 549 780 181 4641 181 7421 1167 33237 549 780 181 4641 181 7421 2116 5864 549 780 181 4641 181 7421 723 827 2645 549 780 181 4641 181 7421 723 744 1903 549 780 181 4641 181 7421 2116 555 8088 1903 19 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/19/2022 06:46:15 - INFO - __main__ -   target_tokens: ['<mask0>', 'boolean', '_function', '_(', '_)', '_{', '_return', '_is', 'Parsed', '_;', '_}', '</s>']
+10/19/2022 06:46:15 - INFO - __main__ -   target_ids: 19 3763 603 400 743 399 483 555 13885 2476 425 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/19/2022 06:46:15 - INFO - __main__ -   *** Example ***
+10/19/2022 06:46:15 - INFO - __main__ -   idx: 1
+10/19/2022 06:46:15 - INFO - __main__ -   source_tokens: ['<s>', '<encoder-decoder>', '</s>', 'answer', '_the', '_library', '_file', '_defining', '_the', '_library', '_containing', '_the', '_compilation', '_unit', '_to', '_be', '_indexed', '_or', '_null', '_if', '_the', '_library', '_is', '_not', '_on', '_disk', '_con', 'code', '_', 'field', '_', 'sep', '_Index', 'Store', '_index', 'Store', '_con', 'code', '_', 'elem', '_', 'sep', '_Index', 'Performance', 'Recorder', '_performance', 'Recorder', '_con', 'code', '_', 'elem', '_', 'sep', '_D', 'art', 'Unit', '_unit', '_con', 'code', '_', 'elem', '_', 'sep', '_Compilation', 'Unit', '_compilation', 'Unit', '_con', 'code', '_', 'elem', '_', 'sep', '_Resource', '_resource', '_con', 'code', '_', 'elem', '_', 'sep', '_File', '_library', 'File', '_con', 'code', '_', 'field', '_', 'sep', '_boolean', '_remove', 'When', 'Resource', 'Removed', '_con', 'code', '_', 'elem', '_', 'sep', '_Compilation', 'Unit', '_get', 'CompilationUnit', '_con', 'code', '_', 'elem', '_', 'sep', '_boolean', '_is', 'Query', '_con', 'code', '_', 'elem', '_', 'sep', '_String', '_toString', '_con', 'code', '_', 'elem', '_', 'sep', '_void', '_perform', 'Operation', '<mask0>', '</s>']
+10/19/2022 06:46:15 - INFO - __main__ -   source_ids: 0 5 2 7856 448 7971 1012 25118 448 7971 4275 448 16703 5108 508 661 15907 872 700 462 448 7971 555 800 854 8236 549 780 181 1372 181 7421 6257 2767 1442 2767 549 780 181 4641 181 7421 6257 18643 17391 12217 17391 549 780 181 4641 181 7421 614 605 2762 5108 549 780 181 4641 181 7421 43024 2762 16703 2762 549 780 181 4641 181 7421 7606 2377 549 780 181 4641 181 7421 2536 7971 956 549 780 181 1372 181 7421 2116 3033 7422 1755 12070 549 780 181 4641 181 7421 43024 2762 744 36587 549 780 181 4641 181 7421 2116 555 1538 549 780 181 4641 181 7421 1167 14696 549 780 181 4641 181 7421 723 4729 2783 19 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/19/2022 06:46:15 - INFO - __main__ -   target_tokens: ['<mask0>', 'File', '_function', '_(', '_)', '_{', '_return', '_library', 'File', '_;', '_}', '</s>']
+10/19/2022 06:46:15 - INFO - __main__ -   target_ids: 19 956 603 400 743 399 483 7971 956 2476 425 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/19/2022 06:46:15 - INFO - __main__ -   *** Example ***
+10/19/2022 06:46:15 - INFO - __main__ -   idx: 2
+10/19/2022 06:46:15 - INFO - __main__ -   source_tokens: ['<s>', '<encoder-decoder>', '</s>', 'this', '_method', '_deletes', '_index', '_files', '_of', '_the', '_@', 'link', 'plain', '_index', 'commit', '_for', '_the', '_specified', '_generation', '_number', '_.', '_con', 'code', '_', 'field', '_', 'sep', '_Logger', '_log', '_con', 'code', '_', 'field', '_', 'sep', '_void', '_delete', 'Non', 'Snapshot', 'Index', 'Files', '_con', 'code', '_', 'elem', '_', 'sep', '_Map', '<', 'String', ',', 'Integer', '>', '_build', 'Ref', 'Counts', '<mask0>', '</s>']
+10/19/2022 06:46:15 - INFO - __main__ -   source_ids: 0 5 2 490 1454 19028 1442 2966 595 448 890 1378 7687 1442 6140 563 448 2314 13490 1635 746 549 780 181 1372 181 7421 10641 1592 549 780 181 1372 181 7421 723 2821 3579 7597 1052 3765 549 780 181 4641 181 7421 4595 146 684 130 3215 148 3300 1725 13656 19 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/19/2022 06:46:15 - INFO - __main__ -   target_tokens: ['<mask0>', 'void', '_function', '_(', '_Directory', '_arg', '0', '_,', '_Collection', '_<', '_Snapshot', 'MetaData', '_>', '_arg', '1', '_,', '_long', '_arg', '2', '_)', '_{', '_List', '_<', '_Index', 'Commit', '_>', '_loc', '0', '_=', '_Directory', 'Reader', '_.', '_list', 'Comm', 'its', '_(', '_arg', '0', '_)', '_;', '_Map', '_<', '_String', '_,', '_Integer', '_>', '_loc', '1', '_=', '_build', 'Ref', 'Counts', '_(', '_arg', '1', '_,', '_loc', '0', '_)', '_;', '_for', '_(', '_Index', 'Commit', '_loc', '2', '_:', '_loc', '0', '_)', '_{', '_if', '_(', '_loc', '2', '_.', '_get', 'Generation', '_(', '_)', '_==', '_arg', '2', '_)', '_{', '_delete', 'Index', 'Files', '_(', '_arg', '0', '_,', '_loc', '1', '_,', '_loc', '2', '_)', '_;', '_break', '_;', '_}', '_}', '_}', '</s>']
+10/19/2022 06:46:15 - INFO - __main__ -   target_ids: 19 895 603 400 11227 1238 134 2019 7079 517 29055 12247 711 1238 135 2019 1534 1238 136 743 399 2068 517 6257 8455 711 4893 134 385 11227 2692 746 1182 10268 1204 400 1238 134 743 2476 4595 517 1167 2019 5325 711 4893 135 385 3300 1725 13656 400 1238 135 2019 4893 134 743 2476 563 400 6257 8455 4893 136 545 4893 134 743 399 462 400 4893 136 746 744 13446 400 743 550 1238 136 743 399 2821 1052 3765 400 1238 134 2019 4893 135 2019 4893 136 743 2476 1127 2476 425 425 425 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/19/2022 06:46:15 - INFO - __main__ -   *** Example ***
+10/19/2022 06:46:15 - INFO - __main__ -   idx: 3
+10/19/2022 06:46:15 - INFO - __main__ -   source_tokens: ['<s>', '<encoder-decoder>', '</s>', 'do', '_n', "'t", '_use', '_this', '_.', '_no', '_,', '_really', '_,', '_do', '_n', "'t", '_use', '_this', '_.', '_you', '_already', '_have', '_an', '_authentication', 'token', '_with', '_org', '.', 'apache', '.', 'accum', 'ulo', '.', 'core', '.', 'client', '.', 'map', 'reduce', '.', 'lib', '.', 'impl', '.', 'configurator', 'base', '_#', 'get', 'authentication', 'token', '_class', '_,', '_configuration', '_.', '_you', '_do', '_n', "'t", '_need', '_to', '_construct', '_it', '_your', 'self', '_.', '_gets', '_the', '_password', '_from', '_the', '_configuration', '_.', '_warning', '_:', '_the', '_password', '_is', '_stored', '_in', '_the', '_configuration', '_and', '_shared', '_with', '_all', '_map', 'reduce', '_tasks', '_;', '_it', '_is', '_base', '64', '_encoded', '_to', '_provide', '_a', '_charset', '_safe', '_conversion', '_to', '_a', '_string', '_,', '_and', '_is', '_not', '_intended', '_to', '_be', '_secure', '_.', '_con', 'code', '_', 'field', '_', 'sep', '_Place', 'Holder', '_place', 'Holder', '_con', 'code', '_', 'field', '_', 'sep', '_String', '_get', 'Principal', '_con', 'code', '_', 'elem', '_', 'sep', '_void', '_set', 'LogLevel', '_con', 'code', '_', 'elem', '_', 'sep', '_Level', '_get', 'LogLevel', '_con', 'code', '_', 'elem', '_', 'sep', '_Boolean', '_is', 'Connector', 'Info', 'Set', '_con', 'code', '_', 'elem', '_', 'sep', '_String', '_getToken', 'Class', '_con', 'code', '_', 'elem', '_', 'sep', '_void', '_set', 'Z', 'oo', 'Keeper', 'Instance', '_con', 'code', '_', 'elem', '_', 'sep', '_void', '_set', 'Mock', 'Instance', '_con', 'code', '_', 'elem', '_', 'sep', '_Instance', '_getInstance', '_con', 'code', '_', 'elem', '_', 'sep', '_String', '_enum', 'To', 'Conf', 'Key', '_con', 'code', '_', 'elem', '_', 'sep', '_void', '_set', 'Connector', 'Info', '<mask0>', '</s>']
+10/19/2022 06:46:15 - INFO - __main__ -   source_ids: 0 5 2 1440 416 1340 1393 547 746 1375 2019 9339 2019 1000 416 1340 1393 547 746 2713 2916 1577 817 11367 1363 918 6584 132 10521 132 14938 18976 132 1853 132 1590 132 1051 10137 132 1930 132 5218 132 49243 1118 830 459 16570 1363 1503 2019 4045 746 2713 1000 416 1340 2105 508 8669 835 4862 1733 746 8180 448 5724 1029 448 4045 746 5893 545 448 5724 555 6788 488 448 4045 706 6880 918 1345 1910 10137 10143 2476 835 555 1712 848 7040 508 6634 434 8862 7248 7661 508 434 724 2019 706 555 800 17482 508 661 17880 746 549 780 181 1372 181 7421 15454 8162 5002 8162 549 780 181 1372 181 7421 1167 744 13764 549 780 181 4641 181 7421 723 827 17614 549 780 181 4641 181 7421 11690 744 17614 549 780 181 4641 181 7421 6845 555 12479 986 815 549 780 181 4641 181 7421 1167 39081 1128 549 780 181 4641 181 7421 723 827 176 2799 26456 1562 549 780 181 4641 181 7421 723 827 3002 1562 549 780 181 4641 181 7421 10631 17183 549 780 181 4641 181 7421 1167 4020 687 4579 927 549 780 181 4641 181 7421 723 827 12479 986 19 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/19/2022 06:46:15 - INFO - __main__ -   target_tokens: ['<mask0>', 'byte', '_[', '_]', '_function', '_(', '_Class', '_<', '_?', '_>', '_arg', '0', '_,', '_Configuration', '_arg', '1', '_)', '_{', '_return', '_Authentication', 'Token', 'Serializer', '_.', '_serialize', '_(', '_org', '_.', '_a', 'pache', '_.', '_accum', 'ulo', '_.', '_core', '_.', '_client', '_.', '_map', 'reduce', '_.', '_lib', '_.', '_impl', '_.', '_Config', 'urator', 'Base', '_.', '_get', 'Authentication', 'Token', '_(', '_arg', '0', '_,', '_arg', '1', '_)', '_)', '_;', '_}', '</s>']
+10/19/2022 06:46:15 - INFO - __main__ -   target_ids: 19 1106 626 2406 603 400 4807 517 999 711 1238 134 2019 9337 1238 135 743 399 483 19810 1367 7570 746 11160 400 6584 746 434 23566 746 12027 18976 746 6152 746 2234 746 1910 10137 746 3295 746 12606 746 4555 19726 1737 746 744 9832 1367 400 1238 134 2019 1238 135 743 743 2476 425 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/19/2022 06:46:15 - INFO - __main__ -   *** Example ***
+10/19/2022 06:46:15 - INFO - __main__ -   idx: 4
+10/19/2022 06:46:15 - INFO - __main__ -   source_tokens: ['<s>', '<encoder-decoder>', '</s>', 'force', '_the', '_event', 'bus', '_from', '_am', 'bar', 'i', 'event', 'publisher', '_to', '_be', '_serial', 'and', '_synchronous', '_.', '_con', 'code', '_', 'field', '_', 'sep', '_Place', 'Holder', '_place', 'Holder', '_con', 'code', '_', 'field', '_', 'sep', '_void', '_register', 'Alert', 'Listeners', '_con', 'code', '_', 'elem', '_', 'sep', '_Event', 'Bus', '_synchronize', 'Alert', 'Event', 'Publisher', '_con', 'code', '_', 'elem', '_', 'sep', '_void', '_replace', 'Event', 'Bus', '_con', 'code', '_', 'elem', '_', 'sep', '_void', '_register', 'Amb', 'ari', 'Listeners', '<mask0>', '</s>']
+10/19/2022 06:46:15 - INFO - __main__ -   source_ids: 0 5 2 5104 448 1488 3083 1029 4000 1829 191 1357 26072 508 661 9706 501 18791 746 549 780 181 1372 181 7421 15454 8162 5002 8162 549 780 181 1372 181 7421 723 2882 9203 8396 549 780 181 4641 181 7421 3916 7663 35717 9203 1089 17883 549 780 181 4641 181 7421 723 4126 1089 7663 549 780 181 4641 181 7421 723 2882 19443 11215 8396 19 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/19/2022 06:46:15 - INFO - __main__ -   target_tokens: ['<mask0>', 'void', '_function', '_(', '_Binder', '_arg', '0', '_)', '_{', '_Event', 'Bus', '_loc', '0', '_=', '_new', '_Event', 'Bus', '_(', '_)', '_;', '_A', 'mb', 'ari', 'Event', 'Publisher', '_loc', '1', '_=', '_new', '_A', 'mb', 'ari', 'Event', 'Publisher', '_(', '_)', '_;', '_replace', 'Event', 'Bus', '_(', '_A', 'mb', 'ari', 'Event', 'Publisher', '_.', '_class', '_,', '_loc', '1', '_,', '_loc', '0', '_)', '_;', '_arg', '0', '_.', '_bind', '_(', '_A', 'mb', 'ari', 'Event', 'Publisher', '_.', '_class', '_)', '_.', '_to', 'Instance', '_(', '_loc', '1', '_)', '_;', '_}', '</s>']
+10/19/2022 06:46:15 - INFO - __main__ -   target_ids: 19 895 603 400 43863 1238 134 743 399 3916 7663 4893 134 385 579 3916 7663 400 743 2476 553 1228 11215 1089 17883 4893 135 385 579 553 1228 11215 1089 17883 400 743 2476 4126 1089 7663 400 553 1228 11215 1089 17883 746 1503 2019 4893 135 2019 4893 134 743 2476 1238 134 746 6679 400 553 1228 11215 1089 17883 746 1503 743 746 508 1562 400 4893 135 743 2476 425 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/19/2022 06:48:32 - INFO - __main__ -   ***** Running training *****
+10/19/2022 06:48:32 - INFO - __main__ -     Num examples = 100000
+10/19/2022 06:48:32 - INFO - __main__ -     Batch size = 32
+10/19/2022 06:48:32 - INFO - __main__ -     Num epoch = 30
+10/19/2022 06:48:50 - INFO - __main__ -   epoch 0 step 100 loss 2.9135
+10/19/2022 06:49:08 - INFO - __main__ -   epoch 0 step 200 loss 2.1474
+10/19/2022 06:49:25 - INFO - __main__ -   epoch 0 step 300 loss 1.5031
+10/19/2022 06:49:42 - INFO - __main__ -   epoch 0 step 400 loss 1.1902
+10/19/2022 06:50:00 - INFO - __main__ -   epoch 0 step 500 loss 1.0436
+10/19/2022 06:50:17 - INFO - __main__ -   epoch 0 step 600 loss 0.9195
+10/19/2022 06:50:35 - INFO - __main__ -   epoch 0 step 700 loss 0.8696
+10/19/2022 06:50:52 - INFO - __main__ -   epoch 0 step 800 loss 0.8122
+10/19/2022 06:51:10 - INFO - __main__ -   epoch 0 step 900 loss 0.7912
+10/19/2022 06:51:27 - INFO - __main__ -   epoch 0 step 1000 loss 0.7708
+10/19/2022 06:51:45 - INFO - __main__ -   epoch 0 step 1100 loss 0.7641
+10/19/2022 06:52:02 - INFO - __main__ -   epoch 0 step 1200 loss 0.7239
+10/19/2022 06:52:19 - INFO - __main__ -   epoch 0 step 1300 loss 0.7267
+10/19/2022 06:52:37 - INFO - __main__ -   epoch 0 step 1400 loss 0.7101
+10/19/2022 06:52:54 - INFO - __main__ -   epoch 0 step 1500 loss 0.6926
+10/19/2022 06:53:12 - INFO - __main__ -   epoch 0 step 1600 loss 0.6865
+10/19/2022 06:53:29 - INFO - __main__ -   epoch 0 step 1700 loss 0.6855
+10/19/2022 06:53:47 - INFO - __main__ -   epoch 0 step 1800 loss 0.6742
+10/19/2022 06:54:04 - INFO - __main__ -   epoch 0 step 1900 loss 0.6517
+10/19/2022 06:54:22 - INFO - __main__ -   epoch 0 step 2000 loss 0.6662
+10/19/2022 06:54:39 - INFO - __main__ -   epoch 0 step 2100 loss 0.6573
+10/19/2022 06:54:56 - INFO - __main__ -   epoch 0 step 2200 loss 0.6456
+10/19/2022 06:55:14 - INFO - __main__ -   epoch 0 step 2300 loss 0.6517
+10/19/2022 06:55:31 - INFO - __main__ -   epoch 0 step 2400 loss 0.6466
+10/19/2022 06:55:49 - INFO - __main__ -   epoch 0 step 2500 loss 0.6233
+10/19/2022 06:56:06 - INFO - __main__ -   epoch 0 step 2600 loss 0.6195
+10/19/2022 06:56:24 - INFO - __main__ -   epoch 0 step 2700 loss 0.6399
+10/19/2022 06:56:41 - INFO - __main__ -   epoch 0 step 2800 loss 0.6155
+10/19/2022 06:56:59 - INFO - __main__ -   epoch 0 step 2900 loss 0.6193
+10/19/2022 06:57:16 - INFO - __main__ -   epoch 0 step 3000 loss 0.6211
+10/19/2022 06:57:33 - INFO - __main__ -   epoch 0 step 3100 loss 0.6133
+10/19/2022 06:57:40 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 06:57:40 - INFO - __main__ -     Num examples = 1000
+10/19/2022 06:57:40 - INFO - __main__ -     Batch size = 32
+10/19/2022 06:57:43 - INFO - __main__ -     eval_ppl = 1.99797
+10/19/2022 06:57:43 - INFO - __main__ -     ********************
+/sci_1/t-enshengshi/interpretability/sync_repo/bertviz/code-generation/model.py:190: UserWarning: __floordiv__ is deprecated, and its behavior will change in a future version of pytorch. It currently rounds toward 0 (like the 'trunc' function NOT 'floor'). This results in incorrect rounding for negative values. To keep the current behavior, use torch.div(a, b, rounding_mode='trunc'), or for actual floor division, use torch.div(a, b, rounding_mode='floor').
+  prevK = bestScoresId // numWords
+10/19/2022 07:06:43 - INFO - __main__ -     bleu-4 = 29.02 
+10/19/2022 07:06:43 - INFO - __main__ -     EM = 16.0 
+10/19/2022 07:06:43 - INFO - __main__ -     ********************
+10/19/2022 07:06:43 - INFO - __main__ -     Best score:45.019999999999996
+10/19/2022 07:06:43 - INFO - __main__ -     ********************
+10/19/2022 07:07:12 - INFO - __main__ -   epoch 1 step 3200 loss 0.5945
+10/19/2022 07:07:29 - INFO - __main__ -   epoch 1 step 3300 loss 0.5905
+10/19/2022 07:07:47 - INFO - __main__ -   epoch 1 step 3400 loss 0.6084
+10/19/2022 07:08:04 - INFO - __main__ -   epoch 1 step 3500 loss 0.5828
+10/19/2022 07:08:22 - INFO - __main__ -   epoch 1 step 3600 loss 0.5844
+10/19/2022 07:08:39 - INFO - __main__ -   epoch 1 step 3700 loss 0.5866
+10/19/2022 07:08:57 - INFO - __main__ -   epoch 1 step 3800 loss 0.5661
+10/19/2022 07:09:14 - INFO - __main__ -   epoch 1 step 3900 loss 0.5827
+10/19/2022 07:09:31 - INFO - __main__ -   epoch 1 step 4000 loss 0.5741
+10/19/2022 07:09:49 - INFO - __main__ -   epoch 1 step 4100 loss 0.5515
+10/19/2022 07:10:06 - INFO - __main__ -   epoch 1 step 4200 loss 0.561
+10/19/2022 07:10:24 - INFO - __main__ -   epoch 1 step 4300 loss 0.5618
+10/19/2022 07:10:41 - INFO - __main__ -   epoch 1 step 4400 loss 0.5588
+10/19/2022 07:10:59 - INFO - __main__ -   epoch 1 step 4500 loss 0.5674
+10/19/2022 07:11:16 - INFO - __main__ -   epoch 1 step 4600 loss 0.552
+10/19/2022 07:11:34 - INFO - __main__ -   epoch 1 step 4700 loss 0.5579
+10/19/2022 07:11:51 - INFO - __main__ -   epoch 1 step 4800 loss 0.5524
+10/19/2022 07:12:09 - INFO - __main__ -   epoch 1 step 4900 loss 0.5551
+10/19/2022 07:12:26 - INFO - __main__ -   epoch 1 step 5000 loss 0.561
+10/19/2022 07:12:43 - INFO - __main__ -   epoch 1 step 5100 loss 0.5667
+10/19/2022 07:13:01 - INFO - __main__ -   epoch 1 step 5200 loss 0.5302
+10/19/2022 07:13:18 - INFO - __main__ -   epoch 1 step 5300 loss 0.5394
+10/19/2022 07:13:36 - INFO - __main__ -   epoch 1 step 5400 loss 0.5329
+10/19/2022 07:13:53 - INFO - __main__ -   epoch 1 step 5500 loss 0.5288
+10/19/2022 07:14:11 - INFO - __main__ -   epoch 1 step 5600 loss 0.5273
+10/19/2022 07:14:28 - INFO - __main__ -   epoch 1 step 5700 loss 0.532
+10/19/2022 07:14:46 - INFO - __main__ -   epoch 1 step 5800 loss 0.529
+10/19/2022 07:15:03 - INFO - __main__ -   epoch 1 step 5900 loss 0.5314
+10/19/2022 07:15:21 - INFO - __main__ -   epoch 1 step 6000 loss 0.5219
+10/19/2022 07:15:38 - INFO - __main__ -   epoch 1 step 6100 loss 0.5127
+10/19/2022 07:15:56 - INFO - __main__ -   epoch 1 step 6200 loss 0.5211
+10/19/2022 07:16:04 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 07:16:04 - INFO - __main__ -     Num examples = 1000
+10/19/2022 07:16:04 - INFO - __main__ -     Batch size = 32
+10/19/2022 07:16:07 - INFO - __main__ -     eval_ppl = 1.94484
+10/19/2022 07:16:07 - INFO - __main__ -     ********************
+10/19/2022 07:23:44 - INFO - __main__ -     bleu-4 = 29.79 
+10/19/2022 07:23:44 - INFO - __main__ -     EM = 17.7 
+10/19/2022 07:23:44 - INFO - __main__ -     ********************
+10/19/2022 07:23:44 - INFO - __main__ -     Best score:47.489999999999995
+10/19/2022 07:23:44 - INFO - __main__ -     ********************
+10/19/2022 07:24:04 - INFO - __main__ -   epoch 2 step 6300 loss 0.5132
+10/19/2022 07:24:22 - INFO - __main__ -   epoch 2 step 6400 loss 0.481
+10/19/2022 07:24:39 - INFO - __main__ -   epoch 2 step 6500 loss 0.483
+10/19/2022 07:24:57 - INFO - __main__ -   epoch 2 step 6600 loss 0.4828
+10/19/2022 07:25:14 - INFO - __main__ -   epoch 2 step 6700 loss 0.5025
+10/19/2022 07:25:31 - INFO - __main__ -   epoch 2 step 6800 loss 0.4788
+10/19/2022 07:25:49 - INFO - __main__ -   epoch 2 step 6900 loss 0.4724
+10/19/2022 07:26:06 - INFO - __main__ -   epoch 2 step 7000 loss 0.4872
+10/19/2022 07:26:24 - INFO - __main__ -   epoch 2 step 7100 loss 0.4941
+10/19/2022 07:26:41 - INFO - __main__ -   epoch 2 step 7200 loss 0.4794
+10/19/2022 07:26:59 - INFO - __main__ -   epoch 2 step 7300 loss 0.4765
+10/19/2022 07:27:16 - INFO - __main__ -   epoch 2 step 7400 loss 0.4887
+10/19/2022 07:27:33 - INFO - __main__ -   epoch 2 step 7500 loss 0.4738
+10/19/2022 07:27:51 - INFO - __main__ -   epoch 2 step 7600 loss 0.4807
+10/19/2022 07:28:08 - INFO - __main__ -   epoch 2 step 7700 loss 0.4725
+10/19/2022 07:28:26 - INFO - __main__ -   epoch 2 step 7800 loss 0.4745
+10/19/2022 07:28:43 - INFO - __main__ -   epoch 2 step 7900 loss 0.4732
+10/19/2022 07:29:01 - INFO - __main__ -   epoch 2 step 8000 loss 0.465
+10/19/2022 07:29:18 - INFO - __main__ -   epoch 2 step 8100 loss 0.4682
+10/19/2022 07:29:36 - INFO - __main__ -   epoch 2 step 8200 loss 0.4615
+10/19/2022 07:29:53 - INFO - __main__ -   epoch 2 step 8300 loss 0.4671
+10/19/2022 07:30:11 - INFO - __main__ -   epoch 2 step 8400 loss 0.4711
+10/19/2022 07:30:28 - INFO - __main__ -   epoch 2 step 8500 loss 0.4702
+10/19/2022 07:30:45 - INFO - __main__ -   epoch 2 step 8600 loss 0.4718
+10/19/2022 07:31:03 - INFO - __main__ -   epoch 2 step 8700 loss 0.4618
+10/19/2022 07:31:20 - INFO - __main__ -   epoch 2 step 8800 loss 0.4836
+10/19/2022 07:31:38 - INFO - __main__ -   epoch 2 step 8900 loss 0.4652
+10/19/2022 07:31:55 - INFO - __main__ -   epoch 2 step 9000 loss 0.465
+10/19/2022 07:32:13 - INFO - __main__ -   epoch 2 step 9100 loss 0.4748
+10/19/2022 07:32:30 - INFO - __main__ -   epoch 2 step 9200 loss 0.4602
+10/19/2022 07:32:48 - INFO - __main__ -   epoch 2 step 9300 loss 0.4661
+10/19/2022 07:33:01 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 07:33:01 - INFO - __main__ -     Num examples = 1000
+10/19/2022 07:33:01 - INFO - __main__ -     Batch size = 32
+10/19/2022 07:33:03 - INFO - __main__ -     eval_ppl = 1.94678
+10/19/2022 07:33:03 - INFO - __main__ -     ********************
+10/19/2022 07:39:42 - INFO - __main__ -     bleu-4 = 30.07 
+10/19/2022 07:39:42 - INFO - __main__ -     EM = 18.9 
+10/19/2022 07:39:42 - INFO - __main__ -     ********************
+10/19/2022 07:39:42 - INFO - __main__ -     Best score:48.97
+10/19/2022 07:39:42 - INFO - __main__ -     ********************
+10/19/2022 07:40:00 - INFO - __main__ -   epoch 3 step 9400 loss 0.4489
+10/19/2022 07:40:18 - INFO - __main__ -   epoch 3 step 9500 loss 0.3974
+10/19/2022 07:40:35 - INFO - __main__ -   epoch 3 step 9600 loss 0.4089
+10/19/2022 07:40:52 - INFO - __main__ -   epoch 3 step 9700 loss 0.402
+10/19/2022 07:41:10 - INFO - __main__ -   epoch 3 step 9800 loss 0.4118
+10/19/2022 07:41:27 - INFO - __main__ -   epoch 3 step 9900 loss 0.4064
+10/19/2022 07:41:45 - INFO - __main__ -   epoch 3 step 10000 loss 0.4219
+10/19/2022 07:42:02 - INFO - __main__ -   epoch 3 step 10100 loss 0.3922
+10/19/2022 07:42:20 - INFO - __main__ -   epoch 3 step 10200 loss 0.408
+10/19/2022 07:42:37 - INFO - __main__ -   epoch 3 step 10300 loss 0.4066
+10/19/2022 07:42:55 - INFO - __main__ -   epoch 3 step 10400 loss 0.3996
+10/19/2022 07:43:12 - INFO - __main__ -   epoch 3 step 10500 loss 0.4156
+10/19/2022 07:43:29 - INFO - __main__ -   epoch 3 step 10600 loss 0.4121
+10/19/2022 07:43:47 - INFO - __main__ -   epoch 3 step 10700 loss 0.4044
+10/19/2022 07:44:04 - INFO - __main__ -   epoch 3 step 10800 loss 0.4078
+10/19/2022 07:44:22 - INFO - __main__ -   epoch 3 step 10900 loss 0.4055
+10/19/2022 07:44:39 - INFO - __main__ -   epoch 3 step 11000 loss 0.4171
+10/19/2022 07:44:57 - INFO - __main__ -   epoch 3 step 11100 loss 0.4026
+10/19/2022 07:45:14 - INFO - __main__ -   epoch 3 step 11200 loss 0.4142
+10/19/2022 07:45:32 - INFO - __main__ -   epoch 3 step 11300 loss 0.4011
+10/19/2022 07:45:49 - INFO - __main__ -   epoch 3 step 11400 loss 0.4124
+10/19/2022 07:46:07 - INFO - __main__ -   epoch 3 step 11500 loss 0.408
+10/19/2022 07:46:24 - INFO - __main__ -   epoch 3 step 11600 loss 0.4213
+10/19/2022 07:46:42 - INFO - __main__ -   epoch 3 step 11700 loss 0.4135
+10/19/2022 07:46:59 - INFO - __main__ -   epoch 3 step 11800 loss 0.4017
+10/19/2022 07:47:16 - INFO - __main__ -   epoch 3 step 11900 loss 0.3966
+10/19/2022 07:47:34 - INFO - __main__ -   epoch 3 step 12000 loss 0.4016
+10/19/2022 07:47:51 - INFO - __main__ -   epoch 3 step 12100 loss 0.4046
+10/19/2022 07:48:09 - INFO - __main__ -   epoch 3 step 12200 loss 0.41
+10/19/2022 07:48:26 - INFO - __main__ -   epoch 3 step 12300 loss 0.3858
+10/19/2022 07:48:44 - INFO - __main__ -   epoch 3 step 12400 loss 0.4088
+10/19/2022 07:49:01 - INFO - __main__ -   epoch 3 step 12500 loss 0.4026
+10/19/2022 07:49:01 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 07:49:01 - INFO - __main__ -     Num examples = 1000
+10/19/2022 07:49:01 - INFO - __main__ -     Batch size = 32
+10/19/2022 07:49:04 - INFO - __main__ -     eval_ppl = 1.95494
+10/19/2022 07:49:04 - INFO - __main__ -     ********************
+10/19/2022 07:56:58 - INFO - __main__ -     bleu-4 = 30.56 
+10/19/2022 07:56:58 - INFO - __main__ -     EM = 18.6 
+10/19/2022 07:56:58 - INFO - __main__ -     ********************
+10/19/2022 07:56:58 - INFO - __main__ -     Best score:49.16
+10/19/2022 07:56:58 - INFO - __main__ -     ********************
+10/19/2022 07:57:25 - INFO - __main__ -   epoch 4 step 12600 loss 0.3405
+10/19/2022 07:57:43 - INFO - __main__ -   epoch 4 step 12700 loss 0.3296
+10/19/2022 07:58:00 - INFO - __main__ -   epoch 4 step 12800 loss 0.3478
+10/19/2022 07:58:18 - INFO - __main__ -   epoch 4 step 12900 loss 0.3493
+10/19/2022 07:58:35 - INFO - __main__ -   epoch 4 step 13000 loss 0.3421
+10/19/2022 07:58:52 - INFO - __main__ -   epoch 4 step 13100 loss 0.3289
+10/19/2022 07:59:10 - INFO - __main__ -   epoch 4 step 13200 loss 0.3367
+10/19/2022 07:59:27 - INFO - __main__ -   epoch 4 step 13300 loss 0.3435
+10/19/2022 07:59:45 - INFO - __main__ -   epoch 4 step 13400 loss 0.3545
+10/19/2022 08:00:02 - INFO - __main__ -   epoch 4 step 13500 loss 0.3374
+10/19/2022 08:00:20 - INFO - __main__ -   epoch 4 step 13600 loss 0.351
+10/19/2022 08:00:37 - INFO - __main__ -   epoch 4 step 13700 loss 0.3555
+10/19/2022 08:00:54 - INFO - __main__ -   epoch 4 step 13800 loss 0.3574
+10/19/2022 08:01:12 - INFO - __main__ -   epoch 4 step 13900 loss 0.3375
+10/19/2022 08:01:29 - INFO - __main__ -   epoch 4 step 14000 loss 0.3401
+10/19/2022 08:01:47 - INFO - __main__ -   epoch 4 step 14100 loss 0.3432
+10/19/2022 08:02:04 - INFO - __main__ -   epoch 4 step 14200 loss 0.359
+10/19/2022 08:02:22 - INFO - __main__ -   epoch 4 step 14300 loss 0.3471
+10/19/2022 08:02:39 - INFO - __main__ -   epoch 4 step 14400 loss 0.3556
+10/19/2022 08:02:57 - INFO - __main__ -   epoch 4 step 14500 loss 0.3421
+10/19/2022 08:03:14 - INFO - __main__ -   epoch 4 step 14600 loss 0.3457
+10/19/2022 08:03:32 - INFO - __main__ -   epoch 4 step 14700 loss 0.3516
+10/19/2022 08:03:49 - INFO - __main__ -   epoch 4 step 14800 loss 0.3413
+10/19/2022 08:04:06 - INFO - __main__ -   epoch 4 step 14900 loss 0.3471
+10/19/2022 08:04:24 - INFO - __main__ -   epoch 4 step 15000 loss 0.3428
+10/19/2022 08:04:41 - INFO - __main__ -   epoch 4 step 15100 loss 0.3451
+10/19/2022 08:04:59 - INFO - __main__ -   epoch 4 step 15200 loss 0.3418
+10/19/2022 08:05:16 - INFO - __main__ -   epoch 4 step 15300 loss 0.3334
+10/19/2022 08:05:34 - INFO - __main__ -   epoch 4 step 15400 loss 0.3409
+10/19/2022 08:05:51 - INFO - __main__ -   epoch 4 step 15500 loss 0.3481
+10/19/2022 08:06:09 - INFO - __main__ -   epoch 4 step 15600 loss 0.3645
+10/19/2022 08:06:13 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 08:06:13 - INFO - __main__ -     Num examples = 1000
+10/19/2022 08:06:13 - INFO - __main__ -     Batch size = 32
+10/19/2022 08:06:16 - INFO - __main__ -     eval_ppl = 1.98121
+10/19/2022 08:06:16 - INFO - __main__ -     ********************
+10/19/2022 08:14:02 - INFO - __main__ -     bleu-4 = 32.81 
+10/19/2022 08:14:02 - INFO - __main__ -     EM = 17.8 
+10/19/2022 08:14:02 - INFO - __main__ -     ********************
+10/19/2022 08:14:02 - INFO - __main__ -     Best score:50.61
+10/19/2022 08:14:02 - INFO - __main__ -     ********************
+10/19/2022 08:14:33 - INFO - __main__ -   epoch 5 step 15700 loss 0.2992
+10/19/2022 08:14:51 - INFO - __main__ -   epoch 5 step 15800 loss 0.2843
+10/19/2022 08:15:08 - INFO - __main__ -   epoch 5 step 15900 loss 0.2819
+10/19/2022 08:15:26 - INFO - __main__ -   epoch 5 step 16000 loss 0.2866
+10/19/2022 08:15:43 - INFO - __main__ -   epoch 5 step 16100 loss 0.2924
+10/19/2022 08:16:00 - INFO - __main__ -   epoch 5 step 16200 loss 0.2901
+10/19/2022 08:16:18 - INFO - __main__ -   epoch 5 step 16300 loss 0.2913
+10/19/2022 08:16:35 - INFO - __main__ -   epoch 5 step 16400 loss 0.2894
+10/19/2022 08:16:53 - INFO - __main__ -   epoch 5 step 16500 loss 0.302
+10/19/2022 08:17:10 - INFO - __main__ -   epoch 5 step 16600 loss 0.2805
+10/19/2022 08:17:28 - INFO - __main__ -   epoch 5 step 16700 loss 0.2997
+10/19/2022 08:17:45 - INFO - __main__ -   epoch 5 step 16800 loss 0.2914
+10/19/2022 08:18:02 - INFO - __main__ -   epoch 5 step 16900 loss 0.2902
+10/19/2022 08:18:20 - INFO - __main__ -   epoch 5 step 17000 loss 0.3058
+10/19/2022 08:18:37 - INFO - __main__ -   epoch 5 step 17100 loss 0.2921
+10/19/2022 08:18:55 - INFO - __main__ -   epoch 5 step 17200 loss 0.3023
+10/19/2022 08:19:12 - INFO - __main__ -   epoch 5 step 17300 loss 0.2944
+10/19/2022 08:19:30 - INFO - __main__ -   epoch 5 step 17400 loss 0.3079
+10/19/2022 08:19:47 - INFO - __main__ -   epoch 5 step 17500 loss 0.3042
+10/19/2022 08:20:05 - INFO - __main__ -   epoch 5 step 17600 loss 0.3042
+10/19/2022 08:20:22 - INFO - __main__ -   epoch 5 step 17700 loss 0.299
+10/19/2022 08:20:39 - INFO - __main__ -   epoch 5 step 17800 loss 0.3029
+10/19/2022 08:20:57 - INFO - __main__ -   epoch 5 step 17900 loss 0.3042
+10/19/2022 08:21:14 - INFO - __main__ -   epoch 5 step 18000 loss 0.2938
+10/19/2022 08:21:32 - INFO - __main__ -   epoch 5 step 18100 loss 0.3
+10/19/2022 08:21:49 - INFO - __main__ -   epoch 5 step 18200 loss 0.3033
+10/19/2022 08:22:07 - INFO - __main__ -   epoch 5 step 18300 loss 0.3072
+10/19/2022 08:22:24 - INFO - __main__ -   epoch 5 step 18400 loss 0.3105
+10/19/2022 08:22:42 - INFO - __main__ -   epoch 5 step 18500 loss 0.3048
+10/19/2022 08:22:59 - INFO - __main__ -   epoch 5 step 18600 loss 0.2985
+10/19/2022 08:23:17 - INFO - __main__ -   epoch 5 step 18700 loss 0.2987
+10/19/2022 08:23:25 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 08:23:25 - INFO - __main__ -     Num examples = 1000
+10/19/2022 08:23:25 - INFO - __main__ -     Batch size = 32
+10/19/2022 08:23:28 - INFO - __main__ -     eval_ppl = 2.03871
+10/19/2022 08:23:28 - INFO - __main__ -     ********************
+10/19/2022 08:30:50 - INFO - __main__ -     bleu-4 = 32.44 
+10/19/2022 08:30:50 - INFO - __main__ -     EM = 17.8 
+10/19/2022 08:30:50 - INFO - __main__ -     ********************
+10/19/2022 08:30:58 - INFO - __main__ -   epoch 6 step 18800 loss 0.2777
+10/19/2022 08:31:16 - INFO - __main__ -   epoch 6 step 18900 loss 0.2492
+10/19/2022 08:31:33 - INFO - __main__ -   epoch 6 step 19000 loss 0.2407
+10/19/2022 08:31:51 - INFO - __main__ -   epoch 6 step 19100 loss 0.2475
+10/19/2022 08:32:08 - INFO - __main__ -   epoch 6 step 19200 loss 0.2859
+10/19/2022 08:32:26 - INFO - __main__ -   epoch 6 step 19300 loss 0.2718
+10/19/2022 08:32:43 - INFO - __main__ -   epoch 6 step 19400 loss 0.2595
+10/19/2022 08:33:01 - INFO - __main__ -   epoch 6 step 19500 loss 0.2701
+10/19/2022 08:33:18 - INFO - __main__ -   epoch 6 step 19600 loss 0.2587
+10/19/2022 08:33:35 - INFO - __main__ -   epoch 6 step 19700 loss 0.2675
+10/19/2022 08:33:53 - INFO - __main__ -   epoch 6 step 19800 loss 0.2648
+10/19/2022 08:34:10 - INFO - __main__ -   epoch 6 step 19900 loss 0.2651
+10/19/2022 08:34:28 - INFO - __main__ -   epoch 6 step 20000 loss 0.27
+10/19/2022 08:34:45 - INFO - __main__ -   epoch 6 step 20100 loss 0.276
+10/19/2022 08:35:03 - INFO - __main__ -   epoch 6 step 20200 loss 0.2638
+10/19/2022 08:35:20 - INFO - __main__ -   epoch 6 step 20300 loss 0.261
+10/19/2022 08:35:37 - INFO - __main__ -   epoch 6 step 20400 loss 0.2577
+10/19/2022 08:35:55 - INFO - __main__ -   epoch 6 step 20500 loss 0.2693
+10/19/2022 08:36:12 - INFO - __main__ -   epoch 6 step 20600 loss 0.2632
+10/19/2022 08:36:30 - INFO - __main__ -   epoch 6 step 20700 loss 0.2563
+10/19/2022 08:36:47 - INFO - __main__ -   epoch 6 step 20800 loss 0.261
+10/19/2022 08:37:05 - INFO - __main__ -   epoch 6 step 20900 loss 0.2598
+10/19/2022 08:37:22 - INFO - __main__ -   epoch 6 step 21000 loss 0.2581
+10/19/2022 08:37:40 - INFO - __main__ -   epoch 6 step 21100 loss 0.2647
+10/19/2022 08:37:57 - INFO - __main__ -   epoch 6 step 21200 loss 0.2603
+10/19/2022 08:38:15 - INFO - __main__ -   epoch 6 step 21300 loss 0.2688
+10/19/2022 08:38:32 - INFO - __main__ -   epoch 6 step 21400 loss 0.2595
+10/19/2022 08:38:49 - INFO - __main__ -   epoch 6 step 21500 loss 0.2623
+10/19/2022 08:39:07 - INFO - __main__ -   epoch 6 step 21600 loss 0.2648
+10/19/2022 08:39:24 - INFO - __main__ -   epoch 6 step 21700 loss 0.2625
+10/19/2022 08:39:42 - INFO - __main__ -   epoch 6 step 21800 loss 0.2645
+10/19/2022 08:39:55 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 08:39:55 - INFO - __main__ -     Num examples = 1000
+10/19/2022 08:39:55 - INFO - __main__ -     Batch size = 32
+10/19/2022 08:39:57 - INFO - __main__ -     eval_ppl = 2.07792
+10/19/2022 08:39:57 - INFO - __main__ -     ********************
+10/19/2022 08:47:00 - INFO - __main__ -     bleu-4 = 32.42 
+10/19/2022 08:47:00 - INFO - __main__ -     EM = 18.5 
+10/19/2022 08:47:00 - INFO - __main__ -     ********************
+10/19/2022 08:47:00 - INFO - __main__ -     Best score:50.92
+10/19/2022 08:47:00 - INFO - __main__ -     ********************
+10/19/2022 08:47:18 - INFO - __main__ -   epoch 7 step 21900 loss 0.2498
+10/19/2022 08:47:35 - INFO - __main__ -   epoch 7 step 22000 loss 0.2134
+10/19/2022 08:47:53 - INFO - __main__ -   epoch 7 step 22100 loss 0.2214
+10/19/2022 08:48:10 - INFO - __main__ -   epoch 7 step 22200 loss 0.2093
+10/19/2022 08:48:28 - INFO - __main__ -   epoch 7 step 22300 loss 0.2129
+10/19/2022 08:48:45 - INFO - __main__ -   epoch 7 step 22400 loss 0.214
+10/19/2022 08:49:03 - INFO - __main__ -   epoch 7 step 22500 loss 0.2141
+10/19/2022 08:49:20 - INFO - __main__ -   epoch 7 step 22600 loss 0.2194
+10/19/2022 08:49:37 - INFO - __main__ -   epoch 7 step 22700 loss 0.2202
+10/19/2022 08:49:55 - INFO - __main__ -   epoch 7 step 22800 loss 0.23
+10/19/2022 08:50:12 - INFO - __main__ -   epoch 7 step 22900 loss 0.2182
+10/19/2022 08:50:30 - INFO - __main__ -   epoch 7 step 23000 loss 0.2233
+10/19/2022 08:50:47 - INFO - __main__ -   epoch 7 step 23100 loss 0.2192
+10/19/2022 08:51:05 - INFO - __main__ -   epoch 7 step 23200 loss 0.2259
+10/19/2022 08:51:22 - INFO - __main__ -   epoch 7 step 23300 loss 0.2225
+10/19/2022 08:51:40 - INFO - __main__ -   epoch 7 step 23400 loss 0.2315
+10/19/2022 08:51:57 - INFO - __main__ -   epoch 7 step 23500 loss 0.2309
+10/19/2022 08:52:14 - INFO - __main__ -   epoch 7 step 23600 loss 0.2303
+10/19/2022 08:52:32 - INFO - __main__ -   epoch 7 step 23700 loss 0.226
+10/19/2022 08:52:49 - INFO - __main__ -   epoch 7 step 23800 loss 0.2216
+10/19/2022 08:53:07 - INFO - __main__ -   epoch 7 step 23900 loss 0.2314
+10/19/2022 08:53:24 - INFO - __main__ -   epoch 7 step 24000 loss 0.2277
+10/19/2022 08:53:42 - INFO - __main__ -   epoch 7 step 24100 loss 0.2255
+10/19/2022 08:53:59 - INFO - __main__ -   epoch 7 step 24200 loss 0.2309
+10/19/2022 08:54:17 - INFO - __main__ -   epoch 7 step 24300 loss 0.2277
+10/19/2022 08:54:34 - INFO - __main__ -   epoch 7 step 24400 loss 0.2272
+10/19/2022 08:54:52 - INFO - __main__ -   epoch 7 step 24500 loss 0.237
+10/19/2022 08:55:09 - INFO - __main__ -   epoch 7 step 24600 loss 0.2401
+10/19/2022 08:55:27 - INFO - __main__ -   epoch 7 step 24700 loss 0.224
+10/19/2022 08:55:44 - INFO - __main__ -   epoch 7 step 24800 loss 0.2307
+10/19/2022 08:56:01 - INFO - __main__ -   epoch 7 step 24900 loss 0.2304
+10/19/2022 08:56:19 - INFO - __main__ -   epoch 7 step 25000 loss 0.2367
+10/19/2022 08:56:19 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 08:56:19 - INFO - __main__ -     Num examples = 1000
+10/19/2022 08:56:19 - INFO - __main__ -     Batch size = 32
+10/19/2022 08:56:22 - INFO - __main__ -     eval_ppl = 2.13165
+10/19/2022 08:56:22 - INFO - __main__ -     ********************
+10/19/2022 09:03:12 - INFO - __main__ -     bleu-4 = 32.06 
+10/19/2022 09:03:12 - INFO - __main__ -     EM = 18.4 
+10/19/2022 09:03:12 - INFO - __main__ -     ********************
+10/19/2022 09:03:30 - INFO - __main__ -   epoch 8 step 25100 loss 0.1845
+10/19/2022 09:03:47 - INFO - __main__ -   epoch 8 step 25200 loss 0.1881
+10/19/2022 09:04:04 - INFO - __main__ -   epoch 8 step 25300 loss 0.1849
+10/19/2022 09:04:22 - INFO - __main__ -   epoch 8 step 25400 loss 0.1848
+10/19/2022 09:04:39 - INFO - __main__ -   epoch 8 step 25500 loss 0.1835
+10/19/2022 09:04:57 - INFO - __main__ -   epoch 8 step 25600 loss 0.1919
+10/19/2022 09:05:14 - INFO - __main__ -   epoch 8 step 25700 loss 0.1912
+10/19/2022 09:05:32 - INFO - __main__ -   epoch 8 step 25800 loss 0.204
+10/19/2022 09:05:49 - INFO - __main__ -   epoch 8 step 25900 loss 0.199
+10/19/2022 09:06:07 - INFO - __main__ -   epoch 8 step 26000 loss 0.1936
+10/19/2022 09:06:24 - INFO - __main__ -   epoch 8 step 26100 loss 0.1938
+10/19/2022 09:06:41 - INFO - __main__ -   epoch 8 step 26200 loss 0.1993
+10/19/2022 09:06:59 - INFO - __main__ -   epoch 8 step 26300 loss 0.1907
+10/19/2022 09:07:16 - INFO - __main__ -   epoch 8 step 26400 loss 0.1887
+10/19/2022 09:07:34 - INFO - __main__ -   epoch 8 step 26500 loss 0.196
+10/19/2022 09:07:51 - INFO - __main__ -   epoch 8 step 26600 loss 0.1999
+10/19/2022 09:08:09 - INFO - __main__ -   epoch 8 step 26700 loss 0.1988
+10/19/2022 09:08:26 - INFO - __main__ -   epoch 8 step 26800 loss 0.1881
+10/19/2022 09:08:44 - INFO - __main__ -   epoch 8 step 26900 loss 0.1961
+10/19/2022 09:09:01 - INFO - __main__ -   epoch 8 step 27000 loss 0.1975
+10/19/2022 09:09:18 - INFO - __main__ -   epoch 8 step 27100 loss 0.1907
+10/19/2022 09:09:36 - INFO - __main__ -   epoch 8 step 27200 loss 0.2121
+10/19/2022 09:09:53 - INFO - __main__ -   epoch 8 step 27300 loss 0.1951
+10/19/2022 09:10:11 - INFO - __main__ -   epoch 8 step 27400 loss 0.202
+10/19/2022 09:10:28 - INFO - __main__ -   epoch 8 step 27500 loss 0.2109
+10/19/2022 09:10:46 - INFO - __main__ -   epoch 8 step 27600 loss 0.2001
+10/19/2022 09:11:03 - INFO - __main__ -   epoch 8 step 27700 loss 0.2006
+10/19/2022 09:11:21 - INFO - __main__ -   epoch 8 step 27800 loss 0.2055
+10/19/2022 09:11:38 - INFO - __main__ -   epoch 8 step 27900 loss 0.2064
+10/19/2022 09:11:55 - INFO - __main__ -   epoch 8 step 28000 loss 0.2052
+10/19/2022 09:12:13 - INFO - __main__ -   epoch 8 step 28100 loss 0.1999
+10/19/2022 09:12:17 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 09:12:17 - INFO - __main__ -     Num examples = 1000
+10/19/2022 09:12:17 - INFO - __main__ -     Batch size = 32
+10/19/2022 09:12:20 - INFO - __main__ -     eval_ppl = 2.19951
+10/19/2022 09:12:20 - INFO - __main__ -     ********************
+10/19/2022 09:19:46 - INFO - __main__ -     bleu-4 = 32.65 
+10/19/2022 09:19:46 - INFO - __main__ -     EM = 18.6 
+10/19/2022 09:19:46 - INFO - __main__ -     ********************
+10/19/2022 09:19:46 - INFO - __main__ -     Best score:51.25
+10/19/2022 09:19:46 - INFO - __main__ -     ********************
+10/19/2022 09:20:12 - INFO - __main__ -   epoch 9 step 28200 loss 0.172
+10/19/2022 09:20:29 - INFO - __main__ -   epoch 9 step 28300 loss 0.1684
+10/19/2022 09:20:46 - INFO - __main__ -   epoch 9 step 28400 loss 0.1629
+10/19/2022 09:21:04 - INFO - __main__ -   epoch 9 step 28500 loss 0.1634
+10/19/2022 09:21:21 - INFO - __main__ -   epoch 9 step 28600 loss 0.1682
+10/19/2022 09:21:39 - INFO - __main__ -   epoch 9 step 28700 loss 0.1627
+10/19/2022 09:21:56 - INFO - __main__ -   epoch 9 step 28800 loss 0.1633
+10/19/2022 09:22:14 - INFO - __main__ -   epoch 9 step 28900 loss 0.1636
+10/19/2022 09:22:31 - INFO - __main__ -   epoch 9 step 29000 loss 0.1646
+10/19/2022 09:22:49 - INFO - __main__ -   epoch 9 step 29100 loss 0.1627
+10/19/2022 09:23:06 - INFO - __main__ -   epoch 9 step 29200 loss 0.1624
+10/19/2022 09:23:23 - INFO - __main__ -   epoch 9 step 29300 loss 0.1673
+10/19/2022 09:23:41 - INFO - __main__ -   epoch 9 step 29400 loss 0.1699
+10/19/2022 09:23:58 - INFO - __main__ -   epoch 9 step 29500 loss 0.1733
+10/19/2022 09:24:16 - INFO - __main__ -   epoch 9 step 29600 loss 0.1651
+10/19/2022 09:24:33 - INFO - __main__ -   epoch 9 step 29700 loss 0.1797
+10/19/2022 09:24:51 - INFO - __main__ -   epoch 9 step 29800 loss 0.1768
+10/19/2022 09:25:08 - INFO - __main__ -   epoch 9 step 29900 loss 0.1734
+10/19/2022 09:25:26 - INFO - __main__ -   epoch 9 step 30000 loss 0.1695
+10/19/2022 09:25:43 - INFO - __main__ -   epoch 9 step 30100 loss 0.1763
+10/19/2022 09:26:00 - INFO - __main__ -   epoch 9 step 30200 loss 0.1759
+10/19/2022 09:26:18 - INFO - __main__ -   epoch 9 step 30300 loss 0.1773
+10/19/2022 09:26:35 - INFO - __main__ -   epoch 9 step 30400 loss 0.1761
+10/19/2022 09:26:53 - INFO - __main__ -   epoch 9 step 30500 loss 0.1884
+10/19/2022 09:27:10 - INFO - __main__ -   epoch 9 step 30600 loss 0.1844
+10/19/2022 09:27:28 - INFO - __main__ -   epoch 9 step 30700 loss 0.1868
+10/19/2022 09:27:45 - INFO - __main__ -   epoch 9 step 30800 loss 0.1748
+10/19/2022 09:28:03 - INFO - __main__ -   epoch 9 step 30900 loss 0.1807
+10/19/2022 09:28:20 - INFO - __main__ -   epoch 9 step 31000 loss 0.1771
+10/19/2022 09:28:38 - INFO - __main__ -   epoch 9 step 31100 loss 0.1758
+10/19/2022 09:28:55 - INFO - __main__ -   epoch 9 step 31200 loss 0.1743
+10/19/2022 09:29:04 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 09:29:04 - INFO - __main__ -     Num examples = 1000
+10/19/2022 09:29:04 - INFO - __main__ -     Batch size = 32
+10/19/2022 09:29:06 - INFO - __main__ -     eval_ppl = 2.28868
+10/19/2022 09:29:06 - INFO - __main__ -     ********************
+10/19/2022 09:36:13 - INFO - __main__ -     bleu-4 = 32.95 
+10/19/2022 09:36:13 - INFO - __main__ -     EM = 18.7 
+10/19/2022 09:36:13 - INFO - __main__ -     ********************
+10/19/2022 09:36:13 - INFO - __main__ -     Best score:51.650000000000006
+10/19/2022 09:36:13 - INFO - __main__ -     ********************
+10/19/2022 09:36:36 - INFO - __main__ -   epoch 10 step 31300 loss 0.1594
+10/19/2022 09:36:53 - INFO - __main__ -   epoch 10 step 31400 loss 0.1374
+10/19/2022 09:37:11 - INFO - __main__ -   epoch 10 step 31500 loss 0.1444
+10/19/2022 09:37:28 - INFO - __main__ -   epoch 10 step 31600 loss 0.1429
+10/19/2022 09:37:46 - INFO - __main__ -   epoch 10 step 31700 loss 0.1445
+10/19/2022 09:38:03 - INFO - __main__ -   epoch 10 step 31800 loss 0.1469
+10/19/2022 09:38:21 - INFO - __main__ -   epoch 10 step 31900 loss 0.1471
+10/19/2022 09:38:38 - INFO - __main__ -   epoch 10 step 32000 loss 0.149
+10/19/2022 09:38:55 - INFO - __main__ -   epoch 10 step 32100 loss 0.1507
+10/19/2022 09:39:13 - INFO - __main__ -   epoch 10 step 32200 loss 0.1478
+10/19/2022 09:39:30 - INFO - __main__ -   epoch 10 step 32300 loss 0.1481
+10/19/2022 09:39:48 - INFO - __main__ -   epoch 10 step 32400 loss 0.1521
+10/19/2022 09:40:05 - INFO - __main__ -   epoch 10 step 32500 loss 0.1439
+10/19/2022 09:40:23 - INFO - __main__ -   epoch 10 step 32600 loss 0.1545
+10/19/2022 09:40:40 - INFO - __main__ -   epoch 10 step 32700 loss 0.1493
+10/19/2022 09:40:58 - INFO - __main__ -   epoch 10 step 32800 loss 0.1469
+10/19/2022 09:41:15 - INFO - __main__ -   epoch 10 step 32900 loss 0.154
+10/19/2022 09:41:33 - INFO - __main__ -   epoch 10 step 33000 loss 0.1479
+10/19/2022 09:41:50 - INFO - __main__ -   epoch 10 step 33100 loss 0.156
+10/19/2022 09:42:07 - INFO - __main__ -   epoch 10 step 33200 loss 0.1506
+10/19/2022 09:42:25 - INFO - __main__ -   epoch 10 step 33300 loss 0.1538
+10/19/2022 09:42:42 - INFO - __main__ -   epoch 10 step 33400 loss 0.1541
+10/19/2022 09:43:00 - INFO - __main__ -   epoch 10 step 33500 loss 0.1596
+10/19/2022 09:43:17 - INFO - __main__ -   epoch 10 step 33600 loss 0.1539
+10/19/2022 09:43:35 - INFO - __main__ -   epoch 10 step 33700 loss 0.1587
+10/19/2022 09:43:52 - INFO - __main__ -   epoch 10 step 33800 loss 0.152
+10/19/2022 09:44:10 - INFO - __main__ -   epoch 10 step 33900 loss 0.1595
+10/19/2022 09:44:27 - INFO - __main__ -   epoch 10 step 34000 loss 0.1575
+10/19/2022 09:44:44 - INFO - __main__ -   epoch 10 step 34100 loss 0.1563
+10/19/2022 09:45:02 - INFO - __main__ -   epoch 10 step 34200 loss 0.1534
+10/19/2022 09:45:19 - INFO - __main__ -   epoch 10 step 34300 loss 0.1569
+10/19/2022 09:45:32 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 09:45:32 - INFO - __main__ -     Num examples = 1000
+10/19/2022 09:45:32 - INFO - __main__ -     Batch size = 32
+10/19/2022 09:45:35 - INFO - __main__ -     eval_ppl = 2.37261
+10/19/2022 09:45:35 - INFO - __main__ -     ********************
+10/19/2022 09:52:21 - INFO - __main__ -     bleu-4 = 32.11 
+10/19/2022 09:52:21 - INFO - __main__ -     EM = 18.5 
+10/19/2022 09:52:21 - INFO - __main__ -     ********************
+10/19/2022 09:52:25 - INFO - __main__ -   epoch 11 step 34400 loss 0.1486
+10/19/2022 09:52:43 - INFO - __main__ -   epoch 11 step 34500 loss 0.1257
+10/19/2022 09:53:00 - INFO - __main__ -   epoch 11 step 34600 loss 0.1267
+10/19/2022 09:53:17 - INFO - __main__ -   epoch 11 step 34700 loss 0.1247
+10/19/2022 09:53:35 - INFO - __main__ -   epoch 11 step 34800 loss 0.1278
+10/19/2022 09:53:52 - INFO - __main__ -   epoch 11 step 34900 loss 0.1295
+10/19/2022 09:54:10 - INFO - __main__ -   epoch 11 step 35000 loss 0.1238
+10/19/2022 09:54:27 - INFO - __main__ -   epoch 11 step 35100 loss 0.1277
+10/19/2022 09:54:45 - INFO - __main__ -   epoch 11 step 35200 loss 0.1244
+10/19/2022 09:55:02 - INFO - __main__ -   epoch 11 step 35300 loss 0.1319
+10/19/2022 09:55:19 - INFO - __main__ -   epoch 11 step 35400 loss 0.1309
+10/19/2022 09:55:37 - INFO - __main__ -   epoch 11 step 35500 loss 0.1333
+10/19/2022 09:55:54 - INFO - __main__ -   epoch 11 step 35600 loss 0.1252
+10/19/2022 09:56:12 - INFO - __main__ -   epoch 11 step 35700 loss 0.1305
+10/19/2022 09:56:29 - INFO - __main__ -   epoch 11 step 35800 loss 0.1348
+10/19/2022 09:56:47 - INFO - __main__ -   epoch 11 step 35900 loss 0.1308
+10/19/2022 09:57:04 - INFO - __main__ -   epoch 11 step 36000 loss 0.1325
+10/19/2022 09:57:22 - INFO - __main__ -   epoch 11 step 36100 loss 0.1315
+10/19/2022 09:57:39 - INFO - __main__ -   epoch 11 step 36200 loss 0.1334
+10/19/2022 09:57:57 - INFO - __main__ -   epoch 11 step 36300 loss 0.1339
+10/19/2022 09:58:14 - INFO - __main__ -   epoch 11 step 36400 loss 0.1409
+10/19/2022 09:58:32 - INFO - __main__ -   epoch 11 step 36500 loss 0.1373
+10/19/2022 09:58:49 - INFO - __main__ -   epoch 11 step 36600 loss 0.1348
+10/19/2022 09:59:06 - INFO - __main__ -   epoch 11 step 36700 loss 0.1322
+10/19/2022 09:59:24 - INFO - __main__ -   epoch 11 step 36800 loss 0.1393
+10/19/2022 09:59:41 - INFO - __main__ -   epoch 11 step 36900 loss 0.1351
+10/19/2022 09:59:59 - INFO - __main__ -   epoch 11 step 37000 loss 0.134
+10/19/2022 10:00:16 - INFO - __main__ -   epoch 11 step 37100 loss 0.1396
+10/19/2022 10:00:34 - INFO - __main__ -   epoch 11 step 37200 loss 0.1353
+10/19/2022 10:00:51 - INFO - __main__ -   epoch 11 step 37300 loss 0.1414
+10/19/2022 10:01:09 - INFO - __main__ -   epoch 11 step 37400 loss 0.14
+10/19/2022 10:01:26 - INFO - __main__ -   epoch 11 step 37500 loss 0.1453
+10/19/2022 10:01:26 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 10:01:26 - INFO - __main__ -     Num examples = 1000
+10/19/2022 10:01:26 - INFO - __main__ -     Batch size = 32
+10/19/2022 10:01:29 - INFO - __main__ -     eval_ppl = 2.41194
+10/19/2022 10:01:29 - INFO - __main__ -     ********************
+10/19/2022 10:08:35 - INFO - __main__ -     bleu-4 = 33.07 
+10/19/2022 10:08:35 - INFO - __main__ -     EM = 18.7 
+10/19/2022 10:08:35 - INFO - __main__ -     ********************
+10/19/2022 10:08:35 - INFO - __main__ -     Best score:51.769999999999996
+10/19/2022 10:08:35 - INFO - __main__ -     ********************
+10/19/2022 10:09:08 - INFO - __main__ -   epoch 12 step 37600 loss 0.1114
+10/19/2022 10:09:26 - INFO - __main__ -   epoch 12 step 37700 loss 0.1085
+10/19/2022 10:09:43 - INFO - __main__ -   epoch 12 step 37800 loss 0.1098
+10/19/2022 10:10:01 - INFO - __main__ -   epoch 12 step 37900 loss 0.1105
+10/19/2022 10:10:18 - INFO - __main__ -   epoch 12 step 38000 loss 0.11
+10/19/2022 10:10:36 - INFO - __main__ -   epoch 12 step 38100 loss 0.1128
+10/19/2022 10:10:53 - INFO - __main__ -   epoch 12 step 38200 loss 0.1158
+10/19/2022 10:11:10 - INFO - __main__ -   epoch 12 step 38300 loss 0.1209
+10/19/2022 10:11:28 - INFO - __main__ -   epoch 12 step 38400 loss 0.1147
+10/19/2022 10:11:45 - INFO - __main__ -   epoch 12 step 38500 loss 0.1135
+10/19/2022 10:12:03 - INFO - __main__ -   epoch 12 step 38600 loss 0.1143
+10/19/2022 10:12:20 - INFO - __main__ -   epoch 12 step 38700 loss 0.1146
+10/19/2022 10:12:38 - INFO - __main__ -   epoch 12 step 38800 loss 0.1154
+10/19/2022 10:12:55 - INFO - __main__ -   epoch 12 step 38900 loss 0.1178
+10/19/2022 10:13:13 - INFO - __main__ -   epoch 12 step 39000 loss 0.1176
+10/19/2022 10:13:30 - INFO - __main__ -   epoch 12 step 39100 loss 0.1188
+10/19/2022 10:13:48 - INFO - __main__ -   epoch 12 step 39200 loss 0.1184
+10/19/2022 10:14:05 - INFO - __main__ -   epoch 12 step 39300 loss 0.1154
+10/19/2022 10:14:23 - INFO - __main__ -   epoch 12 step 39400 loss 0.1211
+10/19/2022 10:14:40 - INFO - __main__ -   epoch 12 step 39500 loss 0.1202
+10/19/2022 10:14:58 - INFO - __main__ -   epoch 12 step 39600 loss 0.1205
+10/19/2022 10:15:15 - INFO - __main__ -   epoch 12 step 39700 loss 0.1192
+10/19/2022 10:15:33 - INFO - __main__ -   epoch 12 step 39800 loss 0.1242
+10/19/2022 10:15:50 - INFO - __main__ -   epoch 12 step 39900 loss 0.1241
+10/19/2022 10:16:08 - INFO - __main__ -   epoch 12 step 40000 loss 0.1232
+10/19/2022 10:16:25 - INFO - __main__ -   epoch 12 step 40100 loss 0.1192
+10/19/2022 10:16:42 - INFO - __main__ -   epoch 12 step 40200 loss 0.1234
+10/19/2022 10:17:00 - INFO - __main__ -   epoch 12 step 40300 loss 0.1174
+10/19/2022 10:17:17 - INFO - __main__ -   epoch 12 step 40400 loss 0.1193
+10/19/2022 10:17:35 - INFO - __main__ -   epoch 12 step 40500 loss 0.1222
+10/19/2022 10:17:52 - INFO - __main__ -   epoch 12 step 40600 loss 0.1175
+10/19/2022 10:17:57 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 10:17:57 - INFO - __main__ -     Num examples = 1000
+10/19/2022 10:17:57 - INFO - __main__ -     Batch size = 32
+10/19/2022 10:17:59 - INFO - __main__ -     eval_ppl = 2.4879
+10/19/2022 10:17:59 - INFO - __main__ -     ********************
+10/19/2022 10:25:24 - INFO - __main__ -     bleu-4 = 33.29 
+10/19/2022 10:25:24 - INFO - __main__ -     EM = 18.7 
+10/19/2022 10:25:24 - INFO - __main__ -     ********************
+10/19/2022 10:25:24 - INFO - __main__ -     Best score:51.989999999999995
+10/19/2022 10:25:24 - INFO - __main__ -     ********************
+10/19/2022 10:25:51 - INFO - __main__ -   epoch 13 step 40700 loss 0.1021
+10/19/2022 10:26:08 - INFO - __main__ -   epoch 13 step 40800 loss 0.0953
+10/19/2022 10:26:26 - INFO - __main__ -   epoch 13 step 40900 loss 0.0961
+10/19/2022 10:26:43 - INFO - __main__ -   epoch 13 step 41000 loss 0.0961
+10/19/2022 10:27:01 - INFO - __main__ -   epoch 13 step 41100 loss 0.0962
+10/19/2022 10:27:18 - INFO - __main__ -   epoch 13 step 41200 loss 0.097
+10/19/2022 10:27:36 - INFO - __main__ -   epoch 13 step 41300 loss 0.1029
+10/19/2022 10:27:53 - INFO - __main__ -   epoch 13 step 41400 loss 0.102
+10/19/2022 10:28:10 - INFO - __main__ -   epoch 13 step 41500 loss 0.1001
+10/19/2022 10:28:28 - INFO - __main__ -   epoch 13 step 41600 loss 0.1026
+10/19/2022 10:28:45 - INFO - __main__ -   epoch 13 step 41700 loss 0.102
+10/19/2022 10:29:03 - INFO - __main__ -   epoch 13 step 41800 loss 0.1041
+10/19/2022 10:29:20 - INFO - __main__ -   epoch 13 step 41900 loss 0.0999
+10/19/2022 10:29:38 - INFO - __main__ -   epoch 13 step 42000 loss 0.1019
+10/19/2022 10:29:55 - INFO - __main__ -   epoch 13 step 42100 loss 0.1035
+10/19/2022 10:30:13 - INFO - __main__ -   epoch 13 step 42200 loss 0.1026
+10/19/2022 10:30:30 - INFO - __main__ -   epoch 13 step 42300 loss 0.103
+10/19/2022 10:30:47 - INFO - __main__ -   epoch 13 step 42400 loss 0.1064
+10/19/2022 10:31:05 - INFO - __main__ -   epoch 13 step 42500 loss 0.1041
+10/19/2022 10:31:22 - INFO - __main__ -   epoch 13 step 42600 loss 0.1042
+10/19/2022 10:31:40 - INFO - __main__ -   epoch 13 step 42700 loss 0.1089
+10/19/2022 10:31:57 - INFO - __main__ -   epoch 13 step 42800 loss 0.1088
+10/19/2022 10:32:15 - INFO - __main__ -   epoch 13 step 42900 loss 0.1082
+10/19/2022 10:32:32 - INFO - __main__ -   epoch 13 step 43000 loss 0.1065
+10/19/2022 10:32:50 - INFO - __main__ -   epoch 13 step 43100 loss 0.1055
+10/19/2022 10:33:07 - INFO - __main__ -   epoch 13 step 43200 loss 0.1097
+10/19/2022 10:33:24 - INFO - __main__ -   epoch 13 step 43300 loss 0.1075
+10/19/2022 10:33:42 - INFO - __main__ -   epoch 13 step 43400 loss 0.1073
+10/19/2022 10:33:59 - INFO - __main__ -   epoch 13 step 43500 loss 0.109
+10/19/2022 10:34:17 - INFO - __main__ -   epoch 13 step 43600 loss 0.1098
+10/19/2022 10:34:34 - INFO - __main__ -   epoch 13 step 43700 loss 0.1071
+10/19/2022 10:34:43 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 10:34:43 - INFO - __main__ -     Num examples = 1000
+10/19/2022 10:34:43 - INFO - __main__ -     Batch size = 32
+10/19/2022 10:34:46 - INFO - __main__ -     eval_ppl = 2.58163
+10/19/2022 10:34:46 - INFO - __main__ -     ********************
+10/19/2022 10:41:57 - INFO - __main__ -     bleu-4 = 32.95 
+10/19/2022 10:41:57 - INFO - __main__ -     EM = 17.1 
+10/19/2022 10:41:57 - INFO - __main__ -     ********************
+10/19/2022 10:42:06 - INFO - __main__ -   epoch 14 step 43800 loss 0.0978
+10/19/2022 10:42:23 - INFO - __main__ -   epoch 14 step 43900 loss 0.0862
+10/19/2022 10:42:41 - INFO - __main__ -   epoch 14 step 44000 loss 0.0915
+10/19/2022 10:42:58 - INFO - __main__ -   epoch 14 step 44100 loss 0.0883
+10/19/2022 10:43:16 - INFO - __main__ -   epoch 14 step 44200 loss 0.0869
+10/19/2022 10:43:33 - INFO - __main__ -   epoch 14 step 44300 loss 0.0927
+10/19/2022 10:43:51 - INFO - __main__ -   epoch 14 step 44400 loss 0.0862
+10/19/2022 10:44:08 - INFO - __main__ -   epoch 14 step 44500 loss 0.0906
+10/19/2022 10:44:25 - INFO - __main__ -   epoch 14 step 44600 loss 0.0851
+10/19/2022 10:44:43 - INFO - __main__ -   epoch 14 step 44700 loss 0.091
+10/19/2022 10:45:00 - INFO - __main__ -   epoch 14 step 44800 loss 0.0886
+10/19/2022 10:45:18 - INFO - __main__ -   epoch 14 step 44900 loss 0.0887
+10/19/2022 10:45:35 - INFO - __main__ -   epoch 14 step 45000 loss 0.0922
+10/19/2022 10:45:53 - INFO - __main__ -   epoch 14 step 45100 loss 0.0915
+10/19/2022 10:46:10 - INFO - __main__ -   epoch 14 step 45200 loss 0.0906
+10/19/2022 10:46:28 - INFO - __main__ -   epoch 14 step 45300 loss 0.0899
+10/19/2022 10:46:45 - INFO - __main__ -   epoch 14 step 45400 loss 0.0929
+10/19/2022 10:47:02 - INFO - __main__ -   epoch 14 step 45500 loss 0.0906
+10/19/2022 10:47:20 - INFO - __main__ -   epoch 14 step 45600 loss 0.0935
+10/19/2022 10:47:37 - INFO - __main__ -   epoch 14 step 45700 loss 0.0923
+10/19/2022 10:47:55 - INFO - __main__ -   epoch 14 step 45800 loss 0.0906
+10/19/2022 10:48:12 - INFO - __main__ -   epoch 14 step 45900 loss 0.0953
+10/19/2022 10:48:30 - INFO - __main__ -   epoch 14 step 46000 loss 0.0891
+10/19/2022 10:48:47 - INFO - __main__ -   epoch 14 step 46100 loss 0.0963
+10/19/2022 10:49:05 - INFO - __main__ -   epoch 14 step 46200 loss 0.094
+10/19/2022 10:49:22 - INFO - __main__ -   epoch 14 step 46300 loss 0.0922
+10/19/2022 10:49:40 - INFO - __main__ -   epoch 14 step 46400 loss 0.0972
+10/19/2022 10:49:57 - INFO - __main__ -   epoch 14 step 46500 loss 0.0936
+10/19/2022 10:50:14 - INFO - __main__ -   epoch 14 step 46600 loss 0.0973
+10/19/2022 10:50:32 - INFO - __main__ -   epoch 14 step 46700 loss 0.0987
+10/19/2022 10:50:49 - INFO - __main__ -   epoch 14 step 46800 loss 0.0973
+10/19/2022 10:51:02 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 10:51:02 - INFO - __main__ -     Num examples = 1000
+10/19/2022 10:51:02 - INFO - __main__ -     Batch size = 32
+10/19/2022 10:51:05 - INFO - __main__ -     eval_ppl = 2.61447
+10/19/2022 10:51:05 - INFO - __main__ -     ********************
+10/19/2022 10:58:19 - INFO - __main__ -     bleu-4 = 33.07 
+10/19/2022 10:58:19 - INFO - __main__ -     EM = 18.1 
+10/19/2022 10:58:19 - INFO - __main__ -     ********************
+10/19/2022 10:58:24 - INFO - __main__ -   epoch 15 step 46900 loss 0.0939
+10/19/2022 10:58:41 - INFO - __main__ -   epoch 15 step 47000 loss 0.0779
+10/19/2022 10:58:58 - INFO - __main__ -   epoch 15 step 47100 loss 0.0782
+10/19/2022 10:59:16 - INFO - __main__ -   epoch 15 step 47200 loss 0.0789
+10/19/2022 10:59:33 - INFO - __main__ -   epoch 15 step 47300 loss 0.0772
+10/19/2022 10:59:51 - INFO - __main__ -   epoch 15 step 47400 loss 0.0767
+10/19/2022 11:00:08 - INFO - __main__ -   epoch 15 step 47500 loss 0.0808
+10/19/2022 11:00:25 - INFO - __main__ -   epoch 15 step 47600 loss 0.0793
+10/19/2022 11:00:43 - INFO - __main__ -   epoch 15 step 47700 loss 0.077
+10/19/2022 11:01:00 - INFO - __main__ -   epoch 15 step 47800 loss 0.0785
+10/19/2022 11:01:18 - INFO - __main__ -   epoch 15 step 47900 loss 0.078
+10/19/2022 11:01:35 - INFO - __main__ -   epoch 15 step 48000 loss 0.0821
+10/19/2022 11:01:53 - INFO - __main__ -   epoch 15 step 48100 loss 0.0789
+10/19/2022 11:02:10 - INFO - __main__ -   epoch 15 step 48200 loss 0.0805
+10/19/2022 11:02:28 - INFO - __main__ -   epoch 15 step 48300 loss 0.0839
+10/19/2022 11:02:45 - INFO - __main__ -   epoch 15 step 48400 loss 0.0794
+10/19/2022 11:03:03 - INFO - __main__ -   epoch 15 step 48500 loss 0.0851
+10/19/2022 11:03:20 - INFO - __main__ -   epoch 15 step 48600 loss 0.0852
+10/19/2022 11:03:38 - INFO - __main__ -   epoch 15 step 48700 loss 0.0806
+10/19/2022 11:03:55 - INFO - __main__ -   epoch 15 step 48800 loss 0.0852
+10/19/2022 11:04:13 - INFO - __main__ -   epoch 15 step 48900 loss 0.0839
+10/19/2022 11:04:30 - INFO - __main__ -   epoch 15 step 49000 loss 0.0838
+10/19/2022 11:04:47 - INFO - __main__ -   epoch 15 step 49100 loss 0.0867
+10/19/2022 11:05:05 - INFO - __main__ -   epoch 15 step 49200 loss 0.0848
+10/19/2022 11:05:22 - INFO - __main__ -   epoch 15 step 49300 loss 0.0895
+10/19/2022 11:05:40 - INFO - __main__ -   epoch 15 step 49400 loss 0.0898
+10/19/2022 11:05:57 - INFO - __main__ -   epoch 15 step 49500 loss 0.0859
+10/19/2022 11:06:15 - INFO - __main__ -   epoch 15 step 49600 loss 0.0858
+10/19/2022 11:06:32 - INFO - __main__ -   epoch 15 step 49700 loss 0.085
+10/19/2022 11:06:50 - INFO - __main__ -   epoch 15 step 49800 loss 0.0839
+10/19/2022 11:07:07 - INFO - __main__ -   epoch 15 step 49900 loss 0.0835
+10/19/2022 11:07:25 - INFO - __main__ -   epoch 15 step 50000 loss 0.0811
+10/19/2022 11:07:25 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 11:07:25 - INFO - __main__ -     Num examples = 1000
+10/19/2022 11:07:25 - INFO - __main__ -     Batch size = 32
+10/19/2022 11:07:27 - INFO - __main__ -     eval_ppl = 2.6862
+10/19/2022 11:07:27 - INFO - __main__ -     ********************
+10/19/2022 11:14:18 - INFO - __main__ -     bleu-4 = 32.61 
+10/19/2022 11:14:18 - INFO - __main__ -     EM = 17.9 
+10/19/2022 11:14:18 - INFO - __main__ -     ********************
+10/19/2022 11:14:36 - INFO - __main__ -   epoch 16 step 50100 loss 0.0699
+10/19/2022 11:14:53 - INFO - __main__ -   epoch 16 step 50200 loss 0.0695
+10/19/2022 11:15:11 - INFO - __main__ -   epoch 16 step 50300 loss 0.0707
+10/19/2022 11:15:28 - INFO - __main__ -   epoch 16 step 50400 loss 0.0709
+10/19/2022 11:15:45 - INFO - __main__ -   epoch 16 step 50500 loss 0.071
+10/19/2022 11:16:03 - INFO - __main__ -   epoch 16 step 50600 loss 0.0676
+10/19/2022 11:16:20 - INFO - __main__ -   epoch 16 step 50700 loss 0.0691
+10/19/2022 11:16:38 - INFO - __main__ -   epoch 16 step 50800 loss 0.067
+10/19/2022 11:16:55 - INFO - __main__ -   epoch 16 step 50900 loss 0.0742
+10/19/2022 11:17:13 - INFO - __main__ -   epoch 16 step 51000 loss 0.0698
+10/19/2022 11:17:30 - INFO - __main__ -   epoch 16 step 51100 loss 0.0731
+10/19/2022 11:17:48 - INFO - __main__ -   epoch 16 step 51200 loss 0.0756
+10/19/2022 11:18:05 - INFO - __main__ -   epoch 16 step 51300 loss 0.0756
+10/19/2022 11:18:23 - INFO - __main__ -   epoch 16 step 51400 loss 0.0717
+10/19/2022 11:18:40 - INFO - __main__ -   epoch 16 step 51500 loss 0.0748
+10/19/2022 11:18:58 - INFO - __main__ -   epoch 16 step 51600 loss 0.0768
+10/19/2022 11:19:15 - INFO - __main__ -   epoch 16 step 51700 loss 0.077
+10/19/2022 11:19:32 - INFO - __main__ -   epoch 16 step 51800 loss 0.074
+10/19/2022 11:19:50 - INFO - __main__ -   epoch 16 step 51900 loss 0.0743
+10/19/2022 11:20:07 - INFO - __main__ -   epoch 16 step 52000 loss 0.0734
+10/19/2022 11:20:25 - INFO - __main__ -   epoch 16 step 52100 loss 0.0742
+10/19/2022 11:20:42 - INFO - __main__ -   epoch 16 step 52200 loss 0.0725
+10/19/2022 11:21:00 - INFO - __main__ -   epoch 16 step 52300 loss 0.0753
+10/19/2022 11:21:17 - INFO - __main__ -   epoch 16 step 52400 loss 0.0771
+10/19/2022 11:21:35 - INFO - __main__ -   epoch 16 step 52500 loss 0.0753
+10/19/2022 11:21:52 - INFO - __main__ -   epoch 16 step 52600 loss 0.0772
+10/19/2022 11:22:10 - INFO - __main__ -   epoch 16 step 52700 loss 0.0751
+10/19/2022 11:22:27 - INFO - __main__ -   epoch 16 step 52800 loss 0.0801
+10/19/2022 11:22:44 - INFO - __main__ -   epoch 16 step 52900 loss 0.0776
+10/19/2022 11:23:02 - INFO - __main__ -   epoch 16 step 53000 loss 0.0785
+10/19/2022 11:23:19 - INFO - __main__ -   epoch 16 step 53100 loss 0.0749
+10/19/2022 11:23:24 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 11:23:24 - INFO - __main__ -     Num examples = 1000
+10/19/2022 11:23:24 - INFO - __main__ -     Batch size = 32
+10/19/2022 11:23:26 - INFO - __main__ -     eval_ppl = 2.73281
+10/19/2022 11:23:26 - INFO - __main__ -     ********************
+10/19/2022 11:30:45 - INFO - __main__ -     bleu-4 = 33.08 
+10/19/2022 11:30:45 - INFO - __main__ -     EM = 17.8 
+10/19/2022 11:30:45 - INFO - __main__ -     ********************
+10/19/2022 11:30:58 - INFO - __main__ -   epoch 17 step 53200 loss 0.0664
+10/19/2022 11:31:15 - INFO - __main__ -   epoch 17 step 53300 loss 0.062
+10/19/2022 11:31:33 - INFO - __main__ -   epoch 17 step 53400 loss 0.0626
+10/19/2022 11:31:50 - INFO - __main__ -   epoch 17 step 53500 loss 0.0628
+10/19/2022 11:32:08 - INFO - __main__ -   epoch 17 step 53600 loss 0.0612
+10/19/2022 11:32:25 - INFO - __main__ -   epoch 17 step 53700 loss 0.0601
+10/19/2022 11:32:43 - INFO - __main__ -   epoch 17 step 53800 loss 0.0661
+10/19/2022 11:33:00 - INFO - __main__ -   epoch 17 step 53900 loss 0.0659
+10/19/2022 11:33:17 - INFO - __main__ -   epoch 17 step 54000 loss 0.0664
+10/19/2022 11:33:35 - INFO - __main__ -   epoch 17 step 54100 loss 0.0619
+10/19/2022 11:33:52 - INFO - __main__ -   epoch 17 step 54200 loss 0.064
+10/19/2022 11:34:10 - INFO - __main__ -   epoch 17 step 54300 loss 0.062
+10/19/2022 11:34:27 - INFO - __main__ -   epoch 17 step 54400 loss 0.0646
+10/19/2022 11:34:45 - INFO - __main__ -   epoch 17 step 54500 loss 0.066
+10/19/2022 11:35:02 - INFO - __main__ -   epoch 17 step 54600 loss 0.0652
+10/19/2022 11:35:20 - INFO - __main__ -   epoch 17 step 54700 loss 0.0691
+10/19/2022 11:35:37 - INFO - __main__ -   epoch 17 step 54800 loss 0.0655
+10/19/2022 11:35:55 - INFO - __main__ -   epoch 17 step 54900 loss 0.0677
+10/19/2022 11:36:12 - INFO - __main__ -   epoch 17 step 55000 loss 0.066
+10/19/2022 11:36:30 - INFO - __main__ -   epoch 17 step 55100 loss 0.0684
+10/19/2022 11:36:47 - INFO - __main__ -   epoch 17 step 55200 loss 0.0667
+10/19/2022 11:37:04 - INFO - __main__ -   epoch 17 step 55300 loss 0.067
+10/19/2022 11:37:22 - INFO - __main__ -   epoch 17 step 55400 loss 0.0686
+10/19/2022 11:37:39 - INFO - __main__ -   epoch 17 step 55500 loss 0.0699
+10/19/2022 11:37:57 - INFO - __main__ -   epoch 17 step 55600 loss 0.0668
+10/19/2022 11:38:14 - INFO - __main__ -   epoch 17 step 55700 loss 0.0698
+10/19/2022 11:38:32 - INFO - __main__ -   epoch 17 step 55800 loss 0.0694
+10/19/2022 11:38:49 - INFO - __main__ -   epoch 17 step 55900 loss 0.069
+10/19/2022 11:39:07 - INFO - __main__ -   epoch 17 step 56000 loss 0.0691
+10/19/2022 11:39:24 - INFO - __main__ -   epoch 17 step 56100 loss 0.0708
+10/19/2022 11:39:41 - INFO - __main__ -   epoch 17 step 56200 loss 0.0692
+10/19/2022 11:39:50 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 11:39:50 - INFO - __main__ -     Num examples = 1000
+10/19/2022 11:39:50 - INFO - __main__ -     Batch size = 32
+10/19/2022 11:39:53 - INFO - __main__ -     eval_ppl = 2.80787
+10/19/2022 11:39:53 - INFO - __main__ -     ********************
+10/19/2022 11:46:54 - INFO - __main__ -     bleu-4 = 33.31 
+10/19/2022 11:46:54 - INFO - __main__ -     EM = 17.4 
+10/19/2022 11:46:54 - INFO - __main__ -     ********************
+10/19/2022 11:47:03 - INFO - __main__ -   epoch 18 step 56300 loss 0.0625
+10/19/2022 11:47:20 - INFO - __main__ -   epoch 18 step 56400 loss 0.0588
+10/19/2022 11:47:38 - INFO - __main__ -   epoch 18 step 56500 loss 0.0568
+10/19/2022 11:47:55 - INFO - __main__ -   epoch 18 step 56600 loss 0.0553
+10/19/2022 11:48:12 - INFO - __main__ -   epoch 18 step 56700 loss 0.0572
+10/19/2022 11:48:30 - INFO - __main__ -   epoch 18 step 56800 loss 0.0561
+10/19/2022 11:48:47 - INFO - __main__ -   epoch 18 step 56900 loss 0.0578
+10/19/2022 11:49:05 - INFO - __main__ -   epoch 18 step 57000 loss 0.0577
+10/19/2022 11:49:22 - INFO - __main__ -   epoch 18 step 57100 loss 0.0567
+10/19/2022 11:49:40 - INFO - __main__ -   epoch 18 step 57200 loss 0.0568
+10/19/2022 11:49:57 - INFO - __main__ -   epoch 18 step 57300 loss 0.0562
+10/19/2022 11:50:15 - INFO - __main__ -   epoch 18 step 57400 loss 0.0594
+10/19/2022 11:50:32 - INFO - __main__ -   epoch 18 step 57500 loss 0.0588
+10/19/2022 11:50:49 - INFO - __main__ -   epoch 18 step 57600 loss 0.0591
+10/19/2022 11:51:07 - INFO - __main__ -   epoch 18 step 57700 loss 0.0592
+10/19/2022 11:51:24 - INFO - __main__ -   epoch 18 step 57800 loss 0.061
+10/19/2022 11:51:42 - INFO - __main__ -   epoch 18 step 57900 loss 0.0586
+10/19/2022 11:51:59 - INFO - __main__ -   epoch 18 step 58000 loss 0.0573
+10/19/2022 11:52:17 - INFO - __main__ -   epoch 18 step 58100 loss 0.06
+10/19/2022 11:52:34 - INFO - __main__ -   epoch 18 step 58200 loss 0.0601
+10/19/2022 11:52:52 - INFO - __main__ -   epoch 18 step 58300 loss 0.0607
+10/19/2022 11:53:09 - INFO - __main__ -   epoch 18 step 58400 loss 0.0622
+10/19/2022 11:53:26 - INFO - __main__ -   epoch 18 step 58500 loss 0.0598
+10/19/2022 11:53:44 - INFO - __main__ -   epoch 18 step 58600 loss 0.0625
+10/19/2022 11:54:01 - INFO - __main__ -   epoch 18 step 58700 loss 0.0607
+10/19/2022 11:54:19 - INFO - __main__ -   epoch 18 step 58800 loss 0.0594
+10/19/2022 11:54:36 - INFO - __main__ -   epoch 18 step 58900 loss 0.0633
+10/19/2022 11:54:54 - INFO - __main__ -   epoch 18 step 59000 loss 0.0631
+10/19/2022 11:55:11 - INFO - __main__ -   epoch 18 step 59100 loss 0.0597
+10/19/2022 11:55:29 - INFO - __main__ -   epoch 18 step 59200 loss 0.0617
+10/19/2022 11:55:46 - INFO - __main__ -   epoch 18 step 59300 loss 0.0653
+10/19/2022 11:55:59 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 11:55:59 - INFO - __main__ -     Num examples = 1000
+10/19/2022 11:55:59 - INFO - __main__ -     Batch size = 32
+10/19/2022 11:56:02 - INFO - __main__ -     eval_ppl = 2.83842
+10/19/2022 11:56:02 - INFO - __main__ -     ********************
+10/19/2022 12:03:22 - INFO - __main__ -     bleu-4 = 33.82 
+10/19/2022 12:03:22 - INFO - __main__ -     EM = 18.0 
+10/19/2022 12:03:22 - INFO - __main__ -     ********************
+10/19/2022 12:03:27 - INFO - __main__ -   epoch 19 step 59400 loss 0.0606
+10/19/2022 12:03:44 - INFO - __main__ -   epoch 19 step 59500 loss 0.0508
+10/19/2022 12:04:01 - INFO - __main__ -   epoch 19 step 59600 loss 0.0499
+10/19/2022 12:04:19 - INFO - __main__ -   epoch 19 step 59700 loss 0.0522
+10/19/2022 12:04:36 - INFO - __main__ -   epoch 19 step 59800 loss 0.0504
+10/19/2022 12:04:54 - INFO - __main__ -   epoch 19 step 59900 loss 0.0513
+10/19/2022 12:05:11 - INFO - __main__ -   epoch 19 step 60000 loss 0.0508
+10/19/2022 12:05:29 - INFO - __main__ -   epoch 19 step 60100 loss 0.0536
+10/19/2022 12:05:46 - INFO - __main__ -   epoch 19 step 60200 loss 0.0547
+10/19/2022 12:06:03 - INFO - __main__ -   epoch 19 step 60300 loss 0.0527
+10/19/2022 12:06:21 - INFO - __main__ -   epoch 19 step 60400 loss 0.0539
+10/19/2022 12:06:38 - INFO - __main__ -   epoch 19 step 60500 loss 0.0545
+10/19/2022 12:06:56 - INFO - __main__ -   epoch 19 step 60600 loss 0.0562
+10/19/2022 12:07:13 - INFO - __main__ -   epoch 19 step 60700 loss 0.0551
+10/19/2022 12:07:31 - INFO - __main__ -   epoch 19 step 60800 loss 0.0552
+10/19/2022 12:07:48 - INFO - __main__ -   epoch 19 step 60900 loss 0.0531
+10/19/2022 12:08:06 - INFO - __main__ -   epoch 19 step 61000 loss 0.0521
+10/19/2022 12:08:23 - INFO - __main__ -   epoch 19 step 61100 loss 0.0527
+10/19/2022 12:08:40 - INFO - __main__ -   epoch 19 step 61200 loss 0.0552
+10/19/2022 12:08:58 - INFO - __main__ -   epoch 19 step 61300 loss 0.0546
+10/19/2022 12:09:15 - INFO - __main__ -   epoch 19 step 61400 loss 0.0535
+10/19/2022 12:09:33 - INFO - __main__ -   epoch 19 step 61500 loss 0.0565
+10/19/2022 12:09:50 - INFO - __main__ -   epoch 19 step 61600 loss 0.0547
+10/19/2022 12:10:08 - INFO - __main__ -   epoch 19 step 61700 loss 0.0557
+10/19/2022 12:10:25 - INFO - __main__ -   epoch 19 step 61800 loss 0.0565
+10/19/2022 12:10:43 - INFO - __main__ -   epoch 19 step 61900 loss 0.0541
+10/19/2022 12:11:00 - INFO - __main__ -   epoch 19 step 62000 loss 0.0571
+10/19/2022 12:11:17 - INFO - __main__ -   epoch 19 step 62100 loss 0.0551
+10/19/2022 12:11:35 - INFO - __main__ -   epoch 19 step 62200 loss 0.0569
+10/19/2022 12:11:52 - INFO - __main__ -   epoch 19 step 62300 loss 0.0516
+10/19/2022 12:12:10 - INFO - __main__ -   epoch 19 step 62400 loss 0.056
+10/19/2022 12:12:27 - INFO - __main__ -   epoch 19 step 62500 loss 0.0562
+10/19/2022 12:12:27 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 12:12:27 - INFO - __main__ -     Num examples = 1000
+10/19/2022 12:12:27 - INFO - __main__ -     Batch size = 32
+10/19/2022 12:12:30 - INFO - __main__ -     eval_ppl = 2.89377
+10/19/2022 12:12:30 - INFO - __main__ -     ********************
+10/19/2022 12:19:55 - INFO - __main__ -     bleu-4 = 33.58 
+10/19/2022 12:19:55 - INFO - __main__ -     EM = 17.0 
+10/19/2022 12:19:55 - INFO - __main__ -     ********************
+10/19/2022 12:20:13 - INFO - __main__ -   epoch 20 step 62600 loss 0.0451
+10/19/2022 12:20:30 - INFO - __main__ -   epoch 20 step 62700 loss 0.0478
+10/19/2022 12:20:48 - INFO - __main__ -   epoch 20 step 62800 loss 0.0458
+10/19/2022 12:21:05 - INFO - __main__ -   epoch 20 step 62900 loss 0.0482
+10/19/2022 12:21:23 - INFO - __main__ -   epoch 20 step 63000 loss 0.0471
+10/19/2022 12:21:40 - INFO - __main__ -   epoch 20 step 63100 loss 0.0482
+10/19/2022 12:21:57 - INFO - __main__ -   epoch 20 step 63200 loss 0.0485
+10/19/2022 12:22:15 - INFO - __main__ -   epoch 20 step 63300 loss 0.049
+10/19/2022 12:22:32 - INFO - __main__ -   epoch 20 step 63400 loss 0.0471
+10/19/2022 12:22:50 - INFO - __main__ -   epoch 20 step 63500 loss 0.0482
+10/19/2022 12:23:07 - INFO - __main__ -   epoch 20 step 63600 loss 0.0477
+10/19/2022 12:23:25 - INFO - __main__ -   epoch 20 step 63700 loss 0.0495
+10/19/2022 12:23:42 - INFO - __main__ -   epoch 20 step 63800 loss 0.0472
+10/19/2022 12:24:00 - INFO - __main__ -   epoch 20 step 63900 loss 0.0485
+10/19/2022 12:24:17 - INFO - __main__ -   epoch 20 step 64000 loss 0.0479
+10/19/2022 12:24:35 - INFO - __main__ -   epoch 20 step 64100 loss 0.0486
+10/19/2022 12:24:52 - INFO - __main__ -   epoch 20 step 64200 loss 0.0483
+10/19/2022 12:25:10 - INFO - __main__ -   epoch 20 step 64300 loss 0.0482
+10/19/2022 12:25:27 - INFO - __main__ -   epoch 20 step 64400 loss 0.0477
+10/19/2022 12:25:45 - INFO - __main__ -   epoch 20 step 64500 loss 0.0499
+10/19/2022 12:26:02 - INFO - __main__ -   epoch 20 step 64600 loss 0.0496
+10/19/2022 12:26:20 - INFO - __main__ -   epoch 20 step 64700 loss 0.0525
+10/19/2022 12:26:37 - INFO - __main__ -   epoch 20 step 64800 loss 0.0504
+10/19/2022 12:26:54 - INFO - __main__ -   epoch 20 step 64900 loss 0.0518
+10/19/2022 12:27:12 - INFO - __main__ -   epoch 20 step 65000 loss 0.0492
+10/19/2022 12:27:29 - INFO - __main__ -   epoch 20 step 65100 loss 0.0481
+10/19/2022 12:27:47 - INFO - __main__ -   epoch 20 step 65200 loss 0.0529
+10/19/2022 12:28:04 - INFO - __main__ -   epoch 20 step 65300 loss 0.0487
+10/19/2022 12:28:22 - INFO - __main__ -   epoch 20 step 65400 loss 0.0502
+10/19/2022 12:28:39 - INFO - __main__ -   epoch 20 step 65500 loss 0.0511
+10/19/2022 12:28:57 - INFO - __main__ -   epoch 20 step 65600 loss 0.0508
+10/19/2022 12:29:01 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 12:29:01 - INFO - __main__ -     Num examples = 1000
+10/19/2022 12:29:01 - INFO - __main__ -     Batch size = 32
+10/19/2022 12:29:04 - INFO - __main__ -     eval_ppl = 2.94172
+10/19/2022 12:29:04 - INFO - __main__ -     ********************
+10/19/2022 12:36:30 - INFO - __main__ -     bleu-4 = 33.59 
+10/19/2022 12:36:30 - INFO - __main__ -     EM = 17.3 
+10/19/2022 12:36:30 - INFO - __main__ -     ********************
+10/19/2022 12:36:43 - INFO - __main__ -   epoch 21 step 65700 loss 0.0459
+10/19/2022 12:37:00 - INFO - __main__ -   epoch 21 step 65800 loss 0.0431
+10/19/2022 12:37:18 - INFO - __main__ -   epoch 21 step 65900 loss 0.0429
+10/19/2022 12:37:35 - INFO - __main__ -   epoch 21 step 66000 loss 0.0442
+10/19/2022 12:37:53 - INFO - __main__ -   epoch 21 step 66100 loss 0.0427
+10/19/2022 12:38:10 - INFO - __main__ -   epoch 21 step 66200 loss 0.0447
+10/19/2022 12:38:27 - INFO - __main__ -   epoch 21 step 66300 loss 0.0433
+10/19/2022 12:38:45 - INFO - __main__ -   epoch 21 step 66400 loss 0.0437
+10/19/2022 12:39:02 - INFO - __main__ -   epoch 21 step 66500 loss 0.045
+10/19/2022 12:39:20 - INFO - __main__ -   epoch 21 step 66600 loss 0.0442
+10/19/2022 12:39:37 - INFO - __main__ -   epoch 21 step 66700 loss 0.0442
+10/19/2022 12:39:55 - INFO - __main__ -   epoch 21 step 66800 loss 0.0447
+10/19/2022 12:40:12 - INFO - __main__ -   epoch 21 step 66900 loss 0.0425
+10/19/2022 12:40:29 - INFO - __main__ -   epoch 21 step 67000 loss 0.0462
+10/19/2022 12:40:47 - INFO - __main__ -   epoch 21 step 67100 loss 0.0461
+10/19/2022 12:41:04 - INFO - __main__ -   epoch 21 step 67200 loss 0.0453
+10/19/2022 12:41:22 - INFO - __main__ -   epoch 21 step 67300 loss 0.0461
+10/19/2022 12:41:39 - INFO - __main__ -   epoch 21 step 67400 loss 0.0449
+10/19/2022 12:41:57 - INFO - __main__ -   epoch 21 step 67500 loss 0.0456
+10/19/2022 12:42:14 - INFO - __main__ -   epoch 21 step 67600 loss 0.0474
+10/19/2022 12:42:32 - INFO - __main__ -   epoch 21 step 67700 loss 0.0448
+10/19/2022 12:42:49 - INFO - __main__ -   epoch 21 step 67800 loss 0.0459
+10/19/2022 12:43:07 - INFO - __main__ -   epoch 21 step 67900 loss 0.0456
+10/19/2022 12:43:24 - INFO - __main__ -   epoch 21 step 68000 loss 0.0445
+10/19/2022 12:43:42 - INFO - __main__ -   epoch 21 step 68100 loss 0.047
+10/19/2022 12:43:59 - INFO - __main__ -   epoch 21 step 68200 loss 0.044
+10/19/2022 12:44:16 - INFO - __main__ -   epoch 21 step 68300 loss 0.045
+10/19/2022 12:44:34 - INFO - __main__ -   epoch 21 step 68400 loss 0.0445
+10/19/2022 12:44:51 - INFO - __main__ -   epoch 21 step 68500 loss 0.044
+10/19/2022 12:45:09 - INFO - __main__ -   epoch 21 step 68600 loss 0.0465
+10/19/2022 12:45:26 - INFO - __main__ -   epoch 21 step 68700 loss 0.0447
+10/19/2022 12:45:35 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 12:45:35 - INFO - __main__ -     Num examples = 1000
+10/19/2022 12:45:35 - INFO - __main__ -     Batch size = 32
+10/19/2022 12:45:38 - INFO - __main__ -     eval_ppl = 2.9648
+10/19/2022 12:45:38 - INFO - __main__ -     ********************
+10/19/2022 12:52:41 - INFO - __main__ -     bleu-4 = 33.41 
+10/19/2022 12:52:41 - INFO - __main__ -     EM = 17.9 
+10/19/2022 12:52:41 - INFO - __main__ -     ********************
+10/19/2022 12:52:49 - INFO - __main__ -   epoch 22 step 68800 loss 0.0428
+10/19/2022 12:53:07 - INFO - __main__ -   epoch 22 step 68900 loss 0.0393
+10/19/2022 12:53:24 - INFO - __main__ -   epoch 22 step 69000 loss 0.0395
+10/19/2022 12:53:42 - INFO - __main__ -   epoch 22 step 69100 loss 0.0404
+10/19/2022 12:53:59 - INFO - __main__ -   epoch 22 step 69200 loss 0.0388
+10/19/2022 12:54:16 - INFO - __main__ -   epoch 22 step 69300 loss 0.0398
+10/19/2022 12:54:34 - INFO - __main__ -   epoch 22 step 69400 loss 0.0405
+10/19/2022 12:54:51 - INFO - __main__ -   epoch 22 step 69500 loss 0.0387
+10/19/2022 12:55:09 - INFO - __main__ -   epoch 22 step 69600 loss 0.0398
+10/19/2022 12:55:26 - INFO - __main__ -   epoch 22 step 69700 loss 0.0396
+10/19/2022 12:55:44 - INFO - __main__ -   epoch 22 step 69800 loss 0.0395
+10/19/2022 12:56:01 - INFO - __main__ -   epoch 22 step 69900 loss 0.0407
+10/19/2022 12:56:19 - INFO - __main__ -   epoch 22 step 70000 loss 0.0404
+10/19/2022 12:56:36 - INFO - __main__ -   epoch 22 step 70100 loss 0.0388
+10/19/2022 12:56:54 - INFO - __main__ -   epoch 22 step 70200 loss 0.0415
+10/19/2022 12:57:11 - INFO - __main__ -   epoch 22 step 70300 loss 0.0421
+10/19/2022 12:57:28 - INFO - __main__ -   epoch 22 step 70400 loss 0.0413
+10/19/2022 12:57:46 - INFO - __main__ -   epoch 22 step 70500 loss 0.0417
+10/19/2022 12:58:03 - INFO - __main__ -   epoch 22 step 70600 loss 0.0404
+10/19/2022 12:58:21 - INFO - __main__ -   epoch 22 step 70700 loss 0.0428
+10/19/2022 12:58:38 - INFO - __main__ -   epoch 22 step 70800 loss 0.0416
+10/19/2022 12:58:56 - INFO - __main__ -   epoch 22 step 70900 loss 0.0427
+10/19/2022 12:59:13 - INFO - __main__ -   epoch 22 step 71000 loss 0.0398
+10/19/2022 12:59:31 - INFO - __main__ -   epoch 22 step 71100 loss 0.0415
+10/19/2022 12:59:48 - INFO - __main__ -   epoch 22 step 71200 loss 0.0414
+10/19/2022 13:00:05 - INFO - __main__ -   epoch 22 step 71300 loss 0.0409
+10/19/2022 13:00:23 - INFO - __main__ -   epoch 22 step 71400 loss 0.0412
+10/19/2022 13:00:40 - INFO - __main__ -   epoch 22 step 71500 loss 0.0417
+10/19/2022 13:00:58 - INFO - __main__ -   epoch 22 step 71600 loss 0.0433
+10/19/2022 13:01:15 - INFO - __main__ -   epoch 22 step 71700 loss 0.0424
+10/19/2022 13:01:33 - INFO - __main__ -   epoch 22 step 71800 loss 0.0423
+10/19/2022 13:01:46 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 13:01:46 - INFO - __main__ -     Num examples = 1000
+10/19/2022 13:01:46 - INFO - __main__ -     Batch size = 32
+10/19/2022 13:01:49 - INFO - __main__ -     eval_ppl = 3.02138
+10/19/2022 13:01:49 - INFO - __main__ -     ********************
+10/19/2022 13:08:50 - INFO - __main__ -     bleu-4 = 34.11 
+10/19/2022 13:08:50 - INFO - __main__ -     EM = 17.8 
+10/19/2022 13:08:50 - INFO - __main__ -     ********************
+10/19/2022 13:08:54 - INFO - __main__ -   epoch 23 step 71900 loss 0.0403
+10/19/2022 13:09:11 - INFO - __main__ -   epoch 23 step 72000 loss 0.0363
+10/19/2022 13:09:29 - INFO - __main__ -   epoch 23 step 72100 loss 0.0355
+10/19/2022 13:09:46 - INFO - __main__ -   epoch 23 step 72200 loss 0.0361
+10/19/2022 13:10:04 - INFO - __main__ -   epoch 23 step 72300 loss 0.0354
+10/19/2022 13:10:21 - INFO - __main__ -   epoch 23 step 72400 loss 0.0368
+10/19/2022 13:10:38 - INFO - __main__ -   epoch 23 step 72500 loss 0.0356
+10/19/2022 13:10:56 - INFO - __main__ -   epoch 23 step 72600 loss 0.0357
+10/19/2022 13:11:13 - INFO - __main__ -   epoch 23 step 72700 loss 0.0356
+10/19/2022 13:11:31 - INFO - __main__ -   epoch 23 step 72800 loss 0.0376
+10/19/2022 13:11:48 - INFO - __main__ -   epoch 23 step 72900 loss 0.0372
+10/19/2022 13:12:06 - INFO - __main__ -   epoch 23 step 73000 loss 0.037
+10/19/2022 13:12:23 - INFO - __main__ -   epoch 23 step 73100 loss 0.0365
+10/19/2022 13:12:41 - INFO - __main__ -   epoch 23 step 73200 loss 0.037
+10/19/2022 13:12:58 - INFO - __main__ -   epoch 23 step 73300 loss 0.0368
+10/19/2022 13:13:15 - INFO - __main__ -   epoch 23 step 73400 loss 0.0375
+10/19/2022 13:13:33 - INFO - __main__ -   epoch 23 step 73500 loss 0.0398
+10/19/2022 13:13:50 - INFO - __main__ -   epoch 23 step 73600 loss 0.039
+10/19/2022 13:14:08 - INFO - __main__ -   epoch 23 step 73700 loss 0.0383
+10/19/2022 13:14:25 - INFO - __main__ -   epoch 23 step 73800 loss 0.0377
+10/19/2022 13:14:43 - INFO - __main__ -   epoch 23 step 73900 loss 0.0377
+10/19/2022 13:15:00 - INFO - __main__ -   epoch 23 step 74000 loss 0.0374
+10/19/2022 13:15:17 - INFO - __main__ -   epoch 23 step 74100 loss 0.0394
+10/19/2022 13:15:35 - INFO - __main__ -   epoch 23 step 74200 loss 0.0387
+10/19/2022 13:15:52 - INFO - __main__ -   epoch 23 step 74300 loss 0.0383
+10/19/2022 13:16:10 - INFO - __main__ -   epoch 23 step 74400 loss 0.0393
+10/19/2022 13:16:27 - INFO - __main__ -   epoch 23 step 74500 loss 0.0373
+10/19/2022 13:16:45 - INFO - __main__ -   epoch 23 step 74600 loss 0.0383
+10/19/2022 13:17:02 - INFO - __main__ -   epoch 23 step 74700 loss 0.0398
+10/19/2022 13:17:20 - INFO - __main__ -   epoch 23 step 74800 loss 0.0371
+10/19/2022 13:17:37 - INFO - __main__ -   epoch 23 step 74900 loss 0.0373
+10/19/2022 13:17:54 - INFO - __main__ -   epoch 23 step 75000 loss 0.0374
+10/19/2022 13:17:54 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 13:17:54 - INFO - __main__ -     Num examples = 1000
+10/19/2022 13:17:54 - INFO - __main__ -     Batch size = 32
+10/19/2022 13:17:57 - INFO - __main__ -     eval_ppl = 3.05658
+10/19/2022 13:17:57 - INFO - __main__ -     ********************
+10/19/2022 13:24:52 - INFO - __main__ -     bleu-4 = 33.53 
+10/19/2022 13:24:52 - INFO - __main__ -     EM = 17.9 
+10/19/2022 13:24:52 - INFO - __main__ -     ********************
+10/19/2022 13:25:09 - INFO - __main__ -   epoch 24 step 75100 loss 0.0337
+10/19/2022 13:25:26 - INFO - __main__ -   epoch 24 step 75200 loss 0.0358
+10/19/2022 13:25:44 - INFO - __main__ -   epoch 24 step 75300 loss 0.0334
+10/19/2022 13:26:01 - INFO - __main__ -   epoch 24 step 75400 loss 0.0326
+10/19/2022 13:26:19 - INFO - __main__ -   epoch 24 step 75500 loss 0.0343
+10/19/2022 13:26:36 - INFO - __main__ -   epoch 24 step 75600 loss 0.0361
+10/19/2022 13:26:54 - INFO - __main__ -   epoch 24 step 75700 loss 0.0349
+10/19/2022 13:27:11 - INFO - __main__ -   epoch 24 step 75800 loss 0.0338
+10/19/2022 13:27:28 - INFO - __main__ -   epoch 24 step 75900 loss 0.0334
+10/19/2022 13:27:46 - INFO - __main__ -   epoch 24 step 76000 loss 0.0343
+10/19/2022 13:28:03 - INFO - __main__ -   epoch 24 step 76100 loss 0.0352
+10/19/2022 13:28:21 - INFO - __main__ -   epoch 24 step 76200 loss 0.035
+10/19/2022 13:28:38 - INFO - __main__ -   epoch 24 step 76300 loss 0.0351
+10/19/2022 13:28:56 - INFO - __main__ -   epoch 24 step 76400 loss 0.0333
+10/19/2022 13:29:13 - INFO - __main__ -   epoch 24 step 76500 loss 0.0333
+10/19/2022 13:29:31 - INFO - __main__ -   epoch 24 step 76600 loss 0.0338
+10/19/2022 13:29:48 - INFO - __main__ -   epoch 24 step 76700 loss 0.0358
+10/19/2022 13:30:06 - INFO - __main__ -   epoch 24 step 76800 loss 0.0347
+10/19/2022 13:30:23 - INFO - __main__ -   epoch 24 step 76900 loss 0.0351
+10/19/2022 13:30:40 - INFO - __main__ -   epoch 24 step 77000 loss 0.0352
+10/19/2022 13:30:58 - INFO - __main__ -   epoch 24 step 77100 loss 0.0337
+10/19/2022 13:31:15 - INFO - __main__ -   epoch 24 step 77200 loss 0.0329
+10/19/2022 13:31:33 - INFO - __main__ -   epoch 24 step 77300 loss 0.0351
+10/19/2022 13:31:50 - INFO - __main__ -   epoch 24 step 77400 loss 0.0343
+10/19/2022 13:32:08 - INFO - __main__ -   epoch 24 step 77500 loss 0.0342
+10/19/2022 13:32:25 - INFO - __main__ -   epoch 24 step 77600 loss 0.0346
+10/19/2022 13:32:43 - INFO - __main__ -   epoch 24 step 77700 loss 0.0345
+10/19/2022 13:33:00 - INFO - __main__ -   epoch 24 step 77800 loss 0.0338
+10/19/2022 13:33:18 - INFO - __main__ -   epoch 24 step 77900 loss 0.0352
+10/19/2022 13:33:35 - INFO - __main__ -   epoch 24 step 78000 loss 0.0356
+10/19/2022 13:33:52 - INFO - __main__ -   epoch 24 step 78100 loss 0.0351
+10/19/2022 13:33:57 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 13:33:57 - INFO - __main__ -     Num examples = 1000
+10/19/2022 13:33:57 - INFO - __main__ -     Batch size = 32
+10/19/2022 13:33:59 - INFO - __main__ -     eval_ppl = 3.08444
+10/19/2022 13:33:59 - INFO - __main__ -     ********************
+10/19/2022 13:40:52 - INFO - __main__ -     bleu-4 = 33.85 
+10/19/2022 13:40:52 - INFO - __main__ -     EM = 17.7 
+10/19/2022 13:40:52 - INFO - __main__ -     ********************
+10/19/2022 13:41:05 - INFO - __main__ -   epoch 25 step 78200 loss 0.0316
+10/19/2022 13:41:23 - INFO - __main__ -   epoch 25 step 78300 loss 0.0327
+10/19/2022 13:41:40 - INFO - __main__ -   epoch 25 step 78400 loss 0.032
+10/19/2022 13:41:57 - INFO - __main__ -   epoch 25 step 78500 loss 0.0319
+10/19/2022 13:42:15 - INFO - __main__ -   epoch 25 step 78600 loss 0.0323
+10/19/2022 13:42:32 - INFO - __main__ -   epoch 25 step 78700 loss 0.0313
+10/19/2022 13:42:50 - INFO - __main__ -   epoch 25 step 78800 loss 0.0316
+10/19/2022 13:43:07 - INFO - __main__ -   epoch 25 step 78900 loss 0.031
+10/19/2022 13:43:25 - INFO - __main__ -   epoch 25 step 79000 loss 0.0329
+10/19/2022 13:43:42 - INFO - __main__ -   epoch 25 step 79100 loss 0.0321
+10/19/2022 13:44:00 - INFO - __main__ -   epoch 25 step 79200 loss 0.0316
+10/19/2022 13:44:17 - INFO - __main__ -   epoch 25 step 79300 loss 0.0312
+10/19/2022 13:44:34 - INFO - __main__ -   epoch 25 step 79400 loss 0.0324
+10/19/2022 13:44:52 - INFO - __main__ -   epoch 25 step 79500 loss 0.0319
+10/19/2022 13:45:09 - INFO - __main__ -   epoch 25 step 79600 loss 0.0324
+10/19/2022 13:45:27 - INFO - __main__ -   epoch 25 step 79700 loss 0.0313
+10/19/2022 13:45:44 - INFO - __main__ -   epoch 25 step 79800 loss 0.0309
+10/19/2022 13:46:02 - INFO - __main__ -   epoch 25 step 79900 loss 0.0319
+10/19/2022 13:46:19 - INFO - __main__ -   epoch 25 step 80000 loss 0.0324
+10/19/2022 13:46:36 - INFO - __main__ -   epoch 25 step 80100 loss 0.0319
+10/19/2022 13:46:54 - INFO - __main__ -   epoch 25 step 80200 loss 0.0333
+10/19/2022 13:47:11 - INFO - __main__ -   epoch 25 step 80300 loss 0.0315
+10/19/2022 13:47:29 - INFO - __main__ -   epoch 25 step 80400 loss 0.0339
+10/19/2022 13:47:46 - INFO - __main__ -   epoch 25 step 80500 loss 0.0318
+10/19/2022 13:48:04 - INFO - __main__ -   epoch 25 step 80600 loss 0.0314
+10/19/2022 13:48:21 - INFO - __main__ -   epoch 25 step 80700 loss 0.0326
+10/19/2022 13:48:38 - INFO - __main__ -   epoch 25 step 80800 loss 0.0341
+10/19/2022 13:48:56 - INFO - __main__ -   epoch 25 step 80900 loss 0.0328
+10/19/2022 13:49:13 - INFO - __main__ -   epoch 25 step 81000 loss 0.0316
+10/19/2022 13:49:31 - INFO - __main__ -   epoch 25 step 81100 loss 0.0337
+10/19/2022 13:49:48 - INFO - __main__ -   epoch 25 step 81200 loss 0.0343
+10/19/2022 13:49:57 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 13:49:57 - INFO - __main__ -     Num examples = 1000
+10/19/2022 13:49:57 - INFO - __main__ -     Batch size = 32
+10/19/2022 13:50:00 - INFO - __main__ -     eval_ppl = 3.10131
+10/19/2022 13:50:00 - INFO - __main__ -     ********************
+10/19/2022 13:56:54 - INFO - __main__ -     bleu-4 = 34.39 
+10/19/2022 13:56:54 - INFO - __main__ -     EM = 17.8 
+10/19/2022 13:56:54 - INFO - __main__ -     ********************
+10/19/2022 13:56:54 - INFO - __main__ -     Best score:52.19
+10/19/2022 13:56:54 - INFO - __main__ -     ********************
+10/19/2022 13:57:14 - INFO - __main__ -   epoch 26 step 81300 loss 0.0312
+10/19/2022 13:57:31 - INFO - __main__ -   epoch 26 step 81400 loss 0.0304
+10/19/2022 13:57:48 - INFO - __main__ -   epoch 26 step 81500 loss 0.0293
+10/19/2022 13:58:06 - INFO - __main__ -   epoch 26 step 81600 loss 0.0286
+10/19/2022 13:58:23 - INFO - __main__ -   epoch 26 step 81700 loss 0.0286
+10/19/2022 13:58:41 - INFO - __main__ -   epoch 26 step 81800 loss 0.0295
+10/19/2022 13:58:58 - INFO - __main__ -   epoch 26 step 81900 loss 0.0284
+10/19/2022 13:59:16 - INFO - __main__ -   epoch 26 step 82000 loss 0.0287
+10/19/2022 13:59:33 - INFO - __main__ -   epoch 26 step 82100 loss 0.032
+10/19/2022 13:59:50 - INFO - __main__ -   epoch 26 step 82200 loss 0.0305
+10/19/2022 14:00:08 - INFO - __main__ -   epoch 26 step 82300 loss 0.0309
+10/19/2022 14:00:25 - INFO - __main__ -   epoch 26 step 82400 loss 0.0312
+10/19/2022 14:00:43 - INFO - __main__ -   epoch 26 step 82500 loss 0.0299
+10/19/2022 14:01:00 - INFO - __main__ -   epoch 26 step 82600 loss 0.0285
+10/19/2022 14:01:18 - INFO - __main__ -   epoch 26 step 82700 loss 0.0301
+10/19/2022 14:01:35 - INFO - __main__ -   epoch 26 step 82800 loss 0.0307
+10/19/2022 14:01:53 - INFO - __main__ -   epoch 26 step 82900 loss 0.0297
+10/19/2022 14:02:10 - INFO - __main__ -   epoch 26 step 83000 loss 0.0316
+10/19/2022 14:02:28 - INFO - __main__ -   epoch 26 step 83100 loss 0.0313
+10/19/2022 14:02:45 - INFO - __main__ -   epoch 26 step 83200 loss 0.0283
+10/19/2022 14:03:03 - INFO - __main__ -   epoch 26 step 83300 loss 0.0305
+10/19/2022 14:03:20 - INFO - __main__ -   epoch 26 step 83400 loss 0.0304
+10/19/2022 14:03:38 - INFO - __main__ -   epoch 26 step 83500 loss 0.031
+10/19/2022 14:03:55 - INFO - __main__ -   epoch 26 step 83600 loss 0.0294
+10/19/2022 14:04:13 - INFO - __main__ -   epoch 26 step 83700 loss 0.0302
+10/19/2022 14:04:30 - INFO - __main__ -   epoch 26 step 83800 loss 0.0302
+10/19/2022 14:04:47 - INFO - __main__ -   epoch 26 step 83900 loss 0.0307
+10/19/2022 14:05:05 - INFO - __main__ -   epoch 26 step 84000 loss 0.0312
+10/19/2022 14:05:22 - INFO - __main__ -   epoch 26 step 84100 loss 0.0321
+10/19/2022 14:05:40 - INFO - __main__ -   epoch 26 step 84200 loss 0.0306
+10/19/2022 14:05:57 - INFO - __main__ -   epoch 26 step 84300 loss 0.0292
+10/19/2022 14:06:10 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 14:06:10 - INFO - __main__ -     Num examples = 1000
+10/19/2022 14:06:10 - INFO - __main__ -     Batch size = 32
+10/19/2022 14:06:13 - INFO - __main__ -     eval_ppl = 3.13938
+10/19/2022 14:06:13 - INFO - __main__ -     ********************
+10/19/2022 14:13:11 - INFO - __main__ -     bleu-4 = 33.82 
+10/19/2022 14:13:11 - INFO - __main__ -     EM = 18.0 
+10/19/2022 14:13:11 - INFO - __main__ -     ********************
+10/19/2022 14:13:15 - INFO - __main__ -   epoch 27 step 84400 loss 0.0304
+10/19/2022 14:13:33 - INFO - __main__ -   epoch 27 step 84500 loss 0.0269
+10/19/2022 14:13:50 - INFO - __main__ -   epoch 27 step 84600 loss 0.0277
+10/19/2022 14:14:08 - INFO - __main__ -   epoch 27 step 84700 loss 0.0289
+10/19/2022 14:14:25 - INFO - __main__ -   epoch 27 step 84800 loss 0.0274
+10/19/2022 14:14:42 - INFO - __main__ -   epoch 27 step 84900 loss 0.0278
+10/19/2022 14:15:00 - INFO - __main__ -   epoch 27 step 85000 loss 0.0278
+10/19/2022 14:15:17 - INFO - __main__ -   epoch 27 step 85100 loss 0.0289
+10/19/2022 14:15:35 - INFO - __main__ -   epoch 27 step 85200 loss 0.0264
+10/19/2022 14:15:52 - INFO - __main__ -   epoch 27 step 85300 loss 0.0281
+10/19/2022 14:16:10 - INFO - __main__ -   epoch 27 step 85400 loss 0.0295
+10/19/2022 14:16:27 - INFO - __main__ -   epoch 27 step 85500 loss 0.0276
+10/19/2022 14:16:44 - INFO - __main__ -   epoch 27 step 85600 loss 0.0282
+10/19/2022 14:17:02 - INFO - __main__ -   epoch 27 step 85700 loss 0.0284
+10/19/2022 14:17:19 - INFO - __main__ -   epoch 27 step 85800 loss 0.0267
+10/19/2022 14:17:37 - INFO - __main__ -   epoch 27 step 85900 loss 0.0285
+10/19/2022 14:17:54 - INFO - __main__ -   epoch 27 step 86000 loss 0.027
+10/19/2022 14:18:12 - INFO - __main__ -   epoch 27 step 86100 loss 0.0278
+10/19/2022 14:18:29 - INFO - __main__ -   epoch 27 step 86200 loss 0.0283
+10/19/2022 14:18:47 - INFO - __main__ -   epoch 27 step 86300 loss 0.0287
+10/19/2022 14:19:04 - INFO - __main__ -   epoch 27 step 86400 loss 0.0274
+10/19/2022 14:19:21 - INFO - __main__ -   epoch 27 step 86500 loss 0.0288
+10/19/2022 14:19:39 - INFO - __main__ -   epoch 27 step 86600 loss 0.0283
+10/19/2022 14:19:56 - INFO - __main__ -   epoch 27 step 86700 loss 0.0295
+10/19/2022 14:20:14 - INFO - __main__ -   epoch 27 step 86800 loss 0.0295
+10/19/2022 14:20:31 - INFO - __main__ -   epoch 27 step 86900 loss 0.0273
+10/19/2022 14:20:49 - INFO - __main__ -   epoch 27 step 87000 loss 0.0294
+10/19/2022 14:21:06 - INFO - __main__ -   epoch 27 step 87100 loss 0.0283
+10/19/2022 14:21:24 - INFO - __main__ -   epoch 27 step 87200 loss 0.0287
+10/19/2022 14:21:41 - INFO - __main__ -   epoch 27 step 87300 loss 0.027
+10/19/2022 14:21:59 - INFO - __main__ -   epoch 27 step 87400 loss 0.028
+10/19/2022 14:22:16 - INFO - __main__ -   epoch 27 step 87500 loss 0.0279
+10/19/2022 14:22:16 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 14:22:16 - INFO - __main__ -     Num examples = 1000
+10/19/2022 14:22:16 - INFO - __main__ -     Batch size = 32
+10/19/2022 14:22:19 - INFO - __main__ -     eval_ppl = 3.14691
+10/19/2022 14:22:19 - INFO - __main__ -     ********************
+10/19/2022 14:29:22 - INFO - __main__ -     bleu-4 = 34.19 
+10/19/2022 14:29:22 - INFO - __main__ -     EM = 17.8 
+10/19/2022 14:29:22 - INFO - __main__ -     ********************
+10/19/2022 14:29:39 - INFO - __main__ -   epoch 28 step 87600 loss 0.0261
+10/19/2022 14:29:56 - INFO - __main__ -   epoch 28 step 87700 loss 0.028
+10/19/2022 14:30:14 - INFO - __main__ -   epoch 28 step 87800 loss 0.0261
+10/19/2022 14:30:31 - INFO - __main__ -   epoch 28 step 87900 loss 0.0268
+10/19/2022 14:30:49 - INFO - __main__ -   epoch 28 step 88000 loss 0.0259
+10/19/2022 14:31:06 - INFO - __main__ -   epoch 28 step 88100 loss 0.0277
+10/19/2022 14:31:24 - INFO - __main__ -   epoch 28 step 88200 loss 0.0269
+10/19/2022 14:31:41 - INFO - __main__ -   epoch 28 step 88300 loss 0.0271
+10/19/2022 14:31:58 - INFO - __main__ -   epoch 28 step 88400 loss 0.0262
+10/19/2022 14:32:16 - INFO - __main__ -   epoch 28 step 88500 loss 0.0271
+10/19/2022 14:32:33 - INFO - __main__ -   epoch 28 step 88600 loss 0.0274
+10/19/2022 14:32:51 - INFO - __main__ -   epoch 28 step 88700 loss 0.0272
+10/19/2022 14:33:08 - INFO - __main__ -   epoch 28 step 88800 loss 0.0266
+10/19/2022 14:33:26 - INFO - __main__ -   epoch 28 step 88900 loss 0.0259
+10/19/2022 14:33:43 - INFO - __main__ -   epoch 28 step 89000 loss 0.0269
+10/19/2022 14:34:01 - INFO - __main__ -   epoch 28 step 89100 loss 0.0274
+10/19/2022 14:34:18 - INFO - __main__ -   epoch 28 step 89200 loss 0.0274
+10/19/2022 14:34:35 - INFO - __main__ -   epoch 28 step 89300 loss 0.0272
+10/19/2022 14:34:53 - INFO - __main__ -   epoch 28 step 89400 loss 0.0258
+10/19/2022 14:35:10 - INFO - __main__ -   epoch 28 step 89500 loss 0.0267
+10/19/2022 14:35:28 - INFO - __main__ -   epoch 28 step 89600 loss 0.0269
+10/19/2022 14:35:45 - INFO - __main__ -   epoch 28 step 89700 loss 0.0255
+10/19/2022 14:36:03 - INFO - __main__ -   epoch 28 step 89800 loss 0.0262
+10/19/2022 14:36:20 - INFO - __main__ -   epoch 28 step 89900 loss 0.026
+10/19/2022 14:36:38 - INFO - __main__ -   epoch 28 step 90000 loss 0.0265
+10/19/2022 14:36:55 - INFO - __main__ -   epoch 28 step 90100 loss 0.0257
+10/19/2022 14:37:13 - INFO - __main__ -   epoch 28 step 90200 loss 0.0259
+10/19/2022 14:37:30 - INFO - __main__ -   epoch 28 step 90300 loss 0.0282
+10/19/2022 14:37:47 - INFO - __main__ -   epoch 28 step 90400 loss 0.0271
+10/19/2022 14:38:05 - INFO - __main__ -   epoch 28 step 90500 loss 0.0253
+10/19/2022 14:38:22 - INFO - __main__ -   epoch 28 step 90600 loss 0.0281
+10/19/2022 14:38:27 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 14:38:27 - INFO - __main__ -     Num examples = 1000
+10/19/2022 14:38:27 - INFO - __main__ -     Batch size = 32
+10/19/2022 14:38:29 - INFO - __main__ -     eval_ppl = 3.16732
+10/19/2022 14:38:29 - INFO - __main__ -     ********************
+10/19/2022 14:45:25 - INFO - __main__ -     bleu-4 = 34.44 
+10/19/2022 14:45:25 - INFO - __main__ -     EM = 18.4 
+10/19/2022 14:45:25 - INFO - __main__ -     ********************
+10/19/2022 14:45:25 - INFO - __main__ -     Best score:52.839999999999996
+10/19/2022 14:45:25 - INFO - __main__ -     ********************
+10/19/2022 14:45:52 - INFO - __main__ -   epoch 29 step 90700 loss 0.0254
+10/19/2022 14:46:09 - INFO - __main__ -   epoch 29 step 90800 loss 0.026
+10/19/2022 14:46:26 - INFO - __main__ -   epoch 29 step 90900 loss 0.0254
+10/19/2022 14:46:44 - INFO - __main__ -   epoch 29 step 91000 loss 0.0271
+10/19/2022 14:47:01 - INFO - __main__ -   epoch 29 step 91100 loss 0.0256
+10/19/2022 14:47:19 - INFO - __main__ -   epoch 29 step 91200 loss 0.0251
+10/19/2022 14:47:36 - INFO - __main__ -   epoch 29 step 91300 loss 0.0246
+10/19/2022 14:47:54 - INFO - __main__ -   epoch 29 step 91400 loss 0.0255
+10/19/2022 14:48:11 - INFO - __main__ -   epoch 29 step 91500 loss 0.026
+10/19/2022 14:48:29 - INFO - __main__ -   epoch 29 step 91600 loss 0.0263
+10/19/2022 14:48:46 - INFO - __main__ -   epoch 29 step 91700 loss 0.0262
+10/19/2022 14:49:03 - INFO - __main__ -   epoch 29 step 91800 loss 0.0252
+10/19/2022 14:49:21 - INFO - __main__ -   epoch 29 step 91900 loss 0.0246
+10/19/2022 14:49:38 - INFO - __main__ -   epoch 29 step 92000 loss 0.0253
+10/19/2022 14:49:56 - INFO - __main__ -   epoch 29 step 92100 loss 0.0251
+10/19/2022 14:50:13 - INFO - __main__ -   epoch 29 step 92200 loss 0.0259
+10/19/2022 14:50:31 - INFO - __main__ -   epoch 29 step 92300 loss 0.0255
+10/19/2022 14:50:48 - INFO - __main__ -   epoch 29 step 92400 loss 0.0255
+10/19/2022 14:51:06 - INFO - __main__ -   epoch 29 step 92500 loss 0.026
+10/19/2022 14:51:23 - INFO - __main__ -   epoch 29 step 92600 loss 0.0256
+10/19/2022 14:51:41 - INFO - __main__ -   epoch 29 step 92700 loss 0.0255
+10/19/2022 14:51:58 - INFO - __main__ -   epoch 29 step 92800 loss 0.026
+10/19/2022 14:52:16 - INFO - __main__ -   epoch 29 step 92900 loss 0.0254
+10/19/2022 14:52:33 - INFO - __main__ -   epoch 29 step 93000 loss 0.0252
+10/19/2022 14:52:50 - INFO - __main__ -   epoch 29 step 93100 loss 0.0253
+10/19/2022 14:53:08 - INFO - __main__ -   epoch 29 step 93200 loss 0.0243
+10/19/2022 14:53:25 - INFO - __main__ -   epoch 29 step 93300 loss 0.0261
+10/19/2022 14:53:43 - INFO - __main__ -   epoch 29 step 93400 loss 0.025
+10/19/2022 14:54:00 - INFO - __main__ -   epoch 29 step 93500 loss 0.027
+10/19/2022 14:54:18 - INFO - __main__ -   epoch 29 step 93600 loss 0.0255
+10/19/2022 14:54:35 - INFO - __main__ -   epoch 29 step 93700 loss 0.0246
+10/19/2022 14:54:44 - INFO - __main__ -   
+***** Running evaluation *****
+10/19/2022 14:54:44 - INFO - __main__ -     Num examples = 1000
+10/19/2022 14:54:44 - INFO - __main__ -     Batch size = 32
+10/19/2022 14:54:47 - INFO - __main__ -     eval_ppl = 3.16865
+10/19/2022 14:54:47 - INFO - __main__ -     ********************
+10/19/2022 15:01:41 - INFO - __main__ -     bleu-4 = 34.36 
+10/19/2022 15:01:41 - INFO - __main__ -     EM = 18.5 
+10/19/2022 15:01:41 - INFO - __main__ -     ********************
+10/19/2022 15:01:41 - INFO - __main__ -     Best score:52.86
+10/19/2022 15:01:41 - INFO - __main__ -     ********************
+  0%|          | 0/32 [00:00<?, ?it/s]  3%|▎         | 1/32 [00:16<08:29, 16.44s/it]  6%|▋         | 2/32 [00:30<07:32, 15.10s/it]  9%|▉         | 3/32 [00:41<06:23, 13.23s/it] 12%|█▎        | 4/32 [00:54<06:11, 13.26s/it] 16%|█▌        | 5/32 [01:07<05:49, 12.93s/it] 19%|█▉        | 6/32 [01:19<05:27, 12.59s/it] 22%|██▏       | 7/32 [01:34<05:37, 13.51s/it] 25%|██▌       | 8/32 [01:46<05:15, 13.16s/it] 28%|██▊       | 9/32 [02:01<05:12, 13.57s/it] 31%|███▏      | 10/32 [02:14<04:58, 13.56s/it] 34%|███▍      | 11/32 [02:27<04:36, 13.18s/it] 38%|███▊      | 12/32 [02:39<04:16, 12.84s/it] 41%|████      | 13/32 [02:54<04:15, 13.44s/it] 44%|████▍     | 14/32 [03:07<04:01, 13.44s/it] 47%|████▋     | 15/32 [03:20<03:48, 13.41s/it] 50%|█████     | 16/32 [03:33<03:29, 13.08s/it] 53%|█████▎    | 17/32 [03:45<03:12, 12.80s/it] 56%|█████▋    | 18/32 [03:58<02:59, 12.85s/it] 59%|█████▉    | 19/32 [04:11<02:48, 12.97s/it] 62%|██████▎   | 20/32 [04:21<02:23, 12.00s/it] 66%|██████▌   | 21/32 [04:33<02:12, 12.02s/it] 69%|██████▉   | 22/32 [04:44<01:58, 11.83s/it] 72%|███████▏  | 23/32 [04:58<01:51, 12.35s/it] 75%|███████▌  | 24/32 [05:10<01:38, 12.36s/it] 78%|███████▊  | 25/32 [05:23<01:26, 12.42s/it] 81%|████████▏ | 26/32 [05:37<01:17, 12.85s/it] 84%|████████▍ | 27/32 [05:49<01:03, 12.78s/it] 88%|████████▊ | 28/32 [06:04<00:53, 13.48s/it] 91%|█████████ | 29/32 [06:19<00:41, 13.87s/it] 94%|█████████▍| 30/32 [06:32<00:26, 13.45s/it] 97%|█████████▋| 31/32 [06:47<00:13, 13.90s/it]100%|██████████| 32/32 [06:50<00:00, 10.65s/it]100%|██████████| 32/32 [06:50<00:00, 12.82s/it]
+10/19/2022 15:10:56 - INFO - __main__ -   
+***** Running testing *****
+10/19/2022 15:10:58 - INFO - __main__ -     bleu-4 = 34.36 
+10/19/2022 15:10:58 - INFO - __main__ -     EM = 18.6 
+10/19/2022 15:10:58 - INFO - __main__ -     ********************
+10/19/2022 15:10:58 - INFO - utils -   saved dataset in saved_models/code-gen/unixcoder/partial_freezing/freeze_bottom_5_layers/20221019064550/result.jsonl

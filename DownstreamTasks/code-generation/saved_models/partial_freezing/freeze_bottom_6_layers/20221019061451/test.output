@@ -1,0 +1,1000 @@
+GenMatrix < C > function ( double arg0 ) { List < C > loc0 = new ArrayList < C > ( this . matrix . size ( ) ) ; for ( int loc1 = 0 ; loc1 < this . matrix . size ( ) ; ++ loc1 ) { loc0 . add ( this . matrix . get ( loc1 ) . product ( arg0 ) ) ; } return new GenMatrix < C > ( loc0 ) ; }
+void function ( String arg0 , RequestListener arg1 , final Object arg2 ) { request ( arg0 , new Bundle ( ) , "srini_string" , arg1 , arg2 ) ; }
+void function ( OutputStream arg0 ) { m_outputStream = arg0 ; }
+byte [ ] function ( byte [ ] arg0 ) { CMSSignatory loc0 = new CMSSignatory ( ) ; loc0 . initSignatory ( arg0 ) ; return loc0 . getSignedData ( ) ; }
+Transformer function ( Map arg0 ) { if ( arg0 == null ) { arg0 = new HashMap ( ) ; } if ( arg0 . isEmpty ( ) ) { return NullTransformer . INSTANCE ; } return new MapTransformer ( arg0 ) ; }
+ListIterator function ( int arg0 ) { return IntegerListIteratorFactory . create ( arg0 ) ; }
+Bitmap function ( String arg0 ) { return BitmapFactory . decodeURL ( arg0 ) ; }
+StandardServiceRegistryBuilder function ( ) { autoCloseRegistry = true ; return this ; }
+EntityManagerFactory function ( ) { return emf ; }
+boolean function ( ) { return entry . isDisabled ( ) ; }
+void function ( ) { theDriver . quit ( ) ; }
+String function ( ) { return lastPathComponent ; }
+int function ( int arg0 ) { if ( ( arg0 < 0 ) || ( arg0 >= size ( ) ) ) { throw new IndexOutOfBoundsException ( "srini_string" + arg0 + "srini_string" + size ( ) ) ; } return arg0 ; }
+LocalizedMessage function ( ) { return new LocalizedMessage ( ) ; }
+HtmlPipelineContext function ( String ... arg0 ) { this . roottags = arg0 ; return this ; }
+int function ( ) { log . debug ( "srini_string" ) ; int loc0 = 0 ; try { loc0 = entityManager . createQuery ( "srini_string" ) . getResultList ( ) . size ( ) ; } catch ( Exception loc1 ) { loc1 . printStackTrace ( ) ; } return loc0 ; }
+void function ( Collection < ? extends T > arg0 , Collection < ? extends T > arg1 , int arg2 ) { int loc0 = arg2 ; List < T > loc1 = new ArrayList < T > ( arg0 ) ; int loc2 = 0 ; for ( T loc3 : arg1 ) { if ( loc0 < loc2 ) { loc1 . add ( loc3 ) ; loc2 ++ ; } else if ( loc0 > loc2 ) { arg1 . add ( loc3 ) ; loc0 ++ ; } } }
+Map < Integer , String > function ( ) { return _taskToComponent . get ( _stormId ) ; }
+SaveParticipantDescriptor function ( String arg0 ) { return fDescriptors . get ( arg0 ) ; }
+void function ( JOGLTarget arg0 ) { target = arg0 ; }
+void function ( IIOptionChangeEvent arg0 ) { for ( IOptionChangeListener loc0 : fListeners ) { loc0 . optionChanged ( arg0 ) ; } }
+String function ( ) { return String . format ( Locale . ENGLISH , "srini_string" , upcomingReleaseId , upcomingReleaseDate ) ; }
+void function ( String [ ] arg0 ) { System . out . println ( "srini_string" ) ; }
+PdfStamper function ( ) { return stamper ; }
+DummyInvariant function ( PPT arg0 , int arg1 ) { if ( ! instantiated ) { instantiated = true ; makeDummyInvariant ( arg0 , arg1 ) ; } return getDummyInvariant ( arg0 , arg1 ) ; }
+boolean function ( RootType arg0 ) { return hasResourceTypeSystemProperties ( arg0 , true ) ; }
+ConverterSet function ( Converter arg0 ) { ConverterSet loc0 = new ConverterSet ( ) ; loc0 . add ( arg0 ) ; return loc0 ; }
+void function ( ) { try { monitor . waitForResult ( ) ; } catch ( InterruptedException loc0 ) { } }
+Complex function ( Complex arg0 ) { return new Complex ( arg0 . x , arg0 . y ) ; }
+JSONArray function ( String arg0 ) { if ( arg0 == null ) { return null ; } JSONObject loc0 = new JSONObject ( arg0 ) ; return loc0 . toJSONArray ( ) ; }
+String function ( File arg0 ) { return arg0 . getAbsolutePath ( ) ; }
+T function ( String arg0 ) { return ( T ) this . createElement ( "srini_string" , arg0 ) ; }
+void function ( ) { reset ( ) ; dirty = true ; }
+void function ( ) { start ( ) ; try { stack . run ( this ) ; } finally { stop ( ) ; } }
+void function ( Buffer arg0 ) { data = arg0 . data ; header = arg0 . header ; offset = arg0 . offset ; length = arg0 . length ; }
+String function ( String arg0 ) { return messagesProperties . getProperty ( arg0 , EMPTY_STRING ) ; }
+void function ( TagProcessor arg0 ) { map . put ( arg0 . getName ( ) , arg0 ) ; }
+boolean function ( final Object arg0 , final Object arg1 ) { return arg0 == null ? arg1 == null : arg0 . equals ( arg1 ) ; }
+V function ( K arg0 , V arg1 ) { if ( arg0 == null ) { throw new IllegalArgumentException ( "srini_string" ) ; } if ( arg1 == null ) { throw new IllegalArgumentException ( "srini_string" ) ; } return put ( arg0 , arg1 , false ) ; }
+void function ( Element arg0 , Collection arg1 ) { for ( Iterator loc0 = arg1 . iterator ( ) ; loc0 . hasNext ( ) ; ) { Element loc1 = ( Element ) loc0 . next ( ) ; addColumn ( loc1 ) ; } }
+void function ( String arg0 , String arg1 , String arg2 , Throwable arg3 ) { if ( log != null ) { log . info ( arg0 , arg1 , arg2 , arg3 ) ; } }
+Omit function ( ) { return omit ; }
+void function ( PrintStream arg0 ) { arg0 . println ( toString ( ) ) ; }
+String function ( ) { return name ; }
+Logger function ( ) { if ( logger == null ) { logger = Logger . getLogger ( name ) ; } return ( logger ) ; }
+int function ( ) { return comparatorChain . size ( ) ; }
+Iterable < Object > function ( Object [ ] arg0 ) { return Arrays . asList ( arg0 ) ; }
+BigDecimal function ( ) { return zero ; }
+String function ( ) { return name ; }
+UnivPowerSeries < C > function ( ) { return random ( ) . sin ( ) ; }
+DHTObject function ( KademliaOverlayKey arg0 ) { return config . get ( arg0 ) ; }
+byte [ ] function ( ) { return Arrays . copyOfRange ( hash , getIndex ( ) + 1 , getIndex ( ) + hash . length ) ; }
+void function ( ) { erase ( true ) ; }
+int function ( ) { return 9 ; }
+RomanNumeralGenerator function ( ) { return this . romanNumeralGenerator ; }
+void function ( ) { event . start ( ) ; }
+void function ( ) { if ( imageRegistry != null ) { imageRegistry . init ( ) ; } }
+int function ( WorkingSet arg0 , boolean arg1 , boolean arg2 , WorkingSet arg3 ) { return ( arg0 == null ? 1 : arg0 . compareTo ( arg3 ) ) ; }
+void function ( int arg0 , Partition arg1 ) { if ( arg1 . getRecordCount ( ) != arg0 ) { return ; } for ( int loc0 = 0 ; loc0 < arg1 . getRecordCount ( ) ; loc0 ++ ) { copy ( arg0 , arg1 . getRecord ( loc0 ) , arg1 . getOffset ( loc0 ) , arg1 . getPartition ( loc0 ) ) ; } }
+void function ( LocalVariable arg0 ) { this . returnAddress = arg0 ; }
+boolean function ( ) { return certification ; }
+void function ( List < Cookie > arg0 , String ... arg1 ) { for ( String loc0 : arg1 ) { addCookie ( loc0 ) ; } }
+void function ( String arg0 ) { }
+OrderedItemContainer < InterceptorFactory > function ( ) { if ( clientPostConstructInterceptors == null ) { clientPostConstructInterceptors = new OrderedItemContainer < InterceptorFactory > ( ) ; } return clientPostConstructInterceptors ; }
+GenVector < C > function ( Reader arg0 ) { return fromList ( arg0 , false ) ; }
+String function ( ) { return fLastError ; }
+String function ( double arg0 , double arg1 , double arg2 ) { double loc0 = arg0 - arg1 ; double loc1 = arg2 - arg3 ; return DECIMAL_FORMAT . format ( loc0 , true ) + "srini_string" + DECIMAL_FORMAT . format ( loc1 , true ) ; }
+void function ( boolean arg0 , String arg1 , long arg2 ) { if ( arg0 ) { throw new IllegalArgumentException ( arg1 ) ; } }
+ArrayList function ( ) { return paths ; }
+C function ( C arg0 , int arg1 ) { return fac . modPow ( arg0 , arg1 ) ; }
+Integer function ( String arg0 , String arg1 ) { Integer loc0 = columnNameToIndexCache . get ( arg0 ) ; if ( loc0 == null ) { throw new RuntimeException ( "srini_string" + arg0 + "srini_string" + arg1 ) ; } return loc0 ; }
+long function ( Duration arg0 ) { long loc0 = arg0 . getSeconds ( ) ; if ( loc0 == 0 ) { return 0 ; } return loc0 % 2 != 0 ? loc0 + 1 : loc0 ; }
+boolean function ( ) { return num == 0 ; }
+int function ( ) { return mAudioResourceId ; }
+void function ( char arg0 ) { lastChar = arg0 ; }
+Byte function ( Cursor arg0 , int arg1 ) { return arg0 . getByte ( arg1 ) ; }
+IStatus function ( IResources arg0 ) { return checkInSync ( new IResource [ ] { arg0 } ) ; }
+void function ( Object arg0 ) { log ( null , arg0 , null ) ; }
+Predicate function ( ) { return iPredicate ; }
+RecorderSemanticEvent function ( ) { return new RecorderMetaEvent ( this ) ; }
+void function ( ) { Thread loc0 = new Thread ( this ) ; loc0 . start ( ) ; }
+void function ( @ Nonnull final ReadingList arg0 , @ Nonnull final String arg1 , @ Nullable final String arg2 ) { onReadingListEventListener . onSettingMeta ( arg0 , arg1 , arg2 ) ; }
+String function ( ) { return this . prefix ; }
+void function ( String arg0 , char arg1 , char arg2 ) { assertEquals ( arg0 , new Character ( arg1 ) , new Character ( arg2 ) ) ; }
+boolean function ( ) { return false ; }
+String function ( ) { return province ; }
+LOBCreator function ( ClassLoader arg0 ) { if ( useContextualLobCreation ( ) ) { return new MutableLOBCreator ( arg0 ) ; } else { return new LocalLOBCreator ( arg0 ) ; } }
+PackagerParams function ( boolean arg0 ) { PackagerParams loc0 = releaseDefaults ( ) ; loc0 . setDebug ( arg0 ) ; return loc0 ; }
+InterpreterOutput function ( InterpreterOutput arg0 ) { this . initialOutput = arg0 ; return this ; }
+Map < String , Double > function ( ) { Map < String , Double > loc0 = new HashMap < String , Double > ( ) ; for ( String loc1 : stopWords ) { double loc2 = getRankingByW1 ( loc1 ) ; loc0 . put ( loc1 , loc2 ) ; } return loc0 ; }
+double function ( ) { return randomData . nextGaussian ( mu ) ; }
+String function ( CtClass arg0 , int arg1 , String arg2 , Type [ ] arg3 ) { StringBuffer loc0 = new StringBuffer ( ) ; dump_method_declarations ( arg0 , arg1 , arg2 , arg3 , loc0 ) ; return loc0 . toString ( ) ; }
+void function ( ) { Assert . assertTrue ( chainedThreeTransformers . contains ( REGEX_TRANSFORMED_FIRST ) ) ; Assert . assertTrue ( chainedThreeTransformers . contains ( REGEX_TRANSFORMED_2 ) ) ; Assert . assertTrue ( chainedThreeTransformers . contains ( REGEX_TRANSFORMED_3 ) ) ; }
+BufferedReader function ( String arg0 ) { Reader loc0 = new FileReader ( new File ( arg0 ) ) ; return loc0 ; }
+void function ( PdfWriter arg0 , Document arg1 , float arg2 , Paragraph arg3 ) { }
+String function ( Phenotype arg0 ) { String loc0 = String . format ( "srini_string" , arg0 . getId ( ) , GITHUB_URL ) ; return loc0 ; }
+long function ( ) { return timeToLiveForContacts ; }
+Map < String , String > function ( ) { return this . variantMap ; }
+Set < IDocumentSet > function ( ) { return resources . keySet ( ) ; }
+int function ( ) { return aliasSpecificLockModes != null ? aliasSpecificLockModes . size ( ) : 0 ; }
+boolean function ( ) { return fc . is1CompressionEnabled ( ) ; }
+void function ( QueryCondition < ? > arg0 ) { conditions . add ( arg0 ) ; }
+String function ( ) { return Products . getDefault ( ) . getPrefInfo ( getProduct ( ) ) ; }
+void function ( CallContext arg0 ) { this . callContext = arg0 ; }
+CacheDataDescriptionImpl function ( PersistentCollection arg0 ) { return new CacheDataDescriptionImpl ( arg0 . isMutable ( ) , arg0 . isVersioned ( ) , arg0 . isVersioned ( ) ? ( ( VersionType ) arg0 . getVersion ( ) . getType ( ) ) . getComparator ( ) : null ) ; }
+void function ( int arg0 ) { _index = arg0 ; }
+void function ( Vis arg0 , String arg1 , String arg2 ) { add_implied ( arg0 , arg1 , arg2 , "srini_string" ) ; }
+int function ( ) { return maxSize ; }
+Iterator < Potion > function ( ) { return topShelf . iterator ( ) ; }
+Residue < C > function ( ) { return new Residue < C > ( ring . inverse ( ) , isunit ) ; }
+void function ( Channel arg0 ) { pendingCommands . add ( arg0 ) ; }
+boolean function ( ) { return root == null ; }
+String function ( ) { return null ; }
+ICreateTargetQueries function ( ) { return fDelegate ; }
+AxisAlignedBoundingBoxXZ function ( ) { return getDataBoundary ( ) ; }
+float function ( ) { return roll ; }
+List < ApplicationPredecessorRelation > function ( ) { if ( applicationPredecessors == null ) { applicationPredecessors = new ArrayList < ApplicationPredecessorRelation > ( ) ; } return this . applicationPredecessors ; }
+Residue < C > function ( Residue < C > arg0 , Residue < C > arg1 ) { return new Residue < C > ( arg0 . val % arg1 . val , arg0 . val / arg1 . val , arg0 . val / arg1 . val ) ; }
+List < String > function ( ) { return validatorErrorMessage ; }
+void function ( String arg0 , String arg1 ) { if ( arg0 == null && arg1 != null ) { throw new IllegalArgumentException ( "srini_string" + arg0 + "srini_string" + arg1 ) ; } }
+void function ( char arg0 ) { ensureSpace ( 1 ) ; buf [ pos ++ ] = arg0 ; }
+boolean function ( List < VectorXZ > arg0 ) { return isEquivalentTo ( arg0 . get ( 0 ) , arg0 . get ( 1 ) ) ; }
+String function ( ) { return "srini_string" + density + "srini_string" + rows + "srini_string" + cols + "srini_string" ; }
+int function ( ) { return map . hashCode ( ) ; }
+Object function ( ) { return value ; }
+boolean function ( UserTransaction arg0 ) { final int loc0 = getStatus ( arg0 ) ; return isActive ( loc0 ) || isRollback ( loc0 ) ; }
+String function ( ) { return nextToken ( ) . type ; }
+String [ ] function ( ) { return null ; }
+VectorXYZ function ( ) { return xyz ( null ) ; }
+void function ( ) { sender . send ( 0 , receiver ) ; }
+DrillConfig function ( ) { return config ; }
+long function ( ) { return mLastEventTime ; }
+void function ( final ShakedownTestResult arg0 ) { log . info ( "srini_string" + arg0 . getRetid ( ) + "srini_string" ) ; }
+Instructor function ( File arg0 ) { return create ( new FileInputStream ( arg0 ) ) ; }
+String function ( ) { return name ; }
+boolean function ( ) { return ! resultComputed ; }
+boolean function ( ) { return atX1 ( ) && atY1 ( ) ; }
+ observereqvalue function ( String arg0 , String arg1 ) { return new observereqvalue ( arg0 , arg1 ) ; }
+String function ( ) { return m_label ; }
+boolean function ( ) { return getLogger ( ) . isTraceEnabled ( ) ; }
+void function ( char arg0 ) { appendNewLine ( ) ; sb . append ( arg0 ) ; }
+Builder function ( ) { return new Builder ( ) ; }
+CollectionFactory < Collection < E >> function ( ) { return _objectContainer . getCollectionFactory ( ) ; }
+String function ( ) { if ( buffer . length ( ) > 0 ) { buffer . setLength ( 0 ) ; } return buffer . toString ( ) ; }
+void function ( ) { __connector . setAutocommit ( 1 ) ; }
+HashCodeBuilder function ( boolean [ ] arg0 , int arg1 ) { int loc0 = 2 * arg1 ; return appendSuper ( arg0 , loc0 ) ; }
+Closure function ( ) { return iTrueClosure ; }
+void function ( ) { }
+Map < String , JsonNode > function ( ) { return Collections . unmodifiableMap ( props ) ; }
+int function ( ) { return size ; }
+IHoverInfo function ( String arg0 , Point arg1 , float arg2 , float arg3 , float arg4 , float arg5 , float arg6 ) { return new HoverInfo ( null , arg0 , arg1 , arg2 , arg3 , arg4 , arg5 , arg6 ) ; }
+void function ( ) { configFacade . init ( ) ; pluginService = new PluginService ( ) ; }
+double function ( double arg0 ) { double loc0 = 0.0 ; double loc1 = Math . sqrt ( arg0 ) ; double loc2 = random ( loc1 ) ; double loc3 = 1.0 / loc2 ; double loc4 = random ( ) ; double loc5 = Math . sqrt ( 2.0 * loc3 * loc2 ) ; double loc6 = random ( ) ; double loc7 = random ( ) ; double loc8 = random ( ) ; double loc9 = random ( ) ; double loc10 = random ( ) ; double loc11 = random ( ) ; double loc12 = random ( ) ; double loc13 = random ( ) ; double loc14 = random ( ) ; double loc
+PdfWriter function ( ) { return fc ; }
+String function ( String arg0 ) { if ( arg0 == null ) { return null ; } return arg0 . replace ( "srini_string" , "srini_string" ) ; }
+byte [ ] function ( byte [ ] arg0 ) { return hex2bytes ( arg0 , 0 , arg0 . length ) ; }
+Builder function ( ) { hasRotationPivot = false ; return this ; }
+void function ( ApplicationID arg0 ) { this . predecessorApplication = arg0 ; }
+void function ( int arg0 ) { this . nInlined ++ ; this . nLiveMethods ++ ; }
+FluentIterable < E > function ( Class < E > arg0 ) { List < E > loc0 = Lists . newArrayList ( ) ; forEach ( arg0 , loc0 ) ; return new FluentIterable < E > ( loc0 ) ; }
+FloatList function ( FloatList arg0 ) { return ( arg0 == null ) ? null : arg0 . asFloatList ( ) ; }
+void function ( String [ ] arg0 ) { MesosWebService loc0 = new MesosWebService ( ) ; loc0 . performOperations ( ) ; }
+C function ( BigInteger arg0 ) { return parse ( arg0 . bitLength ( ) , arg0 ) ; }
+void function ( int arg0 ) { _numClicks = arg0 ; }
+int function ( ) { return _map . hashCode ( ) ; }
+void function ( final Object arg0 ) { this . iterator . set ( arg0 ) ; }
+GenVector < C > function ( ) { return random ; }
+void function ( JobConf arg0 ) { String loc0 = ( String ) arg0 . get ( COMBINER ) ; if ( TextUtils . isEmpty ( loc0 ) ) { loc0 = DEFAULT_COMBINE_JOB_NAME ; } arg0 . set ( COMBINER , loc0 ) ; }
+void function ( EntityKey arg0 ) { subselectsByEntityKey . remove ( arg0 ) ; }
+Map function ( ) { Map loc0 = new HashMap ( ) ; Iterator loc1 = _map . values ( ) . iterator ( ) ; while ( loc1 . hasNext ( ) ) { IWidgetState loc2 = ( IWidgetState ) loc1 . next ( ) ; loc0 . put ( loc2 . getId ( ) , loc2 ) ; } return loc0 ; }
+boolean function ( Object arg0 ) { if ( ! ( arg0 instanceof Hashtable ) ) return false ; Hashtable loc0 = ( Hashtable ) arg0 ; return ( index == loc0 . index && name . equals ( loc0 . name ) ) ; }
+void function ( int arg0 , int arg1 ) { doKeyDown ( arg0 , arg1 , InputEvent . MOUSE_MOVE ) ; }
+boolean function ( Map < String , String > arg0 , String arg1 , String arg2 , String arg3 ) { if ( arg0 == null ) { return false ; } arg0 . put ( arg1 , arg2 ) ; arg0 . put ( arg3 , arg4 ) ; return true ; }
+void function ( boolean arg0 ) { this . isDefault = arg0 ; }
+int function ( Calendar arg0 ) { Calendar loc0 = new GregorianCalendar ( ) ; loc0 . setTime ( arg0 ) ; int loc1 = loc0 . get ( Calendar . DAY_OF_WEEK ) ; int loc2 = loc0 . get ( Calendar . YEAR ) ; int loc3 = loc0 . get ( Calendar . DAY_OF_WEEK ) ; return ( loc2 - loc1 + 1 ) * 7 ; }
+boolean function ( final PastryContact arg0 ) { if ( ! this . entries . contains ( arg0 ) ) { this . entries . add ( arg0 ) ; return true ; } return false ; }
+boolean function ( ) { return hashArray . length == 0 ; }
+Set < String > function ( ) { return roles ; }
+byte [ ] function ( String arg0 ) { return decode ( arg0 , false ) ; }
+void function ( java . util . Calendar arg0 ) { this . signDate = arg0 ; }
+Propertyupdate function ( ) { return new Propertyupdate ( ) ; }
+int function ( ) { return readPosition - markPosition ; }
+void function ( EventListener arg0 ) { listenerList . remove ( arg0 ) ; }
+Set < Asset > function ( Set < Asset > arg0 , AssetDomPosition arg1 ) { return arg0 ; }
+void function ( ) { String loc0 = "srini_string" ; logger . debug ( loc0 ) ; if ( ! authzEnabled ) { throw HiveSQLException . newAccessControlException ( loc0 ) ; } }
+Announcement function ( JSONObject arg0 ) { String loc0 = arg0 . optString ( "srini_string" , "srini_string" ) ; String loc1 = arg0 . optString ( "srini_string" , "srini_string" ) ; Announcement loc2 = new Announcement ( ) ; Date loc3 = parseDate ( loc0 ) ; loc2 . setDate ( loc3 ) ; return loc2 ; }
+EventStatus function ( ) { return mNullEvent ; }
+AdvancedCache function ( AdvancedCache arg0 , Object arg1 ) { return transformCache ( arg0 , arg1 , true ) ; }
+List < GenPolynomial < C >> function ( ) { return list ; }
+void function ( }
+XMLParser function ( ) { return this . singleQuoted ; }
+boolean function ( Object arg0 ) { return this . entityType . isInstance ( arg0 ) ; }
+GridBoard function ( ) { GridBoard loc0 = new GridBoard ( ) ; for ( int loc1 = 0 ; loc1 < grid . length ; loc1 ++ ) { for ( int loc2 = 0 ; loc2 < grid [ 0 ] . length ; loc2 ++ ) { loc0 . grid [ loc1 ] [ loc2 ] = grid [ loc1 ] [ loc2 ] ; } } return loc0 ; }
+String function ( ) { return "srini_string" ; }
+void function ( double arg0 ) { this . mu = arg0 ; }
+void function ( ) { }
+String function ( final String arg0 , final String arg1 ) { return String . format ( "srini_string" , arg0 , arg1 ) ; }
+void function ( XMPMeta arg0 , String arg1 ) { arg0 . setProperty ( XMPConst . NS_PDF , CONFORMANCE , arg1 ) ; }
+long function ( ) { return executionAvgTime ; }
+void function ( ) { subpaths . clear ( ) ; }
+int function ( int arg0 [ ] ) { int loc0 = 0 ; for ( int loc1 = 1 ; loc1 < arg0 . length ; loc1 ++ ) { int loc2 = arg0 [ loc1 ] ; if ( loc1 == arg0 . length - 1 && arg0 [ loc1 - 1 ] > arg0 [ loc0 ] ) { loc0 = loc1 ; } else if ( arg0 [ loc1 ] > arg0 [ loc0 ] ) { loc0 = loc1 ; } } return loc0 ; }
+boolean function ( Object arg0 ) { if ( arg0 instanceof Local ) { return this . num . equals ( ( ( Local ) arg0 ) . num ) ; } else { return false ; } }
+void function ( ) { assertTrue ( "srini_string" , root . hasChild ( CHILDS_CHILD ) ) ; assertFalse ( "srini_string" , root . hasChild ( CHILDS_CHILD ) ) ; }
+Date function ( ) { return _start ; }
+void function ( int arg0 ) { synchronized ( this ) { eventPool . remove ( arg0 ) ; } }
+void function ( QuotaUsedBytes arg0 ) { this . quotaUsedBytes = arg0 ; }
+Object function ( SpecificDatumReader < HandshakeRequest > arg0 , Object arg1 ) { return arg0 . readValue ( arg1 ) ; }
+Class < ? > function ( String arg0 ) { return Class . forName ( arg0 ) ; }
+void function ( ) { Assert . isTrue ( this . parameters != null ) ; Assert . isNotNull ( this . filterName ) ; Assert . isNotNull ( this . parameters ) ; }
+Iterator function ( ) { synchronized ( iteratorChain ) { return Collections . unmodifiableList ( iteratorChain ) ; } }
+void function ( char arg0 ) { if ( buffer . length ( ) > 0 ) { buffer . setLength ( 0 ) ; } buffer . append ( arg0 ) ; }
+ImageIcon function ( String arg0 ) { return getImage ( new File ( arg0 ) ) ; }
+int function ( int arg0 ) { if ( arg0 < 0 || arg0 > 1 ) throw new IllegalArgumentException ( "srini_string" + arg0 + "srini_string" ) ; return ( int ) ( arg0 * 255 ) ; }
+Map < String , Integer > function ( Parcel arg0 , Class < ? > arg1 ) { return readHashMap ( arg0 , arg1 , null ) ; }
+void function ( ) { LOGGER . info ( "srini_string" ) ; }
+byte [ ] function ( String arg0 ) { try { return Base64 . decode ( arg0 , "srini_string" ) ; } catch ( UnsupportedEncodingException loc0 ) { throw new RuntimeException ( loc0 ) ; } }
+FloatList function ( float arg0 ) { return ( FloatList ) unmodifiableFloatList ( ) . add ( arg0 ) ; }
+boolean function ( ) { return fWordIterator . hasPrevious ( ) && fWordIterator . hasNext ( ) ; }
+long function ( Timestamp arg0 ) { return Timestamps . toMillis ( arg0 ) ; }
+void function ( String arg0 ) { this . outputMessage = arg0 ; }
+void function ( RatTermVec arg0 ) { arg0 . addElement ( null ) ; arg0 . addElement ( null ) ; arg0 . addElement ( arg0 ) ; }
+CatalogFactory function ( ClassLoader arg0 ) { ClassLoader loc0 = Thread . currentThread ( ) . getContextClassLoader ( ) ; if ( loc0 != null ) { return getInstance ( loc0 ) ; } else { return getInstance ( arg0 ) ; } }
+void function ( ) { ViewInterfaces loc0 = new ViewInterfaces ( new Class [ ] { MessageListener . class } ) ; Assert . assertTrue ( loc0 . getPotentialViewInterfaces ( ) . length > 0 ) ; }
+void function ( DialectResolver arg0 ) { resolvers . add ( arg0 ) ; }
+String [ ] function ( String arg0 , String [ ] arg1 , JoinType arg2 ) { return toColumns ( arg0 , arg1 , JoinType . LEFT , arg2 ) ; }
+Element function ( ) { if ( element == null ) { element = createElement ( ) ; } return element ; }
+void function ( int arg0 , ExecutionOutcome arg1 ) { theList . set ( arg0 , arg1 ) ; }
+Tag function ( final String arg0 , final String arg1 , final int arg2 ) { return new Tag ( arg0 , arg1 , arg2 ) ; }
+NonClosableConnection function ( ConnectionInfo arg0 , String arg1 ) { Connection loc0 = delegate . createConnection ( arg0 , arg1 ) ; if ( loc0 == null ) { logger . log ( Level . WARNING , "srini_string" , arg0 ) ; return loc0 ; } return loc0 ; }
+Iterator < ReaderInfo > function ( ) { return readers . iterator ( ) ; }
+void function ( Rinbowfish arg0 , String arg1 , Object arg2 ) { assertEquals ( "srini_string" , arg1 , arg0 . getVal ( ) ) ; assertEquals ( "srini_string" , arg2 , arg0 . getVal ( ) ) ; }
+PlayerNum function ( ) { return number ; }
+int function ( ) { return flag ; }
+Product < C > function ( long arg0 ) { return random . randomProduct ( arg0 ) ; }
+String function ( File arg0 ) { try { byte [ ] loc0 = Files . readAllBytes ( arg0 . toPath ( ) ) ; String loc1 = convertFromUtf32 ( loc0 ) ; return loc1 ; } catch ( IOException loc0 ) { throw new UnexpectedException ( loc0 ) ; } }
+String function ( ConfigKey arg0 ) { return ( secretValue ? getPropertyValue ( arg0 ) : defaultValue ) ; }
+void function ( ) { assertEquals ( RGB_PERCENT , Color . getRGBColor ( "srini_string" , "srini_string" ) ) ; }
+String [ ] function ( Operator arg0 ) { if ( arg0 == null ) { throw new IllegalArgumentException ( "srini_string" ) ; } return OPERATOR_METRICS [ arg0 . getId ( ) ] ; }
+void function ( Object arg0 ) { map . keySet ( ) . add ( arg0 ) ; }
+void function ( GeographicPoint arg0 , GeographicPoint arg1 ) { if ( arg0 == null ) throw new IllegalArgumentException ( "srini_string" ) ; if ( arg1 == null ) throw new IllegalArgumentException ( "srini_string" ) ; addNode ( arg0 , arg1 , null ) ; }
+void function ( ) { drillbitContext . clearDrill ( ) ; logger . debug ( "srini_string" ) ; }
+Object function ( ) { return value ; }
+void function ( boolean arg0 ) { this . cdiAnnotationsPresent = arg0 ; }
+String function ( ) { return this . contentEncoding ; }
+String function ( File arg0 ) { return preprocess ( arg0 , null ) ; }
+boolean function ( VarComparability arg0 , VarComparability arg1 ) { return arg0 . equals ( arg1 ) ; }
+int function ( ) { return size ; }
+TestSuite function ( ) { return junit ( false ) ; }
+TaskManager function ( List < Task > arg0 ) { List < Task > loc0 = new ArrayList < Task > ( arg0 . size ( ) ) ; for ( Task loc1 : arg0 ) { if ( ! loc0 . contains ( loc1 ) ) { loc0 . add ( loc1 ) ; } } return new TaskManager ( loc0 ) ; }
+void function ( ) { System . out . println ( "srini_string" ) ; Student loc0 = new Student ( 1 , 2 , "srini_string" , "srini_string" ) ; boolean loc1 = false ; boolean loc2 = loc0 . equals ( loc1 ) ; assertEquals ( loc1 , loc2 ) ; }
+String [ ] function ( ) { String [ ] loc0 = new String [ values . length ] ; for ( int loc1 = 0 ; loc1 < loc0 . length ; loc1 ++ ) { loc0 [ loc1 ] = values [ loc1 ] ; } return loc0 ; }
+int function ( ) { return max ; }
+boolean function ( ) { return element != null ; }
+void function ( ) { assertThat ( map . containsKey ( 3 ) , is ( true ) ) ; assertThat ( map . containsKey ( 5 ) , is ( false ) ) ; assertThat ( map . containsKey ( null ) , is ( false ) ) ; }
+String function ( ) { return KDC_FLAGS_ZNODE_NAME ; }
+int function ( ) { return fConditionCheckingFailedSeverity ; }
+GenMatrix < C > function ( ) { return random ( null ) ; }
+double function ( ) { double loc0 = Math . random ( ) ; double loc1 = Math . random ( ) ; double loc2 = loc0 * loc1 ; return loc2 + loc0 ; }
+List < Event > function ( String arg0 ) { Jerry loc0 = new Jerry ( arg0 ) ; return getEvents ( loc0 ) ; }
+int function ( ) { return ( int ) Math . round ( y ) ; }
+Builder function ( ) { return new Builder ( ) ; }
+Constructor function ( final Class arg0 ) { try { final Constructor loc0 = arg0 . getDeclaredConstructor ( iParamTypes ) ; loc0 . setAccessible ( true ) ; return loc0 ; } catch ( final NoSuchMethodException loc0 ) { return null ; } }
+List < VectorXZ > function ( ) { List < VectorXZ > loc0 = new ArrayList < VectorXZ > ( ) ; for ( int loc1 = 0 ; loc1 < size ( ) ; loc1 ++ ) { loc0 . add ( getVertex ( loc1 ) ) ; } return loc0 ; }
+TabularData function ( ) { return new TabularDataSupport ( TABULAR_TYPE ) ; }
+void function ( String arg0 ) { this . comment = arg0 ; }
+void function ( BaseContentEntry < ? > arg0 , String arg1 ) { arg0 . setParent ( arg1 ) ; }
+void function ( PdfPCell arg0 ) { List < PdfPCell > loc0 = rows . get ( arg0 ) ; loc0 . add ( arg0 ) ; rows . add ( loc0 ) ; }
+File function ( ) { return tempPropertiesFile ; }
+Set function ( ) { return cached ; }
+boolean function ( ) { return getLogger ( ) . isFatalErrorEnabled ( ) ; }
+Comparator function ( Comparator arg0 , Comparator arg1 ) { return ( arg0 == arg1 ) ? NATURAL_COMPARATOR : arg0 ; }
+void function ( Object arg0 , Throwable arg1 ) { log ( LOG_LEVEL_DEBUG , arg0 , arg1 ) ; }
+Locktype function ( ) { return new Locktype ( ) ; }
+int function ( ) { return frames_ . size ( ) ; }
+String function ( ) { try { StringWriter loc0 = new StringWriter ( ) ; appendTo ( loc0 , this ) ; return loc0 . toString ( ) ; } catch ( IOException loc0 ) { throw new RuntimeException ( loc0 ) ; } }
+int function ( InputStream arg0 , boolean arg1 ) { int loc0 = 0 ; int loc1 = arg0 . available ( ) ; while ( loc1 > 0 ) { int loc2 = arg0 . read ( ) ; loc0 += loc2 ; } return loc0 ; }
+Iterator < Double > function ( ) { return new DeltaIterator ( this ) ; }
+AuditCriterion function ( T arg0 ) { return new PropertyAuditExpression ( propertyNameGetter , arg0 , "srini_string" ) ; }
+void function ( File arg0 ) { getAndExecuteScriptFromGeneratedConfig ( arg0 , true ) ; }
+void function ( Throwable arg0 ) { fgInstance . error ( arg0 ) ; }
+String function ( String arg0 , String arg1 , Object ... arg2 ) { return format ( arg0 , arg1 , true , arg2 ) ; }
+AST function ( AST arg0 , int arg1 ) { AST loc0 = arg0 ; while ( loc0 . getNextSibling ( ) != null && loc0 . getNextSibling ( ) . getType ( ) == arg1 ) { loc0 = loc0 . getNextSibling ( ) ; } return loc0 ; }
+void function ( @ ArquillianResource ( TxControlServlet . class ) URL arg0 ) { testURL ( arg0 , true , null ) ; }
+E function ( ) { if ( next == null ) { return null ; } else { E loc0 = next ; next = null ; return loc0 ; } }
+GenPolynomial < C > function ( final ExpVector arg0 ) { return new GenPolynomial < C > ( arg0 ) ; }
+void function ( int [ ] arg0 , int arg1 ) { for ( int loc0 = 0 ; loc0 < arg0 . length ; loc0 ++ ) { print ( arg0 [ loc0 ] , arg1 ) ; } }
+String function ( Element arg0 , String arg1 ) { return getContent ( arg0 , arg1 , false ) ; }
+Schema function ( String arg0 , boolean arg1 ) { SchemaPlus loc0 = PlannerUtil . getSchemaPlus ( session , plannerSettings ) ; return loc0 . getSchema ( arg0 , arg1 ) ; }
+void function ( Config arg0 ) { if ( arg0 == null ) { throw new NullPointerException ( "srini_string" ) ; } singleton . arg0 = arg0 ; }
+void function ( Host arg0 ) { List < Double > loc0 = rttToMonitors . get ( arg0 ) ; if ( loc0 == null ) { return ; } loc0 . remove ( rttToMonitors . get ( arg0 ) ) ; cumulatedRTTs . remove ( arg0 ) ; }
+boolean function ( Iterable < ? extends K > arg0 , V arg1 ) { boolean loc0 = false ; for ( K loc1 : arg0 ) { loc0 |= put ( loc1 , arg1 ) ; } return loc0 ; }
+Image function ( String arg0 , ImageDescriptor arg1 ) { imageRegistry . addImage ( arg0 , arg1 ) ; return arg1 ; }
+void function ( AST arg0 , PrintWriter arg1 ) { showAST ( arg0 , arg1 , null ) ; }
+Class < ? > function ( String arg0 ) { if ( arg0 == null || arg0 . length ( ) == 0 ) return null ; try { return Class . forName ( arg0 ) ; } catch ( ClassNotFoundException loc0 ) { throw new IllegalArgumentException ( loc0 ) ; } }
+void function ( VectorContainer arg0 ) { for ( VectorWrapper < ? > loc0 : wrappers ) { loc0 . transfer ( arg0 ) ; } }
+BatchCQLStatementTupleMapper function ( CQLStatementBuilder ... arg0 ) { BatchCQLStatementTupleMapper loc0 = new BatchCQLStatementTupleMapper ( ) ; loc0 . arg0 ( arg0 ) ; return loc0 ; }
+int function ( ) { return typeIndex ; }
+String function ( ) { return location ; }
+String function ( String arg0 ) { Object loc0 = items . get ( arg0 ) ; if ( loc0 instanceof String ) { return ( String ) loc0 ; } else { return null ; } }
+void function ( ) { String loc0 = Color . getRGBColor ( "srini_string" ) ; assertEquals ( loc0 , Color . getRGBColor ( "srini_string" ) ) ; }
+DiscardCode function ( String arg0 ) { this . arg0 = arg0 ; return this ; }
+Timestamp function ( long arg0 ) { return Timestamps . fromMicros ( arg0 ) ; }
+void function ( CollectionKey arg0 , LoadingCollectionEntry arg1 ) { if ( xrefLoadingCollectionEntries == null ) { xrefLoadingCollectionEntries = new HashMap < CollectionKey , LoadingCollectionEntry > ( ) ; } xrefLoadingCollectionEntries . put ( arg0 , arg1 ) ; }
+void function ( ) { __connector . commit ( ) ; }
+boolean function ( CommandResult arg0 ) { return arg0 . getData ( ) . equals ( Logic . RETURN_VALUE ) && arg0 . getData ( ) . equals ( Logic . EXIT_VALUE ) ; }
+Rectangle function ( Widget arg0 ) { return toDisplay ( arg0 , DisplayMetricsHolder . getWindowDisplayMetrics ( arg0 ) ) ; }
+String function ( String arg0 ) { int loc0 = arg0 . indexOf ( "srini_string" ) ; if ( loc0 < 0 ) { return null ; } return arg0 . substring ( 0 , loc0 ) ; }
+int function ( ) { return id ; }
+ModInteger function ( java . math . BigInteger arg0 ) { java . math . BigInteger loc0 = new java . math . BigInteger ( arg0 . toString ( ) ) ; return new ModInteger ( java . math . abs ( loc0 ) , java . math . MIN_VALUE ) ; }
+byte [ ] function ( ) { if ( buffer == null ) { return null ; } return Arrays . copyOf ( buffer , actualSize ) ; }
+OperationCallback function ( ) { return EMPTY_CALLBACK ; }
+void function ( String arg0 , Object arg1 ) { if ( log != null ) { log . info ( arg0 , arg1 ) ; } }
+T function ( Connection arg0 ) { return ( T ) executeWork ( arg0 ) ; }
+PreviewNode function ( ) { return fParent ; }
+boolean function ( ) { return mandatory ; }
+Db4oDatabase function ( ) { for ( int loc0 = 0 ; loc0 < i_signature . length ; loc0 ++ ) { if ( i_signature [ loc0 ] == i_uuid ) { return ( Db4oDatabase ) loc0 ; } } return null ; }
+void function ( ) { SimpleBoard loc0 = new SimpleBoard ( ) ; for ( int loc1 = 0 ; loc1 < 8 ; loc1 ++ ) { System . out . println ( loc0 . next ( 8 ) ) ; } }
+void function ( DiscoverClasses arg0 ) { this . discovery = arg0 ; }
+void function ( Display arg0 ) { _display = arg0 ; }
+void function ( long arg0 ) { this . timeToLiveForContacts = arg0 ; }
+void function ( String arg0 ) { if ( arg0 == null || arg0 . length ( ) == 0 ) { throw new XMPException ( "srini_string" , XMPError . BADSCHEMA ) ; } }
+int function ( ) { return mCount ; }
+boolean function ( long arg0 ) { if ( vin != null ) { return vin . position ( ) < arg0 ; } return false ; }
+int function ( ) { return end ; }
+void function ( JSONObject arg0 ) { this . addons = arg0 ; }
+Object function ( TransactionLocal < ? > arg0 ) { return _locals . get ( arg0 ) ; }
+boolean function ( ) { return imagesWereLoaded ; }
+int function ( DateTime arg0 , int arg1 ) { return getDate ( arg0 ) . get ( arg1 ) ; }
+String function ( ) { return fTrace ; }
+void function ( ) { queryPlanCache . clear ( ) ; filterNames . clear ( ) ; }
+ErrorDTO function ( ValidationErrorDTO arg0 ) { LOGGER . error ( "srini_string" , arg0 ) ; return arg0 ; }
+void function ( ILanguageNames arg0 ) { this . languageNames = arg0 ; }
+Object function ( String arg0 , Object arg1 , Object arg2 ) { return null ; }
+boolean function ( ) { return ! kdcConfig . getBoolean ( "srini_string" , false ) ; }
+void function ( String arg0 , String arg1 , String arg2 , String arg3 ) { chain . add ( new TagAttributes ( arg0 , arg1 , arg2 , arg3 ) ) ; }
+QueryContextInformation function ( String arg0 ) { QueryContextInformation loc0 = new QueryContextInformation ( ) ; loc0 . setDrillName ( arg0 ) ; return loc0 ; }
+AlgebraicNumber < C > function ( String arg0 ) { return parse ( arg0 , null ) ; }
+CompilationUnitChange function ( ) { return createChange ( fRoot , fRewrite , fTextEditGroups ) ; }
+void function ( ASTNode arg0 ) { fNode = arg0 ; fIsBindingResolved = false ; }
+boolean function ( ) { return pointer > 0 ; }
+IEditorPart function ( JavaPanel arg0 , Object arg1 ) { if ( ! ( arg1 instanceof IEditorPart ) ) return null ; return ( IEditorPart ) arg1 ; }
+String function ( ) { return refClassName ; }
+void function ( List < Validator > arg0 ) { this . runDocumentValidators ( arg0 ) ; }
+T function ( ServiceController < T > arg0 ) { return getValue ( arg0 . getName ( ) ) ; }
+T function ( Iterable < T > arg0 ) { int loc0 = 0 ; for ( T loc1 : arg0 ) { if ( loc1 . loc0 > loc0 ) { loc0 = loc1 . loc0 ; } } return loc0 ; }
+Point function ( final Component arg0 ) { return toConcretePoint ( arg0 . getX ( ) , arg0 . getY ( ) ) ; }
+Sequence function ( ) { return sequence ; }
+void function ( ) { _bin . close ( ) ; }
+boolean function ( ) { return this . useContextClassLoader ; }
+void function ( ) { if ( running ) { tStart = 0 ; tFinish = 0 ; running = false ; } }
+void function ( ) { _activator . activate ( ) ; }
+List < T > function ( List < T > arg0 ) { return createList ( arg0 , null ) ; }
+String function ( String arg0 ) { return map . get ( arg0 ) ; }
+int function ( ) { return classInfo . maxLocals ( ) ; }
+Object function ( String arg0 ) { return get ( arg0 , null ) ; }
+void function ( GenericData arg0 , OutputStream arg1 ) { for ( int loc0 = 0 ; loc0 < arg0 . size ( ) ; loc0 ++ ) { write ( arg0 . get ( loc0 ) , arg1 ) ; } }
+AuditCriterion function ( T arg0 ) { return new SimpleAuditExpression ( propertyNameGetter , arg0 , "srini_string" ) ; }
+HtmlPipelineContext function ( StackKeeper arg0 ) { queue . addFirst ( arg0 ) ; return this ; }
+void function ( ) { throw new UnsupportedOperationException ( "srini_string" ) ; }
+void function ( TestRun arg0 ) { }
+TriangleXZ function ( ) { if ( this . v1 . x == 0 && this . v2 . x == 0 && this . v3 . x == 0 ) return this ; else return makeCounterclockwise ( ) ; }
+Phenotype function ( final Phenotype arg0 ) { this . db . save ( arg0 ) ; return arg0 ; }
+String function ( ) { return iterator . toString ( ) ; }
+String function ( Entry arg0 ) { BaseContentEntry < ? > loc0 = arg0 . getParentEntry ( ) ; return loc0 != null ? loc0 . getId ( ) : null ; }
+void function ( CachedTeXFormula arg0 ) { SoftReference < CachedTeXFormula > loc0 = cache . remove ( arg0 ) ; if ( loc0 != null ) { image = loc0 . get ( ) ; } }
+boolean function ( String arg0 , String arg1 ) { return equals ( arg0 , arg1 , false ) ; }
+void function ( ) { }
+void function ( ) { List < Element > loc0 = p . end ( ) . getElementsByTagName ( "srini_string" ) ; assertEquals ( "srini_string" , loc0 . size ( ) ) ; assertEquals ( "srini_string" , loc0 . get ( 0 ) . getText ( ) ) ; }
+void function ( final boolean arg0 , final String arg1 , final String arg2 ) { }
+void function ( final PastryContact arg0 ) { if ( arg0 == null ) { throw new IllegalArgumentException ( "srini_string" ) ; } if ( nodeId == null ) { throw new IllegalStateException ( "srini_string" ) ; } routingTable [ nodeId ] [ arg0 . getRow ( ) ] [ arg0 . getCol ( ) ] = arg0 ; }
+Iterator function ( ) { return iterator ; }
+Buffer function ( final Buffer arg0 ) { return new SynchronizedBuffer ( arg0 ) ; }
+TextEditBasedChange function ( ) { return fTextEditGroup ; }
+void function ( int arg0 ) { System . out . println ( "srini_string" + arg0 ) ; }
+PreauthHandler function ( ) { return preauthHandler ; }
+List < TokenElement > function ( ) { return tokens ; }
+boolean function ( ) { return hasCombined ; }
+int function ( ) { return fLimitTo ; }
+Schema function ( String arg0 ) { List < SchemaPlus > loc0 = new ArrayList < SchemaPlus > ( ) ; for ( SchemaPlus loc1 : schemaTreesToClose ) { if ( loc1 . getUser ( ) . equals ( arg0 ) ) { loc0 . add ( loc1 ) ; } } return loc0 . get ( 0 ) ; }
+WebTestsBuilder function ( ) { return new WebTestsBuilder ( ) ; }
+IntIterator function ( IntListIterator arg0 ) { if ( arg0 == null ) { return null ; } return unmodifiableIntListIterator ( arg0 . iterator ( ) ) ; }
+ContextEntity function ( String arg0 ) { if ( arg0 == null ) { return new ContextEntity ( ) ; } return entityManager . find ( ContextEntity . class , arg0 ) ; }
+void function ( ) { start ( ) ; }
+void function ( ) { _list = new TShortArrayList ( DEFAULT_CAPACITY ) ; }
+void function ( byte arg0 [ ] , int arg1 , int arg2 ) { addStringToTable ( arg0 , arg1 , arg2 ) ; }
+Object function ( Object arg0 , Object arg1 ) { map . put ( arg0 , arg1 ) ; return arg1 ; }
+ClassLoader function ( Class arg0 ) { try { return arg0 . getClassLoader ( ) ; } catch ( Exception loc0 ) { log . warn ( "srini_string" + arg0 . getName ( ) , loc0 ) ; return null ; } }
+Set < String > function ( Class arg0 ) { Field [ ] loc0 = arg0 . getFields ( ) ; Set < String > loc1 = new HashSet < String > ( ) ; for ( Field loc2 : loc0 ) { loc1 . add ( loc2 . getName ( ) ) ; } return loc1 ; }
+void function ( IPropertyChangeListener arg0 ) { pcsDelegate . addPropertyChangeListener ( arg0 ) ; }
+File function ( URL arg0 ) { URL loc0 = arg0 . toURI ( ) . toURL ( ) ; return new File ( loc0 . toString ( ) ) ; }
+String function ( final String arg0 ) { return RESOURCE_ADAPTER_REGISTRY_SERVICE . append ( arg0 ) ; }
+void function ( ) { lookupEnabled = true ; }
+String [ ] function ( String [ ] arg0 ) { String [ ] loc0 = new String [ arg0 . length ] ; for ( int loc1 = 0 ; loc1 < arg0 . length ; loc1 ++ ) loc0 [ loc1 ] = arg0 [ loc1 ] ; return loc0 ; }
+void function ( String [ ] arg0 ) { System . out . println ( "srini_string" ) ; }
+int function ( float arg0 , int arg1 ) { return encodeFloat ( arg0 , arg1 , false ) ; }
+ShortList function ( ) { return new ShortList ( ) ; }
+void function ( ) { Collections . clear ( BUFFER ) ; }
+void function ( Edges arg0 , Graphics2D arg1 , int arg2 , int arg3 , int arg4 , int arg5 , int arg6 ) { }
+Undoable function ( ) { return ( Undoable ) queue . getCurrent ( ) ; }
+void function ( String arg0 ) { Scoreboard loc0 = originalScoreboard . get ( arg0 ) ; if ( loc0 == null ) { loc0 = new Scoreboard ( ) ; originalScoreboard . put ( arg0 , loc0 ) ; } loc0 . incScore ( ) ; }
+boolean function ( String arg0 ) { Pattern loc0 = Pattern . compile ( MESSAGE_EMAIL_VALIDATION_REGEX ) ; return loc0 . matcher ( arg0 ) . matches ( ) ; }
+void function ( Shutdownable arg0 ) { synchronized ( lock ) { processMap . put ( arg0 . getId ( ) , arg0 ) ; } }
+List < EventSource > function ( ) { return new ArrayList < EventSource > ( EventSource . values ( ) ) ; }
+int function ( int arg0 ) { return ( int ) Math . round ( arg0 * Math . sqrt ( 5 ) ) ; }
+boolean function ( ) { return context . isField ( ) ; }
+Schema function ( Configuration arg0 ) { String loc0 = arg0 . get ( CONF_OUTPUT_KEY_SCHEMA ) ; return loc0 != null ? Schema . parse ( loc0 ) : null ; }
+boolean function ( Object arg0 ) { return map . put ( arg0 , arg0 ) != UNKNOWN_BEFORE ; }
+void function ( ) { doRun ( ) ; }
+boolean function ( ) { return head == null ; }
+Set < String > function ( JSONArray arg0 ) { if ( arg0 == null || arg0 . length ( ) == 0 ) { return this . declined ; } return arg0 . toString ( ) . split ( "srini_string" ) ; }
+Block function ( ) { return exit ; }
+void function ( IPropertyChangeListener arg0 ) { m_propertyChangeSupport . addPropertyChangeListener ( arg0 ) ; }
+void function ( RunListener arg0 ) { fCurrentListeners . add ( arg0 ) ; }
+void function ( final IWidgetLocator arg0 ) { arg0 . performClick ( ) ; }
+File function ( File arg0 ) { if ( ! arg0 . exists ( ) ) { if ( ! arg0 . mkdirs ( ) ) { throw new RuntimeException ( "srini_string" + arg0 . getAbsolutePath ( ) ) ; } } return arg0 ; }
+boolean function ( ) { return fSeverity == IStatus . INFO ; }
+Closure function ( Map < String , Closure > arg0 , Closure arg1 , String arg2 ) { return new Closure ( ) { @ Override public boolean eval ( Map < String , Closure > arg3 ) { Closure loc0 = arg1 ; for ( Map . Entry < String , Closure > loc1 : arg3 . entrySet ( ) ) { if ( arg0 . evaluate ( loc1 . getKey ( ) , loc1 . getValue ( ) ) ) { loc0 = loc1 . getValue ( ) ; return true ; } } return false ; } ; }
+Iterator function ( ) { return iterator ; }
+Iterator function ( java . util . Iterator arg0 ) { if ( arg0 == null ) { return null ; } return new LongIteratorWrapper ( arg0 ) ; }
+Purchase function ( String arg0 , String arg1 ) { String loc0 = SIGNATURE_ALGORITHM + "srini_string" + arg1 + SIGNATURE_ALGORITHM ; byte [ ] loc1 = Base64 . encodeToString ( Utils . sign ( loc0 , arg0 ) ) ; Purchase loc2 = new Purchase ( loc0 ) ; return loc2 ; }
+int function ( ) { return 17 ; }
+Object [ ] function ( Object [ ] arg0 ) { if ( arg0 == null ) return null ; int [ ] loc0 = new int [ arg0 . length ] ; System . arraycopy ( arg0 , 0 , loc0 , 0 , arg0 . length ) ; return loc0 ; }
+void function ( ) { LOGGER . info ( "srini_string" ) ; Work ( ) ; }
+boolean function ( AssociationKey arg0 ) { return visitedAssociationKeys . contains ( arg0 ) ; }
+Style function ( String arg0 ) { if ( arg0 == null || arg0 . length ( ) == 0 ) { return null ; } String [ ] loc0 = arg0 . split ( "srini_string" ) ; return parseStyle ( loc0 [ 0 ] , loc0 [ 1 ] ) ; }
+Builder function ( EnumSet < SegmentType > arg0 ) { this . syncedTypes = arg0 ; return this ; }
+void function ( String [ ] arg0 ) { junitall . createTestsuite ( arg0 ) ; }
+void function ( ) { SecurityConfiguration . getCipherAlgorithm ( ) ; }
+Color function ( Graphics2D arg0 ) { if ( arg0 == null ) return null ; Color loc0 = this . m_color ; this . m_color = arg0 ; return loc0 ; }
+void function ( Enum < ? > arg0 , int arg1 ) { throw new UnsupportedOperationException ( "srini_string" ) ; }
+void function ( ) { assertThat ( map . size ( ) , is ( 9 ) ) ; }
+TodoDTO function ( @ PathVariable ( "srini_string" ) Long arg0 ) { LOGGER . info ( "srini_string" , arg0 ) ; TodoDTO loc0 = crudService . findOne ( arg0 ) ; LOGGER . info ( "srini_string" , loc0 ) ; return loc0 ; }
+boolean function ( ) { return isDebugging ; }
+void function ( String arg0 , int arg1 , int arg2 ) { if ( DEBUG ) { System . out . println ( "srini_string" + arg0 + "srini_string" + arg1 + "srini_string" + arg2 + "srini_string" ) ; } mods [ arg2 ] = arg1 ; mods [ arg2 ] = MODIFIED ; }
+IJavaElement [ ] function ( @ NotNull ICodeResolve arg0 ) { return codeResolve ( arg0 , null ) ; }
+String function ( ) { return path ; }
+void function ( long arg0 ) { this . reconnectAttemptsMax = arg0 ; }
+void function ( int arg0 , int arg1 ) { this . boardX = arg0 ; this . boardY = arg1 ; }
+void function ( ) { lock . lock ( ) ; }
+String function ( ) { return packageName ; }
+void function ( Cursor arg0 ) { dump ( arg0 , null ) ; }
+Quotient < C > function ( final C arg0 , final C arg1 ) { return new Quotient < C > ( arg0 , arg1 , false ) ; }
+void function ( ) { I1 = 0 ; I2 = 1 ; I3 = 2 ; I4 = 3 ; I5 = 4 ; }
+JsonAsserter function ( ) { return new JsonAsserter ( ) ; }
+int function ( ) { return pending ; }
+VarComparability function ( Var arg0 , Var arg1 , int arg2 ) { return new VarComparability ( arg0 , arg1 , arg2 ) ; }
+int function ( ) { return identifier ; }
+void function ( IPropertyChangeListener arg0 ) { pcsDelegate . removePropertyChangeListener ( arg0 ) ; }
+boolean function ( int arg0 , int arg1 ) { return _robot . isKeyPressed ( arg0 , arg1 ) ; }
+char function ( Integer arg0 ) { if ( arg0 < 0 ) throw new IllegalArgumentException ( "srini_string" + arg0 ) ; char loc0 = ( char ) arg0 ; return loc0 ; }
+String function ( ) { return map . get ( "srini_string" ) ; }
+void function ( final Service arg0 ) { this . serviceCache . put ( arg0 . getId ( ) , arg0 ) ; }
+boolean function ( int arg0 ) { return arg0 >= 0 && arg0 < size ( ) && getFieldType ( arg0 ) != null ; }
+void function ( KerberosSetting arg0 ) { this . krbSetting = arg0 ; }
+File function ( ) { return outputDir ; }
+boolean function ( CtClass arg0 ) { return arg0 . hasAnnotation ( Onetomany . class ) || arg0 . hasAnnotation ( Manytomany . class ) || arg0 . hasAnnotation ( ElementCollection . class ) ; }
+Character function ( int arg0 ) { return characters . get ( arg0 ) ; }
+boolean function ( Object arg0 ) { return false ; }
+void function ( final int arg0 , final int arg1 , final int arg2 , final int arg3 , final int arg4 , final int arg5 , final OutputStream arg6 , final int arg7 ) { arg6 . write ( ( byte ) ( arg0 >>> 24 ) & 0xFF ) ; arg6 . write ( ( byte ) ( arg0 >>> 16 ) & 0xFF ) ; arg6 . write ( ( byte ) ( arg0 >>> 8 ) & 0xFF ) ; arg6 . write ( ( byte ) arg0 & 0xFF ) ; arg6 . write ( ( byte ) arg1 ) ; arg6 . write ( ( byte ) arg2 ; arg6 . write ( ( byte ) arg3 )
+AlgebraicNumber < C > function ( C arg0 ) { return new AlgebraicNumber < C > ( arg0 , true ) ; }
+Test function ( String arg0 ) { return createTest ( arg0 , LogEvent . WARN , null ) ; }
+String function ( VarCharHolder arg0 ) { if ( arg0 == null ) logger . error ( "srini_string" , arg0 ) ; return arg0 . toString ( ) ; }
+boolean function ( ) { return position >= limit ; }
+void function ( String [ ] arg0 ) { new Lifecycle ( ) . run ( ) ; }
+View function ( int arg0 ) { View loc0 = mInflater . inflate ( mContainer , arg0 , false ) ; return loc0 ; }
+int function ( int [ ] arg0 ) { int loc0 = arg0 [ 0 ] ; for ( int loc1 : arg0 ) { loc0 = gcd ( loc0 , loc1 ) ; } return loc0 ; }
+byte [ ] function ( String arg0 ) { int loc0 = arg0 . length ( ) ; byte [ ] loc1 = new byte [ loc0 ] ; for ( int loc2 = 0 ; loc2 < loc0 ; loc2 ++ ) { loc1 [ loc2 ] = ( byte ) arg0 . charAt ( loc2 ) ; } return loc1 ; }
+int function ( ) { return startingLocation ; }
+void function ( final SkyNetNodeInterface arg0 , final Attribute arg1 , final boolean arg2 , final String arg3 ) { }
+void function ( String arg0 ) { this . name = arg0 ; }
+void function ( InvocationTargetException arg0 , String arg1 ) { fgInstance . perform ( arg0 , arg1 ) ; }
+MutablePeriod function ( ) { return new MutablePeriod ( this ) ; }
+String function ( ) { return iText ; }
+long function ( ) { return windowManager . getMinStreamTs ( streamToTs ) ; }
+Criteria function ( ValueNode arg0 ) { return new Criteria ( RelationalOperator . LE , arg0 ) ; }
+void function ( String arg0 ) { this . cssClassName = arg0 ; }
+void function ( Class arg0 ) { logImplctor = new Constructor ( getLogNames ( arg0 ) ) ; }
+boolean function ( ) { return false ; }
+int function ( ) { return type ; }
+void function ( ) { list . clear ( ) ; }
+double function ( ) { double loc0 = 0 ; double loc1 = 0 ; double loc2 = getN ( ) ; double loc3 = getWindowSize ( ) ; for ( int loc4 = 0 ; loc4 < loc3 ; loc4 ++ ) { double loc5 = getMin ( ) ; double loc6 = getN ( ) ; double loc7 = getVariance ( loc4 ) ; if ( loc5 > loc6 ) { loc0 += loc5 * loc4 ; loc1 += loc6 * loc4 ; } } return loc0 ; }
+XMPDateTime function ( String arg0 ) { if ( arg0 == null || arg0 . length ( ) == 0 ) return null ; return new XMPDateTime ( arg0 . charAt ( 0 ) , arg0 . charAt ( 1 ) , arg0 . charAt ( 2 ) , arg0 . charAt ( 3 ) , arg0 . charAt ( 4 ) , arg0 . charAt ( 5 ) ) ; }
+VarInfoAux function ( String arg0 ) { return ( VarInfoAux ) map . get ( arg0 ) ; }
+void function ( SelectionEvent arg0 ) { ensureSelectionListenerAdded ( ) ; fLastChange = arg0 ; fSelectionListener . textChanged ( ) ; }
+RingFactory < C > function ( int arg0 ) { return ringList . get ( arg0 ) ; }
+boolean function ( int arg0 ) { return xValue . equals ( arg0 ) ; }
+V function ( V arg0 ) { return m_value = arg0 ; }
+Dialect function ( ) { return dialectResolver . getDialect ( "srini_string" ) ; }
+void function ( ) { if ( copy != null ) { copy . end ( ) ; } }
+int function ( ) { long loc0 = ( System . nanoTime ( ) - yPosition ) * 1000000 ; return ( int ) loc0 ; }
+V function ( ThrowingCallable < V > arg0 , E arg1 ) { return arg0 . call ( ) ; }
+BigInteger function ( BigInteger arg0 , int arg1 ) { if ( arg1 < 0 || arg1 >= NUM_OF_DIGITS ) { throw new IllegalArgumentException ( "srini_string" ) ; } int loc0 = ( arg1 * NUM_OF_DIGITS ) >> 1 ; return arg0 . multiply ( BigInteger . valueOf ( loc0 ) ) ; }
+int function ( ) { return num ; }
+GenPolynomial < C > function ( ) { return pi ; }
+boolean function ( ) { return getLogger ( ) . isWarnEnabled ( ) ; }
+void function ( ) { lastAccessTime = System . currentTimeMillis ( ) ; }
+String function ( ) { return numberChosen ; }
+Transformer [ ] function ( ) { return iTransformers ; }
+void function ( CSIColor arg0 , Color arg1 ) { colorMap [ arg0 ] = arg1 ; }
+int function ( ) { return constantValue . index ( ) ; }
+void function ( double arg0 ) { this . sigma = arg0 ; }
+DoubleIterator function ( ) { return Collections . unmodifiableDoubleListIterator ( ) ; }
+ResponsePacket function ( ) { return response ; }
+PerspectiveLocator function ( String arg0 ) { return new PerspectiveLocator ( arg0 ) ; }
+ShortList function ( ShortList arg0 ) { return ( arg0 == null ) ? null : arg0 . asShortList ( ) ; }
+void function ( Object arg0 , Throwable arg1 ) { log ( Level . DEBUG , arg0 , arg1 ) ; }
+Single < T > T function ( Query arg0 , Class < T > arg1 ) { T loc0 = null ; loc0 = this . mapper . queryForObject ( arg0 , arg1 , OR_QUERY_JOINER ) ; return loc0 ; }
+Expr function ( ) { return stack . remove ( stack . size ( ) - 1 ) ; }
+IUIConditionHandler function ( ) { return new IUIConditionHandler ( ) { @ Override public boolean handles ( IUI arg0 ) { return RuntimeEnvironment . getWorkbenchShell ( ) . isMaximized ( ) ; } } ; }
+void function ( LoggingEvent arg0 ) { int loc0 = Math . min ( eventQueueLength , capacity ) ; eventQueue . add ( arg0 ) ; if ( loc0 > 0 ) { publishCache ( ) ; } }
+int function ( ) { return timeout ; }
+void function ( ) { assertEquals ( RGB_PERCENT , Color . getRGBColorPercent ( "srini_string" ) ) ; assertEquals ( RGB_MISSING_COLOR_VALUES , Color . getRGBColorUndefined ( ) ) ; }
+int function ( ) { return ring . hashCode ( ) ; }
+SortedSet function ( SortedSet arg0 ) { return arg0 == null ? EMPTY_SORTED_SET : arg0 . subSet ( 0 , arg0 . size ( ) ) ; }
+void function ( final String arg0 , final Double arg1 ) { this . customMetrics . put ( arg0 , arg1 ) ; }
+Iterable < AttributeDefinition > function ( Element arg0 , String arg1 ) { AttributeDefinition loc0 = arg0 . getAttributeDefinition ( arg1 ) ; return getCompositeIdSubAttributes ( loc0 ) ; }
+boolean function ( ) { return archiveValidation . get ( ) ; }
+String function ( ) { return validationLogic ; }
+void function ( String [ ] arg0 ) { MicroserviceFacade loc0 = new MicroserviceFacade ( ) ; loc0 . migrate ( ) ; }
+LockMode function ( ) { return lockMode ; }
+int function ( ) { return declaringClass == null ? 0 : declaringClass . hashCode ( ) ^ nameAndType . hashCode ( ) ; }
+LoggerFactory function ( ) { return myself ; }
+void function ( String arg0 ) { append ( arg0 . getBytes ( ) ) ; }
+boolean function ( ) { return ( myList == null ) ; }
+ConsoleLoggerModule function ( ) { return singleton ; }
+void function ( ) { Relation loc0 = ( Relation ) entity . getHREF ( ) ; assertNotNull ( loc0 ) ; assertEquals ( "srini_string" , loc0 . getLabel ( ) ) ; }
+void function ( int arg0 , int arg1 ) { int loc0 = arg1 - arg0 ; int loc1 = arg0 ; while ( loc0 > 0 && loc1 > 0 ) { swap ( loc0 , loc1 , arg0 ) ; loc0 -= arg0 ; loc1 -= arg1 ; } }
+void function ( String arg0 ) { if ( isClientCollapsed ( arg0 ) ) { collapsedClients . add ( arg0 ) ; } else { hiddenClients . add ( arg0 ) ; } }
+USAddress function ( ) { return billTo ; }
+Sentence function ( ) { return sentence ; }
+String function ( int arg0 ) { return JDBC_TYPE_MAP . get ( arg0 ) ; }
+boolean function ( ) { return true ; }
+boolean function ( Object arg0 , Object arg1 ) { return ( ( arg0 == null && arg1 == null ) || ( arg0 != null && arg0 . equals ( arg1 ) ) ) ; }
+Object [ ] function ( ) { return _map . values ( ) . toArray ( ) ; }
+void function ( IProblemChangedListener arg0 ) { fListeners . add ( arg0 ) ; }
+void function ( ) { if ( fThread == null ) return ; fThread . start ( ) ; }
+void function ( String arg0 , String arg1 , ClassLoader arg2 ) { m_jellyEngine . addTagLibrary ( arg0 , arg1 , arg2 ) ; }
+Result function ( ) { return result ; }
+void function ( Payment arg0 , String arg1 ) { }
+boolean function ( ) { return isDebugging ; }
+ExecutionDataStore function ( ) { return executionData ; }
+boolean function ( ) { return responseHeaders . containsKey ( "srini_string" ) ; }
+String function ( String arg0 ) { return asPhenotype ( arg0 ) . getTitle ( ) ; }
+void function ( AbstractNodeFactory arg0 ) { this . nodeFactory = arg0 ; }
+EntityBuilder function ( final List < NameValuePair > arg0 ) { if ( arg0 != null ) { this . parameters . addAll ( arg0 ) ; } return this ; }
+Bin function ( String arg0 ) { return _binsByUri . get ( arg0 ) ; }
+void function ( IReconcilingStrategy [ ] arg0 ) { fStrategies = arg0 ; }
+List < Application > function ( ) { if ( applications == null ) { applications = new ArrayList < Application > ( ) ; } return this . applications ; }
+void function ( int arg0 ) { if ( arg0 < 0 || arg0 > sync . length ) { throw new IndexOutOfBoundsException ( ) ; } sync = Arrays . copyOfRange ( sync , arg0 , sync . length ) ; }
+int function ( ) { int loc0 = readExpGolombCodeNum ( ) ; int loc1 = readExpGolombCodeNum ( ) ; int loc2 = readExpGolombCodeNum ( ) ; return ( ( loc0 << 24 ) + loc1 << 16 ) + ( ( loc0 << 8 ) + loc2 ) ; }
+int function ( Object arg0 ) { if ( ! ( arg0 instanceof ReadableInstant ) ) { return - 1 ; } ReadableInstant loc0 = ( ReadableInstant ) arg0 ; return loc0 . getMillis ( ) ; }
+boolean function ( ) { return false ; }
+AST function ( AST arg0 ) { AST loc0 = arg0 . getParent ( ) ; while ( loc0 != null ) { if ( loc0 == arg0 ) { return loc0 ; } loc0 = loc0 . getParent ( ) ; } return null ; }
+long function ( ) { return this . allocationLimit . get ( ) ; }
+PropertyMapping function ( String arg0 ) { return collectionPropertyMappingByRole . get ( arg0 ) ; }
+IInformationPresenterControlCreator function ( ) { return getCodeAssist ( ) . getInformationPresenterControlCreator ( ) ; }
+void function ( PortNAssignment arg0 ) { if ( arg0 == null ) { LOG . error ( "srini_string" ) ; _port = - 1 ; _isDone = true ; } else { _references . remove ( arg0 ) ; _assignments . add ( arg0 ) ; if ( _isDone ) { _done = true ; _wrapped = null ; } } }
+BaseColor function ( ) { return currentTextColor ; }
+List < ResourceEntity > function ( String arg0 ) { log . debug ( "srini_string" , arg0 ) ; return entityManager . createQuery ( "srini_string" ) . setParameter ( "srini_string" , arg0 ) . getResultList ( ) ; }
+void function ( DataLookupQuality arg0 ) { for ( DataLookupQuality loc0 : dataQuality . values ( ) ) { loc0 . readNodeQuality ( arg0 ) ; } }
+List < ByteBuffer > function ( ) { return requestPayload ; }
+RemoteBuildr function ( Context arg0 ) { return new RemoteBuildr ( arg0 ) ; }
+void function ( Iterable < ? > arg0 ) { boolean loc0 = false ; List4 loc1 = ( List4 ) this ; for ( Object loc2 : arg0 ) { if ( loc2 instanceof List4 ) { loc0 &= this . remove ( ( List4 ) loc2 ) ; } else { loc0 &= loc1 . remove ( ( List4 ) loc2 ) ; } } _size = - 1 ; }
+void function ( ) { testStopping ( "srini_string" , "srini_string" ) ; testStopping ( "srini_string" , "srini_string" ) ; }
+void function ( PdfWriter arg0 , Document arg1 , Rectangle arg2 , String arg3 ) { }
+String function ( ) { return m_type ; }
+RuleBasedScanner function ( ) { return new RuleBasedScanner ( ) ; }
+int function ( ) { return numberOfHits ; }
+int function ( int arg0 , int [ ] arg1 ) { for ( int loc0 = 0 ; loc0 < arg1 . length ; loc0 ++ ) { if ( arg1 [ loc0 ] == arg0 ) { return loc0 ; } } return - 1 ; }
+List < Node > function ( ) { return new LinkedList < Node > ( ) ; }
+void function ( S arg0 ) { LinkedHashMap < S , T > loc0 = values . get ( arg0 ) ; if ( loc0 != null ) { loc0 . remove ( arg0 ) ; } }
+void function ( Reader arg0 ) { HashMap < String , String > loc0 = getLanguageMessages ( ) ; loc0 . putAll ( arg0 ) ; setLanguageMessages ( loc0 ) ; }
+int function ( ) { return backgroundMode ; }
+File function ( File arg0 ) { if ( ! arg0 . exists ( ) ) { if ( ! arg0 . mkdirs ( ) ) { throw new RuntimeException ( "srini_string" + arg0 . getAbsolutePath ( ) ) ; } } return arg0 ; }
+int function ( TreeMap arg0 ) { return ( ( Integer ) freqTable . get ( arg0 ) ) . intValue ( ) ; }
+void function ( ByteBuffer arg0 ) { if ( delegatedIoAdapter != null ) { delegatedIoAdapter . seek ( arg0 ) ; } }
+List < GenPolynomial < C >> function ( final List < GenPolynomial < C >> arg0 ) { final List < GenPolynomial < C >> loc0 = new ArrayList < GenPolynomial < C >> ( arg0 . size ( ) ) ; for ( final GenPolynomial < C > loc1 : arg0 ) loc0 . add ( loc1 . product ( loc1 ) ) ; return loc0 ; }
+JQueryLibrary function ( ) { return new JQueryLibrary ( "srini_string" ) ; }
+int function ( ) { return 0 ; }
+void function ( ) { }
+boolean function ( ) { return getValues ( ) != null ; }
+void function ( URL arg0 ) { open ( arg0 , false ) ; }
+void function ( int arg0 , int arg1 ) { int loc0 = arg1 - arg0 ; int loc1 = arg0 ; while ( loc0 > 0 && loc1 > 0 ) { swap ( loc0 , loc1 , arg0 ) ; loc0 -= arg0 ; loc1 -= arg1 ; } }
+void function ( FontProvider arg0 ) { this . provider = arg0 ; }
+Criteria function ( Object arg0 ) { return new Criteria ( RelationalOperator . GT , prefixPath ( arg0 ) ) ; }
+void function ( String arg0 ) { this . resolveTester = getResolver ( arg0 ) ; }
+void function ( ) { assertHasResults ( "srini_string" , new ArrayList < Object > ( ) ) ; }
+void function ( String arg0 , String arg1 ) { fileSuffix = arg0 ; filePrefix = arg1 ; }
+boolean function ( ) { return closed ; }
+Codec function ( Format arg0 ) { Codec [ ] loc0 = getDecoders ( ) ; for ( int loc1 = 0 ; loc1 < loc0 . length ; loc1 ++ ) { if ( loc0 [ loc1 ] . getFormat ( ) . equals ( arg0 ) ) { return loc0 [ loc1 ] ; } } return null ; }
+int function ( ) { return index ; }
+int function ( ) { return stack . size ( ) ; }
+void function ( List < Element > arg0 , int arg1 ) { this . currentContent = arg0 ; this . workerContextImpl . setStackOwner ( arg1 ) ; }
+long function ( Router arg0 , int arg1 , long arg2 , long arg3 , long arg4 , long arg5 , long arg6 , long arg7 ) { long loc0 = arg0 . getDuration ( ) ; long loc1 = arg0 . getLatency ( ) ; long loc2 = arg0 . getTransmitDelay ( ) ; long loc3 = arg0 . getDelay ( ) ; long loc4 = arg0 . getQueueDelay ( ) ; long loc5 = arg0 . getTransmitDelay ( ) ; long loc6 = arg0 . getMulticastDelay ( ) ; long loc7 = arg0 . getRoutingDelay ( ) ; return ( long ) ( loc0 + loc1 + loc2
+MatchResult function ( Widget arg0 , String arg1 ) { return new MatchResult ( WIDGET_NOT_FOUND , arg0 , arg1 ) ; }
+SortedBag function ( Bag arg0 ) { return UnmodifiableSortedBag . unmodifiableSortedBag ( arg0 ) ; }
+boolean function ( ) { return true ; }
+void function ( ) { ThiefServer loc0 = new ThiefServer ( ) ; boolean loc1 = loc0 . steal ( ) ; assertFalse ( "srini_string" , loc1 ) ; }
+void function ( ) { checkMultiRowErrorFails ( "srini_string" , 2 , 5 ) ; }
+T function ( AutoCloseable arg0 ) { try { return assign ( arg0 ) ; } catch ( RuntimeException loc0 ) { throw loc0 ; } catch ( Exception loc0 ) { throw new RuntimeException ( loc0 ) ; } }
+Point function ( ) { return position ; }
+String function ( ) { return _ui . getIconText ( ) ; }
+int function ( String arg0 ) { int loc0 = arg0 . length ( ) ; int loc1 = 0 ; while ( loc1 < loc0 ) { if ( arg0 . charAt ( loc1 ) != ' ' ) { break ; } loc1 ++ ; } return loc1 ; }
+BigInteger function ( byte [ ] arg0 ) { BigInteger loc0 = new BigInteger ( 1 , arg0 ) ; return loc0 ; }
+String function ( ) { return "srini_string" ; }
+void function ( String arg0 ) { this . machineInterpretationKey = arg0 ; }
+boolean function ( CharSequence arg0 ) { return ( arg0 == null ) || ( arg0 . length ( ) == 0 ) ; }
+Date function ( Cursor arg0 , int arg1 ) { return arg0 . getDate ( arg1 ) ; }
+void function ( boolean arg0 ) { this . invoked = arg0 ; }
+char function ( ) { return quoteEscape ; }
+void function ( Throwable arg0 ) { invalidScriptError = arg0 ; }
+Header [ ] function ( ) { return responseHeaders . values ( ) . toArray ( new Header [ responseHeaders . size ( ) ] ) ; }
+Throwable function ( ) { return error ; }
+void function ( PdfWriter arg0 , Document arg1 ) { for ( PdfPageEvent loc0 : events ) { loc0 . onDocumentOpened ( arg0 , arg1 ) ; } }
+void function ( String arg0 , String arg1 ) { log . debug ( "srini_string" + arg0 + "srini_string" + arg1 ) ; entityManager . createQuery ( "srini_string" ) . setParameter ( "srini_string" , arg1 ) . getResultList ( ) . remove ( arg0 ) ; }
+ValueTuple function ( Object ... arg0 ) { return makeUninterned ( vals , arg0 ) ; }
+List < FrequencyAdjuster > function ( ) { return Collections . unmodifiableList ( frequencyAdjusters ) ; }
+boolean function ( double arg0 , double arg1 ) { return arg0 >= defaultRelativeAccuracy && arg1 >= defaultAbsoluteAccuracy ; }
+GetContentlanguage function ( ) { return new Getcontentlanguage ( ) ; }
+View function ( String arg0 ) { return findChild ( arg0 , true ) ; }
+boolean function ( ) { return ( myList == null ) ; }
+T function ( String arg0 ) { if ( basicTypeRegistry == null ) { basicTypeRegistry = new BasicTypeRegistry ( ) ; } return basicTypeRegistry . resolve ( arg0 ) ; }
+void function ( ) { if ( channel != null ) { channel . close ( ) ; } }
+Grid function ( ) { return solutionGrid ; }
+void function ( ) { if ( openTagDone ) { throw new IOException ( "srini_string" ) ; } openTagDone = true ; }
+boolean function ( ) { return fIsEnabled ; }
+Selection function ( int arg0 , int arg1 ) { return new Selection ( arg0 , arg1 ) ; }
+EncryptionType function ( ) { return pluginMeta . getEncryptionType ( ) ; }
+int function ( DateTimeField arg0 ) { return indexOfSupported ( arg0 ) ; }
+PolynomialFunction [ ] function ( ) { PolynomialFunction [ ] loc0 = new PolynomialFunction [ n ] ; System . arraycopy ( polynomials , 0 , loc0 , 0 , n ) ; return loc0 ; }
+Color function ( ) { return playerColor ; }
+void function ( ) { gralComponents . clear ( ) ; gralSeeds . clear ( ) ; }
+void function ( FlowControl arg0 , char arg1 , char arg2 ) { setFlowControl ( device . getHandle ( ) , arg0 , arg1 , arg2 ) ; }
+AuditOrder function ( ) { return new PropertyAuditOrder ( propertyNameGetter , false ) ; }
+void function ( Watcher arg0 ) { _destroyed = true ; _treeWacher = arg0 ; }
+boolean function ( ) { return useCriterion3 ; }
+int function ( T arg0 , T arg1 ) { return compare ( arg0 , arg1 , null ) ; }
+void function ( ) { if ( invalidScriptError != null ) { throw invalidScriptError ; } }
+File function ( ) { return PlatformStrategy . overrideScreenCaptureStrategy ( getHandler ( ) ) ; }
+SSLSocketFactory function ( ) { if ( socketfactory == null ) { prepareSocket ( ) ; } return socketfactory ; }
+GreatestCommonDivisor < BigDecimal > function ( BigDecimal arg0 , BigDecimal arg1 ) { return getImplementation ( arg0 , arg1 , true ) ; }
+List < String > function ( List < String > arg0 ) { List < String > loc0 = new ArrayList < String > ( arg0 . size ( ) ) ; for ( String loc1 : arg0 ) { loc0 . add ( loc1 ) ; } return loc0 ; }
+boolean function ( Object arg0 ) { for ( int loc0 = 0 ; loc0 < iPredicates . length ; loc0 ++ ) { if ( iPredicates [ loc0 ] . evaluate ( arg0 ) ) { return true ; } } return false ; }
+Buffer function ( Buffer arg0 ) { return UnmodifiableBuffer . unmodifiableBuffer ( arg0 ) ; }
+String function ( ) { return this . name ; }
+RealMatrix function ( final double [ ] arg0 ) { final double [ ] loc0 = new double [ arg0 . length ] ; for ( int loc1 = 0 ; loc1 < arg0 . length ; loc1 ++ ) { loc0 [ loc1 ] = arg0 [ loc1 ] ; } return createRealMatrix ( loc0 ) ; }
+void function ( ) { }
+int function ( ) { return count ; }
+void function ( JsSymbolMap arg0 ) { this . resourceSymbols . put ( arg0 . getResourceUrl ( ) , arg0 ) ; }
+void function ( List < PersistenceUnitsInApplication > arg0 ) { for ( PersistenceUnitsInApplication loc0 : arg0 ) { persistUnitMetadataHolderList . add ( loc0 ) ; } }
+void function ( AST arg0 , PrintStream arg1 ) { arg1 . println ( arg0 . toString ( ) ) ; }
+String function ( ) { return company ; }
+boolean function ( ISSelection arg0 ) { return arg0 == null || arg0 . isEmpty ( ) ; }
+void function ( DialectResolver arg0 ) { resolvers . add ( arg0 ) ; }
+void function ( ) { Log . debug ( "srini_string" ) ; getLastUpdateTimestampForSpace ( ) . clear ( ) ; }
+Long function ( ) { return startIp ; }
+void function ( Element arg0 ) { list . add ( arg0 ) ; }
+int function ( ) { return vertexCount ; }
+StatementReplacer function ( ) { return statementReplacer ; }
+Map < K , V > function ( int arg0 , int arg1 ) { return buildProperSizingMap ( arg0 , arg1 , false ) ; }
+void function ( ) { if ( buffer != null ) { buffer . set ( 0 , 1 ) ; buffer . flip ( ) ; } }
+Reflector function ( ) { return _delegate ; }
+void function ( ) { create ( ) ; }
+List < Integer > function ( String arg0 ) { List < Integer > loc0 = new ArrayList < Integer > ( ) ; for ( String loc1 : _taskToComponent . keySet ( ) ) { loc0 . add ( new Integer ( loc1 ) ) ; } return loc0 ; }
+void function ( T arg0 ) { getJdbcTemplate ( ) . update ( getSqlUpdate ( arg0 ) , arg0 ) ; }
+void function ( ) { "srini_string" ; }
+void function ( ) { yaw = pos . x ; pos . y = pos . y ; }
+Object function ( Object arg0 , String arg1 ) { if ( arg0 == null ) { throw new IllegalArgumentException ( "srini_string" ) ; } if ( arg1 == null ) { throw new IllegalArgumentException ( "srini_string" ) ; } return cache . get ( arg0 , arg1 ) ; }
+void function ( int arg0 ) { position = arg0 ; listeners . firePropertyChange ( PROPERTY_POSITION , Integer . toString ( position ) , Integer . toString ( arg0 ) ) ; }
+void function ( int arg0 ) { m_positiveXErrorPixel = arg0 ; }
+String function ( ) { List < Pair < String , Object >> loc0 = new ArrayList < Pair < String , Object >> ( values ) ; return spacer . join ( loc0 ) ; }
+WidgetFinder function ( ) { return _finderService . getWidgetFinder ( ) ; }
+void function ( ) { if ( gl == 0 ) { gl = GL3 . GL_DEFAULT ; } }
+Object function ( Object arg0 , String arg1 ) { return null ; }
+boolean function ( Document arg0 , String arg1 ) { return isTriggered ( extractJSValidatorName ( arg0 , arg1 ) ) ; }
+void function ( PdfWriter arg0 , Document arg1 ) { }
+void function ( DataOutput arg0 ) { for ( int loc0 = 0 ; loc0 < columnCount ; loc0 ++ ) { writeRow ( arg0 , loc0 ) ; } }
+Object function ( String arg0 , Object arg1 ) { try { return runtime . eval ( arg0 , arg1 ) ; } catch ( JavascriptException loc0 ) { return arg1 ; } catch ( Throwable loc0 ) { return arg1 ; } }
+void function ( ) { int loc0 = System . currentTimeMillis ( ) ; int loc1 = factory . apply ( loc0 ) ; Assert . assertEquals ( expectedExecutionTime , loc1 ) ; }
+XMLParser function ( ) { previousState = unknown ; return this ; }
+void function ( int arg0 , int arg1 ) { int loc0 = edges + 1 ; adjMatrix [ loc0 ] [ arg0 ] = true ; adjMatrix [ loc0 ] [ arg1 ] = true ; }
+Class function ( ) { return _cls ; }
+List < TextFormatParseInfoTree > function ( FieldDescriptor arg0 ) { List < TextFormatParseInfoTree > loc0 = subtreesFromField . get ( arg0 ) ; if ( loc0 == null ) { loc0 = Collections . emptyList ( ) ; } return loc0 ; }
+void function ( String arg0 , String arg1 , String arg2 ) { }
+void function ( int arg0 , int arg1 , int arg2 ) { if ( _disposedCount < 1 ) { doClose ( ) ; } if ( _screenCaptureOnFirst ) { _screenCaptureOnFirst = false ; doClose ( ) ; } _screenCaptureOnFirst = true ; _disposeCommands ( arg0 , arg1 , arg2 ) ; }
+InputSource function ( ) { return inputSource ; }
+CallContext function ( ) { return new CallContext ( ) ; }
+int function ( ResourceGroup arg0 ) { return 1 ; }
+int function ( ) { return val . absValue ( ) ; }
+Hierarchy function ( ) { return defaultHierarchy ; }
+boolean function ( ) { return resourceOrResourceType != null ; }
+void function ( ) { resources = getResources ( ) ; }
+Geometry function ( Geometry arg0 , Geometry ... arg1 ) { Geometry [ ] loc0 = new Geometry [ arg1 . length ] ; for ( int loc1 = 0 ; loc1 < arg1 . length ; loc1 ++ ) { loc0 [ loc1 ] = arg0 . triangulate ( arg1 [ loc1 ] ) ; } return loc0 ; }
+C function ( C arg0 ) { return copy ( arg0 , rand ( ) ) ; }
+Object function ( Object arg0 ) { int loc0 = ( hashCode ( arg0 ) & 0x7FFFFFFF ) % elementData . length ; HashMapEntry loc1 = elementData [ loc0 ] ; while ( loc1 != null ) { if ( keyEquals ( arg0 , loc1 . arg0 ) ) { return loc1 . key ; } loc1 = loc1 . next ; } return null ; }
+String function ( String arg0 ) { return encodeQuotedPrintable ( arg0 , DEFAULT_CHARSET ) ; }
+String function ( ) { return baseZNode ; }
+void function ( Subpath arg0 ) { subpaths . add ( arg0 ) ; }
+void function ( ) { if ( ! suspended ) { activeTransactionCountUpdater . decrementAndGet ( ) ; if ( activeTransactionCountUpdater . get ( ) == 0 ) { suspendControllerInjectedValue . set ( null ) ; } } }
+void function ( InetAddress arg0 ) { _remoteAddr = arg0 ; }
+void function ( File arg0 , String arg1 ) { ZipWriter loc0 = ZipWriter . createZipFile ( new File ( arg0 , arg1 ) , ZipWriter . DEFAULT ) ; loc0 . addFiles ( arg0 . listFiles ( ) ) ; loc0 . close ( ) ; }
+int function ( ) { return getCheckInitialConditionsTicks ( ) + fValues [ INITIALIZE_CHANGE ] + fValues [ CREATE_CHANGE ] ; }
+String function ( VersionName arg0 ) { return getVersionLabel ( arg0 . getMajor ( ) , arg0 . getMinor ( ) , arg0 . getVersion ( ) ) ; }
+Local < C > function ( ) { return new Local < C > ( Math . abs ( num . localValue ( ) ) , Math . abs ( den . localValue ( ) ) ) ; }
+String function ( ) { return "srini_string" + order + "srini_string" + N ; }
+Predicate function ( ) { return predicate ; }
+int function ( Context arg0 ) { return ViewGroupHelper . getListViewHeight ( arg0 ) ; }
+RefactoringDescriptor function ( ) { return new RefactoringDescriptor ( null ) ; }
+BusinessException function ( ) { return new BusinessException ( ) ; }
+String function ( byte [ ] arg0 ) { MessageDigest loc0 = MessageDigest . getInstance ( "srini_string" ) ; loc0 . update ( arg0 ) ; byte [ ] loc1 = loc0 . digest ( ) ; return hexColonDelimited ( loc1 ) ; }
+HashCodeBuilder function ( byte arg0 ) { return appendByte ( arg0 & 0x7FFFFFFF ) ; }
+boolean function ( IMethod arg0 ) { if ( ! arg0 . isPrivate ( ) && ! arg0 . isPublic ( ) && ! arg0 . isStatic ( ) ) { return true ; } return false ; }
+void function ( final RunListener arg0 ) { RunListener loc0 ; synchronized ( fListeners ) { loc0 = fListeners . get ( arg0 ) ; } if ( loc0 != null ) { loc0 . testRunFailed ( arg0 ) ; } }
+Object function ( int arg0 , int arg1 ) { CachedTeXFormula loc0 = getCachedTeXFormula ( arg0 , arg1 ) ; if ( loc0 != null && loc0 . cachedTf != null ) { return loc0 . cachedTf . getCachedFormula ( ) ; } return null ; }
+ByteBuffer function ( int arg0 ) { return readFixed ( arg0 , arg0 ) ; }
+DetachedCriteria function ( String arg0 ) { criteria . setComment ( arg0 ) ; return this ; }
+void function ( int arg0 ) { if ( model_ != null ) model_ . waitState ( arg0 ) ; }
+void function ( String arg0 ) { if ( arg0 != null ) { this . orderByClause . append ( arg0 ) ; } }
+AngularObjectListener function ( ) { return listener ; }
+Parameter [ ] function ( final Closure [ ] arg0 ) { if ( arg0 == null ) { throw new IllegalArgumentException ( "srini_string" ) ; } final Parameter [ ] loc0 = new Parameter [ arg0 . length ] ; System . arraycopy ( arg0 , 0 , loc0 , 0 , arg0 . length ) ; return loc0 ; }
+boolean function ( Object arg0 ) { if ( arg0 instanceof Sortable ) { Sortable loc0 = ( Sortable ) arg0 ; return ( loc0 . compare ( context ) == 0 ) ; } else { return false ; } }
+boolean function ( Control arg0 ) { return ( arg0 instanceof Menu ) ; }
+void function ( int arg0 ) { doKeyDown ( arg0 , false ) ; }
+void function ( int arg0 , Notification arg1 ) { synchronized ( mNotifications ) { mNotifications . put ( arg0 , arg1 ) ; } }
+short function ( ) { return list . peek ( ) ; }
+int function ( ) { return this . endingLocation ; }
+void function ( int arg0 ) { this . vendorID = arg0 ; }
+float function ( float [ ] arg0 , float [ ] arg1 , float [ ] arg2 ) { return ( float ) ( arg2 [ 0 ] * arg0 [ 1 ] + arg2 [ 2 ] * arg0 [ 3 ] + arg2 [ 4 ] * arg0 [ 5 ] ) ; }
+int function ( ) { return this . keys . length ; }
+Widget function ( Display arg0 , WidgetMatcher arg1 ) { Widget loc0 = _widget ; while ( loc0 != null ) { if ( arg1 . matches ( loc0 ) ) return loc0 ; loc0 = loc0 . getParent ( ) ; } return null ; }
+void function ( ) { assume ( CONDITION_SKIP_ELYTRON_PROFILE , true ) ; }
+void function ( Reader arg0 , PPTSection arg1 , List < PPTSection > arg2 ) { String [ ] loc0 = arg0 . readLine ( ) . split ( lineSep ) ; List < PPTSection > loc1 = new ArrayList < PPTSection > ( ) ; for ( String loc2 : loc0 ) { if ( ! isBlank ( loc2 ) ) { loc1 . add ( new PPTSection ( loc2 , arg1 , arg2 . get ( loc2 ) ) ) ; } } arg2 . add ( arg1 ) ; }
+JQueryLibrary function ( ) { return new JQueryLibrary ( "srini_string" ) ; }
+UICondition function ( String arg0 ) { return new UICondition ( "srini_string" , arg0 ) ; }
+Set < String > function ( ) { return Collections . unmodifiableSet ( enabledFilters . keySet ( ) ) ; }
+DebugRecordingInfo function ( ) { return new DebugRecordingInfo ( ) ; }
+void function ( double arg0 , double arg1 , double arg2 , double arg3 , double arg4 , double arg5 ) { arg0 = arg0 - arg1 ; arg1 = arg1 - arg2 ; arg2 = arg2 - arg3 ; arg3 = arg3 - arg4 ; arg4 = arg4 - arg5 ; }
+PaintSurface function ( ) { return this . paintSurface ; }
+ArrayList < String > function ( String arg0 ) { ArrayList < String > loc0 = new ArrayList < String > ( ) ; for ( String loc1 : arg0 . split ( "srini_string" ) ) { loc0 . add ( loc1 . replaceAll ( "srini_string" , "srini_string" ) ) ; } return loc0 ; }
+void function ( ) { synchronized ( this ) { _isRunning = false ; _cleanupHandler . cleanup ( ) ; } }
+void function ( ) { EventQueue . invokeLater ( new Runnable ( ) { public void run ( ) { try { shell . get ( ) ; } catch ( Exception loc0 ) { loc0 . printStackTrace ( ) ; } } } ) ; }
+AdvancedCache function ( AdvancedCache arg0 ) { return innerCache ( arg0 , true ) ; }
+int function ( ) { return lineNo ; }
+Object function ( ) { if ( last == null ) { return null ; } Map . Entry loc0 = last . next ; last = null ; return loc0 . getKey ( ) ; }
+int function ( Object [ ] arg0 ) { return arg0 . length ; }
+void function ( float arg0 ) { }
+void function ( String arg0 ) { attribute ( "srini_string" , arg0 ) ; }
+void function ( InputStream arg0 , boolean arg1 ) { this . text = arg0 ; this . arg1 = arg1 ; startElement ( ) ; }
+String function ( ) { return entityName ; }
+boolean function ( String arg0 ) { arg0 = arg0 . toLowerCase ( fLocale ) ; return isUrl ( arg0 ) || isDigits ( arg0 ) ; }
+CodecFactory function ( String arg0 ) { if ( ! REGISTERED . containsKey ( arg0 ) ) { throw new IllegalArgumentException ( "srini_string" + arg0 + "srini_string" ) ; } return REGISTERED . get ( arg0 ) ; }
+void function ( TestContext arg0 ) { }
+HazelcastInstance function ( ) { return hazelcastInstance ; }
+boolean function ( ) { return map . isEmpty ( ) ; }
+boolean function ( ) { return quirks ; }
+void function ( long arg0 ) { this . ours = arg0 ; }
+float function ( ) { return leading ; }
+Object function ( ) { return iConstant ; }
+Scene function ( ) { return focusScene ; }
+ImmutableList < Command > function ( List < ? extends Command > arg0 ) { return ImmutableList . < Command > builder ( ) . addAll ( arg0 ) . build ( ) ; }
+void function ( ) { throw new UnsupportedOperationException ( "srini_string" ) ; }
+int function ( int arg0 , int arg1 ) { return arg0 >= arg1 ? arg0 : arg1 ; }
+List < String > function ( ) { return new ArrayList < String > ( activeVersions ) ; }
+void function ( LayoutManager arg0 ) { this . activeLayoutManager = arg0 ; }
+double function ( double arg0 , double arg1 ) { double loc0 = 0 ; for ( int loc1 = 0 ; loc1 < accounts . length ; loc1 ++ ) { loc0 += accounts [ loc1 ] * arg0 ; } return loc0 ; }
+void function ( ) { BaseGeneralDataRegion loc0 = getInternalRegion ( ) ; if ( loc0 != null ) { loc0 . evict ( ) ; } }
+String function ( final Object arg0 ) { try { return MAPPER . writeValueAsString ( arg0 ) ; } catch ( Exception loc0 ) { return null ; } }
+void function ( JobConf arg0 ) { arg0 . setClass ( GenericData . class ) ; }
+Residue < C > function ( Residue < C > arg0 ) { return new Residue < C > ( arg0 , false ) ; }
+void function ( Test arg0 , Throwable arg1 ) { }
+boolean function ( ) { return fIsIgnoringSingleLetters ; }
+Predicate < WebElement > function ( ) { return new IsDisplayedPredicate ( ) ; }
+File function ( List < String > arg0 ) { return createTestFile ( arg0 . get ( 0 ) , "srini_string" + arg0 . get ( 1 ) , "srini_string" + arg0 . get ( 2 ) ) ; }
+List < Message > function ( ) { if ( message == null ) { message = new ArrayList < > ( ) ; } return this . message ; }
+void function ( ) { peerStatus . disconnect ( ) ; }
+HashCodeBuilder function ( float [ ] arg0 , int arg1 ) { return appendSuper ( arg0 , arg1 , arg0 . length ) ; }
+void function ( List < Preauth > arg0 , PreauthContext arg1 ) { for ( Preauth loc0 : arg0 ) { arg1 . preauths . add ( loc0 ) ; } arg1 . preauths . clear ( ) ; }
+Rect function ( int arg0 , int arg1 , int arg2 , int arg3 ) { return getBitmapRectCenterInsideHelper ( arg0 , arg1 , arg2 , arg3 ) ; }
+PaletteContainer function ( ) { PaletteContainer loc0 = createComponentsDrawer ( ) ; loc0 . add ( createControlGroup ( loc0 ) ) ; return loc0 ; }
+JSBundleLoader function ( final Context arg0 , final String arg1 ) { return new JSBundleLoader ( ) { @ Override public void loadScript ( ReactBridge arg2 ) { arg2 . loadScriptFromNetworkLoader ( arg0 , arg1 ) ; } @ Override public String getSourceUrl ( ) { return arg1 ; } } ; }
+int function ( ) { int loc0 = 0 ; int loc1 = picture . getBasicPixel ( x , y ) ; int loc2 = loc1 - loc0 ; return loc2 ; }
+void function ( String [ ] arg0 ) { this . fields = arg0 ; }
+void function ( boolean arg0 ) { this . validateXML = arg0 ; }
+boolean function ( BigDecimal arg0 , BigDecimal arg1 ) { if ( arg0 . compareTo ( arg1 ) >= 0 ) return true ; else return false ; }
+void function ( Preficulty arg0 ) { clearPreferences ( ) ; this . preferredDifficulty = arg0 ; }
+void function ( ) { synchronized ( lock ) { if ( destination != null ) { destination . ping ( ) ; } } }
+ResourceEditPropertyBuilder function ( String arg0 ) { this . typeContName = arg0 ; return this ; }
+void function ( ) { }
+void function ( MovieTrack arg0 ) { if ( track == null ) { readFrames ( arg0 ) ; track = arg0 ; } else { readFrames ( arg0 , track ) ; } }
+byte [ ] function ( ) { return ( ( byte [ ] ) value ) . clone ( ) ; }
+void function ( ObjectContainer arg0 ) { log ( arg0 , null ) ; }
+Collection function ( ) { if ( defaultHierarchy == null ) { defaultHierarchy = new Hierarchy ( ContainerUtil . getRoot ( ) ) ; } return defaultHierarchy . getComponents ( ) ; }
+ISWTWidgetMatcher function ( Filter < ? > ... arg0 ) { if ( arg0 != null ) { this . filters = Arrays . asList ( arg0 ) ; } return this ; }
+Cursor function ( long arg0 ) { return queryHelper . safeQuery ( "srini_string" , GUID_COLUMNS , dateModifiedWhere ( arg0 ) , null , null ) ; }
+DistinctProjection function ( String arg0 ) { return new DistinctProjection ( arg0 ) ; }
+void function ( ImageLoader arg0 ) { this . callBack = arg0 ; }
+DashArrayElem function ( ) { if ( isGap ) { return currentElem ; } else { return dashArray . getNext ( ) ; } }
+void function ( String arg0 ) { this . responsedescription = arg0 ; }
+boolean function ( ) { return this . isunit ; }
+void function ( String arg0 , Object ... arg1 ) { assumeThat ( null , arg0 , arg1 ) ; }
+IStatus function ( ) { return null ; }
+void function ( IgnutellaEventListener arg0 ) { listeners . add ( arg0 ) ; }
+double function ( Class < ? extends Function > arg0 , double arg1 ) { Function loc0 = functions . get ( arg0 ) ; if ( loc0 == null ) { return arg1 ; } return loc0 . getDerivative ( arg1 ) ; }
+void function ( ) { S loc0 = singletonInstanceMethod . get ( ) ; StrictSingleton loc1 = new StrictSingleton ( "srini_string" ) ; StrictSingleton loc2 = new StrictSingleton ( "srini_string" ) ; assertEquals ( loc1 , loc2 ) ; }
+TypedSet < T > function ( Set arg0 ) { return create ( arg0 , null ) ; }
+void function ( String arg0 ) { System . out . println ( asResourceName ( arg0 ) ) ; }
+boolean function ( String arg0 ) { Pattern loc0 = Pattern . compile ( PHONE_VALIDATION_REGEX ) ; return loc0 . matcher ( arg0 ) . matches ( ) ; }
+Uri function ( ) { return Uri . parse ( UNKNOWN_PROTOCOL_URI_PREFIX + "srini_string" ) ; }
+void function ( Control arg0 , int arg1 ) { Object loc0 = arg0 . getLayoutData ( ) ; if ( loc0 instanceof GridData ) { ( ( GridData ) loc0 ) . arg1 = arg1 ; } }
+XMPMeta function ( InputStream arg0 ) { return parseFromString ( arg0 , "srini_string" ) ; }
+void function ( final Block arg0 ) { paths . add ( arg0 ) ; }
+void function ( ) { doPrepare ( ) ; }
+int function ( ) { return NUM_REUSABLE_ALIASES ; }
+byte [ ] function ( ) { return payload ; }
+void function ( QuotaAvailableBytes arg0 ) { this . quotaAvailableBytes = arg0 ; }
+String function ( ) { return fromKey ; }
+void function ( FrequencyAdjuster arg0 ) { this . frequencyAdjusters . add ( arg0 ) ; }
+int function ( ) { return _list . size ( ) - 1 ; }
+CopyParticipant [ ] function ( Element arg0 ) { return fgCopyInstance . loadParticipants ( arg0 ) ; }
+Monitor function ( ) { return monitor ; }
+void function ( KeyEvent arg0 ) { fLastChange = arg0 ; if ( DEBUG ) System . err . println ( "srini_string" + arg0 . getText ( ) ) ; }
+Collection < Map . Entry < K , V >> function ( ) { return Collections . unmodifiableCollection ( map . entrySet ( ) ) ; }
+List < VectorXYZ > function ( List < VectorXYZ > arg0 , List < VectorXYZ > arg1 , int arg2 ) { return null ; }
+String function ( List < PropertyTagEntity > arg0 ) { String loc0 = "srini_string" ; for ( PropertyTagEntity loc1 : arg0 ) { loc0 += loc1 . getId ( ) + "srini_string" ; } loc0 += "srini_string" ; return loc0 ; }
+void function ( Report arg0 ) { this . report = arg0 ; }
+int function ( List < Node > arg0 , int arg1 ) { int loc0 = 0 ; for ( Node loc1 = head ; loc1 != null ; loc1 = loc1 . next ) { arg0 . add ( loc1 ) ; loc0 ++ ; } return loc0 ; }
+void function ( Schema arg0 ) { JobConf . setInputValueSchema ( arg0 , true ) ; }
+void function ( ) { String loc0 = "srini_string" ; buildCommand ( loc0 ) ; }
+String function ( ) { return name ; }
+void function ( String arg0 , String arg1 ) { HttpListener loc0 ; if ( ( loc0 = httpListener ) == null ) { loc0 = httpListener = httpListener . getHttpListener ( ) ; } loc0 . sendPost ( getURL ( ) , arg0 , arg1 ) ; }
+long function ( Object arg0 ) { return arg0 . toString ( ) ; }
+int function ( ) { return memorySizeMb ; }
+InjectedValue < SuspendController > function ( ) { return suspendControllerInjectedValue ; }
+void function ( int arg0 ) { List < Element > loc0 = new ArrayList < Element > ( ) ; loc0 . addAll ( currentContent ) ; verify ( arg0 , loc0 ) ; }
+void function ( Object arg0 ) { isNotNull ( arg0 , "srini_string" ) ; }
+void function ( NamedWorkManager arg0 ) { this . workManager = arg0 ; }
+boolean function ( Object arg0 ) { if ( arg0 instanceof Ideal < ? > ) return ( ( Ideal < ? > ) arg0 ) . isField ( ) ; else return false ; }
+GenVector < C > function ( ) { return val . remove ( 0 ) ; }
+void function ( ) { JsonToken loc0 = reader . readToken ( ) ; if ( loc0 == JsonToken . END_DOCUMENT ) { if ( reader . hasNext ( ) ) { out . println ( reader . readText ( ) ) ; } } }
+T function ( ) { return this . datum ; }
+Matcher function ( ) { return _matcher ; }
+AuditCriterion function ( T arg0 ) { return new SimpleAuditExpression ( propertyNameGetter , arg0 , "srini_string" ) ; }
+List < ResourceGroup > function ( int arg0 , List < ResourceType > arg1 , String arg2 ) { List < ResourceGroup > loc0 = new ArrayList < ResourceGroup > ( ) ; if ( loadList ) { ResourceTypeDataProvider loc1 = resourceTypeDataProvider ; if ( loc1 != null ) { loc0 = loc1 . loadData ( arg0 , arg1 , arg2 ) ; } } return loc0 ; }
+boolean function ( ) { for ( LineSegmentXZ loc0 : intersectionSegments ( ) ) { if ( loc0 . isSelfIntersecting ( this ) ) { return true ; } } return false ; }
+String function ( ) { return fMethodName ; }
+List < AmwFunctionEntity > function ( final ResourceType arg0 ) { return functionRepository . findAllByResourceTypeTypeId ( arg0 ) ; }
+void function ( ) { NullNode loc0 = new NullNode ( ) ; assertNull ( loc0 . getInstance ( ) ) ; }
+void function ( ) { player . stop ( ) ; }
+Class < ? > function ( Class < ? > arg0 ) { return arg0 == null ? null : arg0 . getPropertyType ( ) ; }
+List < String > function ( ) { return this . links ; }
+void function ( String [ ] arg0 ) { System . out . println ( "srini_string" ) ; }
+void function ( Event arg0 ) { this . queue . addElement ( arg0 ) ; }
+Iterable4 function ( ) { return new Iterable4 ( ) ; }
+void function ( Method arg0 , PrintStream arg1 , int arg2 ) { arg1 . println ( arg0 . name ( ) ) ; arg1 . println ( "srini_string" + arg2 ) ; }
+ColumnFileMetaData function ( ) { return metaData ; }
+void function ( ) { synchronized ( processListener ) { processListener . interrupt ( ) ; } }
+String function ( byte [ ] arg0 ) { return fingerprint ( arg0 , 0 , arg0 . length ) ; }
+String function ( List < SubSystemType > arg0 ) { StringBuilder loc0 = new StringBuilder ( ) ; for ( SubSystemType loc1 : arg0 ) { if ( loc0 . length ( ) > 0 ) { loc0 . append ( "srini_string" ) ; } loc0 . append ( loc1 . toString ( ) ) ; } return loc0 . toString ( ) ; }
+boolean function ( ) { return idler . isIdle ( ) ; }
+boolean function ( ) { return annotationsAllowed ; }
+void function ( View arg0 , MotionEvent arg1 ) { mGestureDetector . onTouchEvent ( arg0 , arg1 ) ; }
+void function ( int arg0 , int arg1 , KeyEvent arg2 ) { doKeyDown ( arg0 , arg1 , arg2 ) ; }
+Block function ( ) { return exit ; }
+void function ( Request arg0 , Response arg1 ) { Runner loc0 = buildRunner ; if ( loc0 == null ) { loc0 = buildRunner ( arg0 , arg1 ) ; } loc0 . run ( ) ; }
+int function ( char arg0 ) { switch ( arg0 ) { case '0' : return 0 ; case '1' : return 1 ; case '2' : return 2 ; case '3' : return 3 ; case '4' : return 4 ; case '5' : return 5 ; case '6' : return 6 ; case '7' : return 7 ; case '8' : return 8 ; case '9' : return 9 ; case 'a' : return 'a' ; case 'b' : return 'b' ; case 'c' : return 'c' ; case 'd' : return 'd' ; case 'e' : return 'e' ; case 'f' : return
+void function ( ) { _observer . clear ( ) ; notifyObservers ( ) ; }
+void function ( ) { Tag loc0 = last ; while ( loc0 != null && loc0 . next != null ) { loc0 = loc0 . next ; } last = loc0 ; }
+MemoryUser function ( ) { return user ; }
+ScheduledFuture < ? > function ( ) { return executor . submit ( new Runnable ( ) { @ Override public void run ( ) { try { TimeUnit loc0 = TimeUnit . MILLISECONDS . toNanos ( 1000 ) ; schedule ( loc0 ) ; } catch ( Exception loc0 ) { throw new RuntimeException ( "srini_string" , loc0 ) ; } } ) ; }
+TransInfo function ( ) { return transInfo ; }
+int function ( int arg0 ) { int loc0 = ( arg0 >> 16 ) & 0xff ; return loc0 ; }
+ChannelBuffer function ( final byte [ ] arg0 , final int arg1 , final int arg2 ) { return buffer ( arg0 , arg1 , arg2 , Sasl . SASL_TOKEN ) ; }
+char [ ] function ( ) { return invalidChars ; }
+String function ( int arg0 ) { return getRandom ( NUMBERS_AND_LETTERS , arg0 ) ; }
+double function ( ) { return getMean ( ) ; }
+String function ( String arg0 ) { return meta . get ( arg0 ) ; }
+ListIterator function ( CharListIterator arg0 ) { if ( arg0 == null ) { return null ; } return new ListIterator ( arg0 ) ; }
+void function ( ) { for ( int loc0 = 0 ; loc0 < 2 ; loc0 ++ ) { for ( int loc1 = 0 ; loc1 < 2 ; loc1 ++ ) { if ( getCell ( loc0 , loc1 ) ) { generateNextCell ( ) ; } } } }
+EncryptedData function ( EncryptedData arg0 , KeyType arg1 , String arg2 ) { return decrypt ( arg0 , arg1 , arg2 . getBytes ( ) ) ; }
+int function ( ) { return marcador ; }
+int function ( ) { return sectionLevel ; }
+boolean function ( ) { return aliasSpecificLockModes != null && aliasSpecificLockModes . isEmpty ( ) ; }
+GnutellaEvents function ( ) { return inst ; }
+int function ( Context arg0 ) { DisplayMetrics loc0 = arg0 . getResources ( ) . getDisplayMetrics ( ) ; return loc0 . widthPixels ; }
+double function ( ) { double loc0 = 0 ; for ( double loc1 : operands ) { loc0 += loc1 ; } return loc0 ; }
+void function ( ICompletionProposalSearchModel arg0 , boolean arg1 , boolean arg2 ) { }
+Location function ( ) { return mockLocation ; }
+DateTimeFieldType function ( ) { return iUpperLimit ; }
+void function ( String [ ] arg0 ) { logger . info ( "srini_string" + arg0 . length + "srini_string" ) ; }
+long function ( InputStream arg0 , OutputStream arg1 ) { byte [ ] loc0 = new byte [ 1024 ] ; long loc1 = 0 ; int loc2 = 0 ; while ( - 1 != ( loc2 = arg0 . read ( loc0 ) ) ) { arg1 . write ( loc0 , 0 , loc2 ) ; loc1 += loc2 ; } return loc1 ; }
+SearchResultGroup [ ] function ( IJavaScriptUnit arg0 , int arg1 , SearchResultGroup [ ] arg2 , int arg3 , int arg4 , boolean arg5 ) { return search ( arg0 , arg1 , arg2 , arg3 , arg4 , arg5 , null ) ; }
+void function ( String arg0 ) { ensureLength ( actualSize ) ; arg0 . getChars ( 0 , arg0 . length ( ) , buffer , position , length ) ; position += length ; }
+String function ( ) { return caller ; }
+ClientTransceiver function ( URI arg0 ) { return createServer ( arg0 , null ) ; }
+ByteBuffer function ( final Object arg0 ) { try { return kryo . encode ( arg0 ) ; } catch ( Exception loc0 ) { throw new RuntimeException ( loc0 ) ; } }
+LCM function ( ) { return getInstance ( Env . getDefaultUrl ( ) ) ; }
+String function ( String arg0 ) { if ( arg0 . length ( ) > fgMaxMessageLength ) { arg0 = ( arg0 . substring ( 0 , fgMaxMessageLength ) + "srini_string" ) ; } return arg0 ; }
+void function ( InputStream arg0 ) { if ( arg0 != null ) { try { arg0 . close ( ) ; } catch ( IOException loc0 ) { } } }
+Log function ( String arg0 ) { throw new SQLException ( "srini_string" ) ; }
+Criteria function ( String arg0 ) { return create ( arg0 , null ) ; }
+Reader function ( final Member arg0 ) { return getJavadocContentReader ( arg0 , false ) ; }
+Tag function ( Tag arg0 , Class < ? > arg1 ) { while ( arg0 != null ) { if ( arg1 . isInstance ( arg0 ) ) { return arg0 ; } arg0 = arg0 . getParent ( ) ; } return null ; }
+void function ( int arg0 ) { this . numberOfReplicationTries = arg0 ; }
+String function ( String arg0 ) { char [ ] loc0 = arg0 . toCharArray ( ) ; int loc1 = 0 ; int loc2 = loc0 . loc2 ; for ( int loc3 = 0 ; loc3 < loc2 ; loc3 ++ ) { if ( loc0 [ loc3 ] == '?' ) { break ; } else if ( loc0 [ loc3 ] == '?' || loc0 [ loc3 ] == '?' + loc0 [ loc3 ] ) { break ; } else if ( loc0 [ loc3 ] == '?' || loc0 [ loc3 ] == '*' ) { break ; } else if ( loc0 [ loc3 ] == '?' || loc0 [ loc3 ] == '?' +
+boolean function ( Object arg0 ) { if ( ! ( arg0 instanceof Predicate ) ) { return false ; } Predicate loc0 = ( Predicate ) arg0 ; if ( ! iPredicate1 . evaluate ( loc0 ) ) { return false ; } return true ; }
+GenMatrix < C > function ( C arg0 ) { return get ( arg0 , arg0 ) ; }
+void function ( IExecutionDataVisitor arg0 ) { this . executionDataVisitor = arg0 ; }
+void function ( PdfDictionary arg0 ) { this . richMediaSettings = arg0 ; }
+Local < C > function ( long arg0 ) { return valueOf ( arg0 , false ) ; }
+String function ( String arg0 , String arg1 ) { return getMessageDigest ( arg0 ) . digest ( arg1 ) ; }
+void function ( ) { this . iterator . remove ( ) ; }
+void function ( ) { if ( krbConfig == null ) { krbConfig = new KrbConfig ( ) ; } }
+MenuBar function ( int arg0 , int arg1 , int arg2 , int arg3 , int arg4 , int arg5 , int arg6 , int arg7 , int arg8 ) { return new MacMenuBar ( arg0 , arg1 , arg2 , arg3 , arg4 , arg5 , arg6 , arg7 , arg8 ) ; }
+void function ( ) { PdfPTable loc0 = createTable ( outFolder ) ; PdfPTable loc1 = createTable ( cmpFolder ) ; assertEquals ( loc0 , loc1 ) ; }
+void function ( WidgetState arg0 ) { _map . put ( arg0 . getId ( ) , arg0 ) ; }
+String function ( ) { return fValue ; }
+void function ( ) { if ( writer != null ) { time = System . currentTimeMillis ( ) ; interval ++ ; } }
+C function ( BigInteger arg0 ) { return engine . random ( ) . get ( arg0 ) ; }
+void function ( final String arg0 , final String arg1 ) { if ( arg0 == null ) { throw new IllegalArgumentException ( "srini_string" ) ; } if ( arg1 == null ) { throw new IllegalArgumentException ( "srini_string" ) ; } ResourceAdapterRepository . clearRegisteredResourceAdapterIdentifier ( arg0 , arg1 ) ; }
+void function ( double arg0 , double arg1 ) { x1 += arg0 ; y1 += arg1 ; x2 += arg0 ; y2 += arg1 ; Canvas . getInstance ( ) . repaint ( ) ; }
+void function ( ) { pos . rot ( - Up ) ; lookAt . rot ( - Up ) ; }
+void function ( TreeNode arg0 ) { value = arg0 . value ; left = arg0 . left ; right = arg0 . right ; }
+DoubleListIterator function ( DoubleListIterator arg0 ) { if ( arg0 == null ) { return null ; } return unmodifiableDoubleListIterator ( arg0 . iterator ( ) ) ; }
+void function ( ) { go ( false ) ; }
+void function ( ) { }
+double [ ] function ( ) { double [ ] loc0 = new double [ size ( ) ] ; int loc1 = 0 ; for ( int loc2 = 0 ; loc2 < size ( ) ; loc2 ++ ) { loc0 [ loc1 ++ ] = _list . get ( loc2 ) ; } return loc0 ; }
+void function ( String arg0 ) { if ( hiddenClients . contains ( arg0 ) ) { hiddenClients . remove ( arg0 ) ; } }
+boolean function ( final CANVID arg0 , final CANVID arg1 ) { final int loc0 = arg0 . numberCommon ( ) ; if ( loc0 == 0 ) { return true ; } if ( loc0 <= 0 ) { return false ; } return allZero ( arg0 , arg1 ) ; }
+void function ( ) { runTest ( null ) ; }
+boolean function ( ) { return pnpEnabled ; }
+GenVector < C > function ( double arg0 ) { return rightScalarProduct ( new GenVector < C > ( val . size ( ) , arg0 ) ) ; }
+boolean function ( Collection < ? extends K > arg0 , Predicate < ? super K > arg1 ) { boolean loc0 = false ; for ( K loc1 : arg0 ) { loc0 |= put ( loc1 , null , arg1 ) ; } return loc0 ; }
+Coordinates function ( ) { return position ; }
+int function ( ) { return _seen . size ( ) ; }
+void function ( Graphics arg0 ) { }
+Class function ( ) { return clz ; }
+NamingException function ( final Object arg0 , final Name arg1 ) { final NamingException loc0 = namingException ( arg0 , arg1 ) ; loc0 . setResolvedObj ( null ) ; throw loc0 ; }
+CodingErrorAction function ( final HttpParams arg0 ) { Args . notNull ( arg0 , "srini_string" ) ; final Object loc0 = arg0 . getParameter ( CoreProtocolPNames . HTTP_MALFORMED_INPUT_ACTION ) ; if ( loc0 == null ) { return CodingErrorAction . REPORT ; } return ( CodingErrorAction ) loc0 ; }
+String function ( String arg0 , Object [ ] arg1 ) { return MessageFormat . format ( rb . getString ( arg0 ) , arg1 ) ; }
+int function ( ) { return fSourceIndex ; }
+int function ( ) { return vertexLoop . size ( ) ; }
+void function ( String arg0 ) { this . syncLevel = arg0 ; }
+TriangleXZ function ( ) { if ( this . isClockwise ( ) ) return makeClockwise ( ) ; else return reverse ( ) ; }
+void function ( String arg0 , PdfDictionary arg1 ) { addPageLabel ( arg0 , arg1 , 1 ) ; }
+boolean function ( ) { return entityManager . isUserAllowed ( EntityType . APP_LETTER_RESOURCE . toString ( ) ) ; }
+int function ( ) { return receivedMsg ; }
+void function ( String arg0 ) { this . fromKey = arg0 ; }
+Iterator < ListElement > function ( ) { return listElements . iterator ( ) ; }
+String function ( ) { return fName ; }
+Local < C > function ( Local < C > arg0 , Local < C > arg1 ) { return arg0 . divide ( arg1 ) ; }
+Object [ ] function ( ) { Object [ ] loc0 = new Object [ columnNames . length ] ; for ( int loc1 = 0 ; loc1 < columnNames . length ; loc1 ++ ) { loc0 [ loc1 ] = rowMap . get ( columnNames [ loc1 ] ) ; } return loc0 ; }
+void function ( Rectangle arg0 ) { subpaths . add ( new Subpath ( arg0 ) ) ; }
+int function ( ) { return this . numeroPaginas ; }
+int function ( BigInteger arg0 ) { return compareTo ( ( BigInteger ) arg0 ) ; }
+int function ( int arg0 ) { return ( arg0 & BUTTON_MASK ) >> BUTTON_SHIFT ; }
+void function ( String arg0 , String arg1 ) { mParameters . put ( arg0 , arg1 ) ; }
+BooleanComparator function ( ) { return FALSE_FIRST ; }
+void function ( ) { var_infos = new VarInfo [ var_infos . length ] ; }
+void function ( X509AttributeName arg0 , String arg1 ) { add ( arg0 , arg1 , "srini_string" ) ; }
+NameNotFoundException function ( final Object arg0 ) { final NameNotFoundException loc0 = namingException ( arg0 ) ; loc0 . setResolvedObj ( null ) ; throw loc0 ; }
+void function ( int arg0 ) { theFacade . setPlayerColor ( arg0 ) ; }
+void function ( final Session arg0 , final BatchStatement arg1 ) { if ( arg1 == null ) { throw new IllegalArgumentException ( "srini_string" ) ; } submit ( arg0 , arg1 , 0 ) ; }
+void function ( char arg0 , char arg1 ) { System . out . println ( arg0 + "srini_string" + arg1 ) ; }
+String function ( ) { return suit ; }
+Box function ( float arg0 , float arg1 , Glue arg2 , int arg3 , int arg4 , int arg5 , int arg6 , int arg7 , int arg8 , int arg9 , int arg10 , int arg11 , int arg12 , int arg13 ) { return createBox ( arg0 , arg1 , arg2 , arg3 , arg4 , arg5 , arg6 , arg7 , arg8 , arg9 , arg10 , arg11 , arg12 , arg13 ) ; }
+void function ( String arg0 , String arg1 ) { if ( isLoggable ( VERBOSE ) ) { Log . v ( TAG , arg0 , arg1 ) ; } }
+FloatListIterator function ( ListIterator arg0 ) { if ( arg0 == null ) { return null ; } return new FloatListIterator ( arg0 ) ; }
+List < ApplicationReleaseBinding > function ( ) { if ( structure == null ) { structure = new ArrayList < ApplicationReleaseBinding > ( ) ; } return this . structure ; }
+void function ( ) { map . put ( "srini_string" , 3 ) ; map . put ( "srini_string" , 5 ) ; map . put ( "srini_string" , 6 ) ; map . put ( "srini_string" , 7 ) ; map . put ( "srini_string" , 8 ) ; map . put ( "srini_string" , 9 ) ; map . put ( "srini_string" , 10 ) ; map . put ( "srini_string" , 11 ) ; assertEquals ( 10 , map . get ( "srini_string" ) ) ; assertEquals ( 6 , map . get ( "srini_string" ) )
+boolean function ( ) { return is12 ; }
+int function ( final T arg0 , final EntityManager arg1 ) { return arg1 . persist ( arg0 ) ; }
+PdfIndirectReference function ( String arg0 , PdfIndirectReference arg1 ) { assetsmap . put ( arg0 , arg1 ) ; return this ; }
+int function ( ) { return position ; }
+Object function ( String arg0 ) { return this . type . getMethod ( arg0 ) ; }
+boolean function ( ) { return fFilesSaved ; }
+BootstrapServiceRegistryBuilder function ( Integrator arg0 ) { providedIntegrators . add ( arg0 ) ; return this ; }
+void function ( String arg0 , String arg1 ) { if ( mIsLogOn ) { Log . d ( "srini_string" , "srini_string" + arg0 ) ; } this . onWsSubscribe ( arg0 , arg1 ) ; }
+Criteria function ( String arg0 , T ... arg1 ) { checkComplete ( ) ; Criteria loc0 = new Criteria ( ) ; for ( T loc1 : arg1 ) { if ( arg0 . equals ( loc1 . arg0 ) ) { loc0 . add ( loc1 ) ; } } return loc0 ; }
+String function ( Object arg0 ) { if ( arg0 == null ) { return toString ( ) ; } return arg0 . toString ( ) ; }
+Change function ( ) { return fChange ; }
+K function ( List < K > arg0 ) { return arg0 . get ( 0 ) ; }
+byte [ ] function ( String arg0 ) { String loc0 = ( String ) this . object . get ( arg0 ) ; if ( loc0 == null ) { return null ; } return Base64 . getEncoder ( ) . encodeToString ( loc0 ) ; }
+String function ( ) { return translation ; }
+String function ( ) { StringBuilder loc0 = new StringBuilder ( "srini_string" ) ; loc0 . append ( this . statusLine . toString ( ) ) ; loc0 . append ( "srini_string" ) ; loc0 . append ( this . requestDate . toString ( ) ) ; loc0 . append ( "srini_string" ) ; loc0 . append ( this . responseDate . toString ( ) ) ; loc0 . append ( "srini_string" ) ; return loc0 . toString ( ) ; }
+double function ( ) { return percentDone ; }
+void function ( ) { pos . set ( lookAt . x , lookAt . y , 1 ) ; lookAt . z = 0 ; }
+void function ( DiGraph arg0 ) { int [ ] loc0 = new int [ nodes . length ] ; for ( int loc1 = 0 ; loc1 < nodes . length ; loc1 ++ ) { loc0 [ loc1 ] = loc1 ; } arg0 . addGraph ( loc0 ) ; }
+Rectangle function ( Component arg0 , AbstractComponent arg1 ) { if ( arg1 instanceof Point ) { return ( Rectangle ) arg1 ; } else if ( arg1 instanceof Dimension ) { return new Rectangle ( ( Dimension ) arg1 ) ; } else { return null ; } }
+boolean function ( final ProjCoordinate arg0 ) { return ! Double . isNaN ( x ) && ! Double . isNaN ( y ) && ! Double . isNaN ( z ) ; }
+boolean function ( ReflectionClass arg0 ) { Collection4 loc0 = _collectionPredicates . get ( arg0 ) ; return loc0 != null ; }
+Object function ( AuthToken arg0 , String arg1 ) { return getVerifier ( ) . decrypt ( arg0 , arg1 ) ; }
+boolean function ( Instant arg0 ) { return compareTo ( arg0 ) <= 0 ; }
+void function ( boolean arg0 ) { this . startupOptions . setAllowTcp ( arg0 ) ; }
+boolean function ( ) { return ( y + ( x - ground ) ) > y ; }
+void function ( ) { resources = getResources ( ) ; }
+ScheduledExecutorService function ( ScheduledExecutorService arg0 ) { if ( arg0 == null ) { throw new IllegalArgumentException ( "srini_string" ) ; } return new ScheduledExecutorServiceWrapper ( arg0 ) ; }
+double function ( Object arg0 ) { NumberTransformer loc0 = ( NumberTransformer ) map . get ( arg0 ) ; if ( loc0 != null ) { return loc0 . transform ( arg0 ) ; } return Double . NaN ; }
+Xid function ( int arg0 ) { return getXid ( arg0 , localIP , txnUniqueID ) ; }
+void function ( ) { checkLocked ( ) ; lastUsedIterator = null ; isLocked = false ; }
+void function ( NativeSQLQueryReturn arg0 ) { queryReturns . add ( arg0 ) ; }

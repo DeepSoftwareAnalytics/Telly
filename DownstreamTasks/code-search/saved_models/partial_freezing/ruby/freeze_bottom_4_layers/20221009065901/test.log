@@ -1,0 +1,177 @@
+10/10/2022 01:39:53 - INFO - __main__ -   device: cuda, n_gpu: 1
+10/10/2022 01:39:54 - DEBUG - filelock -   Attempting to acquire lock 140004530126080 on /home/aiscuser/.cache/huggingface/transformers/6537f24197db9749ad60f891d7a50ec2de3992bee193d25b24bb244ee5ca91f9.6243fbb3cc75148b68777473341e2d0860fde2b135f39c1d7d274d8ba1763e13.lock
+10/10/2022 01:39:54 - DEBUG - filelock -   Lock 140004530126080 acquired on /home/aiscuser/.cache/huggingface/transformers/6537f24197db9749ad60f891d7a50ec2de3992bee193d25b24bb244ee5ca91f9.6243fbb3cc75148b68777473341e2d0860fde2b135f39c1d7d274d8ba1763e13.lock
+Downloading:   0%|          | 0.00/916k [00:00<?, ?B/s]Downloading:   4%|▍         | 40.0k/916k [00:00<00:02, 374kB/s]Downloading:  19%|█▉        | 176k/916k [00:00<00:00, 892kB/s] Downloading:  82%|████████▏ | 752k/916k [00:00<00:00, 2.91MB/s]Downloading: 100%|██████████| 916k/916k [00:00<00:00, 2.80MB/s]
+10/10/2022 01:39:54 - DEBUG - filelock -   Attempting to release lock 140004530126080 on /home/aiscuser/.cache/huggingface/transformers/6537f24197db9749ad60f891d7a50ec2de3992bee193d25b24bb244ee5ca91f9.6243fbb3cc75148b68777473341e2d0860fde2b135f39c1d7d274d8ba1763e13.lock
+10/10/2022 01:39:54 - DEBUG - filelock -   Lock 140004530126080 released on /home/aiscuser/.cache/huggingface/transformers/6537f24197db9749ad60f891d7a50ec2de3992bee193d25b24bb244ee5ca91f9.6243fbb3cc75148b68777473341e2d0860fde2b135f39c1d7d274d8ba1763e13.lock
+10/10/2022 01:39:55 - DEBUG - filelock -   Attempting to acquire lock 140004530126032 on /home/aiscuser/.cache/huggingface/transformers/e9a41c80e105c7ebfab8467fd5fa110db792fa435a42cf53fc84cd4dbce63203.fcaa28dbb04dd654a7ac023857de409e4815667a26706e2aa9a1bbc3ed49037a.lock
+10/10/2022 01:39:55 - DEBUG - filelock -   Lock 140004530126032 acquired on /home/aiscuser/.cache/huggingface/transformers/e9a41c80e105c7ebfab8467fd5fa110db792fa435a42cf53fc84cd4dbce63203.fcaa28dbb04dd654a7ac023857de409e4815667a26706e2aa9a1bbc3ed49037a.lock
+Downloading:   0%|          | 0.00/434k [00:00<?, ?B/s]Downloading:  19%|█▉        | 84.0k/434k [00:00<00:00, 764kB/s]Downloading:  80%|████████  | 348k/434k [00:00<00:00, 1.72MB/s]Downloading: 100%|██████████| 434k/434k [00:00<00:00, 1.96MB/s]
+10/10/2022 01:39:55 - DEBUG - filelock -   Attempting to release lock 140004530126032 on /home/aiscuser/.cache/huggingface/transformers/e9a41c80e105c7ebfab8467fd5fa110db792fa435a42cf53fc84cd4dbce63203.fcaa28dbb04dd654a7ac023857de409e4815667a26706e2aa9a1bbc3ed49037a.lock
+10/10/2022 01:39:55 - DEBUG - filelock -   Lock 140004530126032 released on /home/aiscuser/.cache/huggingface/transformers/e9a41c80e105c7ebfab8467fd5fa110db792fa435a42cf53fc84cd4dbce63203.fcaa28dbb04dd654a7ac023857de409e4815667a26706e2aa9a1bbc3ed49037a.lock
+10/10/2022 01:39:56 - DEBUG - filelock -   Attempting to acquire lock 140004428611936 on /home/aiscuser/.cache/huggingface/transformers/192a4a8bfa30aa3013d375ea31db6b14b0f753bf61bd99b778cb8ebaa0d6a338.cb2244924ab24d706b02fd7fcedaea4531566537687a539ebb94db511fd122a0.lock
+10/10/2022 01:39:56 - DEBUG - filelock -   Lock 140004428611936 acquired on /home/aiscuser/.cache/huggingface/transformers/192a4a8bfa30aa3013d375ea31db6b14b0f753bf61bd99b778cb8ebaa0d6a338.cb2244924ab24d706b02fd7fcedaea4531566537687a539ebb94db511fd122a0.lock
+Downloading:   0%|          | 0.00/772 [00:00<?, ?B/s]Downloading: 100%|██████████| 772/772 [00:00<00:00, 544kB/s]
+10/10/2022 01:39:56 - DEBUG - filelock -   Attempting to release lock 140004428611936 on /home/aiscuser/.cache/huggingface/transformers/192a4a8bfa30aa3013d375ea31db6b14b0f753bf61bd99b778cb8ebaa0d6a338.cb2244924ab24d706b02fd7fcedaea4531566537687a539ebb94db511fd122a0.lock
+10/10/2022 01:39:56 - DEBUG - filelock -   Lock 140004428611936 released on /home/aiscuser/.cache/huggingface/transformers/192a4a8bfa30aa3013d375ea31db6b14b0f753bf61bd99b778cb8ebaa0d6a338.cb2244924ab24d706b02fd7fcedaea4531566537687a539ebb94db511fd122a0.lock
+10/10/2022 01:39:56 - DEBUG - filelock -   Attempting to acquire lock 140004529490528 on /home/aiscuser/.cache/huggingface/transformers/74b423f29ba4f21ecd941f8d4fdc1e5a1568328f2d478850463813dc4e81c58a.ad8c4e4e357cd74df740cd60a08548a831bd19834e8802cfa73d289e1818a8c4.lock
+10/10/2022 01:39:56 - DEBUG - filelock -   Lock 140004529490528 acquired on /home/aiscuser/.cache/huggingface/transformers/74b423f29ba4f21ecd941f8d4fdc1e5a1568328f2d478850463813dc4e81c58a.ad8c4e4e357cd74df740cd60a08548a831bd19834e8802cfa73d289e1818a8c4.lock
+Downloading:   0%|          | 0.00/1.09k [00:00<?, ?B/s]Downloading: 100%|██████████| 1.09k/1.09k [00:00<00:00, 1.12MB/s]
+10/10/2022 01:39:56 - DEBUG - filelock -   Attempting to release lock 140004529490528 on /home/aiscuser/.cache/huggingface/transformers/74b423f29ba4f21ecd941f8d4fdc1e5a1568328f2d478850463813dc4e81c58a.ad8c4e4e357cd74df740cd60a08548a831bd19834e8802cfa73d289e1818a8c4.lock
+10/10/2022 01:39:56 - DEBUG - filelock -   Lock 140004529490528 released on /home/aiscuser/.cache/huggingface/transformers/74b423f29ba4f21ecd941f8d4fdc1e5a1568328f2d478850463813dc4e81c58a.ad8c4e4e357cd74df740cd60a08548a831bd19834e8802cfa73d289e1818a8c4.lock
+10/10/2022 01:39:57 - DEBUG - filelock -   Attempting to acquire lock 140004530125744 on /home/aiscuser/.cache/huggingface/transformers/f47f36c6d415b8e978f9685f6dbf2651cc9c951dea26b74fcf8bf62e44900449.b53aa458f35a3b932d45090e5916927053a2bf0e803f4eb410b7d1f922b60a05.lock
+10/10/2022 01:39:57 - DEBUG - filelock -   Lock 140004530125744 acquired on /home/aiscuser/.cache/huggingface/transformers/f47f36c6d415b8e978f9685f6dbf2651cc9c951dea26b74fcf8bf62e44900449.b53aa458f35a3b932d45090e5916927053a2bf0e803f4eb410b7d1f922b60a05.lock
+Downloading:   0%|          | 0.00/691 [00:00<?, ?B/s]Downloading: 100%|██████████| 691/691 [00:00<00:00, 477kB/s]
+10/10/2022 01:39:57 - DEBUG - filelock -   Attempting to release lock 140004530125744 on /home/aiscuser/.cache/huggingface/transformers/f47f36c6d415b8e978f9685f6dbf2651cc9c951dea26b74fcf8bf62e44900449.b53aa458f35a3b932d45090e5916927053a2bf0e803f4eb410b7d1f922b60a05.lock
+10/10/2022 01:39:57 - DEBUG - filelock -   Lock 140004530125744 released on /home/aiscuser/.cache/huggingface/transformers/f47f36c6d415b8e978f9685f6dbf2651cc9c951dea26b74fcf8bf62e44900449.b53aa458f35a3b932d45090e5916927053a2bf0e803f4eb410b7d1f922b60a05.lock
+10/10/2022 01:39:58 - DEBUG - filelock -   Attempting to acquire lock 140004428770560 on /home/aiscuser/.cache/huggingface/transformers/e472463826d959ba1a2526157c66c6678d307297de0ac70cb20d4bc20227a3ea.cd2d780fc8b692f148ec889e56ece5a353765aa429eda28d9a89b5a1aeb735db.lock
+10/10/2022 01:39:58 - DEBUG - filelock -   Lock 140004428770560 acquired on /home/aiscuser/.cache/huggingface/transformers/e472463826d959ba1a2526157c66c6678d307297de0ac70cb20d4bc20227a3ea.cd2d780fc8b692f148ec889e56ece5a353765aa429eda28d9a89b5a1aeb735db.lock
+Downloading:   0%|          | 0.00/480M [00:00<?, ?B/s]Downloading:   1%|          | 3.57M/480M [00:00<00:13, 37.5MB/s]Downloading:   2%|▏         | 9.62M/480M [00:00<00:09, 52.5MB/s]Downloading:   3%|▎         | 14.6M/480M [00:00<00:13, 36.3MB/s]Downloading:   4%|▍         | 18.5M/480M [00:00<00:18, 26.2MB/s]Downloading:   4%|▍         | 21.5M/480M [00:01<00:36, 13.2MB/s]Downloading:   5%|▌         | 25.1M/480M [00:01<00:28, 16.6MB/s]Downloading:   6%|▌         | 29.3M/480M [00:01<00:22, 21.2MB/s]Downloading:   7%|▋         | 35.1M/480M [00:01<00:16, 28.7MB/s]Downloading:   8%|▊         | 39.6M/480M [00:01<00:14, 32.3MB/s]Downloading:   9%|▉         | 43.7M/480M [00:01<00:13, 34.5MB/s]Downloading:  10%|▉         | 47.7M/480M [00:01<00:13, 33.5MB/s]Downloading:  11%|█         | 52.4M/480M [00:01<00:11, 37.5MB/s]Downloading:  12%|█▏        | 56.4M/480M [00:02<00:12, 34.5MB/s]Downloading:  13%|█▎        | 60.1M/480M [00:02<00:14, 31.3MB/s]Downloading:  14%|█▎        | 65.0M/480M [00:02<00:12, 36.2MB/s]Downloading:  14%|█▍        | 68.8M/480M [00:02<00:12, 35.2MB/s]Downloading:  15%|█▌        | 72.9M/480M [00:02<00:11, 36.7MB/s]Downloading:  16%|█▋        | 78.1M/480M [00:02<00:10, 41.6MB/s]Downloading:  17%|█▋        | 83.2M/480M [00:02<00:09, 44.9MB/s]Downloading:  18%|█▊        | 87.7M/480M [00:02<00:09, 45.1MB/s]Downloading:  19%|█▉        | 92.1M/480M [00:03<00:10, 40.6MB/s]Downloading:  20%|██        | 96.6M/480M [00:03<00:09, 42.3MB/s]Downloading:  21%|██        | 102M/480M [00:03<00:08, 46.0MB/s] Downloading:  22%|██▏       | 106M/480M [00:03<00:09, 41.3MB/s]Downloading:  23%|██▎       | 111M/480M [00:03<00:10, 36.1MB/s]Downloading:  24%|██▍       | 114M/480M [00:03<00:10, 37.1MB/s]Downloading:  25%|██▍       | 118M/480M [00:03<00:12, 31.0MB/s]Downloading:  25%|██▌       | 121M/480M [00:03<00:13, 28.1MB/s]Downloading:  26%|██▌       | 125M/480M [00:04<00:12, 29.7MB/s]Downloading:  27%|██▋       | 128M/480M [00:04<00:13, 27.4MB/s]Downloading:  27%|██▋       | 131M/480M [00:04<00:13, 28.0MB/s]Downloading:  28%|██▊       | 135M/480M [00:04<00:11, 31.2MB/s]Downloading:  29%|██▊       | 138M/480M [00:04<00:12, 29.6MB/s]Downloading:  30%|██▉       | 142M/480M [00:04<00:10, 34.6MB/s]Downloading:  30%|███       | 146M/480M [00:04<00:10, 34.0MB/s]Downloading:  32%|███▏      | 152M/480M [00:04<00:08, 42.5MB/s]Downloading:  33%|███▎      | 157M/480M [00:04<00:07, 46.0MB/s]Downloading:  34%|███▎      | 162M/480M [00:05<00:09, 36.2MB/s]Downloading:  34%|███▍      | 166M/480M [00:05<00:10, 32.6MB/s]Downloading:  35%|███▌      | 170M/480M [00:05<00:08, 36.5MB/s]Downloading:  36%|███▋      | 174M/480M [00:05<00:09, 34.9MB/s]Downloading:  37%|███▋      | 179M/480M [00:05<00:07, 39.6MB/s]Downloading:  38%|███▊      | 184M/480M [00:05<00:07, 40.7MB/s]Downloading:  39%|███▉      | 188M/480M [00:05<00:08, 36.5MB/s]Downloading:  40%|███▉      | 191M/480M [00:06<00:09, 32.5MB/s]Downloading:  40%|████      | 195M/480M [00:06<00:10, 29.0MB/s]Downloading:  41%|████▏     | 199M/480M [00:06<00:08, 33.3MB/s]Downloading:  42%|████▏     | 203M/480M [00:06<00:08, 33.7MB/s]Downloading:  43%|████▎     | 208M/480M [00:06<00:07, 39.9MB/s]Downloading:  45%|████▍     | 214M/480M [00:06<00:06, 46.3MB/s]Downloading:  46%|████▌     | 219M/480M [00:06<00:08, 34.0MB/s]Downloading:  46%|████▋     | 223M/480M [00:06<00:07, 37.3MB/s]Downloading:  47%|████▋     | 227M/480M [00:07<00:06, 38.9MB/s]Downloading:  48%|████▊     | 232M/480M [00:07<00:06, 41.5MB/s]Downloading:  49%|████▉     | 236M/480M [00:07<00:06, 40.7MB/s]Downloading:  50%|█████     | 241M/480M [00:07<00:07, 34.7MB/s]Downloading:  51%|█████     | 244M/480M [00:07<00:07, 31.4MB/s]Downloading:  52%|█████▏    | 248M/480M [00:07<00:07, 33.1MB/s]Downloading:  52%|█████▏    | 251M/480M [00:07<00:07, 33.9MB/s]Downloading:  53%|█████▎    | 255M/480M [00:07<00:07, 30.3MB/s]Downloading:  54%|█████▍    | 261M/480M [00:08<00:05, 38.6MB/s]Downloading:  55%|█████▌    | 265M/480M [00:08<00:06, 33.5MB/s]Downloading:  56%|█████▌    | 269M/480M [00:08<00:06, 34.6MB/s]Downloading:  57%|█████▋    | 272M/480M [00:08<00:06, 33.1MB/s]Downloading:  57%|█████▋    | 276M/480M [00:08<00:06, 33.1MB/s]Downloading:  59%|█████▊    | 282M/480M [00:08<00:05, 41.4MB/s]Downloading:  60%|█████▉    | 286M/480M [00:08<00:04, 43.0MB/s]Downloading:  61%|██████    | 292M/480M [00:08<00:04, 46.9MB/s]Downloading:  62%|██████▏   | 297M/480M [00:08<00:03, 48.8MB/s]Downloading:  63%|██████▎   | 302M/480M [00:09<00:04, 43.4MB/s]Downloading:  64%|██████▎   | 306M/480M [00:09<00:04, 39.5MB/s]Downloading:  64%|██████▍   | 310M/480M [00:09<00:04, 39.7MB/s]Downloading:  66%|██████▌   | 315M/480M [00:09<00:04, 43.1MB/s]Downloading:  66%|██████▋   | 319M/480M [00:09<00:03, 44.2MB/s]Downloading:  67%|██████▋   | 324M/480M [00:09<00:04, 40.4MB/s]Downloading:  68%|██████▊   | 328M/480M [00:09<00:03, 40.4MB/s]Downloading:  69%|██████▉   | 333M/480M [00:09<00:03, 44.5MB/s]Downloading:  70%|███████   | 338M/480M [00:09<00:03, 46.0MB/s]Downloading:  71%|███████▏  | 343M/480M [00:10<00:05, 28.5MB/s]Downloading:  73%|███████▎  | 352M/480M [00:10<00:03, 41.8MB/s]Downloading:  74%|███████▍  | 357M/480M [00:10<00:03, 35.7MB/s]Downloading:  75%|███████▌  | 361M/480M [00:10<00:03, 34.7MB/s]Downloading:  76%|███████▋  | 367M/480M [00:10<00:02, 39.8MB/s]Downloading:  77%|███████▋  | 372M/480M [00:10<00:02, 43.4MB/s]Downloading:  78%|███████▊  | 377M/480M [00:11<00:02, 43.3MB/s]Downloading:  80%|███████▉  | 383M/480M [00:11<00:02, 48.3MB/s]Downloading:  81%|████████  | 388M/480M [00:11<00:02, 45.3MB/s]Downloading:  82%|████████▏ | 393M/480M [00:11<00:02, 44.9MB/s]Downloading:  83%|████████▎ | 397M/480M [00:11<00:02, 42.9MB/s]Downloading:  84%|████████▎ | 402M/480M [00:11<00:01, 44.1MB/s]Downloading:  84%|████████▍ | 406M/480M [00:11<00:01, 42.2MB/s]Downloading:  85%|████████▌ | 410M/480M [00:11<00:01, 38.1MB/s]Downloading:  86%|████████▌ | 414M/480M [00:11<00:01, 38.4MB/s]Downloading:  87%|████████▋ | 417M/480M [00:12<00:02, 31.0MB/s]Downloading:  88%|████████▊ | 421M/480M [00:12<00:02, 26.1MB/s]Downloading:  88%|████████▊ | 425M/480M [00:12<00:02, 29.2MB/s]Downloading:  89%|████████▉ | 430M/480M [00:12<00:01, 35.7MB/s]Downloading:  91%|█████████ | 435M/480M [00:12<00:01, 40.5MB/s]Downloading:  91%|█████████▏| 439M/480M [00:12<00:01, 38.2MB/s]Downloading:  93%|█████████▎| 445M/480M [00:12<00:00, 44.4MB/s]Downloading:  94%|█████████▍| 451M/480M [00:12<00:00, 48.4MB/s]Downloading:  95%|█████████▍| 456M/480M [00:13<00:00, 44.6MB/s]Downloading:  96%|█████████▌| 462M/480M [00:13<00:00, 45.5MB/s]Downloading:  97%|█████████▋| 466M/480M [00:13<00:00, 42.9MB/s]Downloading:  98%|█████████▊| 470M/480M [00:13<00:00, 36.1MB/s]Downloading:  99%|█████████▉| 476M/480M [00:13<00:00, 40.9MB/s]Downloading: 100%|██████████| 480M/480M [00:13<00:00, 36.6MB/s]
+10/10/2022 01:40:12 - DEBUG - filelock -   Attempting to release lock 140004428770560 on /home/aiscuser/.cache/huggingface/transformers/e472463826d959ba1a2526157c66c6678d307297de0ac70cb20d4bc20227a3ea.cd2d780fc8b692f148ec889e56ece5a353765aa429eda28d9a89b5a1aeb735db.lock
+10/10/2022 01:40:12 - DEBUG - filelock -   Lock 140004428770560 released on /home/aiscuser/.cache/huggingface/transformers/e472463826d959ba1a2526157c66c6678d307297de0ac70cb20d4bc20227a3ea.cd2d780fc8b692f148ec889e56ece5a353765aa429eda28d9a89b5a1aeb735db.lock
+10/10/2022 01:40:13 - INFO - __main__ -   Training/evaluation parameters Namespace(code_length=256, codebase_file='dataset/CSN/ruby/codebase.jsonl', config_name='', debug=False, device=device(type='cuda'), do_F2_norm=False, do_eval=False, do_test=True, do_train=False, do_zero_shot=False, eval_batch_size=128, eval_data_file='dataset/CSN/ruby/valid.jsonl', freeze_bottom_k_layer_index=4, learning_rate=2e-05, max_grad_norm=1.0, model_name_or_path='microsoft/unixcoder-base', n_debug_samples=100, n_gpu=1, nl_length=128, num_train_epochs=10, output_dir='saved_models/code_search/unixcoder/partial_freezing/ruby/freeze_bottom_4_layers/20221009065901', save_evaluation_reuslt=True, save_evaluation_reuslt_dir='saved_models/code_search/unixcoder/partial_freezing/ruby/freeze_bottom_4_layers/20221009065901', seed=123456, test_data_file='dataset/CSN/ruby/test.jsonl', tokenizer_name='', train_batch_size=128, train_data_file='dataset/CSN/ruby/train.jsonl', weight_decay=0.01)
+10/10/2022 01:40:13 - INFO - __main__ -   +------------------------------------------------------------+--------------+---------+
+| Layer Name                                                 | Output Shape | Param # |
++------------------------------------------------------------+--------------+---------+
+| encoder.encoder.layer.4.attention.self.query.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.4.attention.self.query.bias          |        [768] |     768 |
+| encoder.encoder.layer.4.attention.self.key.weight          |   [768, 768] |  589824 |
+| encoder.encoder.layer.4.attention.self.key.bias            |        [768] |     768 |
+| encoder.encoder.layer.4.attention.self.value.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.4.attention.self.value.bias          |        [768] |     768 |
+| encoder.encoder.layer.4.attention.output.dense.weight      |   [768, 768] |  589824 |
+| encoder.encoder.layer.4.attention.output.dense.bias        |        [768] |     768 |
+| encoder.encoder.layer.4.attention.output.LayerNorm.weight  |        [768] |     768 |
+| encoder.encoder.layer.4.attention.output.LayerNorm.bias    |        [768] |     768 |
+| encoder.encoder.layer.4.intermediate.dense.weight          |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.4.intermediate.dense.bias            |       [3072] |    3072 |
+| encoder.encoder.layer.4.output.dense.weight                |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.4.output.dense.bias                  |        [768] |     768 |
+| encoder.encoder.layer.4.output.LayerNorm.weight            |        [768] |     768 |
+| encoder.encoder.layer.4.output.LayerNorm.bias              |        [768] |     768 |
+| encoder.encoder.layer.5.attention.self.query.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.5.attention.self.query.bias          |        [768] |     768 |
+| encoder.encoder.layer.5.attention.self.key.weight          |   [768, 768] |  589824 |
+| encoder.encoder.layer.5.attention.self.key.bias            |        [768] |     768 |
+| encoder.encoder.layer.5.attention.self.value.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.5.attention.self.value.bias          |        [768] |     768 |
+| encoder.encoder.layer.5.attention.output.dense.weight      |   [768, 768] |  589824 |
+| encoder.encoder.layer.5.attention.output.dense.bias        |        [768] |     768 |
+| encoder.encoder.layer.5.attention.output.LayerNorm.weight  |        [768] |     768 |
+| encoder.encoder.layer.5.attention.output.LayerNorm.bias    |        [768] |     768 |
+| encoder.encoder.layer.5.intermediate.dense.weight          |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.5.intermediate.dense.bias            |       [3072] |    3072 |
+| encoder.encoder.layer.5.output.dense.weight                |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.5.output.dense.bias                  |        [768] |     768 |
+| encoder.encoder.layer.5.output.LayerNorm.weight            |        [768] |     768 |
+| encoder.encoder.layer.5.output.LayerNorm.bias              |        [768] |     768 |
+| encoder.encoder.layer.6.attention.self.query.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.6.attention.self.query.bias          |        [768] |     768 |
+| encoder.encoder.layer.6.attention.self.key.weight          |   [768, 768] |  589824 |
+| encoder.encoder.layer.6.attention.self.key.bias            |        [768] |     768 |
+| encoder.encoder.layer.6.attention.self.value.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.6.attention.self.value.bias          |        [768] |     768 |
+| encoder.encoder.layer.6.attention.output.dense.weight      |   [768, 768] |  589824 |
+| encoder.encoder.layer.6.attention.output.dense.bias        |        [768] |     768 |
+| encoder.encoder.layer.6.attention.output.LayerNorm.weight  |        [768] |     768 |
+| encoder.encoder.layer.6.attention.output.LayerNorm.bias    |        [768] |     768 |
+| encoder.encoder.layer.6.intermediate.dense.weight          |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.6.intermediate.dense.bias            |       [3072] |    3072 |
+| encoder.encoder.layer.6.output.dense.weight                |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.6.output.dense.bias                  |        [768] |     768 |
+| encoder.encoder.layer.6.output.LayerNorm.weight            |        [768] |     768 |
+| encoder.encoder.layer.6.output.LayerNorm.bias              |        [768] |     768 |
+| encoder.encoder.layer.7.attention.self.query.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.7.attention.self.query.bias          |        [768] |     768 |
+| encoder.encoder.layer.7.attention.self.key.weight          |   [768, 768] |  589824 |
+| encoder.encoder.layer.7.attention.self.key.bias            |        [768] |     768 |
+| encoder.encoder.layer.7.attention.self.value.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.7.attention.self.value.bias          |        [768] |     768 |
+| encoder.encoder.layer.7.attention.output.dense.weight      |   [768, 768] |  589824 |
+| encoder.encoder.layer.7.attention.output.dense.bias        |        [768] |     768 |
+| encoder.encoder.layer.7.attention.output.LayerNorm.weight  |        [768] |     768 |
+| encoder.encoder.layer.7.attention.output.LayerNorm.bias    |        [768] |     768 |
+| encoder.encoder.layer.7.intermediate.dense.weight          |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.7.intermediate.dense.bias            |       [3072] |    3072 |
+| encoder.encoder.layer.7.output.dense.weight                |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.7.output.dense.bias                  |        [768] |     768 |
+| encoder.encoder.layer.7.output.LayerNorm.weight            |        [768] |     768 |
+| encoder.encoder.layer.7.output.LayerNorm.bias              |        [768] |     768 |
+| encoder.encoder.layer.8.attention.self.query.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.8.attention.self.query.bias          |        [768] |     768 |
+| encoder.encoder.layer.8.attention.self.key.weight          |   [768, 768] |  589824 |
+| encoder.encoder.layer.8.attention.self.key.bias            |        [768] |     768 |
+| encoder.encoder.layer.8.attention.self.value.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.8.attention.self.value.bias          |        [768] |     768 |
+| encoder.encoder.layer.8.attention.output.dense.weight      |   [768, 768] |  589824 |
+| encoder.encoder.layer.8.attention.output.dense.bias        |        [768] |     768 |
+| encoder.encoder.layer.8.attention.output.LayerNorm.weight  |        [768] |     768 |
+| encoder.encoder.layer.8.attention.output.LayerNorm.bias    |        [768] |     768 |
+| encoder.encoder.layer.8.intermediate.dense.weight          |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.8.intermediate.dense.bias            |       [3072] |    3072 |
+| encoder.encoder.layer.8.output.dense.weight                |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.8.output.dense.bias                  |        [768] |     768 |
+| encoder.encoder.layer.8.output.LayerNorm.weight            |        [768] |     768 |
+| encoder.encoder.layer.8.output.LayerNorm.bias              |        [768] |     768 |
+| encoder.encoder.layer.9.attention.self.query.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.9.attention.self.query.bias          |        [768] |     768 |
+| encoder.encoder.layer.9.attention.self.key.weight          |   [768, 768] |  589824 |
+| encoder.encoder.layer.9.attention.self.key.bias            |        [768] |     768 |
+| encoder.encoder.layer.9.attention.self.value.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.9.attention.self.value.bias          |        [768] |     768 |
+| encoder.encoder.layer.9.attention.output.dense.weight      |   [768, 768] |  589824 |
+| encoder.encoder.layer.9.attention.output.dense.bias        |        [768] |     768 |
+| encoder.encoder.layer.9.attention.output.LayerNorm.weight  |        [768] |     768 |
+| encoder.encoder.layer.9.attention.output.LayerNorm.bias    |        [768] |     768 |
+| encoder.encoder.layer.9.intermediate.dense.weight          |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.9.intermediate.dense.bias            |       [3072] |    3072 |
+| encoder.encoder.layer.9.output.dense.weight                |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.9.output.dense.bias                  |        [768] |     768 |
+| encoder.encoder.layer.9.output.LayerNorm.weight            |        [768] |     768 |
+| encoder.encoder.layer.9.output.LayerNorm.bias              |        [768] |     768 |
+| encoder.encoder.layer.10.attention.self.query.weight       |   [768, 768] |  589824 |
+| encoder.encoder.layer.10.attention.self.query.bias         |        [768] |     768 |
+| encoder.encoder.layer.10.attention.self.key.weight         |   [768, 768] |  589824 |
+| encoder.encoder.layer.10.attention.self.key.bias           |        [768] |     768 |
+| encoder.encoder.layer.10.attention.self.value.weight       |   [768, 768] |  589824 |
+| encoder.encoder.layer.10.attention.self.value.bias         |        [768] |     768 |
+| encoder.encoder.layer.10.attention.output.dense.weight     |   [768, 768] |  589824 |
+| encoder.encoder.layer.10.attention.output.dense.bias       |        [768] |     768 |
+| encoder.encoder.layer.10.attention.output.LayerNorm.weight |        [768] |     768 |
+| encoder.encoder.layer.10.attention.output.LayerNorm.bias   |        [768] |     768 |
+| encoder.encoder.layer.10.intermediate.dense.weight         |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.10.intermediate.dense.bias           |       [3072] |    3072 |
+| encoder.encoder.layer.10.output.dense.weight               |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.10.output.dense.bias                 |        [768] |     768 |
+| encoder.encoder.layer.10.output.LayerNorm.weight           |        [768] |     768 |
+| encoder.encoder.layer.10.output.LayerNorm.bias             |        [768] |     768 |
+| encoder.encoder.layer.11.attention.self.query.weight       |   [768, 768] |  589824 |
+| encoder.encoder.layer.11.attention.self.query.bias         |        [768] |     768 |
+| encoder.encoder.layer.11.attention.self.key.weight         |   [768, 768] |  589824 |
+| encoder.encoder.layer.11.attention.self.key.bias           |        [768] |     768 |
+| encoder.encoder.layer.11.attention.self.value.weight       |   [768, 768] |  589824 |
+| encoder.encoder.layer.11.attention.self.value.bias         |        [768] |     768 |
+| encoder.encoder.layer.11.attention.output.dense.weight     |   [768, 768] |  589824 |
+| encoder.encoder.layer.11.attention.output.dense.bias       |        [768] |     768 |
+| encoder.encoder.layer.11.attention.output.LayerNorm.weight |        [768] |     768 |
+| encoder.encoder.layer.11.attention.output.LayerNorm.bias   |        [768] |     768 |
+| encoder.encoder.layer.11.intermediate.dense.weight         |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.11.intermediate.dense.bias           |       [3072] |    3072 |
+| encoder.encoder.layer.11.output.dense.weight               |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.11.output.dense.bias                 |        [768] |     768 |
+| encoder.encoder.layer.11.output.LayerNorm.weight           |        [768] |     768 |
+| encoder.encoder.layer.11.output.LayerNorm.bias             |        [768] |     768 |
+| encoder.pooler.dense.weight                                |   [768, 768] |  589824 |
+| encoder.pooler.dense.bias                                  |        [768] |     768 |
++------------------------------------------------------------+--------------+---------+
+10/10/2022 01:40:22 - INFO - __main__ -   ***** Running evaluation *****
+10/10/2022 01:40:22 - INFO - __main__ -     Num queries = 1261
+10/10/2022 01:40:22 - INFO - __main__ -     Num codes = 4360
+10/10/2022 01:40:22 - INFO - __main__ -     Batch size = 128
+Save dataset to: saved_models/code_search/unixcoder/partial_freezing/ruby/freeze_bottom_4_layers/20221009065901/evaluation_result.pkl
+10/10/2022 01:40:31 - INFO - __main__ -   ***** Eval results *****
+10/10/2022 01:40:31 - INFO - __main__ -     R@1 = 0.66
+10/10/2022 01:40:31 - INFO - __main__ -     R@10 = 0.898
+10/10/2022 01:40:31 - INFO - __main__ -     R@5 = 0.854
+10/10/2022 01:40:31 - INFO - __main__ -     eval_mrr = 0.746
+10/10/2022 01:40:31 - INFO - utils -   saved dataset in saved_models/code_search/unixcoder/partial_freezing/ruby/freeze_bottom_4_layers/20221009065901/result.jsonl

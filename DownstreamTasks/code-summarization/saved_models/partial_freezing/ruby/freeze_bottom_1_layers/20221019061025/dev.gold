@@ -1,0 +1,1000 @@
+593	Performs the fetch request for the query .
+60	Generates and returns SOAP XML for the specified action and args .
+357	Returns what attributes are causing a dependencies to certain InventoryCollection objects .
+4	Given a MIME type or file extension return either a MIME type or if none is found the input unchanged .
+1359	Temporarily unlocks it while a block is run . If an error is raised in the block the it will try to be immediately relocked before passing the error up . If unsuccessful a + ThreadError + will be raised to imitate the core s behavior .
+157	Creates or updates resource using the create_or_update endpoint .
+104	Updates default configuration file to include OAuth2 token information .
+549	Search for tips .
+58	When an unrecognized method is applied to AdManagerDateTime pass it through to the internal ruby Time .
+238	Issues the request that was made to fetch this response again . Only works for Entry Asset ContentType and Space
+469	This is how you verify IPNs and pipeline responses . Pass the entire request object .
+1308	return the class match by name
+998	Execute javascript within the context of a view .
+381	Fail if the response has errors .
+49	Yields a number of objects to a given + block + depending on how many arguments the block is expecting .
+1083	Parses an IO stream .
+264	Creates a new auth store .
+772	Builds a single association with the given data
+1324	Build query attribute hash .
+757	Choose an optimal number of levels between Kmin and Kmax
+87	Initializes CredentialHandler . Returns credentials set for the next call .
+369	Take a fit and estimate behaviour at input size n
+124	Calculate the maximum transaction ID visible currently in the wallet . We go through them all and find the largest number . If there are no transactions zero is returned .
+901	Returns the value of a given option . The option can be specified using either the short or long name .
+1030	build page breadcrumbs from specified root_depth default root
+911	Creates a new instance of the Option class .
+928	Generates an individual create_table statement .
+1032	Parses raw XML feed and creates Feed and Article objects to be rendered . Returns false if feed cannot be parsed .
+320	get any config from our global config files
+1079	Adds the given subtype to the list of subtypes which this StorageType can hold .
+1148	Attempt to connect to port 22 on the host .
+89	Generates string for UserAgent to put into headers .
+219	Provides detailed information about the availability of a set of users rooms and resources within a specified time window .
+1394	sets the site for the class in which this module is extended
+198	Copy this item to a new folder
+1375	Post to the given path including the correct signature header based on the payload and secret .
+181	Request all known time_zones from server
+162	Returns the update to a ticket that happens when a macro will be applied .
+267	Enqueues a given URL for visiting only if it passes all of the agent s rules for visiting a given URL .
+693	Authenticate against the specified server
+1183	Add a new node causing dependencies to be re - evaluated
+611	Supporting the first_or_create class method to be used in scope chaining with queries .
+906	Wether or not this payment result can be considered valid . Authentication is checked payload and authentication should be available and the decoded JSON should be valid JSON . When the result is valid it is safe to assume no - one tampered with it and that it was sent by Bitkassa .
+1049	Reset configuration options to their defaults
+1272	= > Get a Server based on ID
+669	Gets the USB code for the current locale .
+756	iOS 10 +
+512	Adds email addresses to a client s suppression list
+503	Gets the webhooks for this list .
+225	Convert an ISO8601 Duration format to seconds
+558	Retrive a list of recent checkins from friends .
+545	Get the lists for a given user .
+1362	Makes a call to a block that accepts optional arguments
+230	Gets a specific entry
+432	Generates methods to set a radio button as well as see if one is selected
+905	Iterates over each item after this . If a block is not given an enumerator is returned .
+817	Build some XmlMarkup for GeoRSS GML . You should include the appropriate georss and gml XML namespaces in your document .
+76	Send POST request for a report with AWQL and returns Response object .
+39	Downloads the results of a batch job from the specified URL .
+988	Create a policy version
+210	Request list of server known time zones
+864	Removes a friend from an instance s friend s list
+203	Fetch items between a given time period
+339	Returns the file offset of the first record in the central directory . _io_ must be a seekable readable IO - like object .
+831	Make a call to the
+506	Gets the currently scheduled campaigns belonging to this client .
+23	Overrides non - standard name conversion .
+1232	Processes the counting on the in file
+1043	returns the match history of a summoner
+883	Dumps an scraped object to disk .
+243	Parse tool configuration data out of the Common Cartridge LTI link XML
+1241	Reports abuse by a user .
+1067	Builds a new annotation module for the given module name and options .
+510	Gets the people associated with this client
+1035	Gets the playlist represented by the given attributes .
+1267	pass a string either publish or unpublish
+1042	Returns the absolute path of the output directory specified by the cli .
+233	Returns the headers used for the HTTP requests
+802	Opens the first device with a given vendor and product ids description and serial .
+568	Retrieve information about a list .
+1181	Creates the sum_row when the file has been completely processed
+1368	follow some model
+1288	= > Run the Application
+723	Starts the callable in a background thread and waits for it to complete . If the callable fails with an exception it will be raised here . Otherwise the main thread is paused for an initial_wait time in seconds and subsequently for periodic_wait repeatedly until the thread completes . After each wait yield is called to allow a block to execute .
+870	Return + Color + of led located at given index
+197	Move this item to a new folder
+96	Normalizes every item of a Hash .
+1080	Copies the other child types into this container s child types .
+486	Run normalization process across directory . Return the number of files that need normalization
+79	Saves raw data to a file .
+444	List contents of a remote directory
+377	Upload a captcha to 2Captcha .
+1102	Returns this Person s name as a Name structure or nil if there is no last name .
+465	Creates a pipeline that will authorize you to send money _from_ the user one time .
+764	Stores all association data on the object at the given attribute . Associations with internal data use that instead of value . If only one association is present it is extracted from the array and stored as - is .
+750	Creates an instance for the transfer type and return it
+415	Select modified and added files in this PR
+148	Traverses the resource looking for associations then descends into those associations and checks for applicable resources to side load
+1029	build page tree from specified root_depth default second level root with sitemap property to render a sitemap from top root of current page
+1360	Calculate time elapsed when running block .
+1126	Prepares selectors and weights storage Analyze input and add appropriate part
+1370	see user s follow history
+516	Sets the monthly billing settings for this client . monthly_scheme must be nil Basic or Unlimited
+1168	Returns the first event in the protocol registered with this SCG .
+1278	Subscribe to messages on the Bunny queue . The provided block will be called each time a message is received . The message will be acknowledged and deleted from the queue unless an exception is raised from the block . In the case that an uncaught exception is raised the message is rejected and any declared exception handlers will be called .
+770	Provides an expanded globbed list of paths and files for a given name .
+135	Go through the list of remotes and call a provided block for each of them . See how it s used for example in fetch . rb .
+850	return an array of BIC subjects for this title could be version 1 or version 2 most ONIX files don t specifiy
+818	Special process of prices because of locales and different decimal separator characters . We want to get a format with dot as decimal separator and without thousand separator
+591	helper method to send a message
+360	Declares settings function .
+1057	Creates a subcontainer which holds the given storable . Creates nested subcontainers as necessary .
+1286	Override functionality from CanCan to allow objects to masquerade as other objects
+768	To initialize the logger you create a new object proxies to set_log .
+869	Set given pixel identified by + index + to + r + + g + + b +
+92	Extracts misc data from SOAP fault .
+296	Returns a new IPv4 object from the supernetting of the instance network .
+792	Create a new filter to run a status check . The name is used for display purposes . Run a status the status check . This method keeps track of the time it took to run the check and will trap any unexpected exceptions and report them as failures .
+277	Pass every RSS document that the agent parses to a given block .
+844	Returns top keywords from input string .
+241	Coerces value to proper type
+599	Send a DELETE request .
+1349	see if this model is followee of some model
+682	Compose a vapp using existing virtual machines
+505	Gets the sent campaigns belonging to this client .
+654	This method fetches a footer from a Document object .
+661	The server processes requests here
+56	When an unrecognized method is applied to AdManagerDate pass it through to the internal ruby Date .
+1189	Whether this is the currently active playlist
+915	Retrieves the realm status for the region . If any realms are specified as parameters only the status of these realms will be returned .
+1240	Boots the user for the specified reason .
+263	Returns the pre - encoded Cookie for a given host .
+325	handle replies for the bot
+895	Adds a list of artifacts to the danger comment
+342	This will respond to both a GET and a POST
+1178	Casts a string to an integer or float depending whether the value has a decimal point
+658	This is the constructor for the Information class .
+176	Build the FolderIds element
+538	Get checkins for the authenticated user
+649	This method loads the data for an image from its source . The method accepts two call approaches . If called without a block then the method considers the size parameter it is passed . If called with a block the method executes until the block returns true .
+1027	Runs a given block and retries that block after a certain period of time if any of the specified exceptions are raised . Note that there is no limit on the number of attempts to retry .
+821	Limited to 64 characters
+110	Initializes config with default values and converts existing if required .
+66	Log the request response and summary lines .
+559	Checkin on behalf of the user .
+228	Coerces value to DateTime
+143	Returns a copy of self with nil - values appended for empty cells that have an associated Format . This is primarily a helper - function for the writer classes .
+221	Gets the room lists that are available within the Exchange organization .
+98	Finds the choice option matching data provided .
+847	retrieve the current title
+769	Provides the directories or raw paths that are associated with a given name .
+271	Prepares request headers for the given URL .
+886	Removes all duplicate objects and re - assigns any foreign keys .
+450	Execute a smbclient command
+1367	see if this model is follower of some model
+160	Destroys multiple resources using the destroy_many endpoint .
+1327	Do additional sanity checking on a hook script
+1203	Adds a single value and an associated type to the filter
+1173	Adds the specimen position to its save template .
+797	Check if a host is reachable and accepting connections on a specified port .
+344	Returns the method that was called by the HTTP request .
+448	Receive a file from the smb server to local . If + to + was not passed a tempfile will be generated .
+1285	had to convert these from C ... fun
+1171	Updates the given dependent .
+1010	Adds a schema_hash attribute to bodies with schema which allows for the generation of schema table views
+333	Converts a namespaced symbol or string to a proper class name with modules
+1371	Retrieves an item from it .
+252	Creates a new builder object merging current options with new options .
+224	Change a ruby_cased string to CamelCased
+373	Records that each path in + files + depends on + dependency + . If there is a modification to + dependency + all related files will be reloaded after + dependency + is reloaded . Both + dependency + and each entry in + files + can be an array of path globs .
+154	Saves associations Takes into account inlining collections and id setting on the parent resource .
+484	delete all values for a model attribute to autocomplete
+650	This method fetches details of the dimensions associated with an image .
+728	Specifies the ordering and the interval of the returned Rescuetime report . For example the results can be ordered by time activity rank or member ; The results can be returned in intervals spanning a month a week a day an hour or 5 - minutes .
+1353	render the template including the handler as a local
+332	This method empties out the container It should ONLY be used for testing purposes
+375	Calculates the difference in milliseconds between the HTTP_X_REQUEST_START time and the current time .
+885	Loads a scraped object from its properties .
+837	Shortcut to say a schema + key + must be equal to a given + value + . When it does not recognize the value type it creates a any schema .
+1111	Execute a shell command on each host
+1248	Convert translations to JSON string and save file .
+981	- native_sql_to_type - active? - reconnect! - disconnect! - exec_query - exec_insert - exec_delete - exec_update + do_exec - execute
+996	new metodo for convert currency
+1227	Creates rows from provided array or file . If array doesn t provide equal column sizes the array is extended with NotAvailable values
+475	index all records in specific model
+709	Shutdown a given vm
+587	This method creates a new object of the same instance type with a copy of all the properties of the current instance . This is useful when you want to create a duplicate record .
+1310	Calculate the desired time to wake up .
+711	Fetch details about a given Org VDC network
+1223	Returns a subset of the spread sheet and returns a new spread sheet with the result and the corresponding row and column labels
+526	Flush the buffer If async is false block until the queue is empty
+449	Reads a remote file and return its content
+999	Calculate the largest pointsize for text that will be in a width x height box .
+1305	Adjuster Builders Apply adjuster when passed condition .
+194	Defines a request to synchronize a folder hierarchy on a client
+1000	subscrible of metod convert in adapter
+904	Iterates over each item before this in reverse order . If a block is not given an enumerator is returned .
+914	Retrieves the stats for the pet with the specified ID .
+71	Downloads a report and saves it to a file .
+165	Parses arguments to track! method and return array with timestamp identity and array of values .
+489	Validates token and raises an exception if invalid
+1025	Callback when session authentication is missing from the connection . This will automatically authenticate with configured user as well as set up a heartbeat .
+576	Retrieve menus for a venue .
+1176	Create the table
+1389	Hijri to gregorian
+284	Normalizes and expands a given link into a proper URI .
+293	Set the client to use Bearer Token Authentication
+457	Initialize a PDA object . Runs the input on the machine and returns a Hash describing the machine s final state after running .
+975	convenient method for status only responses
+127	Add a new thread
+759	Useful for adding additional information into your middleware stack definition
+366	Finds a line of best fit that approxmimates power function
+775	Returns inclusive interval limits
+458	Determines whether or not any transition states exist given a beginning state and input symbol pair .
+38	Puts the provided operations to the provided URL allowing for incremental followup puts .
+455	pass in no params to scan whole table
+186	Build the CalendarView element
+274	Creates a new Rules object .
+588	Save the file by uploading it to Parse and creating a file pointer .
+740	Helper to decide if a part should be kept or ignored
+893	Adds a group result .
+910	Sets defaults for the configuration . Enable or disable debug mode . Boolean .
+943	Generate a form button .
+1289	Check for a _posts directory in current directory . If there s not one check for a _config . yml and look for a custom src directory . If we don t find one puke an error message and die . If we do return the name of the directory
+1218	Experimental require_aether method for use in irb or just for convenience . Not threadsafe .
+22	Checks the provided data structure matches wsdl definition .
+738	Helper for process template method to determine if media contained in a part should be ignored . Producers should override this method to return true for media such as images that are advertising carrier logos etc . See the ignore section in the discussion of the built - in configuration .
+372	Add a file glob or array of file globs to monitor for changes .
+1361	stalls test until ^C is hit useful for inspecting page state via firebug
+1140	Provides build time logging information and writes it to STDOUT .
+201	validate the CreateItem response .
+725	Sets the report format to a valid type
+1303	Initiates a new session
+32	Returns all inherited fields of superclasses for given type .
+925	Generates any create table statements for new tables .
+866	What Rails expects
+1275	Create or attach to a queue on the specified exchange . When an event message that matches the observer s routing keys is received parse the event and call handle_event on same .
+659	This method creates a textual description for an Information object .
+268	Requests and creates a new Page object from a given URL .
+418	Wraps the Java InputStream for the level of Rack compliance desired .
+85	Adds fields order hint to generator based on specification .
+722	Given a two - dimensional Array of strings representing a table of data translate each row into a single string by joining the values with whitespace such that all the columns are nicely aligned .
+86	Initializes a header handler .
+190	A helper method to dispatch to a AppendToItemField SetItemField or DeleteItemField
+1031	Returns whether each of the given attribute values either equals the respective other attribute value or one of the values is nil or Not Specified .
+246	Initializes the pipeline with all the processing options . Determines the destination and calls the processor .
+25	Validates single argument .
+400	Send a command to redis without adding a deferrable for it . This is useful for commands for which replies work or need to be treated differently
+482	add string to autocomplete dictionary
+1100	Add a User to the group
+452	remove title part components and abstract
+896	Add a delete operation to the transaction
+845	generate a temp filename
+684	Clone a vapp in a given VDC to a new Vapp
+646	This method attempts to determine the image type associated with a file returning nil if it fails to make the determination .
+1138	Gets list of feed_urls requests each of them and uses the constructor to make Feed and Article objects then calls to the renderers to render the page and stylesheets .
+713	Fetch tasks from a given task list
+370	Adds given symbols to the exported_symbols array
+680	Shutdown a given vapp
+236	Queries contentful for the Resource the Link is refering to Takes an optional query hash
+297	This method implements the subnetting function similar to the one described in RFC3531 .
+786	Create one or more new bookmark drops .
+1019	Registers a handler to invoke when an event occurs in Turntable .
+974	Undo all the rejiggering when the keyboard slides down .
+1147	Adds an empty capacity and default dimension labels if necessary . The default + one_dimension_label + is Column if there is a non - zero dimension capacity Unused otherwise . The default + two_dimension_label + is Row if there is a non - zero dimension capacity Unused otherwise .
+777	fetchs a movie with a given title set tomatoes to true if you want to get the rotten tomatoes ranking set plot to full if you want to have the full long plot
+345	Sends a block of data setting a file name mime type and content disposition headers when possible . This should also be a good choice when sending large amounts of data .
+790	Loads an environment specific config if available the config file is where the logger should be set if it was not we are using stdout .
+259	The charset included in the Content - Type .
+239	Field definition for field
+539	Get all friends for a given user .
+630	This method provides a short cut means of creating a superscript command node . The method accepts a block that will be passed a single parameter which will be a reference to the superscript node created . After the block is complete the superscript node is appended to the end of the child nodes on the object that the method is call against .
+77	Makes request and AdHoc service and returns response .
+958	performs greater - than - or - equal comparison .
+1391	comparison operator return hijri date plus n days
+1369	unfollow some model
+496	Set the primary contect for the account .
+727	Returns the formatter with the specified name or if not found raises an exception
+1245	Returns whether this SpecimenRequirement characteristics matches the other SpecimenRequirement characteristics on the tissue site and tissue side .
+1145	Publishes the given params to the HTTP API
+939	on creation set automatically lft and rgt to the end of the tree
+546	Request friendship with a user
+1226	Prints the spread sheet in a matrix with column labels and row labels . If no labels are available the column number and row number is printed
+18	Executes block with a temporary flag set to a given value . Returns block result .
+597	Send a POST request .
+561	Add a reply to a checkin .
+560	Add a comment to a checkin .
+791	DSL routes are located in the api folder
+435	Generates methods to work with menu items
+577	Get daily venue stats for a list of venues over a time range . Client instance should represent an OAuth user who is the venues owner .
+638	This method provides a means of assigning a shading colour to a selection of cells within a table . The method accepts a block that takes three parameters - a TableCellNode representing a cell within the table an integer representing the x offset of the cell and an integer representing the y offset of the cell . If the block returns true then shading will be applied to the cell .
+126	Returns exit code
+131	Add legacy transactions first since they are negative and can t be deleted ever . This method is called by merge . rb in order to add legacy negative transactions to the patch before everything else . They are not supposed to be disputed ever .
+317	Ask the user to get an API key from Twitter .
+166	Render the named template . Used for reporting and the dashboard .
+921	Remove extensions for a given class or list of classes
+1156	Initializes the sum row title an positions as well as the sum column title and position
+376	Create a TwoCaptcha API client .
+859	set the value of a particular price
+53	Create an individual value object by inferring the xsi_type . If the value type isn t recognized return the original value parameter .
+1212	Joins items in an array together in a grammatically correct manner .
+282	Enumerates over every link in the page .
+1087	Pull events until the start of an element of tag name + name + is reached .
+234	Runs request and parses Response
+615	Constructor for the Node class .
+258	Returns a parsed document object for HTML XML RSS and Atom pages .
+356	Returns fixed dependencies which are the ones we can t move because we wouldn t be able to save the data
+93	Normalizes all fields for the given data based on the fields list provided .
+1277	Find or create a named queue and bind it to the specified exchange
+1047	Returns a TransferEventParameters which serves as a proxy for saving this SpecimenPosition .
+878	Returns the object as a hash .
+1320	Add new path to the gitattributes file
+103	Authorize with specified authentication method .
+816	Returns a new Polyline . Note that this Polyline just uses whatever coordinates are found in the sequence in order so it might not make much sense at all .
+1	The default formatting is nearly unreadable so make it useful .
+884	Loads scraped objects from disk .
+562	Retrieve information about a venuegroup
+1250	Loads the caTissue classpath and connection properties .
+554	Retrieve information about a campaign
+487	Evaluate block after changing directory to specified directory
+353	Find candidates for unique key . Candidate must cover all columns we are passing as keys .
+806	Writes data .
+824	Validate that the given string _value_ describes a well - formed IPV6 network address using the standard ipaddr ruby module .
+596	Send a GET request .
+963	Array of messages for a given field . Results are always an array because a field can fail multiple validations .
+1051	create a filter for the columns that match the header filter
+193	Updates the specified item attributes
+633	This method provides a short cut means of creating a foreground colour command node . The method accepts a block that will be passed a single parameter which will be a reference to the foreground colour node created . After the block is complete the foreground colour node is appended to the end of the child nodes on the object that the method is called against .
+856	add a new subject to this product str should be the subject code type should be the code for the subject scheme you re using . See ONIX codelist 27 . 12 is BIC
+628	This method provides a short cut means of creating an underline command node . The method accepts a block that will be passed a single parameter which will be a reference to the underline node created . After the block is complete the underline node is appended to the end of the child nodes on the object that the method is call against .
+557	Retrive information about a single checkin .
+1318	standard open file dialog
+441	Fetches all refunds of your charge using the pin API .
+800	Perform an HTTP request and return the response
+540	Get all tips for a given user optionally filtering by text .
+715	Friendly helper method to fetch a Organization VDC by name - Organization object - Organization VDC Name
+1013	Creates a new analyzer Analyzes the file and returns the result
+550	Search for tips from a venue .
+331	handle oauth for this request . if the client isn t authorized print out the auth URL and get a pin code back from the user If + do_update_config + is false don t udpate the bots config file after authorization . This defaults to true but chatterbot - register will pass in false because it does some other work before saving .
+1214	ensure meta always will be saved as json instead of json string
+732	Requires all formatter files determined by the local path for formatters plus any additional paths set in the Rescuetime configuration .
+858	retrieve the value of a particular price
+1270	= > Add an Entitity to an Existing Alert Policy
+1237	Processes the filter on the given row
+984	Helper methods for values and their labels .
+950	Make an http request and return the result .
+245	Load some seed data . There are two ways to do this .
+675	Computes the differences of the change logs between two audits .
+280	Enumerates over the meta - redirect links in the page .
+1340	Find the first saved record
+50	Evaluates a given + block + inside + instance + . Stores the original block binding .
+871	Print the given server path relative to the current directory
+894	Adds a count .
+1015	Creates a new ScriptList . Takes params script_dir script_file and show_methods Retrieves the information about scripts and methods from the script directory
+1166	Sets the collection status for this SCG . If the SCG status is set to + Complete + then the status of each of the SCG Specimens with status + Pending + is reset to + Collected + .
+304	set the consumer key
+1151	Read a host file .
+447	Delete a remote file
+1005	Close all channels and then disconnect all the connections .
+149	Adds an item to this collection
+551	Add a tip
+838	whether arg is holiday
+254	Creates a new session cache .
+544	Get the mayorships for a given user .
+386	Adds intendations and newlines to + xml + to make it more readable
+1081	Generate Ruby code for Steam Language
+163	Handles resources such as tickets . Any options are passed to the underlying collection except reload which disregards memoization and creates a new Collection instance .
+926	Generates any alter table statements for current tables .
+702	Set VM RAM
+191	A helper to dispatch to a FieldURI IndexedFieldURI or an ExtendedFieldURI
+326	Based on the text of this tweet should it be skipped?
+16	Returns an instance of ReportUtils object with all utilities relevant to the reporting .
+407	Just because a message was recieved via SQS doesn t mean it was originally broadcast via SNS
+1094	Creates a new ControlledValueFinder for the given attribute . The optional YAML properties file name maps input values to controlled values .
+983	+ change_column This only works in a VERY limited fashion . For example VARCHAR columns cannot be shortened one column type cannot be converted to another .
+1355	you have the option of picking from many cards pick the best one .
+6	Hash of cookies extracted from response headers .
+651	This method assigns a new header to a document . A Document object can have up to four header - a default header a header for left pages a header for right pages and a header for the first page . The method checks the header type and stores it appropriately .
+1190	Initializes the attribute from given arguments and returns new immutable collection with the attribute
+336	Iterates through each entry of a readable ZIP archive in turn yielding each one to the given block .
+19	Validates given arguments based on provided fields list .
+35	Auxiliary method to recurse through a hash and convert all the keys to symbols .
+585	this method takes an input value and transforms it to the proper local format depending on the data type that was set for a particular property key . Return the internal representation of a property value for a given data type .
+754	iOS 4 - 8
+174	Build the ItemShape element
+751	Get the next character without getting it .
+834	Validate all the constraints listed in + options + to the given + value + .
+1265	action is a string either post or draft
+300	specify a bot - specific blocklist of users . accepts an array or a comma - delimited string . when called any subsequent calls to search or replies will filter out these users .
+115	Check whether this tax payment already exists in the wallet .
+882	Saves scraped objects to a database .
+1044	Disables an enabled user
+328	reset the since_id for this bot to the highest since_id we can get by running a really open search and updating config with the max_id
+167	prevent certain url helper methods from failing so we can run erb templates outside of rails for reports .
+1118	Loads the list of users that are connected to the current user through a social network like Facebook or Twitter .
+1257	= > Check if a string is an existing file and return it s content
+531	Mandrill uses a different hash for inlined image attachments
+359	Returns a hash with a simple record identity
+1073	Sets the sticker placements for each dj
+978	Filters and returns the raw data values for the specifid key and options
+642	This method assigns a border width to the right side of a table cell . Negative values are ignored and a value of 0 switches the border off .
+827	Update an attribute .
+1252	Initialize the system by downloading status and vatsim data files
+499	Updates the options of a multi - optioned custom field on this list .
+1336	Update fields without hitting the callbacks
+1260	Register the observer class watcher
+527	Stringify symbolized hash keys
+889	Builds a dependency graph .
+631	This method provides a short cut means of creating a strike command node . The method accepts a block that will be passed a single parameter which will be a reference to the strike node created . After the block is complete the strike node is appended to the end of the child nodes on the object that the method is call against .
+779	Create a hash of configuration options and their values .
+1287	= > Daemonization for Periodic Management
+3	Return a hash of headers whose keys are capitalized strings
+33	Converts Time to a hash for XML marshalling .
+514	Sets the basic details for this client .
+286	GETs + url + with + format + deserializes the returned document and updates properties accordingly .
+150	Executes actual GET from API and loads resources into proper class .
+972	+ field_at + retrieves the field at a given index .
+977	Returns the raw data with all of the filters applied
+919	Iterates over each item in the list in reverse order . If a block is not given an enumerator is returned .
+689	Add a new network to a vApp
+670	Opens the device .
+931	Returns the target and options including the capabilities
+602	Grants write permission on all existing users and roles attached to this object .
+1294	Analyses a string + string + . Returns an array of analysed strings if the string is accepted or an empty array if not .
+1255	= > Clear Cache
+1273	= > Get a Server based on Name
+846	Iterate over all the products in an ONIX file
+178	Build the FolderId element
+553	Retrieve information about an event
+571	Retrieve information about all venue categories .
+125	Returns list of Wallet IDs which were affected
+748	If true next_sequence_value is called before each insert statement to set the record s primary key . By default DB2 for i supports IDENTITY_VAL_LOCAL for tables that have one primary key .
+397	Pattern subscribe to a pubsub channel
+1390	Add Days - Weeks - Months - Years
+116	This method is thread - safe
+2	Extract the query parameters and append them to the url
+80	Logs HTTP headers on debug level .
+668	Opens the device with the specified path .
+863	Adds a friend to an instance s friend s list Similar to . befriend but will raise an error if the operation is not successful
+394	Subscribe to a pubsub channel
+485	size of dictionary
+719	For class context
+865	to be used as an around_filter
+1380	build a depth first tree
+237	Returns all fields of the asset with locales nested by field
+1399	If running as root fix ownership of var and etc dirs
+451	Connect to the server using separate threads and pipe for communications
+1211	Creates a new annotation object in the caTissue database .
+953	performs a like query .
+347	Detects a cycle . Based on escalation returns true or raises exception if there is a cycle
+1243	Set the maps region
+942	Adds word and its category to stats .
+1210	Adds a number range filter
+1315	Returns a link_to tag with sorting parameters that can be used with ActiveRecord . order_by .
+771	Provides an expanded globbed list of paths and files for a given name . The result includes only the last matched file of a given sub path and name .
+1328	Get all the host IDs and FQDNs and populate the host table
+37	Initializes an upload URL to get the actual URL to which to upload operations .
+1230	Coerces a number or an array to a spread sheet
+1120	Loads the list of users that are a fan of the current user .
+765	Sets up translation state instance to hold various attributes that need to be passed around and calls helpers to build the necessary associations and attach them to the form .
+340	Writes all the entries of this archive to _io_ . _io_ must be a writable IO - like object providing a _write_ method . Returns the total number of bytes written .
+1350	see model s followed history
+1144	Publishes the given params to the web socket
+624	This method inserts a footnote at the current position in a node .
+814	Build some XmlMarkup for GeoRSS . You should include the appropriate georss and gml XML namespaces in your document .
+673	Gets a feature report from the device .
+1387	constructor return hijri date with month and day names
+812	Returns a new GPolygon . Note that this GPolygon just uses whatever coordinates are found in the sequence in order so it might not make much sense at all .
+665	Gets the first device with the specified vendor_id product_id and optionally serial_number .
+616	This method retrieves a Node objects next peer node returning nil if the Node has no previous peer .
+1253	Download a url to a file path
+509	Gets the lists across a client to which a subscriber with a particular email address belongs . email_address - A String representing the subcriber s email address
+90	Generates an array of extra user agents to include in the user agent string .
+796	Output the plain text response from calling all the filters .
+1016	Retrieve the methods including comments if available
+364	Gather times for each input against an algorithm
+218	Creates a new appointment
+592	Queries can be made using distinct allowing you find unique values for a specified field . For this to be performant please remember to index your database .
+848	set a new title
+819	match? was added in Ruby 2 . 4 this allows us to be backwards compatible with older Ruby versions
+1333	Transform and write a standard attribute value
+136	Marks all the posts from the given one as unread for the given user
+1137	Find the span between two Vectors
+1063	Save meta tags records into one hash
+82	Checks for an XML error in the response body and raises an exception if it was found .
+1149	Copy files or directories to the host .
+29	Adds Savon attribute for given node key name and value .
+1271	= > Delete an Entitity from an Existing Alert Policy
+55	Create a statement object that can be sent in a Ad Manager API request .
+789	Sets the attributes for object .
+402	Perform a search returning the results as an enumerator .
+729	Limits the Rescuetime report to specific activities and documents . The name option limits the results to those where name is an exact match ; this can be used on the overview activity and category report . The document option limits the specific document title ; this is only available on the activity report .
+688	Merge the Configuration section of a new network and add specific configuration
+62	Executes the SOAP request with original SOAP name .
+299	generate a Bot object . if the DSL is being called from a Bot object just return it otherwise create a bot and return that
+327	Is this tweet from a user on our blocklist?
+303	set the consumer secret
+253	The Cookie key - > value pairs returned with the response .
+412	This is trivial to define with named arguments however Ruby 2 . 6 removed the support for mixing strings and symbols as argument keys so we re forced to perform manual decoding . The complexity of this code supports the rationale for the removal of the functionality .
+261	Add a cookie to the jar for a particular domain .
+515	Sets the PAYG billing settings for this client .
+390	Forks the current process and starts a new mock Redis server on port 6380 .
+1283	Todo make this take a path instead?
+513	Gets the templates belonging to this client .
+180	Build the Mailbox element . This element is commonly used for delegation . Typically passing an email_address is sufficient
+1112	Copy a file or readable to the host filesystems .
+852	set a new sales restriction type
+581	Retrieve photos for a venue
+278	Pass every Atom document that the agent parses to a given block .
+913	This method simplify results structure it sets only one level of nesting by leaving parents only with collection as child
+368	Fit the performance measurements to construct a model with slope and intercept parameters that minimize the error .
+872	If this pattern represents an exact path returns the exact path .
+117	Creates an empty wallet with the specified ID and public key .
+152	Tries to place side loads onto given resources .
+1028	Pauses the current fiber until it is resumed with response data . This can only get resumed explicitly by the provided block .
+1096	Appends the new subscriptions to the subscription list and writes the results out to the file .
+129	As a hash map
+724	Performs the rescuetime query and returns an array or csv response .
+811	Returns a new GPolyline . Note that this GPolyline just uses whatever coordinates are found in the sequence in order so it might not make much sense at all .
+753	iOS 10 AVCapturePhotoCaptureDelegate method
+1034	Looks up a scope name from the registered recognizers and then from the converters .
+575	Suggest venue completions . Returns a list of mini - venues partially matching the search term near the location .
+767	include? will evaluate
+1216	Initializes the collection
+902	Delgate api call to Request
+879	Export this map to the given filename in the appropriate format .
+521	Retrieves the subscriber clicks for this campaign .
+566	Retrieve information about a special
+739	Helper for process template method to decode the part based on its type and write its content to a temporary file . Returns path to temporary file that holds the content . Parts with a main type of text will have their contents transformed with a call to transform_text
+778	fetches a movie by IMDB id set tomatoes to true if you want to get the rotten tomatoes ranking set plot to full if you want to have the full long plot
+710	Retrieve a screen ticket that you can use with the VMRC browser plug - in to gain access to the console of a running VM .
+14	Instance methods .
+102	Obtain an API service given a version and its name .
+187	Build the ContactsView element
+888	If any objects have unresolved foreign objects we cannot derive an evaluation order using a dependency graph .
+1192	returns a summoner object
+391	Configure the redis connection to use
+433	Generates methods to get the value of a label control
+72	Downloads a report with AWQL and saves it to a file .
+530	Returns a Mandrill API compatible attachment hash
+467	Searches through transactions on your account . Helpful if you want to compare vs your own records or print an admin report .
+565	List all venue groups owned by the user .
+306	set the token
+962	My classes .
+159	If this resource hasn t already been deleted then do so .
+500	Gets the custom fields for this list .
+406	Rails 3 . 0 and 3 . 1 + support
+744	Helper to add a file to the media hash .
+656	This method adds a new colour to a ColourTable object . If the colour already exists within the table or is not a Colour object then this method does nothing .
+1109	Yield with a temporary host list
+423	Returns the modification time of _file_ .
+408	Returns a representation of the transaction as it would appear in a qif file .
+454	Runs the input on the machine and returns a Hash describing the machine s final state after running .
+1307	Accept any parser when that resopond to parse method .
+1339	shows statistics about difficulty and network power
+1090	Processes the filter and returns the filtered columns
+1184	Recurse through node edges
+700	Set information about Disks
+141	Updates the Row at _idx_ with the following arguments .
+123	Age of wallet in hours .
+121	Returns TRUE if the wallet contains a payment sent with the specified ID which was sent to the specified beneficiary .
+758	todo . value equal 10 may not be a good params
+399	Unsubscribe a given callback from a pattern . Will unsubscribe from redis if there are no remaining subscriptions on this pattern
+1026	Callback when the session has ended . This will automatically reconnect if allowed to do so .
+855	set the discount code that describes the rrp in this file
+1345	Number of processors seen by the OS and used for process scheduling .
+1222	Sets the defaults if necessary . The start date is set to now . The title is set to the short title .
+1061	Updates the current user s avatar to this one .
+385	This more of an internal method use one of the static constructors instead
+338	Extracts the contents of the archive to _destination_ where _destination_ is a path to a directory which will contain the contents of the archive . The destination path will be created if it does not already exist .
+569	Search for trending venues
+216	Resolve ambiguous e - mail addresses and display names
+1006	The home directory .
+632	This method provides a short cut means of creating a font command node . The method accepts a block that will be passed a single parameter which will be a reference to the font node created . After the block is complete the font node is appended to the end of the child nodes on the object that the method is called against .
+222	Some operations only exist for certain versions of Exchange Server . This method should be called with the required version and we ll throw an exception of the currently set
+601	Grants read permission on all existing users and roles attached to this object .
+474	number of records found for keywords
+1072	Enters the current room .
+522	Retrieves the unsubscribes for this campaign .
+660	This method generates the RTF text for an Information object .
+563	Create a venue group . If the venueId parameter is specified then the endpoint will add the specified venues to the venue group . If it is not possible to add all of the specified venues to the group then creation of the venue group will fail entirely .
+699	Retrieve information about Disks
+1342	Iterate over all records in batches
+529	Login REST API
+322	load in the config from the assortment of places it can be specified .
+741	Helper for process_media template method to transform text . See the transform section in the discussion of the built - in configuration .
+1105	Creates a new controlled value record in the database from the given ControlledValue cv . The default identifier is the next identifier in the permissible values table .
+316	print out a message about getting a PIN from twitter then output the URL the user needs to visit to authorize
+1046	Unlocks a user
+718	thread safe version using shallow copy of env
+1351	Puts this thread to sleep until another thread resumes it . Threads will be woken in the chronological order that this was called .
+691	Create a fake Configuration node for internal networking
+1155	Writes the aggration results
+1161	Clone of an existing bug
+398	Pattern unsubscribe all callbacks for a given pattern
+1054	Adds the given storable to this container . If the storable has a current position then the storable is moved from that position to this container . The new position is given by the given coordinate if given to this method .
+810	Returns a new GMarker at the centroid of the geometry . The options Hash works the same as the Google Maps API GMarkerOptions class does but allows for underscored Ruby - like options which are then converted to the appropriate camel - cased Javascript options .
+171	Build jobs and run . This is NOT interface for users .
+763	Adds the given association to an array of associations for the given attribute
+1078	Move a song from one location in the playlist to another .
+794	Add a status check to the handler .
+881	Dumps scraped objects to disk .
+11	Responds to an OPTIONS request .
+733	Initialize the parser with a document Parse the document and save values returned by selectors
+1114	Writes a string to a file on the host filesystems .
+153	Saves returning false if it fails and attaching the errors
+1110	Yield with a temporary username override
+318	given an array or object return the highest id we can find
+857	set the value of a particular measurement
+403	Advanced search .
+1335	Transform and write a hash attribute
+536	Search for users by tip
+909	Find out which schedule to run
+612	Supporting the save_all method to be used in scope chaining with queries .
+694	Fetch information for a given task
+760	Adds middleware to the current stack definition
+607	Adds the third - party authentication data to for a given service .
+876	Verify supplied coords + x + and + y +
+439	Generates methods for working with tab controls
+747	guess content type from filename
+637	This method assigns a shading colour to a specified column within a TableNode object .
+795	Lookup a status check filter from the name and arguments
+788	Modify a drop with a private URL to have a public URL or vice versa .
+604	Denies write permission on all existing users and roles attached to this object .
+671	Attempts to read from the device waiting up to + milliseconds + before returning .
+1127	Generate weighted - random value
+1262	Unregister an observer instance and cancel consumption of messages . Any pre - fetched messages will be returned to the queue .
+314	send a direct message
+987	Get Policy version s rules
+548	Retrieve information about a tip .
+97	Determines a choice type override for for the field . Returns nil if no override found .
+1293	= > OS X Cocoa Messages
+798	self responds_to bootstrap_admin_config methods via method_missing!
+678	Generate a file name based on the provided file path . Provide a logical extension .
+1352	Validates a timeout value
+380	Perform an HTTP request to the 2Captcha API .
+755	iOS 8 +
+387	Used for Sidekiq 2 . x only
+966	Validates contents of field against a given Regexp . This can be tricky because you need to anchor both sides in most cases using \ A and \ Z to get a reliable match .
+140	Sets the default Format of the column at _idx_ .
+623	This method provides a short cut means of creating a new ordered or unordered list . The method requires a block that will be passed a single parameter that ll be a reference to the first level of the list . See the + ListLevelNode + doc for more information .
+1298	= > Remove Non - Reporting Servers
+537	Get all pending friend requests for the authenticated user
+130	As a text
+657	This method generates a textual description for a ColourTable object .
+1319	Return a structure describing the options .
+1205	Adds a range and the associated types to the filter
+81	Checks downloaded data for error signature . Raises ReportError if it detects an error .
+667	Gets the device with the specified path .
+91	Extracts misc data from response header .
+464	Creates a pipeline that will authorize you to send money _to_ the user .
+217	Converts item and folder identifiers between formats .
+350	Given hash of attributes we assign them to InventoryObject object using its public writers
+355	Attributes that are needed to be able to save the record i . e . attributes that are part of the unique index and attributes with presence validation or NOT NULL constraint
+552	Mark a tip todo for the authenticated user .
+949	Toggle the status of an outlet
+1198	Creates a new filter Creates the filters based on the given patterns
+414	This is a fast report based on SAX parser
+1163	Get all entries for the given summoner
+179	Build the AdditionalProperties element
+335	Returns a Time instance which is equivalent to the time represented by this object .
+231	Returns the X - Contentful - User - Agent os data
+973	+ bind + fetches all mapped fields from any subview of the current + UIView + and transfers the contents to the corresponding fields of the model specified by the + model + method .
+663	Load gazelles and make the required bindings
+301	specify a bot - specific safelist of users . accepts an array or a comma - delimited string . when called any subsequent calls to search or replies will only act upon these users .
+1160	Parse given arguments
+189	A helper method to dispatch to an ItemId OccurrenceItemId or a RecurringMasterItemId
+1092	Sets the role id to the given value which can be either a String or an Integer . An empty or zero value is converted to nil .
+1220	Initializes the column positions where the source file columns have to be inserted . If no column positions are provided the inserted columns are put at the beginning of the row
+384	Internal - Configure virtual attributes for this server . If the option is true we ll use the default virual attributes . If it s a Hash we ll map the attributes in the hash .
+1101	Initializes a new Annotator for the given database .
+1153	Returns true if Storable is a Specimen and supported by this SpecimenArrayType .
+822	Send the request to URL and return the JSON response
+200	Handles the CreateItem call for Forward ReplyTo and ReplyAllTo It will handle the neccessary actions for adding attachments .
+937	Extract the most likely looking number from the string . This will be the first string of digits - and - hyphens - and - maybe - a - trailing - X with the hypens removed
+567	Search for specials
+1249	Initialize and return translations
+156	Creates multiple resources using the create_many endpoint .
+1321	Runs the migration .
+936	Extracts device from browser string
+643	This method assigns a border width to the bottom side of a table cell . Negative values are ignored and a value of 0 switches the border off .
+1088	Pull all text nodes until the next + end_element + event . Return the concatenation of text nodes .
+1385	Includes the stylesheets and javescripts into what ever view this is called to .
+118	Returns current wallet balance .
+1224	Collects the operation on each column and returns the result in an array
+941	Prunes a branch off of the tree shifting all of the elements on the right back to the left so the counts still work
+835	Call + validate_type + with the given + object + apply the constraints and assign the sanitized object .
+773	to improve performance we didnt assign tp as instance variable
+918	Iterates over each item in the list If a block is not given an enumerator is returned .
+182	Specifies an optional time zone for the start time
+251	Call the defined processing and get the result . Allows specifying the source file and destination .
+924	Generates the change block of the migration .
+361	If it is a Failure it will return a new Failure with the provided value
+952	Specifies how to sort . only ascending sort is supported in the short form . For descending implement the block form .
+1037	Set the views latitude and longitude with a given zoom level
+308	simple wrapper for favoriting a message
+1170	Decrements this parent s available quantity by the given child s initial quantity if the specimen types are the same and there are the relevant quantities .
+662	This is an unhandled error on the Libuv Event loop
+287	Serializes the object PUTs it to + url + with + format + deserializes the returned document and updates properties accordingly .
+1187	Loads the attributes for this playlist . Attributes will automatically load when accessed but this allows data to be forcefully loaded upfront .
+533	Pick a Minimum Peek Range Based on minumum ready jobs on all tubes
+1070	Loads the attributes for this room . Attributes will automatically load when accessed but this allows data to be forcefully loaded upfront .
+595	Complies the query and runs all prepare callbacks .
+1014	Sets the Galena example Defaults attributes to new objects .
+840	Returns Option converted to an array .
+173	Build the FolderShape element
+73	Streams a report with AWQL as a string to the given block . This method will not do error checking on returned values .
+107	Handle loading of a single service . Creates the wrapper sets up handlers and creates an instance of it .
+363	Generate a range of inputs spaced by powers .
+930	Creates a Selenium driver session and returns the driver object
+1225	Renames the row and column labels
+108	Auxiliary method to create a default Logger .
+1331	Transform and read a list attribute
+401	Perform a batch search .
+523	Retrieves the spam complaints for this campaign .
+209	Get a specific folder by its ID .
+574	Mark a venue as todo for the authenticated user
+1348	Reload the events from the event file . Existing events are deleted first .
+1075	Vote for the song .
+211	Defines a request to copy folders in the Exchange store
+1036	Set the views center coordinates with a given zoom level
+312	simple wrapper for sending a message
+899	Fibonacci linear feedback shift register with x^25 + x^24 + x^23 + x^22 + 1 poly
+313	reply to a tweet
+471	Commit the current changes to the resource to the remote server . If the resource was previously loaded from the server we will try to update the record . Otherwise if it s a new record then we will try to create it
+686	Set vApp port forwarding rules
+67	Format headers redacting sensitive information .
+1235	Initialize the key columns and headers
+1268	Resolves relative links to Markdown files .
+639	This method overloads the store method inherited from the ContainerNode class to forbid addition of further nodes .
+555	Sets up the connection to be used for all requests based on options passed during initialization .
+1306	Sequencial apply all adjusters .
+378	Retrieve information from an uploaded captcha .
+283	Enumerates over every absolute URL in the page .
+170	Check to make sure we set a custome path it exists and there are non - dotfiles in the directory .
+1200	Yields the column value and whether the filter matches the column
+88	Set the credentials hash to a new one . Calculate difference and call the AuthHandler callback appropriately .
+707	Fetch details about a given VM
+1119	Loads the list of users that the current user is a fan of .
+992	Template to convert
+275	Pass every HTML document that the agent parses to a given block .
+716	adding existing containers - related methods
+1290	Get a layout as a string . If layout_path is non - nil will open that file and read it otherwise will return a default one and a file extension to use
+235	Runs Resource Builder
+431	Generates methods to get the value of a combo box set the selected item by both index and value as well as to see the available options
+520	Retrieves the opens for this campaign .
+600	Removes a permission for an objectId or user .
+964	Validates that something has been endntered in a field . Should catch Fixnums Bignums and Floats . Nils and Strings should be handled as well Arrays Hashes and other datatypes will not .
+147	Write this Workbook to a File IO Stream or Writer Object . The latter will make more sense once there are more than just an Excel - Writer available .
+606	This method takes the result hash and determines if it is a regular parse query result object result or a count result . The response should be a hash either containing the result data or the error .
+1142	Creates the spread sheet operands for the arithmetic operation
+839	Turns trailing command line arguments into an array for an arrayed value
+1247	Export translations to JavaScript considering settings from configuration file
+463	Creates a pipeline that will authorize you to send money _from_ the user multiple times .
+1004	Declare and bind a queue to the specified exchange via the supplied routing key .
+354	List attributes causing a dependency and filters them by attributes_blacklist and attributes_whitelist
+1208	Adds a date range filter
+1337	Controller helper method to filter out non - authorized objects from the passed in array
+466	Converts the Pipeline object into parameters and signs them .
+249	In case of processing errors both libvips and imagemagick will leave the empty destination file they created so this method makes sure it is deleted in case an exception is raised on saving the image .
+78	Prepares headers for report request .
+1347	end def run
+1002	Creates a schema attribute sibling of any formParameter attribute found based on the found formParameters attribute .
+1089	Returns the I18n translation for comparison . dom_classes .
+428	Update the attributes of this model . Assign the attributes according to the hash then persist those changes on the server .
+698	Fetch details about a given catalog
+1022	Finds songs that match the given query .
+706	Set VM Guest Customization Config
+362	type - Return type of the method . c_name - C Name . args - Array of Arrays containing data type and variable name .
+1086	Returns an array of eneums parsed from the IO stream . The array contains hashes with enum information and variables .
+1157	Defines casting rules
+266	Start spidering until the queue becomes empty or the agent is paused .
+292	Set the client to use HTTP Basic Authentication
+1023	Triggers callback handlers for the given Turntable command . This should either be invoked when responses are received for Turntable or when triggering custom events .
+270	Visits a given URL and enqueus the links recovered from the URL to be visited later .
+494	Gets your clients .
+250	Add multiple operations as a hash or an array .
+749	Holy moly batman! all this to tell AS400 yes i am sure
+1314	Use on index pages to create dropdown list of filtering criteria . Populate the filter list using a constant in the model corresponding to named scopes .
+295	Splits a network into different subnets
+1269	= > Build the HTTP Connection
+257	Sanitizes a URL based on filtering options .
+44	Get the endpoint for a service on a given API version .
+388	Acquire the lock
+1372	Initialize can accept custom configuration parameters Lookup for a specific service key passed block is called with the result values in case of http backend it return the result directly
+310	Is this tweet from a user on our safelist?
+20	Special handling for choice types . Goes over each item checks xsi_type is set and correct and injects new node for it into the tree . After that recurces with the correct item type .
+1366	Pass in a hash that s been encoded as JSON and then Base64 .
+807	Gets read buffer chunk size .
+1129	Determines whether the conditions configured for this handler match the event data
+199	Get a specific item by its ID .
+445	Upload a local file
+672	Sends a feature report to the device .
+437	Generates methods for working with tree view controls
+425	Return a new Authenticator instance .
+480	get info about specific index
+10	The logic for dispatching any additional actions that need to be taken . For instance calling the request phase if the request path is recognized .
+989	Activate a policy version
+861	set the value of a particular website
+205	Syncronize Items in this folder . If this method is issued multiple times it will continue where the last sync completed .
+808	Reads data in chunks from the chip . Returns when at least one byte is available or when the latency timer has elapsed . Automatically strips the two modem status bytes transfered during every read .
+470	This compiles an API request object into a URL sends it to Amazon and processes the response .
+61	Executes SOAP action specified as a string with given arguments .
+862	Adds a friend to an instance s friend s list
+493	Updates this email template .
+196	Get information about when the user with the given email address is available .
+1195	returns the runebook for multiple summoners
+589	Apply a set of constraints .
+1388	Hijri to julian
+0	can t use flatten as it will flatten hashes
+311	internal search code
+99	Converts one leaf item to a built - in type .
+955	performs strict equality comparison .
+1077	Adds the song to one of the user s playlists .
+891	Resolves an object s foreign objects to database IDs .
+1313	Wraps the given HTML in Rails default style to highlight validation errors if any .
+1323	Extract text out of HTML or plain strings . Basically removes html formatting .
+114	Returns TRUE if a file for this wallet is already in the queue .
+582	Forward a method call to the delegate .
+1381	Returns APOD info for specified day .
+825	Create an internal model with a reference to a public model .
+330	query twitter for the bots screen name . we do this during the bot registration process
+1060	Determines whether this avatar is available to the current user .
+410	Looks up node by id checks that there s only a single node with a given id
+298	Returns the difference between two prefixes or a prefix and a number as a Integer
+1207	Adds a date filter
+334	Closes the writer by finishing the compressed data and flushing it to the delegate .
+9	Follow a redirection
+1175	The annotation proxy is not copied because the attribute redirects to the hook rather than the proxy . Set the template copy source proxy to the target object proxy using the low - level Java property methods instead .
+946	Introspection on an association to determine if a method is a file . This is determined by the methods ability to respond to file methods .
+1011	Add a WeekDays attribute
+1228	If rows are of different column size the rows are equalized in column size by filling missing columns with NA
+1172	Updates the given user address .
+164	yield to a builder block in which all defined apps will only respond for the given version
+648	This method converts an array to an integer . The array must be either two or four bytes in length .
+424	Fetch a model from the server by its ID .
+392	Disconnect then reconnect the redis connection .
+1256	= > Define JSON Writer
+854	retrieve the discount code that describes the rrp in this file
+877	Validates the object against the schema .
+947	Create an array from a string a symbol or an undefined value . The default is to return the value and assume it has already is valid .
+285	Serializes the object POSTs it to + url + with + format + deserializes the returned document and updates properties accordingly .
+1383	If there is already an authorization by this note use it ; otherwise create it
+69	Check whether or not to log request summaries based on log level .
+556	Helper method to return errors or desired response data as appropriate .
+323	simple wrapper for retweeting a message
+468	Refunds a transaction . By default it will refund the entire transaction but you can provide an amount for partial refunds .
+12	Performs the steps necessary to run the callback phase of a strategy .
+752	iOS 11 + AVCapturePhotoCaptureDelegate method
+413	Currently any completion suffix is ignored and stripped .
+528	Slice keys from hash
+1299	= > Find Servers which should be excluded from Management
+456	Creates a new tape .
+849	set a new subtitle
+27	Validates Hash argument .
+315	check direct messages for the bot
+1066	Loads this class s annotations .
+15	Retrieve correct soap_header_handler .
+743	Helper for process template method to name a temporary filepath based on information in the part . This version attempts to honor the name of the media as labeled in the part header and creates a unique temporary directory for writing the file so filename collision does not occur . Consumers of this method expect the directory structure to the file exists if the method is overridden it is mandatory that this behavior is retained .
+48	Processes a given + block + . Yields objects if the block expects any arguments . Otherwise evaluates the block in the context of + instance + .
+695	Poll a given task until completion
+1136	Creates a new allocator . Options are infile outfile key rows and columns to allocate to key Executes the allocator and assigns column values to the key
+995	Treating data in hash
+1274	= > List the Servers with a Label
+42	Determining whether another page exists when dealing with bid landscapes is different from other types of queries . Use this method for those cases .
+204	Search on the item subject
+897	Performs the transaction .
+1281	Generate a timestamped post
+1194	returns the runebook of a summoner
+1115	Ping each host by trying to connect to port 22
+1356	This method is called if your hand is over the hand limit it returns the card that you would like to discard . Returning nil or a card you don t have is a very bad idea . Bad things will happen to you .
+75	Send POST request for a report and returns Response object .
+636	Creates a new + ListLevelNode + to implement nested lists
+826	Whether the key doesn t need to be lazily loaded .
+41	Removes extraneous XML information from return hash .
+1258	= > Return Common Elements of an Array
+302	specify list of strings we will check when deciding to respond to a tweet or not . accepts an array or a comma - delimited string . when called any subsequent calls to search or replies will filter out tweets with these strings
+731	Returns true if the provided api key is valid . Performs a request to the Rescuetime API .
+524	Retrieves the bounces for this campaign .
+580	Add a photo
+337	Adds _entry_ into a writable ZIP archive .
+504	Updates the person details . password is optional and will only be updated if supplied
+961	Give the Nth inversion of the chord which simply adjusts the lowest N notes up by one octive
+1084	An array of hashes containing the imports found in the parsed Steam Language file .
+990	Update policy version all rules
+1254	Return random vatsim data url from status file
+1124	Updates the laptop currently being used
+429	Generates methods to enter text into a text field get its value and clear the text field
+900	Creates a new instance of the command and sets up OptionParser .
+427	Try to persist the current object to the server by creating a new resource or updating an existing one . Raise an error if the object can t be saved .
+1108	Yield with the hash temporary merged into the context variables . Only variables specifically named in + hash + will be reset when the yield returns .
+1018	Runs the given API command .
+21	Checks if no extra fields provided outside of known ones .
+1059	Attempts to set attributes on the object only if they ve been explicitly defined by the class . Note that this will also attempt to interpret any metadata properties as additional attributes .
+1165	From an array of supplied URIs will request each one and attempt to find a feed URI on the page . If one is found it will be added to an array and returned .
+1050	Merge files based on common header columns
+442	Update a recipient using the pin API .
+1039	Sets the from Location .
+627	This method provides a short cut means of creating an italic command node . The method accepts a block that will be passed a single parameter which will be a reference to the italic node created . After the block is complete the italic node is appended to the end of the child nodes on the object that the method is call against .
+781	Update an existing user
+721	Runs a block in the background and displays a spinner until it completes .
+1103	Sets this Person s name to the name string or Name object . A string name argument is parsed using Name . parse .
+703	Edit VM Network Config
+215	Creates either an item or file attachment and attaches it to the specified item .
+762	Maps an association to the attribute its data will be tied
+956	performs greater - than comparison .
+459	Formats all attributes into a hash of parameters .
+1143	Publishes the given params to the underlying web socket . The defaults initially configured as part of the connection will also be included in the message .
+1076	Triggers the heart animation for the song .
+957	performs less - than comparison .
+746	returns a filename declared for a part or a default if its not defined
+874	Set given pixel identified by + x + + y + to + r + + g + + b +
+745	Helper to temp_file to create a unique temporary directory that is a child of tmp_dir This version is based on the message_id of the mail .
+1152	Execute a command on the host and return its output .
+430	Generates methods to click on a button as well as get the value of the button text
+289	Sign a single transaction
+436	Generates methods for working with table or list view controls
+169	Returns the experiment . You may not have guessed but this method raises an exception if it cannot load the experiment s definition .
+640	This method assigns a width in twips for the borders on all sides of the cell . Negative widths will be ignored and a width of zero will switch the border off .
+1052	Returns true if this ConsentTierStatus ConsentTier is nil the other ConsentTierStatus ConsentTier is nil both ConsentTier identifiers are equal or both ConsentTier statements are equal .
+970	Client for accessing public information .
+453	Verifies that the initialized DFA is valid . Checks that each state has a transition for each symbol in the alphabet .
+590	This method takes all the parameters of the instance and creates a proper hash structure required by Parse in order to process the push notification .
+993	Wrap the string of into num_lines lines .
+491	Gets the historical record of this subscriber s trackable actions .
+1038	Get the current zoom level
+421	Walk through the list of every file we ve loaded .
+501	Gets the segments for this list .
+923	Creates a migration builder for the given database .
+481	add all values for a model attribute to autocomplete
+389	Release the lock
+507	Gets the draft campaigns belonging to this client .
+541	Get all todos for a given user .
+281	Enumerates over every HTTP or meta - redirect link in the page .
+598	Send a PUT request .
+780	Create a user from the options
+409	Tests that the document content has not been edited
+358	Returns array of records identities
+742	Helper for process_media template method to transform text .
+1093	return feed of current page infomation including image
+641	This method assigns a border width to the top side of a table cell . Negative values are ignored and a value of 0 switches the border off .
+934	Extracts version from browser string
+976	Initialisation of the middleware
+478	delete all records in specific model
+133	Delete all copies that are older than the max age provided in seconds .
+65	Yields to user - specified block with additional information such as headers .
+1121	Gets the stickers that have been purchased by this user .
+122	Returns TRUE if the wallet contains a payment received with the specified ID which was sent by the specified beneficiary .
+1007	Parses a String containing multiple paths .
+479	delete specific document from index
+1182	Used to wrap results from various Enumerable methods that are defined to return an array
+440	Displays the flash messages found in ActionDispatch s + flash + hash using Foundation s + callout + component .
+1280	Publish a message to the specified exchange which is declared as a durable topic exchange . Note that message is always persisted .
+379	Load a captcha raw content encoded in base64 from options .
+8	Follow a redirection response but change the HTTP method to GET and drop the payload from the original request .
+635	This method creates a new table node and returns it . The method accepts a block that will be passed the table as a parameter . The node is added to the node the method is called upon after the block is complete .
+1392	Sets it to an error .
+1055	Finds the container with the given name or creates a new container of the given type if necessary .
+959	performs less - than - or - equal comparison .
+1062	call to get champions
+841	Returns Option converted to a hash .
+969	Creates a Stellar client scoped to an assignment .
+1133	Creates a new extractor Executes the extractor
+1397	Run the agent app!
+701	Set VM CPUs
+1082	Load the grammars
+1301	Begins a phone call to the user where they ll need to type their confirmation code
+1045	Enables a disabled user
+1135	Get the document type from the YAML file next to the document .
+907	Perform the backup
+220	Gets the rooms that are in the specified room distribution list
+608	You may set a password for this user when you are creating them . Parse never returns a
+247	Determines the appropriate destination image format .
+1291	Print a usage message and exit
+613	This method adds a font to a FontTable instance . This method returns a reference to the FontTable object updated .
+95	Normalizes every item of an Array .
+620	This is the constructor for the CommandNode class .
+134	Returns the name of the copy
+626	This method provides a short cut means of creating a bold command node . The method accepts a block that will be passed a single parameter which will be a reference to the bold node created . After the block is complete the bold node is appended to the end of the child nodes on the object that the method is call against .
+887	For each object map its ID to the ID of its duplicate if any .
+785	Return all user roles from the remote service
+867	collects non empty directories and names the metric by the folder name parent? or dirname? or basename?
+1041	Create a CliOptions object
+232	Returns the X - Contentful - User - Agent
+208	Checks a subscribed folder for events
+438	Generates methods for working with spinner controls
+1302	Validate data against provided format
+1251	Parse the vatsim data file and store output as necessary
+1098	Executes the calculator and writes the result to the _outfile_
+967	Set created_at and updated_at fields
+614	This method generates the RTF text for a FontTable object .
+1344	Returns the deserialized mapped key when provided with the former key .
+932	Extracts browser version platform device from the browser string
+736	open web pages with UTF - 8 encoding
+935	Extracts platform from browser string
+982	- begin_db_transaction - commit_db_transaction - rollback_db_transaction - begin_isolated_db_transaction - supports_transaction_isolation? - write_large_object - pk_and_sequence_for - primary_key - primary_keys
+63	Checks for errors in response and raises appropriate exception .
+782	Find a user by email
+1008	7 bits encoded in decimal number 0th bit = Sunday 6th bit = Saturday Value of 127 = > all days are on
+823	Validate IPV4 using the standard ipaddr ruby module .

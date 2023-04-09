@@ -1,0 +1,291 @@
+10/09/2022 07:02:28 - INFO - __main__ -   device: cuda, n_gpu: 1
+10/09/2022 07:02:29 - DEBUG - filelock -   Attempting to acquire lock 139901094489344 on /home/aiscuser/.cache/huggingface/transformers/6537f24197db9749ad60f891d7a50ec2de3992bee193d25b24bb244ee5ca91f9.6243fbb3cc75148b68777473341e2d0860fde2b135f39c1d7d274d8ba1763e13.lock
+10/09/2022 07:02:29 - DEBUG - filelock -   Lock 139901094489344 acquired on /home/aiscuser/.cache/huggingface/transformers/6537f24197db9749ad60f891d7a50ec2de3992bee193d25b24bb244ee5ca91f9.6243fbb3cc75148b68777473341e2d0860fde2b135f39c1d7d274d8ba1763e13.lock
+Downloading:   0%|          | 0.00/916k [00:00<?, ?B/s]Downloading:   4%|▍         | 40.0k/916k [00:00<00:02, 369kB/s]Downloading:  21%|██        | 189k/916k [00:00<00:00, 949kB/s] Downloading:  92%|█████████▏| 845k/916k [00:00<00:00, 3.23MB/s]Downloading: 100%|██████████| 916k/916k [00:00<00:00, 2.76MB/s]
+10/09/2022 07:02:30 - DEBUG - filelock -   Attempting to release lock 139901094489344 on /home/aiscuser/.cache/huggingface/transformers/6537f24197db9749ad60f891d7a50ec2de3992bee193d25b24bb244ee5ca91f9.6243fbb3cc75148b68777473341e2d0860fde2b135f39c1d7d274d8ba1763e13.lock
+10/09/2022 07:02:30 - DEBUG - filelock -   Lock 139901094489344 released on /home/aiscuser/.cache/huggingface/transformers/6537f24197db9749ad60f891d7a50ec2de3992bee193d25b24bb244ee5ca91f9.6243fbb3cc75148b68777473341e2d0860fde2b135f39c1d7d274d8ba1763e13.lock
+10/09/2022 07:02:30 - DEBUG - filelock -   Attempting to acquire lock 139901094489200 on /home/aiscuser/.cache/huggingface/transformers/e9a41c80e105c7ebfab8467fd5fa110db792fa435a42cf53fc84cd4dbce63203.fcaa28dbb04dd654a7ac023857de409e4815667a26706e2aa9a1bbc3ed49037a.lock
+10/09/2022 07:02:30 - DEBUG - filelock -   Lock 139901094489200 acquired on /home/aiscuser/.cache/huggingface/transformers/e9a41c80e105c7ebfab8467fd5fa110db792fa435a42cf53fc84cd4dbce63203.fcaa28dbb04dd654a7ac023857de409e4815667a26706e2aa9a1bbc3ed49037a.lock
+Downloading:   0%|          | 0.00/434k [00:00<?, ?B/s]Downloading:   8%|▊         | 36.0k/434k [00:00<00:01, 360kB/s]Downloading:  41%|████▏     | 180k/434k [00:00<00:00, 989kB/s] Downloading: 100%|██████████| 434k/434k [00:00<00:00, 1.72MB/s]
+10/09/2022 07:02:30 - DEBUG - filelock -   Attempting to release lock 139901094489200 on /home/aiscuser/.cache/huggingface/transformers/e9a41c80e105c7ebfab8467fd5fa110db792fa435a42cf53fc84cd4dbce63203.fcaa28dbb04dd654a7ac023857de409e4815667a26706e2aa9a1bbc3ed49037a.lock
+10/09/2022 07:02:30 - DEBUG - filelock -   Lock 139901094489200 released on /home/aiscuser/.cache/huggingface/transformers/e9a41c80e105c7ebfab8467fd5fa110db792fa435a42cf53fc84cd4dbce63203.fcaa28dbb04dd654a7ac023857de409e4815667a26706e2aa9a1bbc3ed49037a.lock
+10/09/2022 07:02:31 - DEBUG - filelock -   Attempting to acquire lock 139901094489200 on /home/aiscuser/.cache/huggingface/transformers/192a4a8bfa30aa3013d375ea31db6b14b0f753bf61bd99b778cb8ebaa0d6a338.cb2244924ab24d706b02fd7fcedaea4531566537687a539ebb94db511fd122a0.lock
+10/09/2022 07:02:31 - DEBUG - filelock -   Lock 139901094489200 acquired on /home/aiscuser/.cache/huggingface/transformers/192a4a8bfa30aa3013d375ea31db6b14b0f753bf61bd99b778cb8ebaa0d6a338.cb2244924ab24d706b02fd7fcedaea4531566537687a539ebb94db511fd122a0.lock
+Downloading:   0%|          | 0.00/772 [00:00<?, ?B/s]Downloading: 100%|██████████| 772/772 [00:00<00:00, 841kB/s]
+10/09/2022 07:02:31 - DEBUG - filelock -   Attempting to release lock 139901094489200 on /home/aiscuser/.cache/huggingface/transformers/192a4a8bfa30aa3013d375ea31db6b14b0f753bf61bd99b778cb8ebaa0d6a338.cb2244924ab24d706b02fd7fcedaea4531566537687a539ebb94db511fd122a0.lock
+10/09/2022 07:02:31 - DEBUG - filelock -   Lock 139901094489200 released on /home/aiscuser/.cache/huggingface/transformers/192a4a8bfa30aa3013d375ea31db6b14b0f753bf61bd99b778cb8ebaa0d6a338.cb2244924ab24d706b02fd7fcedaea4531566537687a539ebb94db511fd122a0.lock
+10/09/2022 07:02:31 - DEBUG - filelock -   Attempting to acquire lock 139901094071936 on /home/aiscuser/.cache/huggingface/transformers/74b423f29ba4f21ecd941f8d4fdc1e5a1568328f2d478850463813dc4e81c58a.ad8c4e4e357cd74df740cd60a08548a831bd19834e8802cfa73d289e1818a8c4.lock
+10/09/2022 07:02:31 - DEBUG - filelock -   Lock 139901094071936 acquired on /home/aiscuser/.cache/huggingface/transformers/74b423f29ba4f21ecd941f8d4fdc1e5a1568328f2d478850463813dc4e81c58a.ad8c4e4e357cd74df740cd60a08548a831bd19834e8802cfa73d289e1818a8c4.lock
+Downloading:   0%|          | 0.00/1.09k [00:00<?, ?B/s]Downloading: 100%|██████████| 1.09k/1.09k [00:00<00:00, 851kB/s]
+10/09/2022 07:02:32 - DEBUG - filelock -   Attempting to release lock 139901094071936 on /home/aiscuser/.cache/huggingface/transformers/74b423f29ba4f21ecd941f8d4fdc1e5a1568328f2d478850463813dc4e81c58a.ad8c4e4e357cd74df740cd60a08548a831bd19834e8802cfa73d289e1818a8c4.lock
+10/09/2022 07:02:32 - DEBUG - filelock -   Lock 139901094071936 released on /home/aiscuser/.cache/huggingface/transformers/74b423f29ba4f21ecd941f8d4fdc1e5a1568328f2d478850463813dc4e81c58a.ad8c4e4e357cd74df740cd60a08548a831bd19834e8802cfa73d289e1818a8c4.lock
+10/09/2022 07:02:32 - DEBUG - filelock -   Attempting to acquire lock 139901094072080 on /home/aiscuser/.cache/huggingface/transformers/f47f36c6d415b8e978f9685f6dbf2651cc9c951dea26b74fcf8bf62e44900449.b53aa458f35a3b932d45090e5916927053a2bf0e803f4eb410b7d1f922b60a05.lock
+10/09/2022 07:02:32 - DEBUG - filelock -   Lock 139901094072080 acquired on /home/aiscuser/.cache/huggingface/transformers/f47f36c6d415b8e978f9685f6dbf2651cc9c951dea26b74fcf8bf62e44900449.b53aa458f35a3b932d45090e5916927053a2bf0e803f4eb410b7d1f922b60a05.lock
+Downloading:   0%|          | 0.00/691 [00:00<?, ?B/s]Downloading: 100%|██████████| 691/691 [00:00<00:00, 406kB/s]
+10/09/2022 07:02:33 - DEBUG - filelock -   Attempting to release lock 139901094072080 on /home/aiscuser/.cache/huggingface/transformers/f47f36c6d415b8e978f9685f6dbf2651cc9c951dea26b74fcf8bf62e44900449.b53aa458f35a3b932d45090e5916927053a2bf0e803f4eb410b7d1f922b60a05.lock
+10/09/2022 07:02:33 - DEBUG - filelock -   Lock 139901094072080 released on /home/aiscuser/.cache/huggingface/transformers/f47f36c6d415b8e978f9685f6dbf2651cc9c951dea26b74fcf8bf62e44900449.b53aa458f35a3b932d45090e5916927053a2bf0e803f4eb410b7d1f922b60a05.lock
+10/09/2022 07:02:34 - DEBUG - filelock -   Attempting to acquire lock 139901094350272 on /home/aiscuser/.cache/huggingface/transformers/e472463826d959ba1a2526157c66c6678d307297de0ac70cb20d4bc20227a3ea.cd2d780fc8b692f148ec889e56ece5a353765aa429eda28d9a89b5a1aeb735db.lock
+10/09/2022 07:02:34 - DEBUG - filelock -   Lock 139901094350272 acquired on /home/aiscuser/.cache/huggingface/transformers/e472463826d959ba1a2526157c66c6678d307297de0ac70cb20d4bc20227a3ea.cd2d780fc8b692f148ec889e56ece5a353765aa429eda28d9a89b5a1aeb735db.lock
+Downloading:   0%|          | 0.00/480M [00:00<?, ?B/s]Downloading:   1%|▏         | 6.77M/480M [00:00<00:06, 71.0MB/s]Downloading:   3%|▎         | 16.6M/480M [00:00<00:05, 89.9MB/s]Downloading:   5%|▌         | 26.4M/480M [00:00<00:04, 95.7MB/s]Downloading:   8%|▊         | 36.6M/480M [00:00<00:04, 100MB/s] Downloading:  10%|▉         | 46.3M/480M [00:00<00:04, 101MB/s]Downloading:  12%|█▏        | 56.4M/480M [00:00<00:04, 102MB/s]Downloading:  14%|█▍        | 66.4M/480M [00:00<00:04, 103MB/s]Downloading:  16%|█▌        | 76.5M/480M [00:00<00:04, 104MB/s]Downloading:  18%|█▊        | 86.5M/480M [00:00<00:03, 104MB/s]Downloading:  20%|██        | 96.5M/480M [00:01<00:03, 104MB/s]Downloading:  22%|██▏       | 106M/480M [00:01<00:03, 104MB/s] Downloading:  24%|██▍       | 116M/480M [00:01<00:03, 104MB/s]Downloading:  26%|██▋       | 126M/480M [00:01<00:03, 104MB/s]Downloading:  28%|██▊       | 137M/480M [00:01<00:03, 105MB/s]Downloading:  31%|███       | 147M/480M [00:01<00:03, 105MB/s]Downloading:  33%|███▎      | 157M/480M [00:01<00:03, 103MB/s]Downloading:  35%|███▍      | 166M/480M [00:01<00:03, 102MB/s]Downloading:  37%|███▋      | 176M/480M [00:01<00:03, 102MB/s]Downloading:  39%|███▉      | 186M/480M [00:01<00:02, 104MB/s]Downloading:  41%|████      | 197M/480M [00:02<00:02, 105MB/s]Downloading:  43%|████▎     | 207M/480M [00:02<00:02, 106MB/s]Downloading:  45%|████▌     | 217M/480M [00:02<00:02, 106MB/s]Downloading:  47%|████▋     | 227M/480M [00:02<00:02, 106MB/s]Downloading:  49%|████▉     | 238M/480M [00:02<00:02, 107MB/s]Downloading:  52%|█████▏    | 248M/480M [00:02<00:02, 106MB/s]Downloading:  54%|█████▎    | 258M/480M [00:02<00:02, 107MB/s]Downloading:  56%|█████▌    | 268M/480M [00:02<00:02, 106MB/s]Downloading:  58%|█████▊    | 278M/480M [00:02<00:02, 104MB/s]Downloading:  60%|██████    | 288M/480M [00:02<00:01, 105MB/s]Downloading:  62%|██████▏   | 299M/480M [00:03<00:01, 105MB/s]Downloading:  64%|██████▍   | 309M/480M [00:03<00:01, 106MB/s]Downloading:  66%|██████▋   | 319M/480M [00:03<00:01, 103MB/s]Downloading:  68%|██████▊   | 329M/480M [00:03<00:01, 104MB/s]Downloading:  71%|███████   | 339M/480M [00:03<00:01, 105MB/s]Downloading:  73%|███████▎  | 350M/480M [00:03<00:01, 106MB/s]Downloading:  75%|███████▍  | 360M/480M [00:03<00:01, 105MB/s]Downloading:  77%|███████▋  | 370M/480M [00:03<00:01, 106MB/s]Downloading:  79%|███████▉  | 380M/480M [00:03<00:00, 106MB/s]Downloading:  81%|████████▏ | 391M/480M [00:03<00:00, 106MB/s]Downloading:  83%|████████▎ | 401M/480M [00:04<00:00, 107MB/s]Downloading:  86%|████████▌ | 411M/480M [00:04<00:00, 107MB/s]Downloading:  88%|████████▊ | 421M/480M [00:04<00:00, 106MB/s]Downloading:  90%|████████▉ | 431M/480M [00:04<00:00, 106MB/s]Downloading:  92%|█████████▏| 441M/480M [00:04<00:00, 106MB/s]Downloading:  94%|█████████▍| 452M/480M [00:04<00:00, 106MB/s]Downloading:  96%|█████████▌| 462M/480M [00:04<00:00, 105MB/s]Downloading:  98%|█████████▊| 472M/480M [00:04<00:00, 105MB/s]Downloading: 100%|██████████| 480M/480M [00:04<00:00, 104MB/s]
+10/09/2022 07:02:38 - DEBUG - filelock -   Attempting to release lock 139901094350272 on /home/aiscuser/.cache/huggingface/transformers/e472463826d959ba1a2526157c66c6678d307297de0ac70cb20d4bc20227a3ea.cd2d780fc8b692f148ec889e56ece5a353765aa429eda28d9a89b5a1aeb735db.lock
+10/09/2022 07:02:38 - DEBUG - filelock -   Lock 139901094350272 released on /home/aiscuser/.cache/huggingface/transformers/e472463826d959ba1a2526157c66c6678d307297de0ac70cb20d4bc20227a3ea.cd2d780fc8b692f148ec889e56ece5a353765aa429eda28d9a89b5a1aeb735db.lock
+10/09/2022 07:02:40 - INFO - __main__ -   Training/evaluation parameters Namespace(code_length=256, codebase_file='dataset/CSN/ruby/codebase.jsonl', config_name='', debug=False, device=device(type='cuda'), do_F2_norm=False, do_eval=True, do_test=True, do_train=True, do_zero_shot=False, eval_batch_size=128, eval_data_file='dataset/CSN/ruby/valid.jsonl', freeze_bottom_k_layer_index=5, learning_rate=2e-05, max_grad_norm=1.0, model_name_or_path='microsoft/unixcoder-base', n_debug_samples=100, n_gpu=1, nl_length=128, num_train_epochs=10, output_dir='saved_models/code_search/unixcoder/partial_freezing/ruby/freeze_bottom_5_layers/20221009070222', seed=123456, test_data_file='dataset/CSN/ruby/test.jsonl', tokenizer_name='', train_batch_size=128, train_data_file='dataset/CSN/ruby/train.jsonl', weight_decay=0.01)
+10/09/2022 07:02:40 - INFO - __main__ -   +------------------------------------------------------------+--------------+---------+
+| Layer Name                                                 | Output Shape | Param # |
++------------------------------------------------------------+--------------+---------+
+| encoder.encoder.layer.5.attention.self.query.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.5.attention.self.query.bias          |        [768] |     768 |
+| encoder.encoder.layer.5.attention.self.key.weight          |   [768, 768] |  589824 |
+| encoder.encoder.layer.5.attention.self.key.bias            |        [768] |     768 |
+| encoder.encoder.layer.5.attention.self.value.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.5.attention.self.value.bias          |        [768] |     768 |
+| encoder.encoder.layer.5.attention.output.dense.weight      |   [768, 768] |  589824 |
+| encoder.encoder.layer.5.attention.output.dense.bias        |        [768] |     768 |
+| encoder.encoder.layer.5.attention.output.LayerNorm.weight  |        [768] |     768 |
+| encoder.encoder.layer.5.attention.output.LayerNorm.bias    |        [768] |     768 |
+| encoder.encoder.layer.5.intermediate.dense.weight          |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.5.intermediate.dense.bias            |       [3072] |    3072 |
+| encoder.encoder.layer.5.output.dense.weight                |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.5.output.dense.bias                  |        [768] |     768 |
+| encoder.encoder.layer.5.output.LayerNorm.weight            |        [768] |     768 |
+| encoder.encoder.layer.5.output.LayerNorm.bias              |        [768] |     768 |
+| encoder.encoder.layer.6.attention.self.query.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.6.attention.self.query.bias          |        [768] |     768 |
+| encoder.encoder.layer.6.attention.self.key.weight          |   [768, 768] |  589824 |
+| encoder.encoder.layer.6.attention.self.key.bias            |        [768] |     768 |
+| encoder.encoder.layer.6.attention.self.value.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.6.attention.self.value.bias          |        [768] |     768 |
+| encoder.encoder.layer.6.attention.output.dense.weight      |   [768, 768] |  589824 |
+| encoder.encoder.layer.6.attention.output.dense.bias        |        [768] |     768 |
+| encoder.encoder.layer.6.attention.output.LayerNorm.weight  |        [768] |     768 |
+| encoder.encoder.layer.6.attention.output.LayerNorm.bias    |        [768] |     768 |
+| encoder.encoder.layer.6.intermediate.dense.weight          |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.6.intermediate.dense.bias            |       [3072] |    3072 |
+| encoder.encoder.layer.6.output.dense.weight                |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.6.output.dense.bias                  |        [768] |     768 |
+| encoder.encoder.layer.6.output.LayerNorm.weight            |        [768] |     768 |
+| encoder.encoder.layer.6.output.LayerNorm.bias              |        [768] |     768 |
+| encoder.encoder.layer.7.attention.self.query.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.7.attention.self.query.bias          |        [768] |     768 |
+| encoder.encoder.layer.7.attention.self.key.weight          |   [768, 768] |  589824 |
+| encoder.encoder.layer.7.attention.self.key.bias            |        [768] |     768 |
+| encoder.encoder.layer.7.attention.self.value.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.7.attention.self.value.bias          |        [768] |     768 |
+| encoder.encoder.layer.7.attention.output.dense.weight      |   [768, 768] |  589824 |
+| encoder.encoder.layer.7.attention.output.dense.bias        |        [768] |     768 |
+| encoder.encoder.layer.7.attention.output.LayerNorm.weight  |        [768] |     768 |
+| encoder.encoder.layer.7.attention.output.LayerNorm.bias    |        [768] |     768 |
+| encoder.encoder.layer.7.intermediate.dense.weight          |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.7.intermediate.dense.bias            |       [3072] |    3072 |
+| encoder.encoder.layer.7.output.dense.weight                |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.7.output.dense.bias                  |        [768] |     768 |
+| encoder.encoder.layer.7.output.LayerNorm.weight            |        [768] |     768 |
+| encoder.encoder.layer.7.output.LayerNorm.bias              |        [768] |     768 |
+| encoder.encoder.layer.8.attention.self.query.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.8.attention.self.query.bias          |        [768] |     768 |
+| encoder.encoder.layer.8.attention.self.key.weight          |   [768, 768] |  589824 |
+| encoder.encoder.layer.8.attention.self.key.bias            |        [768] |     768 |
+| encoder.encoder.layer.8.attention.self.value.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.8.attention.self.value.bias          |        [768] |     768 |
+| encoder.encoder.layer.8.attention.output.dense.weight      |   [768, 768] |  589824 |
+| encoder.encoder.layer.8.attention.output.dense.bias        |        [768] |     768 |
+| encoder.encoder.layer.8.attention.output.LayerNorm.weight  |        [768] |     768 |
+| encoder.encoder.layer.8.attention.output.LayerNorm.bias    |        [768] |     768 |
+| encoder.encoder.layer.8.intermediate.dense.weight          |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.8.intermediate.dense.bias            |       [3072] |    3072 |
+| encoder.encoder.layer.8.output.dense.weight                |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.8.output.dense.bias                  |        [768] |     768 |
+| encoder.encoder.layer.8.output.LayerNorm.weight            |        [768] |     768 |
+| encoder.encoder.layer.8.output.LayerNorm.bias              |        [768] |     768 |
+| encoder.encoder.layer.9.attention.self.query.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.9.attention.self.query.bias          |        [768] |     768 |
+| encoder.encoder.layer.9.attention.self.key.weight          |   [768, 768] |  589824 |
+| encoder.encoder.layer.9.attention.self.key.bias            |        [768] |     768 |
+| encoder.encoder.layer.9.attention.self.value.weight        |   [768, 768] |  589824 |
+| encoder.encoder.layer.9.attention.self.value.bias          |        [768] |     768 |
+| encoder.encoder.layer.9.attention.output.dense.weight      |   [768, 768] |  589824 |
+| encoder.encoder.layer.9.attention.output.dense.bias        |        [768] |     768 |
+| encoder.encoder.layer.9.attention.output.LayerNorm.weight  |        [768] |     768 |
+| encoder.encoder.layer.9.attention.output.LayerNorm.bias    |        [768] |     768 |
+| encoder.encoder.layer.9.intermediate.dense.weight          |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.9.intermediate.dense.bias            |       [3072] |    3072 |
+| encoder.encoder.layer.9.output.dense.weight                |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.9.output.dense.bias                  |        [768] |     768 |
+| encoder.encoder.layer.9.output.LayerNorm.weight            |        [768] |     768 |
+| encoder.encoder.layer.9.output.LayerNorm.bias              |        [768] |     768 |
+| encoder.encoder.layer.10.attention.self.query.weight       |   [768, 768] |  589824 |
+| encoder.encoder.layer.10.attention.self.query.bias         |        [768] |     768 |
+| encoder.encoder.layer.10.attention.self.key.weight         |   [768, 768] |  589824 |
+| encoder.encoder.layer.10.attention.self.key.bias           |        [768] |     768 |
+| encoder.encoder.layer.10.attention.self.value.weight       |   [768, 768] |  589824 |
+| encoder.encoder.layer.10.attention.self.value.bias         |        [768] |     768 |
+| encoder.encoder.layer.10.attention.output.dense.weight     |   [768, 768] |  589824 |
+| encoder.encoder.layer.10.attention.output.dense.bias       |        [768] |     768 |
+| encoder.encoder.layer.10.attention.output.LayerNorm.weight |        [768] |     768 |
+| encoder.encoder.layer.10.attention.output.LayerNorm.bias   |        [768] |     768 |
+| encoder.encoder.layer.10.intermediate.dense.weight         |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.10.intermediate.dense.bias           |       [3072] |    3072 |
+| encoder.encoder.layer.10.output.dense.weight               |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.10.output.dense.bias                 |        [768] |     768 |
+| encoder.encoder.layer.10.output.LayerNorm.weight           |        [768] |     768 |
+| encoder.encoder.layer.10.output.LayerNorm.bias             |        [768] |     768 |
+| encoder.encoder.layer.11.attention.self.query.weight       |   [768, 768] |  589824 |
+| encoder.encoder.layer.11.attention.self.query.bias         |        [768] |     768 |
+| encoder.encoder.layer.11.attention.self.key.weight         |   [768, 768] |  589824 |
+| encoder.encoder.layer.11.attention.self.key.bias           |        [768] |     768 |
+| encoder.encoder.layer.11.attention.self.value.weight       |   [768, 768] |  589824 |
+| encoder.encoder.layer.11.attention.self.value.bias         |        [768] |     768 |
+| encoder.encoder.layer.11.attention.output.dense.weight     |   [768, 768] |  589824 |
+| encoder.encoder.layer.11.attention.output.dense.bias       |        [768] |     768 |
+| encoder.encoder.layer.11.attention.output.LayerNorm.weight |        [768] |     768 |
+| encoder.encoder.layer.11.attention.output.LayerNorm.bias   |        [768] |     768 |
+| encoder.encoder.layer.11.intermediate.dense.weight         |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.11.intermediate.dense.bias           |       [3072] |    3072 |
+| encoder.encoder.layer.11.output.dense.weight               |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.11.output.dense.bias                 |        [768] |     768 |
+| encoder.encoder.layer.11.output.LayerNorm.weight           |        [768] |     768 |
+| encoder.encoder.layer.11.output.LayerNorm.bias             |        [768] |     768 |
+| encoder.pooler.dense.weight                                |   [768, 768] |  589824 |
+| encoder.pooler.dense.bias                                  |        [768] |     768 |
++------------------------------------------------------------+--------------+---------+
+10/09/2022 07:02:59 - INFO - __main__ -   *** Example ***
+10/09/2022 07:02:59 - INFO - __main__ -   idx: 0
+10/09/2022 07:02:59 - INFO - __main__ -   code_tokens: ['<s>', '<encoder-only>', '</s>', 'def', '_render', '_', 'body', '_(', '_context', '_,', '_options', '_)', '_if', '_options', '_.', '_key', '?', '_(', '_:', 'partial', '_)', '_[', '_render', '_', 'partial', '_(', '_context', '_,', '_options', '_)', '_]', '_else', '_Streaming', 'Template', 'Renderer', '_.', '_new', '_(', '_@', 'lookup', '_', 'context', '_)', '_.', '_render', '_(', '_context', '_,', '_options', '_)', '_end', '_end', '</s>']
+10/09/2022 07:02:59 - INFO - __main__ -   code_ids: 0 6 2 729 4342 181 1995 400 1552 2019 1466 743 462 1466 746 1129 149 400 545 7609 743 626 4342 181 7609 400 1552 2019 1466 743 2406 669 47128 3057 6412 746 579 400 890 4961 181 1499 743 746 4342 400 1552 2019 1466 743 1013 1013 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/09/2022 07:02:59 - INFO - __main__ -   nl_tokens: ['<s>', '<encoder-only>', '</s>', 'Render', '_but', '_returns', '_a', '_valid', '_R', 'ack', '_body', '_.', '_If', '_fib', 'ers', '_are', '_defined', '_we', '_return', '_a', '_streaming', '_body', '_that', '_renders', '_the', '_template', '_piece', '_by', '_piece', '_.', '</s>']
+10/09/2022 07:02:59 - INFO - __main__ -   nl_ids: 0 6 2 3726 2107 2060 434 1976 821 598 3444 746 1359 24766 560 1147 3474 937 483 434 22676 3444 922 40840 448 3636 18781 1243 18781 746 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/09/2022 07:02:59 - INFO - __main__ -   *** Example ***
+10/09/2022 07:02:59 - INFO - __main__ -   idx: 1
+10/09/2022 07:02:59 - INFO - __main__ -   code_tokens: ['<s>', '<encoder-only>', '</s>', 'def', '_attribute', '_', 'missing', '_(', '_match', '_,', '_*', '_args', '_,', '_&', '_block', '_)', '___', 'send', '__', '_(', '_match', '_.', '_target', '_,', '_match', '_.', '_attr', '_', 'name', '_,', '_args', '_,', '_block', '_)', '_end', '</s>']
+10/09/2022 07:02:59 - INFO - __main__ -   code_ids: 0 6 2 729 2416 181 8487 400 1655 2019 426 1822 2019 519 1818 743 1267 2414 876 400 1655 746 1744 2019 1655 746 3526 181 616 2019 1822 2019 1818 743 1013 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/09/2022 07:02:59 - INFO - __main__ -   nl_tokens: ['<s>', '<encoder-only>', '</s>', '+', '_attribute', '_', 'missing', '_+', '_is', '_like', '_+', '_method', '_', 'missing', '_+', '_but', '_for', '_attributes', '_.', '_When', '_+', '_method', '_', 'missing', '_+', '_is', '_called', '_we', '_check', '_to', '_see', '_if', '_there', '_is', '_a', '_matching', '_attribute', '_method', '_.', '_If', '_so', '_we', '_tell', '_+', '_attribute', '_', 'missing', '_+', '_to', '_dispatch', '_the', '_attribute', '_.', '_This', '_method', '_can', '_be', '_overloaded', '_to', '_customize', '_the', '_behavior', '_.', '</s>']
+10/09/2022 07:02:59 - INFO - __main__ -   nl_ids: 0 6 2 129 2416 181 8487 513 555 4401 513 1454 181 8487 513 2107 563 4402 746 5919 513 1454 181 8487 513 555 2953 937 1382 508 3986 462 2550 555 434 6506 2416 1454 746 1359 1769 937 11931 513 2416 181 8487 513 508 9363 448 2416 746 1600 1454 1347 661 45869 508 36145 448 9050 746 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/09/2022 07:02:59 - INFO - __main__ -   *** Example ***
+10/09/2022 07:02:59 - INFO - __main__ -   idx: 2
+10/09/2022 07:02:59 - INFO - __main__ -   code_tokens: ['<s>', '<encoder-only>', '</s>', 'def', '_matched', '_', 'attribute', '_', 'method', '_(', '_method', '_', 'name', '_)', '_matches', '_=', '_self', '_.', '_class', '_.', '_send', '_(', '_:', 'attribute', '_', 'method', '_', 'matchers', '_', 'matching', '_,', '_method', '_', 'name', '_)', '_matches', '_.', '_detect', '_{', '_|', '_match', '_|', '_attribute', '_', 'method', '?', '_(', '_match', '_.', '_attr', '_', 'name', '_)', '_}', '_end', '</s>']
+10/09/2022 07:02:59 - INFO - __main__ -   code_ids: 0 6 2 729 5865 181 2163 181 1521 400 1454 181 616 743 5288 385 1358 746 1503 746 2904 400 545 2163 181 1521 181 38734 181 13575 2019 1454 181 616 743 5288 746 10241 399 649 1655 649 2416 181 1521 149 400 1655 746 3526 181 616 743 425 1013 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/09/2022 07:02:59 - INFO - __main__ -   nl_tokens: ['<s>', '<encoder-only>', '</s>', 'Returns', '_a', '_struct', '_representing', '_the', '_matching', '_attribute', '_method', '_.', '_The', '_struct', '_s', '_attributes', '_are', '_prefix', '_base', '_and', '_suffix', '_.', '</s>']
+10/09/2022 07:02:59 - INFO - __main__ -   nl_ids: 0 6 2 2853 434 1277 8466 448 6506 2416 1454 746 1044 1277 431 4402 1147 3603 1712 706 8436 746 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+10/09/2022 07:02:59 - INFO - __main__ -   ***** Running training *****
+10/09/2022 07:02:59 - INFO - __main__ -     Num examples = 24927
+10/09/2022 07:02:59 - INFO - __main__ -     Num Epochs = 10
+10/09/2022 07:02:59 - INFO - __main__ -     Instantaneous batch size per GPU = 128
+10/09/2022 07:02:59 - INFO - __main__ -     Total train batch size  = 128
+10/09/2022 07:02:59 - INFO - __main__ -     Total optimization steps = 1950
+10/09/2022 07:03:39 - INFO - __main__ -   epoch 0 step 100 loss 0.37806
+10/09/2022 07:04:19 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 07:04:19 - INFO - __main__ -     Num queries = 1400
+10/09/2022 07:04:19 - INFO - __main__ -     Num codes = 4360
+10/09/2022 07:04:19 - INFO - __main__ -     Batch size = 128
+10/09/2022 07:04:27 - INFO - __main__ -     R@1 = 0.693
+10/09/2022 07:04:27 - INFO - __main__ -     R@5 = 0.888
+10/09/2022 07:04:27 - INFO - __main__ -     R@10 = 0.916
+10/09/2022 07:04:27 - INFO - __main__ -     eval_mrr = 0.776
+10/09/2022 07:04:27 - INFO - __main__ -     ********************
+10/09/2022 07:04:27 - INFO - __main__ -     Best mrr:0.776
+10/09/2022 07:04:27 - INFO - __main__ -     ********************
+10/09/2022 07:04:33 - INFO - __main__ -   Saving model checkpoint to saved_models/code_search/unixcoder/partial_freezing/ruby/freeze_bottom_5_layers/20221009070222/checkpoint-best-mrr/model.bin
+10/09/2022 07:05:13 - INFO - __main__ -   epoch 1 step 100 loss 0.27432
+10/09/2022 07:05:52 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 07:05:52 - INFO - __main__ -     Num queries = 1400
+10/09/2022 07:05:52 - INFO - __main__ -     Num codes = 4360
+10/09/2022 07:05:52 - INFO - __main__ -     Batch size = 128
+10/09/2022 07:05:59 - INFO - __main__ -     R@1 = 0.685
+10/09/2022 07:05:59 - INFO - __main__ -     R@5 = 0.886
+10/09/2022 07:05:59 - INFO - __main__ -     R@10 = 0.916
+10/09/2022 07:05:59 - INFO - __main__ -     eval_mrr = 0.772
+10/09/2022 07:06:38 - INFO - __main__ -   epoch 2 step 100 loss 0.20395
+10/09/2022 07:07:18 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 07:07:18 - INFO - __main__ -     Num queries = 1400
+10/09/2022 07:07:18 - INFO - __main__ -     Num codes = 4360
+10/09/2022 07:07:18 - INFO - __main__ -     Batch size = 128
+10/09/2022 07:07:25 - INFO - __main__ -     R@1 = 0.701
+10/09/2022 07:07:25 - INFO - __main__ -     R@5 = 0.886
+10/09/2022 07:07:25 - INFO - __main__ -     R@10 = 0.921
+10/09/2022 07:07:25 - INFO - __main__ -     eval_mrr = 0.785
+10/09/2022 07:07:25 - INFO - __main__ -     ********************
+10/09/2022 07:07:25 - INFO - __main__ -     Best mrr:0.785
+10/09/2022 07:07:25 - INFO - __main__ -     ********************
+10/09/2022 07:07:35 - INFO - __main__ -   Saving model checkpoint to saved_models/code_search/unixcoder/partial_freezing/ruby/freeze_bottom_5_layers/20221009070222/checkpoint-best-mrr/model.bin
+10/09/2022 07:08:14 - INFO - __main__ -   epoch 3 step 100 loss 0.15163
+10/09/2022 07:08:53 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 07:08:53 - INFO - __main__ -     Num queries = 1400
+10/09/2022 07:08:53 - INFO - __main__ -     Num codes = 4360
+10/09/2022 07:08:53 - INFO - __main__ -     Batch size = 128
+10/09/2022 07:09:00 - INFO - __main__ -     R@1 = 0.694
+10/09/2022 07:09:00 - INFO - __main__ -     R@5 = 0.884
+10/09/2022 07:09:00 - INFO - __main__ -     R@10 = 0.921
+10/09/2022 07:09:00 - INFO - __main__ -     eval_mrr = 0.779
+10/09/2022 07:09:40 - INFO - __main__ -   epoch 4 step 100 loss 0.12658
+10/09/2022 07:10:19 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 07:10:19 - INFO - __main__ -     Num queries = 1400
+10/09/2022 07:10:19 - INFO - __main__ -     Num codes = 4360
+10/09/2022 07:10:19 - INFO - __main__ -     Batch size = 128
+10/09/2022 07:10:26 - INFO - __main__ -     R@1 = 0.701
+10/09/2022 07:10:26 - INFO - __main__ -     R@5 = 0.885
+10/09/2022 07:10:26 - INFO - __main__ -     R@10 = 0.916
+10/09/2022 07:10:26 - INFO - __main__ -     eval_mrr = 0.784
+10/09/2022 07:11:05 - INFO - __main__ -   epoch 5 step 100 loss 0.10428
+10/09/2022 07:11:44 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 07:11:44 - INFO - __main__ -     Num queries = 1400
+10/09/2022 07:11:44 - INFO - __main__ -     Num codes = 4360
+10/09/2022 07:11:44 - INFO - __main__ -     Batch size = 128
+10/09/2022 07:11:51 - INFO - __main__ -     R@1 = 0.704
+10/09/2022 07:11:51 - INFO - __main__ -     R@5 = 0.884
+10/09/2022 07:11:51 - INFO - __main__ -     R@10 = 0.913
+10/09/2022 07:11:51 - INFO - __main__ -     eval_mrr = 0.784
+10/09/2022 07:12:30 - INFO - __main__ -   epoch 6 step 100 loss 0.08519
+10/09/2022 07:13:09 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 07:13:09 - INFO - __main__ -     Num queries = 1400
+10/09/2022 07:13:09 - INFO - __main__ -     Num codes = 4360
+10/09/2022 07:13:09 - INFO - __main__ -     Batch size = 128
+10/09/2022 07:13:17 - INFO - __main__ -     R@1 = 0.697
+10/09/2022 07:13:17 - INFO - __main__ -     R@5 = 0.884
+10/09/2022 07:13:17 - INFO - __main__ -     R@10 = 0.916
+10/09/2022 07:13:17 - INFO - __main__ -     eval_mrr = 0.781
+10/09/2022 07:13:56 - INFO - __main__ -   epoch 7 step 100 loss 0.07428
+10/09/2022 07:14:35 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 07:14:35 - INFO - __main__ -     Num queries = 1400
+10/09/2022 07:14:35 - INFO - __main__ -     Num codes = 4360
+10/09/2022 07:14:35 - INFO - __main__ -     Batch size = 128
+10/09/2022 07:14:42 - INFO - __main__ -     R@1 = 0.702
+10/09/2022 07:14:42 - INFO - __main__ -     R@5 = 0.884
+10/09/2022 07:14:42 - INFO - __main__ -     R@10 = 0.914
+10/09/2022 07:14:42 - INFO - __main__ -     eval_mrr = 0.782
+10/09/2022 07:15:21 - INFO - __main__ -   epoch 8 step 100 loss 0.06758
+10/09/2022 07:16:00 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 07:16:00 - INFO - __main__ -     Num queries = 1400
+10/09/2022 07:16:00 - INFO - __main__ -     Num codes = 4360
+10/09/2022 07:16:00 - INFO - __main__ -     Batch size = 128
+10/09/2022 07:16:07 - INFO - __main__ -     R@1 = 0.701
+10/09/2022 07:16:07 - INFO - __main__ -     R@5 = 0.884
+10/09/2022 07:16:07 - INFO - __main__ -     R@10 = 0.917
+10/09/2022 07:16:07 - INFO - __main__ -     eval_mrr = 0.782
+10/09/2022 07:16:46 - INFO - __main__ -   epoch 9 step 100 loss 0.06304
+10/09/2022 07:17:25 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 07:17:25 - INFO - __main__ -     Num queries = 1400
+10/09/2022 07:17:25 - INFO - __main__ -     Num codes = 4360
+10/09/2022 07:17:25 - INFO - __main__ -     Batch size = 128
+10/09/2022 07:17:33 - INFO - __main__ -     R@1 = 0.698
+10/09/2022 07:17:33 - INFO - __main__ -     R@5 = 0.883
+10/09/2022 07:17:33 - INFO - __main__ -     R@10 = 0.915
+10/09/2022 07:17:33 - INFO - __main__ -     eval_mrr = 0.78
+10/09/2022 07:17:35 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 07:17:35 - INFO - __main__ -     Num queries = 1400
+10/09/2022 07:17:35 - INFO - __main__ -     Num codes = 4360
+10/09/2022 07:17:35 - INFO - __main__ -     Batch size = 128
+10/09/2022 07:17:43 - INFO - __main__ -   ***** Eval results *****
+10/09/2022 07:17:43 - INFO - __main__ -     R@1 = 0.701
+10/09/2022 07:17:43 - INFO - __main__ -     R@10 = 0.921
+10/09/2022 07:17:43 - INFO - __main__ -     R@5 = 0.886
+10/09/2022 07:17:43 - INFO - __main__ -     eval_mrr = 0.785
+10/09/2022 07:17:46 - INFO - __main__ -   ***** Running evaluation *****
+10/09/2022 07:17:46 - INFO - __main__ -     Num queries = 1261
+10/09/2022 07:17:46 - INFO - __main__ -     Num codes = 4360
+10/09/2022 07:17:46 - INFO - __main__ -     Batch size = 128
+10/09/2022 07:17:54 - INFO - __main__ -   ***** Eval results *****
+10/09/2022 07:17:54 - INFO - __main__ -     R@1 = 0.676
+10/09/2022 07:17:54 - INFO - __main__ -     R@10 = 0.902
+10/09/2022 07:17:54 - INFO - __main__ -     R@5 = 0.857
+10/09/2022 07:17:54 - INFO - __main__ -     eval_mrr = 0.756
+10/09/2022 07:17:54 - INFO - utils -   saved dataset in saved_models/code_search/unixcoder/partial_freezing/ruby/freeze_bottom_5_layers/20221009070222/result.jsonl

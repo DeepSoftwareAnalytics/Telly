@@ -1,0 +1,81 @@
+10/10/2022 01:31:57 - INFO - __main__ -   device: cuda, n_gpu: 1
+10/10/2022 01:31:59 - DEBUG - filelock -   Attempting to acquire lock 140202591866016 on /home/aiscuser/.cache/huggingface/transformers/6537f24197db9749ad60f891d7a50ec2de3992bee193d25b24bb244ee5ca91f9.6243fbb3cc75148b68777473341e2d0860fde2b135f39c1d7d274d8ba1763e13.lock
+10/10/2022 01:31:59 - DEBUG - filelock -   Lock 140202591866016 acquired on /home/aiscuser/.cache/huggingface/transformers/6537f24197db9749ad60f891d7a50ec2de3992bee193d25b24bb244ee5ca91f9.6243fbb3cc75148b68777473341e2d0860fde2b135f39c1d7d274d8ba1763e13.lock
+Downloading:   0%|          | 0.00/916k [00:00<?, ?B/s]Downloading:   4%|▍         | 37.0k/916k [00:00<00:02, 345kB/s]Downloading:  19%|█▉        | 177k/916k [00:00<00:00, 900kB/s] Downloading:  86%|████████▌ | 785k/916k [00:00<00:00, 3.04MB/s]Downloading: 100%|██████████| 916k/916k [00:00<00:00, 2.78MB/s]
+10/10/2022 01:31:59 - DEBUG - filelock -   Attempting to release lock 140202591866016 on /home/aiscuser/.cache/huggingface/transformers/6537f24197db9749ad60f891d7a50ec2de3992bee193d25b24bb244ee5ca91f9.6243fbb3cc75148b68777473341e2d0860fde2b135f39c1d7d274d8ba1763e13.lock
+10/10/2022 01:31:59 - DEBUG - filelock -   Lock 140202591866016 released on /home/aiscuser/.cache/huggingface/transformers/6537f24197db9749ad60f891d7a50ec2de3992bee193d25b24bb244ee5ca91f9.6243fbb3cc75148b68777473341e2d0860fde2b135f39c1d7d274d8ba1763e13.lock
+10/10/2022 01:31:59 - DEBUG - filelock -   Attempting to acquire lock 140202591231664 on /home/aiscuser/.cache/huggingface/transformers/e9a41c80e105c7ebfab8467fd5fa110db792fa435a42cf53fc84cd4dbce63203.fcaa28dbb04dd654a7ac023857de409e4815667a26706e2aa9a1bbc3ed49037a.lock
+10/10/2022 01:31:59 - DEBUG - filelock -   Lock 140202591231664 acquired on /home/aiscuser/.cache/huggingface/transformers/e9a41c80e105c7ebfab8467fd5fa110db792fa435a42cf53fc84cd4dbce63203.fcaa28dbb04dd654a7ac023857de409e4815667a26706e2aa9a1bbc3ed49037a.lock
+Downloading:   0%|          | 0.00/434k [00:00<?, ?B/s]Downloading:  19%|█▉        | 84.0k/434k [00:00<00:00, 775kB/s]Downloading:  80%|████████  | 349k/434k [00:00<00:00, 1.75MB/s]Downloading: 100%|██████████| 434k/434k [00:00<00:00, 1.97MB/s]
+10/10/2022 01:32:00 - DEBUG - filelock -   Attempting to release lock 140202591231664 on /home/aiscuser/.cache/huggingface/transformers/e9a41c80e105c7ebfab8467fd5fa110db792fa435a42cf53fc84cd4dbce63203.fcaa28dbb04dd654a7ac023857de409e4815667a26706e2aa9a1bbc3ed49037a.lock
+10/10/2022 01:32:00 - DEBUG - filelock -   Lock 140202591231664 released on /home/aiscuser/.cache/huggingface/transformers/e9a41c80e105c7ebfab8467fd5fa110db792fa435a42cf53fc84cd4dbce63203.fcaa28dbb04dd654a7ac023857de409e4815667a26706e2aa9a1bbc3ed49037a.lock
+10/10/2022 01:32:00 - DEBUG - filelock -   Attempting to acquire lock 140202591866112 on /home/aiscuser/.cache/huggingface/transformers/192a4a8bfa30aa3013d375ea31db6b14b0f753bf61bd99b778cb8ebaa0d6a338.cb2244924ab24d706b02fd7fcedaea4531566537687a539ebb94db511fd122a0.lock
+10/10/2022 01:32:00 - DEBUG - filelock -   Lock 140202591866112 acquired on /home/aiscuser/.cache/huggingface/transformers/192a4a8bfa30aa3013d375ea31db6b14b0f753bf61bd99b778cb8ebaa0d6a338.cb2244924ab24d706b02fd7fcedaea4531566537687a539ebb94db511fd122a0.lock
+Downloading:   0%|          | 0.00/772 [00:00<?, ?B/s]Downloading: 100%|██████████| 772/772 [00:00<00:00, 492kB/s]
+10/10/2022 01:32:01 - DEBUG - filelock -   Attempting to release lock 140202591866112 on /home/aiscuser/.cache/huggingface/transformers/192a4a8bfa30aa3013d375ea31db6b14b0f753bf61bd99b778cb8ebaa0d6a338.cb2244924ab24d706b02fd7fcedaea4531566537687a539ebb94db511fd122a0.lock
+10/10/2022 01:32:01 - DEBUG - filelock -   Lock 140202591866112 released on /home/aiscuser/.cache/huggingface/transformers/192a4a8bfa30aa3013d375ea31db6b14b0f753bf61bd99b778cb8ebaa0d6a338.cb2244924ab24d706b02fd7fcedaea4531566537687a539ebb94db511fd122a0.lock
+10/10/2022 01:32:01 - DEBUG - filelock -   Attempting to acquire lock 140202591866112 on /home/aiscuser/.cache/huggingface/transformers/74b423f29ba4f21ecd941f8d4fdc1e5a1568328f2d478850463813dc4e81c58a.ad8c4e4e357cd74df740cd60a08548a831bd19834e8802cfa73d289e1818a8c4.lock
+10/10/2022 01:32:01 - DEBUG - filelock -   Lock 140202591866112 acquired on /home/aiscuser/.cache/huggingface/transformers/74b423f29ba4f21ecd941f8d4fdc1e5a1568328f2d478850463813dc4e81c58a.ad8c4e4e357cd74df740cd60a08548a831bd19834e8802cfa73d289e1818a8c4.lock
+Downloading:   0%|          | 0.00/1.09k [00:00<?, ?B/s]Downloading: 100%|██████████| 1.09k/1.09k [00:00<00:00, 838kB/s]
+10/10/2022 01:32:01 - DEBUG - filelock -   Attempting to release lock 140202591866112 on /home/aiscuser/.cache/huggingface/transformers/74b423f29ba4f21ecd941f8d4fdc1e5a1568328f2d478850463813dc4e81c58a.ad8c4e4e357cd74df740cd60a08548a831bd19834e8802cfa73d289e1818a8c4.lock
+10/10/2022 01:32:01 - DEBUG - filelock -   Lock 140202591866112 released on /home/aiscuser/.cache/huggingface/transformers/74b423f29ba4f21ecd941f8d4fdc1e5a1568328f2d478850463813dc4e81c58a.ad8c4e4e357cd74df740cd60a08548a831bd19834e8802cfa73d289e1818a8c4.lock
+10/10/2022 01:32:02 - DEBUG - filelock -   Attempting to acquire lock 140202593535024 on /home/aiscuser/.cache/huggingface/transformers/f47f36c6d415b8e978f9685f6dbf2651cc9c951dea26b74fcf8bf62e44900449.b53aa458f35a3b932d45090e5916927053a2bf0e803f4eb410b7d1f922b60a05.lock
+10/10/2022 01:32:02 - DEBUG - filelock -   Lock 140202593535024 acquired on /home/aiscuser/.cache/huggingface/transformers/f47f36c6d415b8e978f9685f6dbf2651cc9c951dea26b74fcf8bf62e44900449.b53aa458f35a3b932d45090e5916927053a2bf0e803f4eb410b7d1f922b60a05.lock
+Downloading:   0%|          | 0.00/691 [00:00<?, ?B/s]Downloading: 100%|██████████| 691/691 [00:00<00:00, 1.03MB/s]
+10/10/2022 01:32:02 - DEBUG - filelock -   Attempting to release lock 140202593535024 on /home/aiscuser/.cache/huggingface/transformers/f47f36c6d415b8e978f9685f6dbf2651cc9c951dea26b74fcf8bf62e44900449.b53aa458f35a3b932d45090e5916927053a2bf0e803f4eb410b7d1f922b60a05.lock
+10/10/2022 01:32:02 - DEBUG - filelock -   Lock 140202593535024 released on /home/aiscuser/.cache/huggingface/transformers/f47f36c6d415b8e978f9685f6dbf2651cc9c951dea26b74fcf8bf62e44900449.b53aa458f35a3b932d45090e5916927053a2bf0e803f4eb410b7d1f922b60a05.lock
+10/10/2022 01:32:03 - DEBUG - filelock -   Attempting to acquire lock 140202591231136 on /home/aiscuser/.cache/huggingface/transformers/e472463826d959ba1a2526157c66c6678d307297de0ac70cb20d4bc20227a3ea.cd2d780fc8b692f148ec889e56ece5a353765aa429eda28d9a89b5a1aeb735db.lock
+10/10/2022 01:32:03 - DEBUG - filelock -   Lock 140202591231136 acquired on /home/aiscuser/.cache/huggingface/transformers/e472463826d959ba1a2526157c66c6678d307297de0ac70cb20d4bc20227a3ea.cd2d780fc8b692f148ec889e56ece5a353765aa429eda28d9a89b5a1aeb735db.lock
+Downloading:   0%|          | 0.00/480M [00:00<?, ?B/s]Downloading:   1%|▏         | 6.95M/480M [00:00<00:06, 72.9MB/s]Downloading:   4%|▎         | 17.0M/480M [00:00<00:05, 92.2MB/s]Downloading:   6%|▌         | 27.6M/480M [00:00<00:04, 101MB/s] Downloading:   8%|▊         | 38.4M/480M [00:00<00:04, 106MB/s]Downloading:  10%|█         | 49.1M/480M [00:00<00:04, 108MB/s]Downloading:  12%|█▏        | 59.9M/480M [00:00<00:04, 110MB/s]Downloading:  15%|█▍        | 70.4M/480M [00:00<00:03, 110MB/s]Downloading:  17%|█▋        | 81.1M/480M [00:00<00:03, 111MB/s]Downloading:  19%|█▉        | 91.9M/480M [00:00<00:03, 111MB/s]Downloading:  21%|██▏       | 103M/480M [00:01<00:03, 110MB/s] Downloading:  24%|██▎       | 113M/480M [00:01<00:03, 109MB/s]Downloading:  26%|██▌       | 123M/480M [00:01<00:03, 109MB/s]Downloading:  28%|██▊       | 134M/480M [00:01<00:05, 67.0MB/s]Downloading:  30%|██▉       | 142M/480M [00:01<00:05, 61.1MB/s]Downloading:  31%|███▏      | 151M/480M [00:01<00:05, 68.3MB/s]Downloading:  33%|███▎      | 161M/480M [00:01<00:04, 75.0MB/s]Downloading:  35%|███▌      | 170M/480M [00:01<00:04, 80.7MB/s]Downloading:  38%|███▊      | 181M/480M [00:02<00:03, 88.7MB/s]Downloading:  40%|███▉      | 191M/480M [00:02<00:03, 94.6MB/s]Downloading:  42%|████▏     | 202M/480M [00:02<00:02, 98.9MB/s]Downloading:  44%|████▍     | 212M/480M [00:02<00:02, 102MB/s] Downloading:  46%|████▋     | 222M/480M [00:02<00:02, 104MB/s]Downloading:  48%|████▊     | 233M/480M [00:02<00:02, 106MB/s]Downloading:  51%|█████     | 244M/480M [00:02<00:02, 107MB/s]Downloading:  53%|█████▎    | 254M/480M [00:02<00:02, 108MB/s]Downloading:  55%|█████▌    | 264M/480M [00:02<00:02, 98.6MB/s]Downloading:  57%|█████▋    | 275M/480M [00:03<00:02, 102MB/s] Downloading:  59%|█████▉    | 285M/480M [00:03<00:02, 93.0MB/s]Downloading:  61%|██████    | 294M/480M [00:03<00:02, 76.5MB/s]Downloading:  63%|██████▎   | 302M/480M [00:03<00:02, 72.2MB/s]Downloading:  65%|██████▍   | 311M/480M [00:03<00:02, 77.7MB/s]Downloading:  67%|██████▋   | 320M/480M [00:03<00:02, 82.4MB/s]Downloading:  69%|██████▊   | 329M/480M [00:03<00:01, 85.8MB/s]Downloading:  71%|███████   | 339M/480M [00:03<00:01, 90.6MB/s]Downloading:  73%|███████▎  | 350M/480M [00:03<00:01, 96.4MB/s]Downloading:  75%|███████▍  | 360M/480M [00:04<00:01, 99.0MB/s]Downloading:  77%|███████▋  | 370M/480M [00:04<00:01, 100MB/s] Downloading:  79%|███████▉  | 380M/480M [00:04<00:01, 102MB/s]Downloading:  81%|████████  | 390M/480M [00:04<00:00, 104MB/s]Downloading:  83%|████████▎ | 401M/480M [00:04<00:00, 105MB/s]Downloading:  86%|████████▌ | 411M/480M [00:04<00:00, 106MB/s]Downloading:  88%|████████▊ | 421M/480M [00:04<00:00, 107MB/s]Downloading:  90%|████████▉ | 432M/480M [00:04<00:00, 103MB/s]Downloading:  92%|█████████▏| 442M/480M [00:04<00:00, 105MB/s]Downloading:  94%|█████████▍| 453M/480M [00:04<00:00, 107MB/s]Downloading:  96%|█████████▋| 463M/480M [00:05<00:00, 108MB/s]Downloading:  99%|█████████▊| 473M/480M [00:05<00:00, 108MB/s]Downloading: 100%|██████████| 480M/480M [00:05<00:00, 95.7MB/s]
+10/10/2022 01:32:08 - DEBUG - filelock -   Attempting to release lock 140202591231136 on /home/aiscuser/.cache/huggingface/transformers/e472463826d959ba1a2526157c66c6678d307297de0ac70cb20d4bc20227a3ea.cd2d780fc8b692f148ec889e56ece5a353765aa429eda28d9a89b5a1aeb735db.lock
+10/10/2022 01:32:08 - DEBUG - filelock -   Lock 140202591231136 released on /home/aiscuser/.cache/huggingface/transformers/e472463826d959ba1a2526157c66c6678d307297de0ac70cb20d4bc20227a3ea.cd2d780fc8b692f148ec889e56ece5a353765aa429eda28d9a89b5a1aeb735db.lock
+10/10/2022 01:32:10 - INFO - __main__ -   Training/evaluation parameters Namespace(code_length=256, codebase_file='dataset/CSN/ruby/codebase.jsonl', config_name='', debug=False, device=device(type='cuda'), do_F2_norm=False, do_eval=False, do_test=True, do_train=False, do_zero_shot=False, eval_batch_size=128, eval_data_file='dataset/CSN/ruby/valid.jsonl', freeze_bottom_k_layer_index=10, learning_rate=2e-05, max_grad_norm=1.0, model_name_or_path='microsoft/unixcoder-base', n_debug_samples=100, n_gpu=1, nl_length=128, num_train_epochs=10, output_dir='saved_models/code_search/unixcoder/partial_freezing/ruby/freeze_bottom_10_layers/20221009070429', save_evaluation_reuslt=True, save_evaluation_reuslt_dir='saved_models/code_search/unixcoder/partial_freezing/ruby/freeze_bottom_10_layers/20221009070429', seed=123456, test_data_file='dataset/CSN/ruby/test.jsonl', tokenizer_name='', train_batch_size=128, train_data_file='dataset/CSN/ruby/train.jsonl', weight_decay=0.01)
+10/10/2022 01:32:10 - INFO - __main__ -   +------------------------------------------------------------+--------------+---------+
+| Layer Name                                                 | Output Shape | Param # |
++------------------------------------------------------------+--------------+---------+
+| encoder.encoder.layer.10.attention.self.query.weight       |   [768, 768] |  589824 |
+| encoder.encoder.layer.10.attention.self.query.bias         |        [768] |     768 |
+| encoder.encoder.layer.10.attention.self.key.weight         |   [768, 768] |  589824 |
+| encoder.encoder.layer.10.attention.self.key.bias           |        [768] |     768 |
+| encoder.encoder.layer.10.attention.self.value.weight       |   [768, 768] |  589824 |
+| encoder.encoder.layer.10.attention.self.value.bias         |        [768] |     768 |
+| encoder.encoder.layer.10.attention.output.dense.weight     |   [768, 768] |  589824 |
+| encoder.encoder.layer.10.attention.output.dense.bias       |        [768] |     768 |
+| encoder.encoder.layer.10.attention.output.LayerNorm.weight |        [768] |     768 |
+| encoder.encoder.layer.10.attention.output.LayerNorm.bias   |        [768] |     768 |
+| encoder.encoder.layer.10.intermediate.dense.weight         |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.10.intermediate.dense.bias           |       [3072] |    3072 |
+| encoder.encoder.layer.10.output.dense.weight               |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.10.output.dense.bias                 |        [768] |     768 |
+| encoder.encoder.layer.10.output.LayerNorm.weight           |        [768] |     768 |
+| encoder.encoder.layer.10.output.LayerNorm.bias             |        [768] |     768 |
+| encoder.encoder.layer.11.attention.self.query.weight       |   [768, 768] |  589824 |
+| encoder.encoder.layer.11.attention.self.query.bias         |        [768] |     768 |
+| encoder.encoder.layer.11.attention.self.key.weight         |   [768, 768] |  589824 |
+| encoder.encoder.layer.11.attention.self.key.bias           |        [768] |     768 |
+| encoder.encoder.layer.11.attention.self.value.weight       |   [768, 768] |  589824 |
+| encoder.encoder.layer.11.attention.self.value.bias         |        [768] |     768 |
+| encoder.encoder.layer.11.attention.output.dense.weight     |   [768, 768] |  589824 |
+| encoder.encoder.layer.11.attention.output.dense.bias       |        [768] |     768 |
+| encoder.encoder.layer.11.attention.output.LayerNorm.weight |        [768] |     768 |
+| encoder.encoder.layer.11.attention.output.LayerNorm.bias   |        [768] |     768 |
+| encoder.encoder.layer.11.intermediate.dense.weight         |  [3072, 768] | 2359296 |
+| encoder.encoder.layer.11.intermediate.dense.bias           |       [3072] |    3072 |
+| encoder.encoder.layer.11.output.dense.weight               |  [768, 3072] | 2359296 |
+| encoder.encoder.layer.11.output.dense.bias                 |        [768] |     768 |
+| encoder.encoder.layer.11.output.LayerNorm.weight           |        [768] |     768 |
+| encoder.encoder.layer.11.output.LayerNorm.bias             |        [768] |     768 |
+| encoder.pooler.dense.weight                                |   [768, 768] |  589824 |
+| encoder.pooler.dense.bias                                  |        [768] |     768 |
++------------------------------------------------------------+--------------+---------+
+10/10/2022 01:32:19 - INFO - __main__ -   ***** Running evaluation *****
+10/10/2022 01:32:19 - INFO - __main__ -     Num queries = 1261
+10/10/2022 01:32:19 - INFO - __main__ -     Num codes = 4360
+10/10/2022 01:32:19 - INFO - __main__ -     Batch size = 128
+Save dataset to: saved_models/code_search/unixcoder/partial_freezing/ruby/freeze_bottom_10_layers/20221009070429/evaluation_result.pkl
+10/10/2022 01:32:27 - INFO - __main__ -   ***** Eval results *****
+10/10/2022 01:32:27 - INFO - __main__ -     R@1 = 0.627
+10/10/2022 01:32:27 - INFO - __main__ -     R@10 = 0.891
+10/10/2022 01:32:27 - INFO - __main__ -     R@5 = 0.847
+10/10/2022 01:32:27 - INFO - __main__ -     eval_mrr = 0.723
+10/10/2022 01:32:28 - INFO - utils -   saved dataset in saved_models/code_search/unixcoder/partial_freezing/ruby/freeze_bottom_10_layers/20221009070429/result.jsonl
